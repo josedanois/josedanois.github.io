@@ -6,7 +6,7 @@ cover-img:
 thumbnail-img: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f7aec4f-3975-4357-ba5c-c9d5933c6211_1280x902.jpeg
 share-img: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f7aec4f-3975-4357-ba5c-c9d5933c6211_1280x902.jpeg
 tags: [Obras de Dios]
-author: José Danois
+author: 
 ---
 Con mucha frecuencia adjudicamos una razón negativa a todo lo que nos sucede o pasa a nuestro alrededor. Los teóricos de la conspiración siempre ven en todo acontecimiento negativo una malicia provocada por agendas particulares. El pensamiento tradicional religioso por lo general dirá algo como: esto es un juicio de Dios, esto es producto del pecado.
 
