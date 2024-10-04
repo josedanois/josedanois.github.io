@@ -10,6 +10,8 @@ author: José Danois
 ---
 Con mucha frecuencia adjudicamos una razón negativa a todo lo que nos sucede o pasa a nuestro alrededor. Los teóricos de la conspiración siempre ven en todo acontecimiento negativo una malicia provocada por agendas particulares. El pensamiento tradicional religioso por lo general dirá algo como: esto es un juicio de Dios, esto es producto del pecado.
 
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f7aec4f-3975-4357-ba5c-c9d5933c6211_1280x902.jpeg)
+
 Sin embargo, a diferencia del pensamiento religioso en la época de Jesús, él no vio nada de esto en la situación de desventura del ciego. El vio la oportunidad de que las obras de Dios fueran manifestadas y por ende la Gloria de Dios.
 
 Estamos tan programados para buscar razones negativas que no podemos ver las maneras en que Dios quiere manifestar sus obras, manifestar su Gloria y a la vez enseñarnos algo.
