@@ -22,8 +22,8 @@ navbar-links:
 # About Me: "aboutme"
   Acerca de: "acercade"
 # Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  # - Beautiful Jekyll: "https://beautifuljekyll.com"
+  # - Learn markdown: "https://www.markdowntutorial.com/"
 # Author's home: "https://deanattali.com"
 
 ################
