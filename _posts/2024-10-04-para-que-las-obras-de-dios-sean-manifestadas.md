@@ -6,7 +6,7 @@ cover-img: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive
 thumbnail-img: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f7aec4f-3975-4357-ba5c-c9d5933c6211_1280x902.jpeg
 share-img: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f7aec4f-3975-4357-ba5c-c9d5933c6211_1280x902.jpeg
 tags: [Obras de Dios]
-author: 
+author: José Danois
 ---
 [](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f7aec4f-3975-4357-ba5c-c9d5933c6211_1280x902.jpeg)
 
