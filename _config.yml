@@ -286,6 +286,14 @@ defaults:
     values:
       layout: "page"
 
+     -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+      before-content: [social-networks-links]
+      footer-extra: footer-subscribe.html  
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
