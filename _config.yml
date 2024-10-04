@@ -284,15 +284,7 @@ defaults:
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
-      layout: "page"
-
-     -
-    scope:
-      path: ""
-    values:
-      layout: "page"
-      before-content: [footer.html]
-      footer-extra: footer-subscribe.html  
+      layout: "page"  
 
 # Exclude these files from production site
 exclude:
