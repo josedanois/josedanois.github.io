@@ -2,7 +2,7 @@
 layout: page
 title: Acerca de
 subtitle: No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento…
-cover-img: "/assets/img/sunset-6344387_1280.jpg" 
+cover-img: "assets/img/patrick-tomasso-5hvn-2WW6rY-unsplash.jpg" 
 ---
 ![](https://phaven-prod.s3.amazonaws.com/files/image_part/asset/3233808/XEowRmc8QUR8RgWHS7AJX6cPOp4/large_IMG-5001-modified.png)
 
