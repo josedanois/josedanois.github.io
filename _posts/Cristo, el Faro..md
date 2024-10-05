@@ -54,5 +54,9 @@ es Cristo, el Faro que guía el camino,
 
 el faro de amor que me lleva hacia Dios.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDM1ODEwNl19
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6ICdDcmlzdG8sIGVsIEZhcm
+8uJ1xuYXV0aG9yOiBKb3PDqSBEYW5vaXNcbnRhZ3M6ICdDcmlz
+dG8sIEZhcm8nXG5zdGF0dXM6IGRyYWZ0XG5kYXRlOiAyMDI0LT
+EwLTIwMjRcbiIsImhpc3RvcnkiOls4NzE2MTA5NjgsLTU3NDM1
+ODEwNl19
 -->
