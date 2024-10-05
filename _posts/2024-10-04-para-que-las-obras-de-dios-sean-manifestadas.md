@@ -54,3 +54,5 @@ En la adversidad y en los momentos negativos hay una escuela de aprendizaje y po
 Finalmente, no olvides que la mayor obra que demuestra la gloria de Dios y la manifestación de esta eres tú.
 
 Y juntamente con él nos resucitó, y asimismo nos hizo sentar en los lugares celestiales con Cristo Jesús, para mostrar en los siglos venideros las abundantes riquezas de su gracia en su bondad para con nosotros en Cristo Jesús. Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe. Porque somos hechura suya, creados en Cristo Jesús para buenas obras, las cuales Dios preparó de antemano para que anduviésemos en ellas.
+
+**[Suscríbete](https://gmail.us17.list-manage.com/subscribe?u=53faeb7d237f315e2dec613ae&id=88d051ae42)**
