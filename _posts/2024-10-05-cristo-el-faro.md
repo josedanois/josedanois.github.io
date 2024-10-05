@@ -9,7 +9,7 @@ tags: [Cristo, Faro]
 author: José Danois
 published: true
 ---
-Cristo, el Faro
+**Cristo, el Faro**
 
 --
 
