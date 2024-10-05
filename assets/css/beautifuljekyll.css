@@ -406,29 +406,6 @@ img {
 
 /* --- Footer --- */
 
-/* En tu archivo de estilos CSS */
-.suscripcion {
-    width: 50%;
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #f0f0f0; /* Opcional: Para destacar el contenedor */
-    padding: 20px;
-}
-
-@media (max-width: 768px) {
-    .suscripcion {
-        width: 100%;
-    }
-    .form-label {
-        font-size: 14px;
-    }
-    .form-input {
-        width: 100%;
-    }
-}
-
 footer {
   padding: 1.875rem 0;
   border-top: 1px var(--footer-col) solid;
