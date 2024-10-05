@@ -1,7 +1,8 @@
----
+Esta es una entrada de prueba
 
 
----
 
-<p>Esta es una entrada de prueba</p>
-
+<!--stackedit_data:
+eyJwcm9wZXJ0aWVzIjoiZGF0ZTogJzIwMjQtMTAtMDUnXG4iLC
+JoaXN0b3J5IjpbLTIxMzI3MDU3MzBdfQ==
+-->
