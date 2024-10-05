@@ -133,7 +133,7 @@ Ahora que hemos explorado cada una de las cuatro preguntas fundamentales, retroc
 
 ¿Por qué no lo intentas? Elige un capítulo de la Biblia y léelo, haciéndote las cuatro preguntas. ¿No sabes por dónde empezar? Prueba con Mateo 8. Si eres de los que toman notas, coge papel y bolígrafo, o abre un archivo para apuntar lo que aprendas de cada pregunta. Pide al Señor que te abra los ojos para ver quién es Él, quién eres tú y qué significa caminar fielmente con Él.
 
-**[Suscríbete](https://gmail.us17.list-manage.com/subscribe?u=53faeb7d237f315e2dec613ae&id=88d051ae42)**
+**[Suscríbete 📧](https://gmail.us17.list-manage.com/subscribe?u=53faeb7d237f315e2dec613ae&id=88d051ae42)**
 
 ---
 
