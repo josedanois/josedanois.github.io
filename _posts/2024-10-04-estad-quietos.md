@@ -2,7 +2,7 @@
 layout: post
 title: Estad quietos.
 subtitle: 
-cover-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8dz7uM6rGHbvcDfctMRaDG0NK7_gHE3kcyTXWOoGhkI8-LjookmS9lREqLdq8kp8cBT4ou1X911wS14bVISM8do3E5qPugIDqhZEfxzqfv2m8Dq9Kmv7-I2k2_I0q-_1NVFldzRr7zXtreY7lDhiZGMeasaids36yHJag2UAzPcsp1RdlHzEfDESQRgs/s1280/lighthouse-6521858_1280.jpg
+cover-img: 
 thumbnail-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8dz7uM6rGHbvcDfctMRaDG0NK7_gHE3kcyTXWOoGhkI8-LjookmS9lREqLdq8kp8cBT4ou1X911wS14bVISM8do3E5qPugIDqhZEfxzqfv2m8Dq9Kmv7-I2k2_I0q-_1NVFldzRr7zXtreY7lDhiZGMeasaids36yHJag2UAzPcsp1RdlHzEfDESQRgs/s1280/lighthouse-6521858_1280.jpg
 share-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8dz7uM6rGHbvcDfctMRaDG0NK7_gHE3kcyTXWOoGhkI8-LjookmS9lREqLdq8kp8cBT4ou1X911wS14bVISM8do3E5qPugIDqhZEfxzqfv2m8Dq9Kmv7-I2k2_I0q-_1NVFldzRr7zXtreY7lDhiZGMeasaids36yHJag2UAzPcsp1RdlHzEfDESQRgs/s1280/lighthouse-6521858_1280.jpg
 tags: [Quietud]
