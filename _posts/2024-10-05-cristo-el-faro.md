@@ -2,13 +2,15 @@
 layout: post
 title: Cristo, el Faro.
 subtitle: 
-cover-img: assets/img/lighthouse-168132_1280.jpg
+cover-img: 
 thumbnail-img: assets/img/lighthouse-168132_1280.jpg
 share-img: assets/img/lighthouse-168132_1280.jpg
 tags: [Cristo, Faro]
 author: José Danois
 published: true
 ---
+![](https://josedanois.github.io/assets/img/lighthouse-168132_1280.jpg)
+
 **Cristo, el Faro**
 
 --
