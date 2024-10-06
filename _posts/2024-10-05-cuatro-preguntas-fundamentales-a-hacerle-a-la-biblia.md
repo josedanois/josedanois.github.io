@@ -8,9 +8,9 @@ share-img: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive
 tags: [Biblia, Escrituras]
 author: José Danois
 ---
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07636fb5-07c4-486a-9c33-727a24f23d58_1024x1024.jpeg)
-
 Cuando se trata de estudiar y aplicar la Biblia, es esencial hacer buenas preguntas. En un sentido muy real, la calidad de las preguntas que formulamos determina lo que sacamos del texto y nuestra capacidad para aplicarlo a nuestra vida. Pero debemos asegurarnos de que hacemos las preguntas adecuadas.
+
+![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07636fb5-07c4-486a-9c33-727a24f23d58_1024x1024.jpeg)
 
 **¿Qué tipo de preguntas pretende responder la Biblia?** 
 
