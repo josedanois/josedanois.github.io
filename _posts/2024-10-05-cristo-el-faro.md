@@ -9,7 +9,8 @@ tags: [Cristo, Faro]
 author: José Danois
 published: true
 ---
-![](https://josedanois.github.io/assets/img/lighthouse-168132_1280.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8dz7uM6rGHbvcDfctMRaDG0NK7_gHE3kcyTXWOoGhkI8-LjookmS9lREqLdq8kp8cBT4ou1X911wS14bVISM8do3E5qPugIDqhZEfxzqfv2m8Dq9Kmv7-I2k2_I0q-_1NVFldzRr7zXtreY7lDhiZGMeasaids36yHJag2UAzPcsp1RdlHzEfDESQRgs/s1280/lighthouse-6521858_1280.jpg)
+
 **Cristo, el Faro**
 
 --
