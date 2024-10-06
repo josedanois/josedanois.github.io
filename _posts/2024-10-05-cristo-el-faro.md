@@ -10,7 +10,6 @@ author: José Danois
 published: true
 ---
 ![](https://josedanois.github.io/assets/img/lighthouse-168132_1280.jpg)
-
 **Cristo, el Faro**
 
 --
