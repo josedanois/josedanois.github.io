@@ -17,7 +17,7 @@ En la oscuridad de la vida errante,
 
 cuando las sombras me envuelven sin fin,
 
-brilla constante un Faro en la noche,
+brilla en la noche constante un Faro,
 
 es Cristo, mi guía, mi norte, mi Rey.
 
