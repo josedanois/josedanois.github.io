@@ -2,12 +2,14 @@
 layout: post
 title: Más allá de lo que expresamos con nuestros labios.
 subtitle: Más la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad;
-cover-img: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c8bd752-37c5-4c5d-a56f-2b00dfa18e30_1920x1080.png
+cover-img: 
 thumbnail-img: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c8bd752-37c5-4c5d-a56f-2b00dfa18e30_1920x1080.png
 share-img: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c8bd752-37c5-4c5d-a56f-2b00dfa18e30_1920x1080.png
 tags: [Adoración, Obediencia]
 author: José Danois
 ---
+![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c8bd752-37c5-4c5d-a56f-2b00dfa18e30_1920x1080.png)
+
 Hoy en día nos hemos especializado en la adoración. Nos preocupa como ser mejores adoradores o como llevar una “buena” adoración en el servicio de la Iglesia. Incluso, existen libros y cursos sobre Adoración. Todo esto responde al contexto de la experiencia cúltica o congregacional. Es decir, cuando los creyentes se reúnen en sus congregaciones locales o en algún evento para adorar. De ahí el surgimiento de tantos ministerios de adoración en nuestras iglesias con sus respectivas liturgias.
 
 No cabe duda que esto ha estimulado la excelencia musical, la integridad de las canciones y una adoración Cristo céntrica. Todo esto está muy bien. De hecho, de alguna manera estamos emulando al salmista David, quien muchos siglos antes llevó la adoración a nuevos niveles en la experiencia cultica. La llevó del ritual a la expresión del corazón por medio de salmos, cánticos y alabanzas. Una expresión de gozo e incluso profética. Él estableció y organizó la adoración como ministerio en lo que se conoció como el Tabernáculo de David, que posteriormente sería el modelo a seguir en el templo de Salomón. David fue un adorador que se preocupó por llevar la adoración a otro nivel.
