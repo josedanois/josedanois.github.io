@@ -10,9 +10,9 @@ author: José Danois
 ---
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqgBLGBs0SwLG-AVcA1UsW9ytRf0GsQUmfyuBqtNXdsZ8AqSzYCQ_qYOTgOv0WA59L4YcsXZ4e2C9DgsC0Og5AQcdIpA8eoSKtMHNLX9uw9xQgs8CrtGjuhujN6TgDItlsWAu6z3PICIzf0iRHgBcf7Fp30QxiC2z3u-klxqT8qsTrPElWpbz08Pxtx5M/w640-h480/aaron-burden-G6G93jtU1vE-unsplash.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqgBLGBs0SwLG-AVcA1UsW9ytRf0GsQUmfyuBqtNXdsZ8AqSzYCQ_qYOTgOv0WA59L4YcsXZ4e2C9DgsC0Og5AQcdIpA8eoSKtMHNLX9uw9xQgs8CrtGjuhujN6TgDItlsWAu6z3PICIzf0iRHgBcf7Fp30QxiC2z3u-klxqT8qsTrPElWpbz08Pxtx5M/s4592/aaron-burden-G6G93jtU1vE-unsplash.jpg){: .mx-auto.d-block :}
 
-Un Dios que habla
+**Un Dios que habla**
 
-Imagine un mundo en el que Dios guarda silencio y las grandes preguntas de la vida quedan sin respuesta..
+Imagine un mundo en el que Dios guarda silencio y las grandes preguntas de la vida quedan sin respuesta.
 
 ¿Por qué estamos aquí? ¿Hay algún diseño o significado para este mundo? ¿Tiene mi vida un propósito? ¿Cómo puedo entender un mundo lleno de tanta belleza y al mismo tiempo de tanto horror? ¿Cómo puedo empezar a lidiar con la culpa y la vergüenza de mis fracasos y relaciones rotas? ¿Cómo navego por fuerzas espirituales invisibles para que la vida me vaya bien? Cuando me pasa algo bueno ¿a quién le doy las gracias? Cuando realmente necesito un cambio de fortuna o la liberación de mis problemas, ¿a quién rezo? ¿Qué pasará cuando muera? ¿Hay alguna esperanza para mí después de que mi vida no sea más que un recuerdo lejano??
 
@@ -20,7 +20,7 @@ Silencio.
 
 Pero alabado sea Dios, él no guarda silencio y no nos ha dejado solos. Él se ha revelado a lo largo de la historia a su pueblo y gentilmente se ha dado a conocer a nosotros..
 
-Dios es un Dios relacional
+**Dios es un Dios relacional**
 
 Dios se revela a su pueblo como parte de su relación amorosa y de pacto con ellos. En el Antiguo Testamento, el pueblo de Israel recibió la revelación de Dios dentro de la relación generosa y fiel que él forjó con ellos a través de sus pactos con Abraham, Moisés y David. Dios se reveló a Israel como “misericordioso y clemente, lento para la ira y lleno de misericordia y fidelidad”.” ([éxodo 34:6](https://www.biblegateway.com/passage/?search=Exodus%2034:6&version=ESV&src=tools), ESV). Proclamó las bendiciones prometidas a los israelitas y les dio su ley, sabiduría y palabras proféticas..
 
@@ -28,7 +28,7 @@ En el Nuevo Testamento, la revelación de Dios culmina en su Hijo, Jesús, como 
 
 La Biblia está escrita con el Padre, el Hijo y el Espíritu en el centro de la historia general y de los pasajes individuales. En el influyente libro de Gordon Fee y Douglas Stuart Cómo leer la Biblia con todo su valor, los autores nos recuerdan: “En cualquier narrativa bíblica, Dios es el personaje supremo, el héroe supremo de la historia. . . . Perder esta dimensión de la narrativa es perder por completo la perspectiva de la narrativa” (página 98). Cuando nuestra atención se centra en el amor, el poder, la justicia y la sabiduría de Dios a lo largo de la historia bíblica, se cultiva una gran visión de la grandeza y la belleza de Dios, lo que alimenta nuestra relación con él..
 
-Dios se revela verazmente en las Escrituras
+**Dios se revela verazmente en las Escrituras**
 
 La Biblia es la revelación que Dios hace de su corazón, sus acciones salvadoras y sus planes para nosotros y para este mundo. La Biblia no es simplemente un registro de pensamientos acerca de Dios. Dios nos habla a través de los profetas y apóstoles que escribieron los libros de la Biblia. El carácter digno de confianza de Dios da testimonio del valor de su revelación. Y a lo largo de la Biblia, Dios nos recuerda su veracidad y confiabilidad. ([2 samuel 7:28](https://www.biblegateway.com/passage/?search=2%20Samuel%207:28&version=NIV&src=tools); [Salmo 119:160](https://www.biblegateway.com/passage/?search=Psalm%20119:160&version=NIV&src=tools); [John 17:17](https://www.biblegateway.com/passage/?search=John%2017:17&version=NIV&src=tools); [Tito 1:2](https://www.biblegateway.com/passage/?search=Titus%201:2&version=NIV&src=tools); [Hebreos 6:18](https://www.biblegateway.com/passage/?search=Hebrews%206:18&version=NIV&src=tools)). En las Escrituras Dios revela por su Espíritu todo lo que necesitamos saber para tener una relación salvadora con Dios a través de Jesucristo. ([2 Timoteo 3:15](https://www.biblegateway.com/passage/?search=2%20Timothy%203:15&version=NIV&src=tools); [2 Pedro 1:3](https://www.biblegateway.com/passage/?search=2%20Peter%201:3&version=NIV&src=tools)).
 
@@ -46,11 +46,11 @@ La revelación de Dios de sí mismo continúa con Jesús, quien fue ungido por e
 
 Jesús prometió que el Espíritu Santo permitiría a los apóstoles ser testigos fieles después de su crucifixión, resurrección y ascensión. ([John 14:26](https://www.biblegateway.com/passage/?search=John%2014:26&version=NIV&src=tools); [16:13](https://www.biblegateway.com/passage/?search=John%2016:13&version=NIV&src=tools)). Los apóstoles y otros testigos presenciales de Jesús cumplieron este llamado en sus ministerios de predicación y en los relatos escritos y cartas que se encuentran en el Nuevo Testamento. ([1 John 1:1-3](https://www.biblegateway.com/passage/?search=1%20John%201:1-3&version=NIV&src=tools), [2 Pedro 3:2](https://www.biblegateway.com/passage/?search=2%C2%A0Peter%203:2&version=NIV&src=tools)). Incluso al final, en el Apocalipsis, el Espíritu revela el conocimiento visionario que Juan recibe y registra. ([Revelación 1:10](https://www.biblegateway.com/passage/?search=Revelation%201:10&version=NIV&src=tools); [2:7](https://www.biblegateway.com/passage/?search=Revelation%202:7&version=NIV&src=tools); [4:2](https://www.biblegateway.com/passage/?search=Revelation%204:2&version=NIV&src=tools); etc..).
 
-Dios habla con un propósito.
+**Dios habla con un propósito.**
 
 Dios no desperdicia sus palabras, sino que habla para cumplir su propósito en nuestras vidas. En [Isaías 55:10-11](https://www.biblegateway.com/passage/?search=Isaiah%2055:10-11&version=ESV&src=tools) Dios dice: “Porque como la lluvia y la nieve descienden del cielo y no vuelven allí, sino que riegan la tierra, haciéndola producir y germinar, dando semilla al que siembra y pan al que come, así será mi palabra que va fuera de mi boca; no volverá a mí vacía, sino que realizará lo que yo me propongo, y tendrá éxito en aquello para lo que la envié” (NVI). Las palabras de Dios que están registradas en la Biblia tienen el poder de fortalecer y nutrir la relación que Dios desea con nosotros. El Espíritu Santo de Dios, que habló por medio de los profetas y apóstoles. ([2 Pedro 1:20-21](https://www.biblegateway.com/passage/?search=2%20Peter%201:20-21&version=NIV&src=tools); [Juan 14:26](https://www.biblegateway.com/passage/?search=John%2014:26&version=NIV&src=tools)), es el mismo Espíritu que hace eficaz su mensaje en nuestras vidas ([1 corintios 2:14](https://www.biblegateway.com/passage/?search=1%20Corinthians%202:14&version=NIV&src=tools); ver también [2 Timoteo 2:7](https://www.biblegateway.com/passage/?search=2%20Timothy%202:7&version=NIV&src=tools)).
 
-Compromiso con la revelación y las Escrituras
+**Compromiso con la revelación y las Escrituras**
 
 Dios quiere que experimentemos un cambio de vida cuando escuchemos sus palabras, que seamos tierra fértil de [Marca 4:1-9](https://www.biblegateway.com/passage/?search=Mark%204:1-9&version=NIV&src=tools), los sabios constructores de [Mateo 7:24-27](https://www.biblegateway.com/passage/?search=Matthew%207:24-27&version=NIV&src=tools), los observadores que se miran en los espejos de [Jaime 1:22-25](https://www.biblegateway.com/passage/?search=James%201:22-25&version=NIV&src=tools), o las multitudes emocionalmente receptivas de [Nehemías 8:8-12](https://www.biblegateway.com/passage/?search=Nehemiah%208:8-12&version=NIV&src=tools). Leer y estudiar la Biblia puede ser una práctica transformadora y enriquecedora, ya que el Espíritu implanta la verdad de Dios en nuestros corazones según el diseño de Dios para nuestras vidas. Cuando leemos las Escrituras con miras a acercarnos a Dios, esa relación prospera y el propósito final de la revelación de Dios se cumple..
 
