@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-subtitle: 
+subtitle: Cómo encontrar el mensaje central de la historia.
 cover-img: 
 thumbnail-img: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5736548d-1f21-43ed-a891-5a9f040139e9_1920x1441.jpeg
 share-img: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5736548d-1f21-43ed-a891-5a9f040139e9_1920x1441.jpeg
