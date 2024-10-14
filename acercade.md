@@ -22,6 +22,6 @@ Enviando un [**Email**](mailto:josedanois@gmail.com).
 
 # Apoyo:
 
-Si el contenido de esta página te parece útil y quieres animarnos a seguir haciendo un mejor trabajo puedes dejar una propina [**Aquí**](https://www.paypal.com/donate/?hosted_button_id=58Z46JV9G6MQL) 
+Si el contenido de esta página te parece útil y quieres animarnos a seguir haciendo un mejor trabajo puedes dejar una propina [**Aquí**](https://www.paypal.com/donate/?hosted_button_id=58Z46JV9G6MQL).
 
 Espero disfrutes el contenido.
