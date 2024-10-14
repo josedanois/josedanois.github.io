@@ -22,6 +22,7 @@ navbar-links:
 # About Me: "aboutme"
   Blog: "/"
   Acerca de: "acercade"
+  Diario: "https://notas.posthaven.com"
   Suscribir: "https://dashboard.mailerlite.com/forms/1135963/134645432332584293/share"
   Archivo: "https://josedanois.github.io/tags/"
 # Resources:
