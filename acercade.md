@@ -6,7 +6,7 @@ cover-img: "assets/img/patrick-tomasso-5hvn-2WW6rY-unsplash.jpg"
 ---
 ![](https://phaven-prod.s3.amazonaws.com/files/image_part/asset/3233808/XEowRmc8QUR8RgWHS7AJX6cPOp4/large_IMG-5001-modified.png)
 
-Bienvenidos a mi página personal donde comparto mis pensamiento y reflexiones.
+Bienvenidos a mi página personal donde comparto pensamiento y reflexiones sobre la fe, la Biblia y cosas que me interesan.
 
 Por la gracia de Dios soy ministro del evangelio. Junto a mi esposa pastoreamos una [Iglesia en el pueblo de Humacao PR](https://href.li/?https://www.facebook.com/leondejudahumacao). Allí compartimos el evangelio de la gracia de Dios.
 
@@ -20,4 +20,8 @@ Por la gracia de Dios soy ministro del evangelio. Junto a mi esposa pastoreamos 
 
 Enviando un [**Email**](mailto:josedanois@gmail.com).
 
-Espero disfrutes el contenido de esta página.
+# Apoyo:
+
+Si el contenido de esta página te parece útil y quieres animarnos a seguir haciendo un mejor trabajo puedes dejar una propina [**Aquí**](https://www.paypal.com/donate/?hosted_button_id=58Z46JV9G6MQL) 
+
+Espero disfrutes el contenido.
