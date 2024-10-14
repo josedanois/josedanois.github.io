@@ -96,8 +96,8 @@ rss-description: Notas sobre la Fe, la Biblia y la Vida Diaria.
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: false
   vk: false
 
