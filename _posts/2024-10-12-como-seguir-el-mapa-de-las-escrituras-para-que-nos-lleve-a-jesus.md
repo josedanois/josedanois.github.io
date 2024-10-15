@@ -8,7 +8,6 @@ share-img: (https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressiv
 tags: [Teología Bíblica, Escrituras, Biblia]
 author: José Danois
 ---
-
 [](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4499e4a-c3d2-48e9-b8dd-364ec5c3441c_1920x1441.jpeg)
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4499e4a-c3d2-48e9-b8dd-364ec5c3441c_1920x1441.jpeg)
