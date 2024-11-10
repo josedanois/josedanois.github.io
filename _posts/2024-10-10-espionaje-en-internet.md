@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Espionaje en internet
-image: 
+image: /images/Captura de pantalla 2024-11-09 220258.png
 author: José Danois
 categories: 
 published: true
@@ -87,8 +87,8 @@ Aquí hay varias formas de ayudar a evitar o limitar la información que se reco
     
 En la mayoría de los navegadores, puede ajustar su configuración de privacidad. Use un navegador web orientado a la privacidad y habilite el bloqueo del rastreador si está disponible. Algunos pueden permitirle ver qué sitios web han estado tratando de rastrearlo. Evite usar navegadores que supervisen activamente lo que está haciendo y qué sitios web mira.
 
-![Captura de pantalla 2024-10-10 125023.png](/images/Captura de pantalla 2024-10-10 125023.png)
-    
+![](/images/Captura de pantalla 2024-11-09 220258.png)
+   
 Con teléfonos y otros dispositivos móviles: apague los servicios de ubicación, Bluetooth (que se puede usar para rastrear dispositivos) y otra recopilación de información cuando sea innecesario y no esté en uso. Deshabilite el intercambio de información con el proveedor de teléfonos. Además, desactive todos los permisos no deseados para todas las aplicaciones.
     
 Con dispositivos inteligentes como televisores, lavadoras, refrigeradores, etc. Disminuya las aplicaciones y servicios que no desea seguirle.
