@@ -7,10 +7,16 @@ published: true
 
 Este es un blog personal de José Danois. 
 
-No esperes encontrar una temática determinada. Aquí comparto cosas en las que pienso y cosas que me parecen interesantes. 
+En este espacio comparto cosas en las que pienso y cosas que me parecen interesantes. 
 
 Si encuentras aquí algo que llame tu atención, comenta y únete a la conversación.
 
 Gracias por tu visita.
 
-[E-Mail ✉ ](mailto:danoisnotes@gmail.com)
+### Contacto
+
+- [E-Mail ✉ ](mailto:danoisnotes@gmail.com)
+
+- [Chat 🗣️](https://mail.google.com/chat/u/0/#chat/space/AAAAFsRAXdc)
+
+- [Hubzilla](https://zotum.net/channel/jdanois)
