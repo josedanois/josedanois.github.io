@@ -5,17 +5,18 @@ permalink: /acerca-de/
 published: true
 ---
 
-Este es un blog personal de José Danois. 
+---
+[![profile2-pic](https://bear-images.sfo2.cdn.digitaloceanspaces.com/josedanois/profile-pic-21.webp)](https://danoisblog.posthaven.com)
 
-En este espacio comparto cosas en las que pienso y cosas que me parecen interesantes. 
+[_José Danois_](https://danoisblog.posthaven.com)
 
-Si encuentras aquí algo que llame tu atención, comenta y únete a la conversación.
+*> No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento...*
 
-Gracias por tu visita.
+Hola, bienvenidos a mi página personal. Este es mi espacio donde comparto acerca de la Fe, la Biblia, la Tecnología. En fin las cosas que me interesan e inspiran.
 
 ### Contacto
 
-- [E-Mail ✉ ](mailto:danoisnotes@gmail.com)
+- [E-Mail ✉ ](mailto:danoisblog@gmail.com)
 
 - [Chat 🗣️](https://mail.google.com/chat/u/0/#chat/space/AAAAFsRAXdc)
 
