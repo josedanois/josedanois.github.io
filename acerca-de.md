@@ -10,7 +10,7 @@ published: true
 
 [_José Danois_](https://danoisblog.posthaven.com)
 
-*> No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento...*
+>*No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento...*
 
 Hola, bienvenidos a mi página personal. Este es mi espacio donde comparto acerca de la Fe, la Biblia, la Tecnología. En fin las cosas que me interesan e inspiran.
 
