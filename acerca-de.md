@@ -6,13 +6,13 @@ published: true
 ---
 
 ---
-[![profile2-pic](https://bear-images.sfo2.cdn.digitaloceanspaces.com/josedanois/profile-pic-21.webp)](https://danoisblog.posthaven.com)
+[![profile2-pic](https://bear-images.sfo2.cdn.digitaloceanspaces.com/josedanois/profile-pic-21.webp)]
 
 [_José Danois_](https://danoisblog.posthaven.com)
 
->*No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento...*
+>*Compartiendo y creciendo en la gracia de Dios...*
 
-Hola, bienvenidos a mi página personal. Este es mi espacio donde comparto acerca de la Fe, la Biblia, la Tecnología. En fin las cosas que me interesan e inspiran.
+Hola, bienvenidos a mi página personal. Este es mi espacio donde comparto acerca de la Fe, la Biblia y el Diario. En fin, las cosas que me interesan e inspiran.
 
 ### Contacto
 
@@ -20,4 +20,4 @@ Hola, bienvenidos a mi página personal. Este es mi espacio donde comparto acerc
 
 - [Chat 🗣️](https://mail.google.com/chat/u/0/#chat/space/AAAAFsRAXdc)
 
-- [Hubzilla](https://zotum.net/channel/jdanois)
+
