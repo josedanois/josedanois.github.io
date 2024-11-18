@@ -6,9 +6,9 @@ published: true
 ---
 
 ---
-[![profile2-pic](https://bear-images.sfo2.cdn.digitaloceanspaces.com/josedanois/profile-pic-21.webp)]
+![profile2-pic](https://bear-images.sfo2.cdn.digitaloceanspaces.com/josedanois/profile-pic-21.webp)
 
-[_José Danois_](https://danoisblog.posthaven.com)
+_José Danois_
 
 >*Compartiendo y creciendo en la gracia de Dios...*
 
