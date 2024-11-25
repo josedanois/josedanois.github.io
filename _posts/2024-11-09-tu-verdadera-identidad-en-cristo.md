@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Tu verdadera identidad en Cristo
-image: /images/jesus-4517245_1280.jpg
+image: /images/_1a27837b-ddad-44c6-a5a9-3229547a8849.jpg
 author: José Danois
 categories: 
 published: true
 ---
 
- ![](/images/jesus-4517245_1280.jpg)
+![](/images/_1a27837b-ddad-44c6-a5a9-3229547a8849.jpg)
 
 Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.  
   
