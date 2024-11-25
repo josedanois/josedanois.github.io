@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Vivir de toda palabra que sale de su boca
-image: /images/_1a27837b-ddad-44c6-a5a9-3229547a8849.jpg
+image: /images/aaron-burden-G6G93jtU1vE-unsplash.jpg
 author: José Danois
 categories: 
 published: true
 ---
-![](/images/_1a27837b-ddad-44c6-a5a9-3229547a8849.jpg)
+![Biblia](/images/aaron-burden-G6G93jtU1vE-unsplash.jpg) 
 
 > Jesús respondió: Escrito está: “No sólo de pan vive el hombre, sino de toda palabra que sale de la boca de Dios”. Mateo 4:4
 
