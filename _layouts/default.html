@@ -50,6 +50,37 @@
       {{ content }}
     </div>
 
+
+
+<div id="graphcomment-widget"></div>
+
+<script src="https://graphcomment.com/js/widget.js"></script>
+
+<script>
+graphcommentWidget(document.getElementById('graphcomment-widget'), {
+  "graphcomment_id": "danoisblog",
+  "defaultTab": "last_comments",
+  "tabs": [
+    "last_comments",
+    "top_comments",
+    "top_threads"
+  ],
+  "labels": {
+    "last_comments": "",
+    "top_comments": "",
+    "top_threads": ""
+  },
+  "period": "90 days",
+  "limit": 25,
+  "height": null,
+  "openLinksNewWindow": true,
+  "showVotes": true,
+  "locale": "es"
+});
+</script>
+    
+
+    
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
