@@ -12,12 +12,10 @@ _José Danois_
 
 >*Compartiendo y creciendo en la gracia de Dios...*
 
-Hola, bienvenidos a mi página personal. Este es mi espacio donde comparto acerca de la Fe, la Biblia y el Diario. En fin, las cosas que me interesan e inspiran.
+Hola, bienvenidos a mi página personal. Un espacio donde comparto acerca de la Fe, el Crecimiento Espiritual y el Diario. En fin, una poco de las cosas que me inspiran e interesan.
 
 ### Contacto
 
 - [E-Mail ✉ ](mailto:danoisblog@gmail.com)
 
-- [Chat 🗣️](https://mail.google.com/chat/u/0/#chat/space/AAAAFsRAXdc)
-
-
+- [Chat 🗣️](https://chat.google.com/room/AAAAFsRAXdc?cls=7)
