@@ -6,6 +6,7 @@ author: José Danois
 categories: 
 published: true
 ---
+![Biblia](/images/aaron-burden-G6G93jtU1vE-unsplash.jpg) 
 
 > Jesús respondió: Escrito está: “No sólo de pan vive el hombre, sino de toda palabra que sale de la boca de Dios”. Mateo 4:4
 
@@ -16,8 +17,6 @@ Sin embargo, no es lo único que necesitamos. Hay cosas que no pueden resolverse
 Cuando Jesús le contesta al diablo, cita Deuteronomio 8:3 donde Dios le dice a Israel:
 
 “Te humilló y te hizo pasar hambre, pero luego te alimentó con maná, comida que ni tú ni tus antepasados habían conocido, con lo que te enseñó que no solo de pan vive el hombre, sino de todo lo que sale de la boca del Señor.”
-
-![Biblia](/images/aaron-burden-G6G93jtU1vE-unsplash.jpg) 
 
 **Reflexiona en lo siguiente:**
 
