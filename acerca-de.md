@@ -10,7 +10,7 @@ published: true
 
 _José Danois_
 
->*Compartiendo y creciendo en la gracia de Dios...*
+>*Creciendo en la gracia y el conocimiento de Dios...*
 
 Hola, bienvenidos a mi página personal. Un espacio donde comparto acerca de la Fe, el Crecimiento Espiritual y el Diario. En fin, una poco de las cosas que me inspiran e interesan.
 
