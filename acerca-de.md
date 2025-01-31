@@ -25,3 +25,7 @@ Te invito a que te unas a la conversación dejando tus comenarios en los artícu
 ### Enlaces
 
 - [YouTube ](https://www.youtube.com/@leondejudahumacao)
+
+### Apoyo
+
+Si te parece interesante el contenido de este blog y de alguna forma haz sido edificado y bendecido te invitamos a que nos apoyes mediante un donativo o propina. Para hacerlo ve a nuestra página de [Paypal](https://www.paypal.com/donate?hosted_button_id=N6EF4CUBXF3BY). Agradecemos tu colaboración y simpatía.
