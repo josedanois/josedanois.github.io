@@ -6,7 +6,7 @@ published: true
 ---
 
 ---
-![profile2-pic](https://bear-images.sfo2.cdn.digitaloceanspaces.com/josedanois/profile-pic-21.webp)
+![profile-pic](/images/IMG-5001-modified.png)
 
 _José Danois_
 
