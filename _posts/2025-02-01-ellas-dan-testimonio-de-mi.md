@@ -110,4 +110,5 @@ Encontrémonos con Cristo en la Escritura. Cuando esto ocurre habrá un incremen
 Vallamos a la Escritura con hambre de Cristo y pidámosle al Espíritu Santo: revélame más a Cristo.
 
 No leamos la Biblia para encontrar algo, sino para encontrar alguien. Aquel que se quiere revelar, aquel que quiere darnos vida, Cristo Jesús.
+
 [^1]: El verbo escudriñad, que es como se usa en la Reina Valera 60, tiene dos opciones: o imperativo (escudriñad) o indicativo (escudriñáis). En el gr. las dos formas se escriben igual y el contexto normalmente determina cuál corresponde. Aquí el contexto sugiere el modo indicativo.
