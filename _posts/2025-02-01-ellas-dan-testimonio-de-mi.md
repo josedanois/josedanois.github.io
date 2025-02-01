@@ -65,7 +65,7 @@ Por lo general, este versículo se utiliza para enfatizar la necesidad de escudr
 
 > Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia, 17 a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra. 2 Timoteo 3:16–17 RVR60
 
-Sin embargo, aquí Jesús no está dando una orden,[^1]más bien está indicando un hecho. Jesús se está refiriendo al hecho de cómo y para que ellos estudiaban las Escrituras. Jesús no les recrimina el que escudriñen las Escrituras. Ellos eran grandes estudiosos de la Torah.
+Sin embargo, aquí Jesús no está dando una orden,[^1] más bien está indicando un hecho. Jesús se está refiriendo al hecho de cómo y para que ellos estudiaban las Escrituras. Jesús no les recrimina el que escudriñen las Escrituras. Ellos eran grandes estudiosos de la Torah.
 
 Pero Jesús les señala que, aunque estudiaban con diligencia las Escrituras, no podían ver a quién señalaban las Escrituras, esto es, a Cristo. Ellos entendían que en las Escrituras encontrarían la vida eterna, pero no podían ver al que daba la vida eterna. El estudio de las Escrituras para ellos se había convertido en su fin y no el medio para llegar al fin. Se aferraron a la letra y a sus interpretaciones. Pusieron un velo en sus ojos para no ver a quién señalaban las Escrituras.
 
@@ -110,5 +110,7 @@ Encontrémonos con Cristo en la Escritura. Cuando esto ocurre habrá un incremen
 Vallamos a la Escritura con hambre de Cristo y pidámosle al Espíritu Santo: revélame más a Cristo.
 
 No leamos la Biblia para encontrar algo, sino para encontrar alguien. Aquel que se quiere revelar, aquel que quiere darnos vida, Cristo Jesús.
+
+---
 
 [^1]: El verbo escudriñad, que es como se usa en la Reina Valera 60, tiene dos opciones: o imperativo (escudriñad) o indicativo (escudriñáis). En el gr. las dos formas se escriben igual y el contexto normalmente determina cuál corresponde. Aquí el contexto sugiere el modo indicativo.
