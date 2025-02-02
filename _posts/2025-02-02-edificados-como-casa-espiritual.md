@@ -7,7 +7,7 @@ categories:
 published: true
 ---
 ![Templo](/images/templo.jpg)
-**Acercándoos a él, piedra viva, desechada ciertamente por los hombres, mas para Dios escogida y preciosa, vosotros también, como piedras vivas, sed edificados como casa espiritual y sacerdocio santo, para ofrecer sacrificios espirituales aceptables a Dios por medio de Jesucristo. 1 Pedro 2:4–5**
+>**Acercándoos a él, piedra viva, desechada ciertamente por los hombres, mas para Dios escogida y preciosa, vosotros también, como piedras vivas, sed edificados como casa espiritual y sacerdocio santo, para ofrecer sacrificios espirituales aceptables a Dios por medio de Jesucristo. 1 Pedro 2:4–5**
 
 Hay una poderosa verdad que encontramos en la Palabra de Dios. Es un llamado, una invitación a acercarnos a Cristo, la “Piedra viva”, y a ser edificados como una “casa espiritual y sacerdocio santo”. Esta es una verdad que no solo nos fortalece en tiempos de prueba, sino que nos da una visión clara de quiénes somos en Cristo y cuál es nuestro propósito en este mundo.
 
