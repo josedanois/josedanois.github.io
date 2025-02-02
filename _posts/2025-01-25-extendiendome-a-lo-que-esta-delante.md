@@ -7,7 +7,7 @@ categories:
 published: true
 ---
 ![Carretera](/images/carretera.jpg)
-*Yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante, prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús. Filipenses 3:13-14*
+>*Yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante, prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús. Filipenses 3:13-14*
 
 El apóstol Pablo, en su carta a los Filipenses, presenta un mensaje poderoso  sobre la perseverancia y el crecimiento en la vida cristiana. A pesar de sus grandes logros y su profundo conocimiento de Cristo, Pablo reconoce que aún no ha alcanzado la meta. Pero, ¿cuál es esta meta que Pablo persigue con tanto fervor? Es el pleno conocimiento de Cristo, el experimentar el poder de su resurrección, y el vivir una vida que refleje su propósito. Como él mismo lo declara en Filipenses 3:12, no es que haya logrado todo, pero sigo adelante, luchando por alcanzar aquello para lo cual fue alcanzado por Cristo Jesús.
 
