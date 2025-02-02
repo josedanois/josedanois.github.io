@@ -7,7 +7,6 @@ categories:
 published: true
 ---
 ![](/images/jesus-4517245_1280.jpg)
-
 Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
 
 -   **Romanos 3:24**  Somos justificados (declarados "no culpables" de pecado).
