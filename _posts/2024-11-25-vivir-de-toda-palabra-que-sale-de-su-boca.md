@@ -7,7 +7,6 @@ categories:
 published: true
 ---
 ![Biblia](/images/aaron-burden-G6G93jtU1vE-unsplash.jpg) 
-
 > Jesús respondió: Escrito está: “No sólo de pan vive el hombre, sino de toda palabra que sale de la boca de Dios”. Mateo 4:4
 
 Nadie puede negar que el pan (y lo que este representa) es necesario para la subsistencia humana.
