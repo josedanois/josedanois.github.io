@@ -7,7 +7,6 @@ categories:
 published: true
 ---
 ![Miedo](/images/No-tengas-miedo.jpg)
-
 Al final de cada año, es natural mirar hacia atrás y reflexionar sobre lo que hemos vivido. Para muchos, este tiempo de reflexión puede estar lleno de emociones mezcladas: alegría por los logros alcanzados, tristeza por las pérdidas sufridas y, tal vez, ansiedad por lo que depara el futuro.
 
 Si este es tu caso, quiero compartir contigo un mensaje de fe y esperanza que te alentará y fortalecerá. En el libro de Isaías capítulo 37, encontramos una historia poderosa que nos recuerda que, incluso en los momentos más oscuros, **Dios está con nosotros y nos da la victoria**.
