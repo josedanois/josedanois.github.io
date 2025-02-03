@@ -39,6 +39,6 @@ La epístola a los Gálatas nos recuerda que la salvación no se gana, se recibe
 
 **Al aferrarnos a esta verdad, somos liberados de la necesidad de probarnos a nosotros mismos**. Ya no buscamos la validación en cosas externas, sino que encontramos nuestra identidad y nuestro propósito en Cristo.
 
-Porque nosotros somos la circuncisión, los que en espíritu servimos a Dios y nos gloriamos en Cristo Jesús, no teniendo confianza en la carne. Filipenses 3:3
+>Porque nosotros somos la circuncisión, los que en espíritu servimos a Dios y nos gloriamos en Cristo Jesús, no teniendo confianza en la carne. Filipenses 3:3
 
 
