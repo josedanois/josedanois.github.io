@@ -6,7 +6,7 @@ author: José Danois
 categories: 
 published: true
 ---
-![Agradar a Dios](images/agradandoadios.jpg)
+![Agradar a Dios](/images/agradandoadios.jpg)
 El deseo de cada creyente en Cristo debería ser agradar a Dios. Si hemos sido objeto de su amor y de su gracia lo menos que podemos hacer es vivir para agradarle.
 
 No obstante, surgen las siguientes preguntas: ¿Qué es agradar a Dios? y ¿Como agrado a Dios?
