@@ -12,9 +12,9 @@ _José Danois_
 
 >*Creciendo en la gracia y el conocimiento de Dios...*
 
-Hola, bienvenidos a mi página personal. Un espacio donde comparto acerca de la Fe, el Crecimiento Espiritual y el Diario. En fin, una poco de las cosas que me inspiran e interesan.
+Hola, bienvenidos a mi página personal. Un espacio donde comparto acerca de la Fe, Crecimiento Espiritual y el Diario Vivir. En fin, un repositorio de mis pensamientos y de las que me inspiran e interesan.
 
-Te invito a que te unas a la conversación dejando tus comenarios en los artículos o en nuestro [Chat](https://chat.google.com/room/AAAAW_RiRgM?cls=7).
+Te invito a que te unas a la conversación dejando tus comentarios en los artículos o en nuestro [Chat](https://chat.google.com/room/AAAAW_RiRgM?cls=7).
 
 
 ### Contacto
