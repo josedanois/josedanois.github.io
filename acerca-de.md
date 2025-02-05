@@ -19,11 +19,7 @@ Te invito a que te unas a la conversación dejando tus comentarios en los artíc
 
 ### Contacto
 
-- [E-Mail ✉ ](mailto:josedanois@gmail.com)
-
-- <a href="mailto:josedanois@gmail.com" target="_blank">E-Mail 📧</a>
-
-- [Chat 🗣️](https://chat.google.com/room/AAAAW_RiRgM?cls=7)
+- <a href="mailto:josedanois@gmail.com" target="_blank">E-Mail ✉️</a>
 
 - <a href="https://chat.google.com/room/AAAAW_RiRgM?cls=7" target="_blank">Chat 🗣️</a>
 
@@ -33,4 +29,4 @@ Te invito a que te unas a la conversación dejando tus comentarios en los artíc
 
 ### Apoyo
 
-Si te parece interesante el contenido de este blog y de alguna forma haz sido edificado y bendecido te invitamos a que nos apoyes mediante un donativo o propina. Para hacerlo ve a nuestra página de [Paypal](https://www.paypal.com/donate?hosted_button_id=N6EF4CUBXF3BY). Agradecemos tu colaboración y simpatía.
+Si te parece interesante el contenido de este blog y de alguna forma haz sido edificado o bendecido te invito a que me apoyes mediante un donativo o propina. Para hacerlo puedes ir a mi página de <a href="https://www.paypal.com/donate?hosted_button_id=N6EF4CUBXF3BY" target="_blank">Paypal</a>. Agradezco tu colaboración y simpatía.
