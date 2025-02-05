@@ -26,6 +26,8 @@ Te invito a que te unas a la conversación dejando tus comentarios en los artíc
 ### Enlaces
 
 - [YouTube ](https://www.youtube.com/@jdanois)
+  
+- <a href="https://www.youtube.com/@jdanois" target="_blank">YouTube</a>
 
 ### Apoyo
 
