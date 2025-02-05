@@ -21,11 +21,13 @@ Te invito a que te unas a la conversación dejando tus comentarios en los artíc
 
 - [E-Mail ✉ ](mailto:josedanois@gmail.com)
 
+- <a href="mailto:josedanois@gmail.com" target="_blank">E-Mail 📧</a>
+
 - [Chat 🗣️](https://chat.google.com/room/AAAAW_RiRgM?cls=7)
 
-### Enlaces
+- <a href="https://chat.google.com/room/AAAAW_RiRgM?cls=7" target="_blank">Chat 🗣️</a>
 
-- [YouTube ](https://www.youtube.com/@jdanois)
+### Enlaces
   
 - <a href="https://www.youtube.com/@jdanois" target="_blank">YouTube</a>
 
