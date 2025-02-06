@@ -18,16 +18,16 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.5 $helvetica;
-  color: $darkGray;
-}
-
-.container {
-  margin: 0 auto;   
-  max-width: 650px;
-  padding: 0 10px;   	
-  width: 100%;
+    font-family: Verdana, sans-serif;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: #444;
 }
 
 h1, h2, h3, h4, h5, h6 {
