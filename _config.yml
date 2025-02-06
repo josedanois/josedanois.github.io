@@ -18,17 +18,17 @@ avatar: /images/jdanois.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: # josedanois@gmail.com
-  facebook: # leondejudahumacao
+  email:  josedanois@gmail.com
+  facebook:  leondejudahumacao
   flickr:
   github: 
   instagram:
   linkedin: 
   pinterest:
-  rss: # Notas de Fe y Gracia
+  rss:  Notas de Fe y Gracia
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # /channel/UCITESAEW2qgUjNoKd_S2dJQ
+  youtube:  /channel/UCITESAEW2qgUjNoKd_S2dJQ
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
