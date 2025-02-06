@@ -7,7 +7,6 @@ categories:
 published: true
 ---
 ![Amor frío](/images/amorfrio.jpg)
-
 Es fácil perder el primer amor. Vivimos en un mundo lleno de distracciones y sustitutos artificiales que pueden alejarnos de nuestra relación con Cristo. A veces, nos sentimos complacidos con nuestra vida cristiana y pensamos que estamos bien. Sin embargo, debemos ser cautelosos cuando nos sentimos demasiado cómodos.
 
 La iglesia de Éfeso también enfrentó este desafío. Aunque tenían buena doctrina, enseñanza y discernimiento, habían dejado de amar a Cristo como al principio. Jesús les señaló este problema: habían perdido la fuente que da propósito a todo, el porqué de todas las cosas: el amor por Cristo.
