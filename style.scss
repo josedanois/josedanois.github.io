@@ -253,12 +253,15 @@ nav {
 
 
 
-blockquote {
+.post {
+  blockquote {
+    margin: 1.8em .8em;
     border-left: 2px solid $blue;
-    color: #222;
-    padding-left: 20px;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 18px;
     font-style: italic;
-}
+  }
 
 	
 
