@@ -21,6 +21,8 @@ Te invito a que te unas a la conversación dejando tus comentarios en los artíc
 
 - <a href="mailto:josedanois@gmail.com" target="_blank">E-Mail ✉️</a>
 
+- <a href="https://bsky.app/profile/josedanois.com" target="_blank">Bluesky</a>
+
 - <a href="https://chat.google.com/room/AAAAW_RiRgM?cls=7" target="_blank">Chat 🗣️</a>
 
 ### Enlaces
