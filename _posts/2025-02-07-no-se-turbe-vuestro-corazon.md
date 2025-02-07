@@ -6,7 +6,7 @@ author: José Danois
 categories: 
 published: true
 ---
-![Hielo](images/hielo.jpg)
+![Hielo](/images/hielo.jpg)
 >No se turbe vuestro corazón; creed en Dios, creed también en mí. Juan 14:1-2
 
 El miedo es una de las principales fuentes de turbación para nuestras mentes y corazones. No nos permite pensar correctamente, ni con objetividad.
