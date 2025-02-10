@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Examíname
-image: /images/Examíname.png
+image: /images/Examiname.png
 author: José Danois
 categories: 
 published: true
 ---
-![Examíname](/images/Examíname.png)
+![Examíname](/images/Examiname.png)
 
 ***Examíname, oh Dios, y conoce mi corazón; pruébame y conoce los pensamientos que me inquietan. Salmo 139.23***
 
