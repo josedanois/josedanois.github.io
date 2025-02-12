@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Esa extraña virtud llamada contentamiento.
+title: Esa extraña virtud llamada contentamiento
 image: /images/contentamiento.jpg
 author: José Danois
 categories: 
