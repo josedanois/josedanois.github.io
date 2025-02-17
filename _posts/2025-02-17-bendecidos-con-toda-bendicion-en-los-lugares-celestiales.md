@@ -6,7 +6,7 @@ author: José Danois
 categories: 
 published: true
 ---
-![Tecnología](/images/celestiales.jpg)
+![Cielos](/images/celestiales.jpg)
 > Bendito sea Dios, Padre de nuestro Señor Jesucristo, que nos ha bendecido en las regiones celestiales con toda bendición espiritual en Cristo. Efesios 1.3
 
 El capítulo 1 de la epístola a los Efesios comienza con una poderosa declaración:
