@@ -6,7 +6,7 @@ author: José Danois
 categories: 
 published: true
 ---
-![Tecnología](/images/JohnNewton.jpg)
+![JohnNewton](/images/JohnNewton.jpg)
 > No soy lo que debería ser: ¡ah, ¡qué imperfecto y deficiente! No soy lo que deseo ser; aborrezco lo que es malo, y me apego a lo que es bueno. No soy lo que espero ser: pronto dejaré de lado la mortalidad, y con la mortalidad todo pecado e imperfección. Sin embargo, aunque no soy lo que debería ser, ni lo que deseo ser, ni lo que espero ser, puedo decir verdaderamente que no soy lo que una vez fui; un esclavo del pecado y de Satanás; y puedo unirme de corazón al apóstol, y reconocer: “Por la gracia de Dios soy lo que soy”.
 
 John Newton (Teólogo evangélico)
