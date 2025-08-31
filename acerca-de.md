@@ -12,18 +12,14 @@ _José Danois_
 
 >*Creciendo en la gracia y el conocimiento de Dios...*
 
-Hola, bienvenidos a mi página personal. Un espacio donde comparto acerca de la Fe, Crecimiento Espiritual y el Diario Vivir. Un repositorio de mis pensamientos y de las que me inspiran e interesan.
+Hola, bienvenidos a mi página personal. Un espacio donde comparto acerca de la Fe, el Crecimiento Espiritual y el Diario Vivir. Un repositorio de mis pensamientos y de las que me inspiran e interesan.
 
-Te invito a que te unas a la conversación dejando tus comentarios en los artículos o en nuestro <a href="https://chat.google.com/room/AAAAW_RiRgM?cls=7" target="_blank">Chat</a>.
+Te invito a que te unas a la conversación dejando tus comentarios en los artículos o en nuestro <a href="[https://chat.google.com/room/AAAAW_RiRgM?cls=7](https://t.me/danoisblog)" target="_blank">Canal</a>.
 
 
 ### Contacto
 
 - <a href="mailto:josedanois@gmail.com" target="_blank">E-Mail ✉️</a>
-
-- <a href="https://bsky.app/profile/josedanois.com" target="_blank">Bluesky</a>
-
-- <a href="https://chat.google.com/room/AAAAW_RiRgM?cls=7" target="_blank">Chat 🗣️</a>
 
 ### Enlaces
   
