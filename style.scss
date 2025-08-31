@@ -18,12 +18,13 @@ html {
 }
 
 body {
-    font-family: Arial, sans-serif;
-    margin: auto;
+    font: 18px/1.4 $helvetica;
+	color: $darkGray;
+	background: $white;
+	margin: auto;
     padding: 20px;
     max-width: 720px;
     text-align: left;
-    background-color: #fff;
     word-wrap: break-word;
     overflow-wrap: break-word;
     line-height: 1.5;
@@ -220,7 +221,7 @@ nav {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 17px;
+    font-size: 16px;
   }
 
   a {
@@ -259,7 +260,7 @@ nav {
     border-left: 2px solid $blue;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 16px;
+    font-size: 18px;
     font-style: italic;
 	font-weight: bold;  
   }
