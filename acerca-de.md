@@ -14,7 +14,7 @@ _José Danois_
 
 Hola, bienvenidos a mi página personal. Un espacio donde comparto acerca de la Fe, el Crecimiento Espiritual y el Diario Vivir. Un repositorio de mis pensamientos y de las que me inspiran e interesan.
 
-Te invito a que te unas a la conversación dejando tus comentarios en los artículos o en nuestro <a href="[https://chat.google.com/room/AAAAW_RiRgM?cls=7](https://t.me/danoisblog)" target="_blank">Canal</a>.
+Te invito a que te unas a la conversación dejando tus comentarios en los artículos o en nuestro <a href="https://t.me/danoisblog" target="_blank">Canal</a>.
 
 
 ### Contacto
