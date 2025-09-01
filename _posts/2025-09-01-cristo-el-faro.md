@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Para que las obras de Dios sean manifestadas
+title: Cristo el faro
 image: /images/lighthouse1.jpg
 author: José Danois
 categories: reflexiones
