@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Para que las obras de Dios sean manifestadas
+title: Vestidos por su gracia
 image: /images/sugracia.jpg
 author: José Danois
 categories: gracia
