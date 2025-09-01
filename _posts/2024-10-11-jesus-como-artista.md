@@ -3,7 +3,7 @@ layout: post
 title: Jesús como artista
 image: /images/lamp-2568890_1280.jpg
 author: José Danois
-categories: 
+categories: extractos
 published: true
 ---
 ![](/images/lamp-2568890_1280.jpg)
