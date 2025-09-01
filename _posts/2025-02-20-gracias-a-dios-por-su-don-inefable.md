@@ -3,7 +3,7 @@ layout: post
 title: ¡Gracias a Dios por su don inefable!
 image: /images/doninefable.jpg
 author: José Danois
-categories: 
+categories: gracia
 published: true
 ---
 
