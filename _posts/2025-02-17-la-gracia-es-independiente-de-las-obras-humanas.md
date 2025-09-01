@@ -3,7 +3,7 @@ layout: post
 title: La gracia es independientemente de la actividad u obra del ser humano
 image: /images/hombrecumbre.jpg
 author: José Danois
-categories: 
+categories: gracia
 published: true
 ---
 ![Hombre en la cumbre](/images/hombrecumbre.jpg)
