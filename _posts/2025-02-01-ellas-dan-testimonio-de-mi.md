@@ -3,7 +3,7 @@ layout: post
 title: Ellas dan testimonio de mí
 image: /images/Juan316.jpg
 author: José Danois
-categories: 
+categories: biblia
 published: true
 ---
 ![Juan316](/images/Juan316.jpg)
