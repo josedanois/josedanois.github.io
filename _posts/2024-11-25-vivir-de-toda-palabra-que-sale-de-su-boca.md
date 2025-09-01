@@ -3,7 +3,7 @@ layout: post
 title: Vivir de toda palabra que sale de su boca
 image: /images/aaron-burden-G6G93jtU1vE-unsplash.jpg
 author: José Danois
-categories: 
+categories: reflexiones
 published: true
 ---
 ![Biblia](/images/aaron-burden-G6G93jtU1vE-unsplash.jpg) 
