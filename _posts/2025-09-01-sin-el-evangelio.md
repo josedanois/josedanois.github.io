@@ -83,5 +83,6 @@ Y estamos consolados en la tribulación, gozosos en el dolor, gloriándonos bajo
 
 Esto es lo que deberíamos, en resumen, buscar en toda la Escritura: **verdaderamente conocer a Jesucristo, y las infinitas riquezas que están comprendidas en él y nos son ofrecidas por él de Dios Padre.**
 
+---
 
 [^1]: Publicado originalmente por Tullian Tchividjian
