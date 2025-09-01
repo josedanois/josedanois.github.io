@@ -3,7 +3,7 @@ layout: post
 title: Gracia que nos levanta y nos sienta a la mesa del Rey
 image: /images/sentadosalamesadelrey.jpg
 author: José Danois
-categories: 
+categories: gracia
 published: true
 ---
 ![Rey](/images/sentadosalamesadelrey.jpg)
