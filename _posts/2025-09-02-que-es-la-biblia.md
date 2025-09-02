@@ -8,6 +8,8 @@ published: true
 ---
 ![Biblia](/images/bible-4249164_1280.jpg)
 
+**_Una introducción a la teología de las Escrituras._**
+
 **Un Dios que habla**[^1]
 
 Imagine un mundo en el que Dios guarda silencio y las grandes preguntas de la vida quedan sin respuesta…
