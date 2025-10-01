@@ -22,3 +22,8 @@ Te invito a que te unas a la conversación y nos digas que piensas dejando tus c
 ### Apoyo
 
 Si te parece interesante el contenido de este blog y de alguna forma haz sido edificado o bendecido te invito a que me apoyes mediante un donativo o propina. Para hacerlo puedes ir a mi página de <a href="https://www.paypal.com/donate?hosted_button_id=N6EF4CUBXF3BY" target="_blank">Paypal</a>. Agradezco tu colaboración y simpatía.
+
+<a href="[https://xxxxxx.usX.list-manage.com/subscribe?u=ABC123&id=DEF456](https://gmail.us16.list-manage.com/subscribe?u=48611dc97c99eb42c3307635a&id=db0d67c0f6)" target="_blank">
+  Suscríbete aquí
+</a>
+
