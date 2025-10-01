@@ -52,11 +52,11 @@ round-avatar: true
 social-network-links:
   email: "josedanois@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  facebook: leondejudahumacao
 # github: daattali
 # twitter: daattali
 # patreon: DeanAttali
-  youtube: "@daattali"
+  youtube: "@jdanois"
 # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -70,7 +70,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-   telegram: yourname
+   telegram: @jdanois
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
