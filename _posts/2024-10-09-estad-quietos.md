@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Estad quietos
-image: 
+cover-img: /assets/img/lighthouse1.jpg
+thumbnail-img: /assets/img/lighthouse1.jpg
+share-img: /assets/img/lighthouse1.jpg
 tags: [video]
 author: José Danois
 ---
