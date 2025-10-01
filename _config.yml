@@ -20,7 +20,7 @@ author: José Danois
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Sobre mí: "sobre-mí"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
