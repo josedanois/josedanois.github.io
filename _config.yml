@@ -21,11 +21,7 @@ author: José Danois
 
 navbar-links:
   Sobre mí: "sobre-mí"
-  - Tags: "https://josedanois.github.io/tags"
-# Resources:
-  # - Beautiful Jekyll: "https://beautifuljekyll.com"
-  # - Learn markdown: "https://www.markdowntutorial.com/"
-# Author's home: "https://deanattali.com"
+  Tags: "https://josedanois.github.io/tags"
 
 ################
 # --- Logo --- #
