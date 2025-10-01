@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Jesús como artista
-image: /images/vangogh.jpg
+cover-img: /assets/img/vangogh.jpg
+thumbnail-img: /assets/img/vangogh.jpg
+share-img: /assets/img/vangogh.jpg
 tags: [extracto]
 ---
-![Vangogh](/images/vangogh.jpg)
+![Vangogh](/assets/img/vangogh.jpg)
 
 El siguiente extracto es de una carta[^1] de Vincent Van Gogh[^2] a Emile Bernard, el 26 de junio de 1888. Es interesante como Van Gogh que en algún momento fuera pastor protestante, se expresa en esta carta acerca de Jesús. 
 
