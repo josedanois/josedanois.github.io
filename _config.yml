@@ -50,13 +50,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-   email: "josedanois@gmail.com"
-   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-   facebook: leondejudahumacao
+  email: "josedanois@gmail.com"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: leondejudahumacao
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
-   youtube: "@jdanois"
+  youtube: "@jdanois"
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -70,7 +70,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-   telegram: @jdanois
+  telegram: @jdanois
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
