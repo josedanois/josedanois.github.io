@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Vivir de toda palabra que sale de su boca
-image: /images/santabiblia.jpg
+cover-img: /assets/img/santabiblia.jpg
+thumbnail-img: /assets/img/santabiblia.jpg
+share-img: /assets/img/santabiblia.jpg
 tags: [biblia]
 ---
-![Biblia](/images/santabiblia.jpg) 
 > Jesús respondió: Escrito está: “No sólo de pan vive el hombre, sino de toda palabra que sale de la boca de Dios”. Mateo 4:4
 
 Nadie puede negar que el pan (y lo que este representa) es necesario para la subsistencia humana.
@@ -50,3 +51,5 @@ Hay cosas para las cuales la provisión física o material, por más abundante q
 Pero la Palabra de Dios que sale de su boca es suficiente para todo lo que necesitamos los creyentes, los seres humanos, que no solo somos lo que sé ve externamente, sino que también somos espíritu y alma. Hay una parte espiritual dentro de nosotros que solo puede ser alimentada por la palabra de Dios.
 
 Es por esa razón que cada día necesitamos el pan nuestro de cada día, no solo el pan material, sino la palabra de Dios que sale de su boca.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones. 
