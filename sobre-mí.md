@@ -18,6 +18,7 @@ Te invito a que te unas a la conversación y nos digas que piensas dejando tus c
   
 - <a href="https://www.facebook.com/leondejudahumacao" target="_blank">Facebook</a>
 - <a href="https://www.youtube.com/@jdanois" target="_blank">YouTube</a>
+- <a href="https://t.me/notas_de_fe_y_gracia" target="_blank">Canal en Telegram</a>
 
 ### Apoyo
 
