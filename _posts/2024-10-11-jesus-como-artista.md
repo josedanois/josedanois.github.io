@@ -24,7 +24,7 @@ Originalmente publicado en _El Arado Número 6,_ diciembre de 1957
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones. 
 
-...
+___
 
 [^1]: Cartas de Van Gogh
 
