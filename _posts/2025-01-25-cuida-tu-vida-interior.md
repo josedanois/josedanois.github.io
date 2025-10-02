@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Cuida tu Vida Interior
-image: /images/corazon.jpg
+cover-img: /assets/img/corazon.jpg
+thumbnail-img: /assets/img/corazon.jpg
+share-img: /assets/img/corazon.jpg
 tags: [reflexión bíblica, corazón]
 ---
-![Corazón](/images/corazon.jpg)
 >"Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida" Proverbios 4:23
 
 En un mundo que constantemente nos bombardea con la necesidad de una imagen perfecta, es fácil caer en la trampa de enfocarnos exclusivamente en lo externo. Nos preocupamos por tener la ropa adecuada, el coche más moderno y las fotos más envidiables en las redes sociales. Pero, ¿qué pasa con nuestro interior? ¿Estamos dedicando el mismo esfuerzo a cultivar nuestra vida interior?
@@ -101,6 +102,9 @@ Así que, te invito a que hoy mismo comiences a prestar atención a tu vida inte
 
 No olvides que la verdadera vida, la vida abundante que Dios tiene para ti, comienza en el interior. Recuerda **sobre toda cosa guardada, guarda tu corazón, porque de él mana la vida.**
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
+___
 
 [^1]:Jeremías 17:9
 [^2]:Efesios 4:30-32
