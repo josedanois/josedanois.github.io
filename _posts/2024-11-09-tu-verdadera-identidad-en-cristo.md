@@ -2,7 +2,7 @@
 layout: post
 title: Tu verdadera identidad en Cristo
 cover-img: /assets/img/identidad.jpg
-thumbnail-img: /assets/identidad.jpg
+thumbnail-img: /assets/img/identidad.jpg
 share-img: /assets/img/identidad.jpg
 tags: [identidad]
 ---
