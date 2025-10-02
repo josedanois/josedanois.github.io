@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Adoración más allá de nuestros labios
-image: /images/Adoracion.png
+cover-img: /assets/img/Adoracion.png
+thumbnail-img: /assets/img/Adoracion.png
+share-img: /assets/img/Adoracion.png
 tags: [reflexión bíblica, adoración]
 ---
-![Adoración](/images/Adoracion.png)
 Hoy en día nos hemos especializado en la adoración. Nos preocupa como ser mejores adoradores o como llevar una “buena” adoración en el servicio de la Iglesia. Incluso, existen libros y cursos sobre Adoración. Todo esto responde al contexto de la experiencia cúltica o congregacional. Es decir, cuando los creyentes se reúnen en sus congregaciones locales o en algún evento para adorar. De ahí el surgimiento de tantos ministerios de adoración en nuestras iglesias con sus respectivas liturgias.
 
 No cabe duda que esto ha estimulado la excelencia musical, la integridad de las canciones y una adoración Cristo céntrica. Todo esto está muy bien. De hecho, de alguna manera estamos emulando al salmista David, quien muchos siglos antes llevó la adoración a nuevos niveles en la experiencia cultica. La llevó del ritual a la expresión del corazón por medio de salmos, cánticos y alabanzas. Una expresión de gozo e incluso profética. Él estableció y organizó la adoración como ministerio en lo que se conoció como el Tabernáculo de David, que posteriormente sería el modelo a seguir en el templo de Salomón. David fue un adorador que se preocupó por llevar la adoración a otro nivel.
@@ -54,3 +55,5 @@ Vivir en obediencia significa responder a la vida de Cristo en nosotros. Es una 
 Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús, el cual, siendo en forma de Dios, no estimó el ser igual a Dios como cosa a que aferrarse, sino que se despojó a sí mismo, tomando forma de siervo, hecho semejante a los hombres; y estando en la condición de hombre, se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de cruz. Filipenses 2:5-8
 
 > Pero con Cristo estoy juntamente crucificado, y ya no vivo yo, sino que Cristo vive en mí; y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí. Gálatas 2:2
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
