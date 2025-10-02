@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Tu verdadera identidad en Cristo
-image: /images/identidad.jpg
+cover-img: /assets/img/identidad.jpg
+thumbnail-img: /assets/identidad.jpg
+share-img: /assets/img/identidad.jpg
 tags: [identidad]
 ---
-![Identidad](/images/identidad.jpg)
 Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
 
 -   **Romanos 3:24**  Somos justificados (declarados "no culpables" de pecado).
@@ -54,3 +55,5 @@ Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
 -   **Colosenses 2:11**  Somos libres de nuestros malos deseos.
   
 -   **2 Timoteo 2:10**  Tendremos gloria eterna.
+
+  **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones. 
