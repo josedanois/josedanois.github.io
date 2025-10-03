@@ -29,3 +29,8 @@ Proclamó por todo el pueblo lo mucho que Jesús había hecho por él.
 
 **Y tú, ¿Qué ha hecho Jesús por ti? ¿Como has experimentado el amor de Dios en tu vida? ¿No crees que es tiempo de proclamarlo?**
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExMTgxNjA0NjFdfQ==
+-->
