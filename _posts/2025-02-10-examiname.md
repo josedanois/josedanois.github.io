@@ -72,6 +72,9 @@ Examíname, oh Dios, y conoce mi corazón; pruébame y conoce los pensamientos q
 
 Deja que él te hable por su palabra. Recuerda, este momento no es para pensar en otros, ni echarles la culpa. Es un momento para dejar que Dios nos examine, que nos confronte y nos hable. No será ninguna persona juzgándote con un juicio imperfecto, sino Dios examinándote para llevarte por el camino eterno. Tu vida entonces comenzará a avanzar y disfrutaras de una renovada relación con Dios.
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
+---
 
 [^1]: Jeremías 17:9
 
@@ -79,5 +82,5 @@ Deja que él te hable por su palabra. Recuerda, este momento no es para pensar e
 
 [^3]: Romanos 8:29
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODIwNjE5OV19
+eyJoaXN0b3J5IjpbMTgyNzI5Mjc4OV19
 -->
