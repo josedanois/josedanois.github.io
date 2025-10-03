@@ -144,3 +144,8 @@ Porque, ¿Se complacerá el SEÑOR con miles de carneros, o con diez mil arroyos
 Finalmente, y sobre todas las cosas seamos nosotros la ofrenda agradable a Dios, por encima de todo lo que podamos hacer.
 
 Por lo tanto, amados hermanos, les ruego que entreguen su cuerpo a Dios por todo lo que él ha hecho a favor de ustedes. Que sea un sacrificio vivo y santo, la clase de sacrificio que a él le agrada. Esa es la verdadera forma de adorarlo. (Romanos 12:1)
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk3MDA3MzQ1MF19
+-->
