@@ -26,9 +26,15 @@ Cristo es el origen de toda nueva creación. A él le agrada crear, traer bellez
 
 Es triste si no somos capaces de disfrutar de las bendiciones que él ya nos ha otorgado con generosidad a través de su don. No hay ningún precio que tengamos que pagar, ya que todo ha sido consumado por su obra, por su infinito amor, por su gracia.
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
+---
 
 [^1]: Gálatas 2:20
 
 [^2]: Juan 15:8
 
 [^3]: Juan 15:5
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTYyNTQzNjExNF19
+-->
