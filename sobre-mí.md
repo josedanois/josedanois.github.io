@@ -2,6 +2,7 @@
 layout: page
 title: Sobre mí
 subtitle: Creciendo en el conocimiento de nuestro Señor Jesucristo
+cover-img: assets/img/cruzenelcafe.jpg
 ---
 
 ![profile-pic](/assets/img/IMG-5001-modified.png) 
