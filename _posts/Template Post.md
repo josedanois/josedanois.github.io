@@ -1,4 +1,6 @@
 
+2025-10-03-El-poder-de-tus-palabras:-¿vida o muerte?
+
 ---
 layout: post
 title: 
@@ -12,7 +14,7 @@ published: true
 ---
 
     año-mes-día
-2025-10-04-El-poder-de-tus-palabras:-¿vida o muerte?
+
 
 [](https://substackcdn.com/image/fetch/$s_!7O-q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0ad0737-ebb6-461e-9372-5f044fc03464_1024x1024.png)
 
@@ -74,5 +76,5 @@ Pidámosle al Señor que llene nuestro corazón de su bondad, porque cuando el c
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTU1NzkyNl19
+eyJoaXN0b3J5IjpbLTE5NTcxMzI3NjVdfQ==
 -->
