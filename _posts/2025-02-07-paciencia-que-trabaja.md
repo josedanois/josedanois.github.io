@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Paciencia que trabaja
-image: /images/Perseverancia.jpg
+cover-img: /assets/img/Perseverancia.jpg
+thumbnail-img: /assets/img/Perseverancia.jpg
+share-img: /assets/img/Perseverancia.jpg
 author: José Danois
 tags: [reflexión bíblica] 
 published: true
 ---
-![Paciencia](/images/Perseverancia.jpg)
 >Con vuestra paciencia ganaréis vuestras almas. Lucas 21:19
 
 Todos queremos soluciones y salidas rápidas a nuestros problemas y situaciones adversas. Lamentablemente no siempre ocurre así.
@@ -155,5 +156,5 @@ Algo la paciencia está produciendo en ti. Te está haciendo resistente, te est�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTA1MjM2XX0=
+eyJoaXN0b3J5IjpbLTEwNDYzNTUwOTZdfQ==
 -->
