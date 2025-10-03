@@ -6,7 +6,6 @@ thumbnail-img: /assets/img/No-tengas-miedo.jpg
 share-img: /assets/img/No-tengas-miedo.jpg
 tags: [reflexión bíblica]
 ---
-![Miedo](/images/No-tengas-miedo.jpg)
 Al final de cada año, es natural mirar hacia atrás y reflexionar sobre lo que hemos vivido. Para muchos, este tiempo de reflexión puede estar lleno de emociones mezcladas: alegría por los logros alcanzados, tristeza por las pérdidas sufridas y, tal vez, ansiedad por lo que depara el futuro.
 
 Si este es tu caso, quiero compartir contigo un mensaje de fe y esperanza que te alentará y fortalecerá. En el libro de Isaías capítulo 37, encontramos una historia poderosa que nos recuerda que, incluso en los momentos más oscuros, **Dios está con nosotros y nos da la victoria**.
@@ -42,5 +41,5 @@ Al igual que el rey de la historia, podemos encontrar refugio en la fe y confiar
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg2NDk1MDNdfQ==
+eyJoaXN0b3J5IjpbMjM4NTE4NjIxLC0xNDI4NjQ5NTAzXX0=
 -->
