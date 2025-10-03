@@ -150,5 +150,10 @@ Tu fuerza proviene de arriba, no dejes de esperar y de confiar. No puedes ver ah
 
 Algo la paciencia está produciendo en ti. Te está haciendo resistente, te está dando un carácter fuerte. No te rindas cuando todo termine serás más maduro, más sabio, más fuerte.
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ4NTA1MjM2XX0=
+-->
