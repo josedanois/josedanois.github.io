@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Debilidades con potencial
-image: /images/Mariposa.jpg
+cover-img: /assets/img/Mariposa.jpg
+thumbnail-img: /assets/img/Mariposa.jpg
+share-img: /assets/img/Mariposa.jpg
 author: José Danois
 tags: [extracto] 
 published: true
 ---
-![Mariposa](/images/Mariposa.jpg)
 Existe una tendencia universal en el ser humano a esconder sus debilidades. Estamos tristes, pero ponemos cara de alegría. Deseamos llorar, pero contenemos nuestras lágrimas. Nos sentimos abrumados, pero aparentamos estar en control. Luchamos con la depresión, pero buscamos convencer a los demás de nuestro buen ánimo.
 
 Todo esto no hace más que revelar con gran claridad la inmensa importancia que le damos, como seres humanos, a la imagen que otros tienen de nosotros. Deseamos que nos vean como triunfadores, como personas que caminan con paso firme hacia objetivos claramente definidos en sus vidas. Por esta razón nos resistimos, a toda costa, a revelar esas cosas que muestran nuestra verdadera condición de seres frágiles y débiles.
@@ -22,3 +23,8 @@ Recorra por un momento la historia del pueblo de Dios. ¿Puede pensar en alguna 
 No trate de disimular sus debilidades. No busque esconderlas, ni pierda el tiempo justificándolas. Cuando usted las tapa o esconde, buscando hacerse fuerte, Cristo pierde poder en su vida. Hágase amigo de sus debilidades. Ellas son la puerta para que toda la plenitud de Dios se manifieste en su vida
 
 **Todo crédito de:** Shaw, C. (2005). Alza tus ojos. Desarrollo Cristiano Internacional.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA5Mjg1NTg2XX0=
+-->
