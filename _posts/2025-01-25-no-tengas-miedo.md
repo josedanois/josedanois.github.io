@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  No tengas miedo
-cover-img: /assets/img/imposibilidad.jpg
-thumbnail-img: /assets/img/imposibilidad.jpg
-share-img: /assets/img/imposibilidad.jpg
+cover-img: /assets/img/No-tengas-miedo.jpg
+thumbnail-img: /assets/img/No-tengas-miedo.jpg
+share-img: /assets/img/No-tengas-miedo.jpg
 tags: [reflexión bíblica]
 ---
 ![Miedo](/images/No-tengas-miedo.jpg)
@@ -39,6 +39,8 @@ Al igual que el rey de la historia, podemos encontrar refugio en la fe y confiar
 
 **En este nuevo año, que la paz, la esperanza y la victoria de Dios te acompañen.**
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTg3NTE2MTFdfQ==
+eyJoaXN0b3J5IjpbLTE0Mjg2NDk1MDNdfQ==
 -->
