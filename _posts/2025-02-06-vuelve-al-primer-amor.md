@@ -48,3 +48,8 @@ _Le dijo la **tercera vez**: (pon tu nombre aquí), ¿me amas?_
 _Pedro se entristeció de que le dijese la tercera vez: ¿Me amas? y le respondió: Señor, tú lo sabes todo; tú sabes que te amo. Jesús le dijo: Apacienta mis ovejas._
 
 Juan 21:15-17
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg5MTcxNDU4NV19
+-->
