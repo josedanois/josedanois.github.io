@@ -12,7 +12,7 @@ published: true
 ---
 
     año-mes-día
-2025-02-04-agradando-a-dios-en-todo
+2025-02-04-El- poder-de-tus-palabras:-¿vida o muerte?
 
 [](https://substackcdn.com/image/fetch/$s_!7O-q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0ad0737-ebb6-461e-9372-5f044fc03464_1024x1024.png)
 
@@ -71,6 +71,8 @@ Hoy te invito a preguntarte:
     
 
 Pidámosle al Señor que llene nuestro corazón de su bondad, porque cuando el corazón es transformado, la lengua deja de ser un arma y se convierte en un canal de vida y bendición.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg4NDQ2NjhdfQ==
+eyJoaXN0b3J5IjpbMTg1MTY5MzIyMV19
 -->
