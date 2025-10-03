@@ -36,3 +36,8 @@ Pero enseguida Jesús les habló, diciendo: Tened ánimo, soy yo; no temáis. Ma
 Hoy le hablo a personas que están en turbación y confusión porque ya no saben qué hacer.
 
 Solo en Jesús el Hijo de Dios encuentras tu paz.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5Nzg1ODMyNTZdfQ==
+-->
