@@ -46,3 +46,8 @@ El desánimo puede aparecer en nuestro camino, pero no tiene por qué definir nu
 Recuerde, no estamos solos. Dios está con nosotros y nunca nos abandonará en nuestras luchas.
 
 No nos desanimemos, sino sigamos avanzando con fe y determinación, sabiendo que nuestra verdadera recompensa nos espera en la eternidad.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc2NjA4OTA5OV19
+-->
