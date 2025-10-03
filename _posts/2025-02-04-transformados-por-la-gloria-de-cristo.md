@@ -44,3 +44,8 @@ Esta transformación no se trata simplemente de apariencias. Se trata de ser má
 
 La increíble realidad es que la gloria de Dios ya reside dentro de nosotros a través del Espíritu Santo (2 Corintios 4:7). El viaje consiste en buscar activamente Su presencia, permitiendo que seamos transformados de un nivel de gloria al siguiente. Abraza esta transformación continua y deja que la luz radiante de Cristo brille a través de ti, marcando una diferencia duradera en el mundo.
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTc2MTE1MTc2OF19
+-->
