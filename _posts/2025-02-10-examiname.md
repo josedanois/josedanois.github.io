@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Examíname
-cover-img: /assets/img/Examiname
-thumbnail-img: /assets/img/Examiname
-share-img: /assets/img/Examiname
+cover-img: /assets/img/Examiname.png
+thumbnail-img: /assets/img/Examiname.png
+share-img: /assets/img/Examiname.png
 author: José Danois
 tags: [reflexión bíblica] 
 published: true
@@ -82,5 +82,5 @@ Deja que él te hable por su palabra. Recuerda, este momento no es para pensar e
 
 [^3]: Romanos 8:29
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzI5Mjc4OV19
+eyJoaXN0b3J5IjpbMTc3NjAwNDg0LDE4MjcyOTI3ODldfQ==
 -->
