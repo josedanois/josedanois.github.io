@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Extendiéndome a lo que está delante
-cover-img: /assets/img/corazon.jpg
-thumbnail-img: /assets/img/corazon.jpg
-share-img: /assets/img/corazon.jpg
+cover-img: /assets/img/carretera.jpg
+thumbnail-img: /assets/img/carretera.jpg
+share-img: /assets/img/carretera.jpg
 tags: [reflexión bíblica]
 ---
-![Carretera](/images/carretera.jpg)
 >*Yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante, prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús. Filipenses 3:13-14*
 
 El apóstol Pablo, en su carta a los Filipenses, presenta un mensaje poderoso  sobre la perseverancia y el crecimiento en la vida cristiana. A pesar de sus grandes logros y su profundo conocimiento de Cristo, Pablo reconoce que aún no ha alcanzado la meta. Pero, ¿cuál es esta meta que Pablo persigue con tanto fervor? Es el pleno conocimiento de Cristo, el experimentar el poder de su resurrección, y el vivir una vida que refleje su propósito. Como él mismo lo declara en Filipenses 3:12, no es que haya logrado todo, pero sigo adelante, luchando por alcanzar aquello para lo cual fue alcanzado por Cristo Jesús.
@@ -51,8 +50,11 @@ Pablo concluye este pasaje exhortando a los Filipenses, y a nosotros por extensi
 
 Al igual que Pablo, nunca debemos pensar que hemos llegado a la cima de nuestra madurez espiritual. Siempre hay más que aprender, más que crecer y más que experimentar de la gracia de Dios. Que podamos abrazar la actitud de Pablo, olvidando lo que queda atrás y extendiéndonos a lo que está delante, hacia la meta del supremo llamamiento de Dios en Cristo Jesús.
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzU0OTk4Ml19
+eyJoaXN0b3J5IjpbLTE1Njc1Nzc5MjldfQ==
 -->
