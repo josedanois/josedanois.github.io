@@ -32,3 +32,8 @@ Jesús utiliza la analogía del siervo para ilustrar la limitación de una relac
 En los momentos de soledad o angustia, recordemos el pacto inquebrantable de amistad que Jesús ha establecido con cada uno de nosotros. En Él no solo encontramos un Salvador misericordioso, sino también un amigo fiel que nunca nos abandonará, un confidente que siempre estará a nuestro lado en cada paso del camino.
 
 **La amistad con Jesús es un regalo invaluable, un tesoro que debemos atesorar en lo más profundo de nuestro ser**. Es una invitación a experimentar la plenitud del amor de Dios, a vivir en libertad y confianza, sabiendo que en todo momento, sin importar las circunstancias, tenemos un amigo fiel que nos ama incondicionalmente.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU3OTA2MzcxXX0=
+-->
