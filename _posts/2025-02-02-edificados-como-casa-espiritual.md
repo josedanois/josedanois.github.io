@@ -54,3 +54,8 @@ Hoy se nos recuerda quiénes somos en Cristo: piedras vivas, un sacerdocio santo
 No olvidemos que somos parte de algo más grande que nosotros mismos. Somos parte del cuerpo de Cristo, la iglesia, y cada uno de nosotros es necesario en esta obra. No somos una piedra suelta, sino que estamos unidos, edificados juntos como morada de Dios.
 
 Cada día, mientras vivimos nuestra vida de fe, recordemos que somos llamados a manifestar la gracia de Dios a través de nuestros sacrificios espirituales. Que nuestras vidas, nuestras palabras, nuestras acciones y nuestro servicio sean una ofrenda agradable a Dios, todo por medio de Jesucristo, nuestro Señor y Salvador.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzgwMjgyNDgxXX0=
+-->
