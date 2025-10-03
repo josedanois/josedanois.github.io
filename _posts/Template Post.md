@@ -3,8 +3,8 @@ año-mes-día
 
 ---
 layout: post
-title: El poder de tus palabras: ¿vida o muerte?
-subtitle: 
+title: El poder de tus palabras 
+subtitle: ¿vida o muerte?
 cover-img: /assets/img/poderdelalengua.png
 thumbnail-img: /assets/img/poderdelalengua.png 
 share-img: /assets/img/poderdelalengua.png
@@ -12,13 +12,6 @@ author: José Danois
 tags: []
 published: true
 ---
-
-    
-
-
-[](https://substackcdn.com/image/fetch/$s_!7O-q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0ad0737-ebb6-461e-9372-5f044fc03464_1024x1024.png)
-
-![](https://substackcdn.com/image/fetch/$s_!7O-q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0ad0737-ebb6-461e-9372-5f044fc03464_1024x1024.png)
 
 # El poder de lo que decimos
 
@@ -76,5 +69,5 @@ Pidámosle al Señor que llene nuestro corazón de su bondad, porque cuando el c
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1MzA4NDcxXX0=
+eyJoaXN0b3J5IjpbLTEwNjc4MzY0MzldfQ==
 -->
