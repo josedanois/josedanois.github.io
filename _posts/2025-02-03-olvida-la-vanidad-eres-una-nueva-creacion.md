@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Olvida las Vanidades, ¡Eres una Nueva Creación!
-image: /images/cruz.jpg
+cover-img: /assets/img/cruz.jpg
+thumbnail-img: /assets/img/cruz.jpg 
+share-img: /assets/img/cruz.jpg
 author: José Danois
 categories: [reflexión bíblica]
 published: true
 ---
-![La cruz](/images/cruz.jpg)
 >***“En cuanto a mí, jamás se me ocurra jactarme de otra cosa, si no de la cruz de nuestro Señor Jesucristo, por quien el mundo ha sido crucificado para mí, y yo para el mundo. Para nada cuenta estar o no estar circuncidados; lo que importa es ser parte de una nueva creación”. Gálatas 6:14-15***
 
 **¿Te has sentido alguna vez como si no fueras suficiente?** ¿Como si tuvieras que hacer más, ser más, para alcanzar la aceptación de Dios? Es una trampa en la que muchos caemos, incluso aquellos que ya conocemos a Cristo.
@@ -45,5 +46,5 @@ La epístola a los Gálatas nos recuerda que la salvación no se gana, se recibe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTQzMTkwMl19
+eyJoaXN0b3J5IjpbNTkxODA0Nzc2LC00MjE0MzE5MDJdfQ==
 -->
