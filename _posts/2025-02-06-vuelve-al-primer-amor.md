@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Vuelve al Primer Amor
-image: /images/amorfrio.jpg
+cover-img: /assets/img/amorfrio.jpg
+thumbnail-img: /assets/img/amorfrio.jpg
+share-img: /assets/img/amorfrio.jpg
 author: José Danois
 tags: [reflexión bíblica] 
 published: true
 ---
-![Amor frío](/images/amorfrio.jpg)
 Es fácil perder el primer amor. Vivimos en un mundo lleno de distracciones y sustitutos artificiales que pueden alejarnos de nuestra relación con Cristo. A veces, nos sentimos complacidos con nuestra vida cristiana y pensamos que estamos bien. Sin embargo, debemos ser cautelosos cuando nos sentimos demasiado cómodos.
 
 La iglesia de Éfeso también enfrentó este desafío. Aunque tenían buena doctrina, enseñanza y discernimiento, habían dejado de amar a Cristo como al principio. Jesús les señaló este problema: habían perdido la fuente que da propósito a todo, el porqué de todas las cosas: el amor por Cristo.
@@ -51,5 +52,5 @@ Juan 21:15-17
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTcxNDU4NV19
+eyJoaXN0b3J5IjpbLTEyMjM4NDExMzgsMTg5MTcxNDU4NV19
 -->
