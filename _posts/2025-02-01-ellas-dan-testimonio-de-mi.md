@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Ellas dan testimonio de mí
-image: /images/Juan316.jpg
+cover-img: /assets/img/Juan316.jpg
+thumbnail-img: /assets/img/Juan316.jpg
+share-img: /assets/img/Juan316.jpg
 tags: [reflexión bíblica]
 ---
-
-![Juan316](/images/Juan316.jpg)
 > Ustedes estudian las Escrituras a fondo porque piensan que ellas les dan vida eterna. ¡Pero las Escrituras me señalan a mí! Sin embargo, ustedes se niegan a venir a mí para recibir esa vida. Juan 5:39–40 NTV
 
 **¿Qué es la Biblia?** 
@@ -116,5 +116,5 @@ No leamos la Biblia para encontrar algo, sino para encontrar alguien. Aquel que 
 
 [^1]: El verbo escudriñad, que es como se usa en la Reina Valera 60, tiene dos opciones: o imperativo (escudriñad) o indicativo (escudriñáis). En el gr. las dos formas se escriben igual y el contexto normalmente determina cuál corresponde. Aquí el contexto sugiere el modo indicativo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTkxNjA5N119
+eyJoaXN0b3J5IjpbMTYyOTQ0ODcwOF19
 -->
