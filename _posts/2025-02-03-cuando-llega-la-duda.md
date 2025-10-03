@@ -31,4 +31,9 @@ Las dudas son parte de nuestra experiencia humana, incluso en la fe. La clave es
 
 **Recuerda:** No estás solo en tus dudas. Busca respuestas en la Biblia, en la oración y en la comunidad de fe.
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/VMhgcrCRStU?si=ycV_3O8d9d1pUif-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzY1NDkzNzE3XX0=
+-->
