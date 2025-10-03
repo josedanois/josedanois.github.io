@@ -35,3 +35,8 @@ Dios no es un dato. **Conocerlo no es** como saber jugar un juego o manipular al
 
 Conocer a Dios es una experiencia intensa que llega a lo más profundo del ser. **No se trata de recibir dones espirituales o expresar verdades teológicas que suenan bien o que te hacen parecer que lo conoces. Tampoco se trata de acumular trofeos espirituales o crear grandes plataformas. Conocer a Dios significa compartir una relación profunda y personal con Él.**
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQzNTcwMDM3Nl19
+-->
