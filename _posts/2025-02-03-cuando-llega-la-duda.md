@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Cuando llega la duda
-image: /images/duda.jpg
+cover-img: /assets/img/duda.jpg
+thumbnail-img: /assets/img/duda.jpg
+share-img: /assets/img/duda.jpg
 tags: [reflexión bíblica, video]
 ---
-![Duda](/images/duda.jpg)
 >***Juan el Bautista, quien estaba en prisión, oyó acerca de todas las cosas que hacía el Mesías. Entonces envió a sus discípulos para que le preguntaran a Jesús: ¿Eres tú el Mesías a quien hemos esperado o debemos seguir buscando a otro? Mateo 11:2–3 NTV***
 
 Todos, en algún momento, hemos experimentado la duda, especialmente cuando se trata de nuestra fe. Incluso Juan el Bautista, un hombre elegido por Dios y lleno del Espíritu Santo desde el vientre de su madre, tuvo momentos de incertidumbre. Las circunstancias difíciles pueden nublar nuestro juicio y hacernos cuestionar nuestras creencias.
@@ -35,5 +36,5 @@ Las dudas son parte de nuestra experiencia humana, incluso en la fe. La clave es
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/VMhgcrCRStU?si=ycV_3O8d9d1pUif-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1NDkzNzE3XX0=
+eyJoaXN0b3J5IjpbMTkwMjA3Mjg5OCwzNjU0OTM3MTddfQ==
 -->
