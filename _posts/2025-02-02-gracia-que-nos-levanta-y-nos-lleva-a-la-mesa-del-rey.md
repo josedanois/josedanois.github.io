@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Gracia que nos levanta y nos sienta a la mesa del Rey
-image: /images/sentadosalamesadelrey.jpg
+cover-img: /assets/img/sentadosalamesadelrey.jpg
+thumbnail-img: /assets/img/sentadosalamesadelrey.jpg
+share-img: /assets/img/sentadosalamesadelrey.jpg
 tags: [reflexión bíblica, gracia]
 ---
 ![Rey](/images/sentadosalamesadelrey.jpg)
@@ -64,5 +66,5 @@ La gracia divina superó nuestro pecado, nos hizo hijos y nos sentó a la mesa. 
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc5NzkwMTddfQ==
+eyJoaXN0b3J5IjpbMTMwOTUyNzg0OSwtMTYxNzk3OTAxN119
 -->
