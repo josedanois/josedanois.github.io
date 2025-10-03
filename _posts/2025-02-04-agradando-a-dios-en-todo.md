@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Agradando a Dios en todo
-image: /images/agradandoadios.png
+cover-img: /assets/img/agradandoadios.png
+thumbnail-img: /assets/img/agradandoadios.png 
+share-img: /assets/img/agradandoadios.png
 author: José Danois
 tags: [reflexión bíblica]
 published: true
 ---
-![Agradar a Dios](/images/agradandoadios.png)
 El deseo de cada creyente en Cristo debería ser agradar a Dios. Si hemos sido objeto de su amor y de su gracia lo menos que podemos hacer es vivir para agradarle.
 
 No obstante, surgen las siguientes preguntas: ¿Qué es agradar a Dios? y ¿Como agrado a Dios?
@@ -147,5 +148,5 @@ Por lo tanto, amados hermanos, les ruego que entreguen su cuerpo a Dios por todo
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDA3MzQ1MF19
+eyJoaXN0b3J5IjpbMjA3NzY5MTY4NCwtOTcwMDczNDUwXX0=
 -->
