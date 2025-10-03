@@ -60,3 +60,8 @@ La Biblia está llena de ejemplos de personas que experimentaron una transformac
 **Conclusión**
 
 La nueva creación que Dios nos ofrece en Cristo es un regalo inestimable. Al ser parte de la nueva creación en Cristo, experimentamos una transformación radical, donde el orgullo y la jactancia son reemplazados por la humildad y la gratitud. Vivimos una vida guiada por el amor de Dios, libres de las ataduras del pecado y con la esperanza de la vida eterna.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ2MzY4OTc1M119
+-->
