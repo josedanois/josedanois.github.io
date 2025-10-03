@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Un pacto inquebrantable
-image: /images/pactoinquebrantable.jpg
+cover-img: /assets/img/pactoinquebrantable.jpg
+thumbnail-img: /assets/img/pactoinquebrantable.jpg
+share-img: /assets/img/pactoinquebrantable.jpg
 tags: [reflexión bíblica, pacto]
 ---
-![Pacto](/images/pactoinquebrantable.jpg)
 > ***Descubriendo la Profundidad de la Amistad con Jesús***
 
 **Ya no los llamo siervos, porque el siervo no está al tanto de lo que hace su amo; los he llamado amigos, porque todo lo que a mi Padre le oí decir se lo he dado a conocer a ustedes. Juan 15:15**
@@ -35,5 +36,5 @@ En los momentos de soledad o angustia, recordemos el pacto inquebrantable de ami
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTA2MzcxXX0=
+eyJoaXN0b3J5IjpbLTExMTE2NjYxMTksLTU3OTA2MzcxXX0=
 -->
