@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 
-cover-img: /assets/img/agradandoadios.png
-thumbnail-img: /assets/img/agradandoadios.png 
-share-img: /assets/img/agradandoadios.png
+subtitle: 
+cover-img: /assets/img/
+thumbnail-img: /assets/img/ 
+share-img: /assets/img/
 author: José Danois
-tags: [reflexión bíblica]
+tags: []
 published: true
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjcwNzcyXX0=
+eyJoaXN0b3J5IjpbLTE2NzEwNzYyNjhdfQ==
 -->
