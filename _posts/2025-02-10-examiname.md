@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Examíname
-image: /images/Examiname.png
+cover-img: /assets/img/Examiname
+thumbnail-img: /assets/img/Examiname
+share-img: /assets/img/Examiname
 author: José Danois
 tags: [reflexión bíblica] 
 published: true
 ---
-![Examíname](/images/Examiname.png)
-
 ***Examíname, oh Dios, y conoce mi corazón; pruébame y conoce los pensamientos que me inquietan. Salmo 139.23***
 
 Hoy mientras caminaba me vino a la mente esta porción escritural y comencé a reflexionar en la misma. Comencé a pensar en el acto de dejarnos examinar por otra persona.
@@ -78,3 +78,6 @@ Deja que él te hable por su palabra. Recuerda, este momento no es para pensar e
 [^2]: Proverbios 3:5
 
 [^3]: Romanos 8:29
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTAxODIwNjE5OV19
+-->
