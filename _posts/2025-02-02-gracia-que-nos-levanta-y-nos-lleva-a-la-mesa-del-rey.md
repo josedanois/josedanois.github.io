@@ -61,3 +61,8 @@ Esta historia, además de conmovedora, es poderosa y nos invita a reflexionar so
 La gracia divina superó nuestro pecado, nos hizo hijos y nos sentó a la mesa. Ahora estamos sentados con Cristo. El Salmo 113:5-8 ilustra cómo Dios levanta al pobre y al necesitado, sentándolos con príncipes.
 
 **¿Quién como el Señor nuestro Dios, que tiene su trono en las alturas y se inclina para contemplar los cielos y la tierra? Él levanta del polvo al pobre y saca del basurero al necesitado; para hacerlos sentar entre príncipes, entre los príncipes de su pueblo.**
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MTc5NzkwMTddfQ==
+-->
