@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Estar en Cristo
-image: /images/atardecer.jpg
+cover-img: /assets/img/atardecer.jpg
+thumbnail-img: /assets/img/atardecer.jpg
+share-img: /assets/img/atardecer.jpg
 author: José Danois
 tags: [reflexión] 
 published: true
 ---
-![Atardecer](/images/atardecer.jpg)
-
 Estar en Cristo, no es solo una posición, es la unión perfecta entre el creyente y su Señor. Es un estado en el cual experimentamos por decirlo así una fusión sagrada. Como Pablo diría: “ya no vivo yo, mas vive Cristo en mí;”. [^1]
 
 Es esta unión, donde lo divino fluye y da vida a lo humano. Nuestra humanidad se convierte en un canal de producción porque somos partícipes de la naturaleza divina.
@@ -36,5 +36,5 @@ Es triste si no somos capaces de disfrutar de las bendiciones que él ya nos ha 
 
 [^3]: Juan 15:5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTQzNjExNF19
+eyJoaXN0b3J5IjpbLTEyMjU2MjkwOTNdfQ==
 -->
