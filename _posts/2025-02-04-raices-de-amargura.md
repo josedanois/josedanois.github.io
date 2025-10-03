@@ -21,3 +21,8 @@ En último lugar, debemos notar que la raíz de amargura se hace fuerte primero 
 Oísteis que fue dicho: «Amarás a tu prójimo y odiarás a tu enemigo». Pero yo os digo: «Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os odian y orad por los que os ultrajan y os persiguen, para que seáis hijos de vuestro Padre que está en los cielos, que hace salir su sol sobre malos y buenos y llover sobre justos e injustos» (Mt 5.43–45).
 
 Shaw, C. (2005). Alza tus ojos. Desarrollo Cristiano Internacional.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM2ODE4ODMwOF19
+-->
