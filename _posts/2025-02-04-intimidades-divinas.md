@@ -25,3 +25,8 @@ Cristo, en los días de su ministerio terrenal, afirmó: «De cierto, de cierto 
 Para nosotros, como líderes, es fundamental que nos hagamos de esos espacios en los cuales podemos hacer silencio para prestar atención a lo que carga el corazón de nuestro Padre Celestial. ¡De esa revelación depende la eficacia de nuestro ministerio! ¿Tiene tiempo para escuchar las intimidades de nuestro Padre Celestial?
 
 Shaw, C. (2005). Alza tus ojos. Desarrollo Cristiano Internacional.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDQ2MTgyNDYxXX0=
+-->
