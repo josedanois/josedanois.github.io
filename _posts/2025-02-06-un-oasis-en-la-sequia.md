@@ -36,3 +36,8 @@ A continuación, comparto contigo algunas reflexiones, basadas en la sabiduría 
 -   **Busca apoyo en la comunidad de fe:** El camino del ministerio puede ser solitario, pero no tiene por qué serlo. Busca el apoyo de tu esposa o esposo, de otros pastores, de mentores espirituales o de un grupo pequeño de confianza. Compartir tus luchas, tus frustraciones y tus alegrías con otros hermanos te ayudará a procesar tus emociones, a recibir consejo sabio y a fortalecer tu fe. Recuerda que somos miembros los unos de los otros (Romanos 12:5) y que necesitamos del apoyo mutuo para perseverar hasta el final.
     
 Querido pastor, líder, hermano: no te rindas. No desmayes en hacer el bien, porque a su tiempo segarás si no te cansas (Gálatas 6:9). El Señor está contigo. Él conoce tu fatiga, tus lágrimas, tus desvelos. Levanta tus manos caídas y afirma las rodillas débiles. No te has movido en vano, ni has trabajado en vano (Isaías 49:4). Tu labor en el Señor no es en vano. Sigue adelante, con la mirada puesta en Jesús, el autor y consumador de la fe (Hebreos 12:2).
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk3ODc4NTU4NV19
+-->
