@@ -41,4 +41,9 @@ La epístola a los Gálatas nos recuerda que la salvación no se gana, se recibe
 
 >Porque nosotros somos la circuncisión, los que en espíritu servimos a Dios y nos gloriamos en Cristo Jesús, no teniendo confianza en la carne. Filipenses 3:3
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQyMTQzMTkwMl19
+-->
