@@ -6,7 +6,6 @@ thumbnail-img: /assets/img/sentadosalamesadelrey.jpg
 share-img: /assets/img/sentadosalamesadelrey.jpg
 tags: [reflexión bíblica, gracia]
 ---
-![Rey](/images/sentadosalamesadelrey.jpg)
 >***A partir de ese día Mefiboset se sentó a la mesa de David como uno más de los hijos del rey. 2 Samuel 9:6-11***
 
 En 2 Samuel 9:1-11 se nos presenta un hermoso relato acerca de la misericordia y la gracia.
@@ -66,5 +65,5 @@ La gracia divina superó nuestro pecado, nos hizo hijos y nos sentó a la mesa. 
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTUyNzg0OSwtMTYxNzk3OTAxN119
+eyJoaXN0b3J5IjpbODY5NjQ1NTc0LC0xNjE3OTc5MDE3XX0=
 -->
