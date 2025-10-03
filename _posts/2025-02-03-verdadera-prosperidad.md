@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Verdadera Prosperidad
-image: /images/prosperidad.jpg
+cover-img: /assets/img/prosperidad.jpg
+thumbnail-img: /assets/img/prosperidad.jpg 
+share-img: /assets/img/prosperidad.jpg
 author: José Danois
 tags: [reflexión bíblica]
 published: true
 ---
-![Trigo](/images/prosperidad.jpg)
 En el ámbito cristiano, la palabra "prosperidad" ha sido objeto de interpretaciones erróneas y enfoques distorsionados. A menudo se asocia únicamente con riquezas materiales, ignorando la dimensión integral que este concepto engloba en las Escrituras.
 
 En esta entrada reflexionamos sobre la verdadera esencia de la prosperidad a la luz de la Biblia, desmintiendo mitos y enfocándonos en la visión completa que Dios nos ofrece.
@@ -47,5 +48,5 @@ Al buscar la prosperidad integral que Dios nos ofrece, experimentamos una vida p
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwNDc5MTg0XX0=
+eyJoaXN0b3J5IjpbLTE4NjIzOTE3MjcsNTYwNDc5MTg0XX0=
 -->
