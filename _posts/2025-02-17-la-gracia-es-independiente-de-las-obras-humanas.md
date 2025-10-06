@@ -1,12 +1,13 @@
 ---
 layout: post
 title: La gracia es independientemente de la actividad u obra del ser humano
-image: /images/hombrecumbre.jpg
+cover-img: /assets/img/hombrecumbre.jpg
+thumbnail-img: /assets/img/hombrecumbre.jpg
+share-img: /assets/img/hombrecumbre.jpg
 author: José Danois
 tags: [Gracia]
 published: true
 ---
-![Hombre en la cumbre](/images/hombrecumbre.jpg)
 >De Cristo os desligasteis, los que por la ley os justificáis; de la gracia habéis caído. Gálatas 5:4
 
 La gracia[^1] es independiente de la actividad u obra del hombre. Cuando una persona está bajo la ley, no puede estar bajo la gracia; cuando está bajo la gracia, no está bajo la ley.
@@ -38,5 +39,5 @@ Cuando vivíamos controlados por nuestra vieja naturaleza, los deseos pecaminoso
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzMxOTI4MV19
+eyJoaXN0b3J5IjpbLTEyMjc1MzAyMTJdfQ==
 -->
