@@ -3,11 +3,12 @@ layout: post
 title: Teniendo entendimiento espiritual
 cover-img: /assets/img/entendimiento.jpg
 thumbnail-img: /assets/img/entendimiento.jpg
-share-img: /assets/img/entendimiento.jpg
+share-img: /assets/imgimage: /images/entendimiento.jpg
 author: José Danois
-tags: [Reflexión Bíblica]
+tags: [Rreflexión Bbíblica]
 published: true
 ---
+![Biblia](/images/entendimiento.jpg)
 El entendimiento espiritual es un tema crucial en la vida cristiana, como se destaca en las Escrituras. A menudo, nos encontramos actuando sin un entendimiento completo de la voluntad de Dios, dejándonos llevar por nuestras emociones en lugar de la guía del Espíritu Santo. Esta falta de entendimiento espiritual puede llevarnos por caminos equivocados y obstaculizar nuestro crecimiento en la fe.
 
 El salmo 32:9, nos dice “No seas como el mulo o el caballo, que no tienen entendimiento, que necesitan un freno y una brida para mantenerse controlados”. El pasaje nos advierte sobre la necesidad de desarrollar una mente que esté en sintonía con Dios, y a no actuar solo por impulso o emociones. También nos recuerda que, como seres humanos creados a la imagen de Dios, poseemos la capacidad de razonar, comprender y discernir la voluntad divina. Sin embargo, esta capacidad debe ser desarrollada y cultivada a través de una búsqueda diligente del conocimiento de Dios.
@@ -61,3 +62,6 @@ No podemos ser ignorantes de la verdad de Dios. No podemos vivir como el mundo o
 En un mundo lleno de confusión e incertidumbre, la necesidad de un entendimiento espiritual claro es más apremiante que nunca. Como creyentes, hemos sido llamados a ser personas de sabiduría y discernimiento, capaces de navegar por las complejidades de la vida con una perspectiva bíblica. **Al nutrir nuestro entendimiento con el conocimiento de Dios, ejercitarlo en la vida diaria y permitir que el Espíritu Santo nos ilumine, podemos experimentar la plenitud de la vida que Dios ha prometido.** No nos conformemos con un entendimiento superficial, sino que busquemos profundizar en las riquezas de la sabiduría divina, para que podamos vivir vidas que glorifiquen a Dios y reflejen Su carácter.
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NTkyODg1NV19
+-->
