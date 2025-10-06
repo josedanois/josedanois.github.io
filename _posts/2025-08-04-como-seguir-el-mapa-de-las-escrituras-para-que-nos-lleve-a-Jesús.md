@@ -3,7 +3,7 @@ layout: post
 title: Cómo seguir el mapa de las Escrituras para que nos lleve a Jesús
 image: /images/bibliaabierta.jpg
 author: José Danois
-tags: [biblia]
+tags: [Biblia]
 published: true
 ---
 ![Biblia](/images/bibliaabierta.jpg)
