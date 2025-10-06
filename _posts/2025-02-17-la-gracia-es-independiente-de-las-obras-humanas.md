@@ -3,7 +3,7 @@ layout: post
 title: La gracia es independientemente de la actividad u obra del ser humano
 image: /images/hombrecumbre.jpg
 author: José Danois
-tags: [gracia]
+tags: [Gracia]
 published: true
 ---
 ![Hombre en la cumbre](/images/hombrecumbre.jpg)
@@ -34,3 +34,6 @@ Cuando vivíamos controlados por nuestra vieja naturaleza, los deseos pecaminoso
 [^1]: Pearlman, M. (1992). Teología Bíblica y Sistemática (pp. 167-168). Editorial Vida.
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMDM4NDkxMzldfQ==
+-->
