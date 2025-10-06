@@ -4,7 +4,7 @@ title: Tu verdadera identidad en Cristo
 cover-img: /assets/img/identidad.jpg
 thumbnail-img: /assets/img/identidad.jpg
 share-img: /assets/img/identidad.jpg
-tags: [Identidad]
+tags: [Iidentidad]
 ---
 Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
 
@@ -57,3 +57,6 @@ Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
 -   **2 Timoteo 2:10**  Tendremos gloria eterna.
 
   **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones. 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTc1MTEyODU2XX0=
+-->
