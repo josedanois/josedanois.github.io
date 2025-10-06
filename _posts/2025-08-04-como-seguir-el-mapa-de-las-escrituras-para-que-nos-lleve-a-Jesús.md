@@ -76,5 +76,9 @@ Escucha las palabras de Pablo: “Y Él es antes de todas las cosas, y todas las
 
 La teología bíblica nos ayuda a entender cómo el glorioso mapa de las Escrituras señala hacia el futuro y se centra en el resucitado y reinante Rey Jesucristo, y en el pueblo que ha comprado con Su sangre. Queremos que nuestros ojos y nuestro entendimiento se abran tal y como les ocurrió a esos discípulos en el camino a Emaús —Lc 24:31, 45—, y que así podamos reconocer a Jesús en todas las partes de la Biblia y amarle con todo nuestro corazón cuando se nos abran todas las Escrituras (Lc 24:32). Si leemos correctamente el mapa bíblico, este siempre nos guiará a Jesús y nos mostrará nuestra identidad como Su pueblo.
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
+___
+
 
 [^1]: Roark, N., & Cline, R. (2019). La teología bíblica: Cómo la iglesia enseña fielmente el evangelio (M. Dever & J. Leeman, Eds.; A. Molero & R. Molero, Trads.; pp. 25-33). Poiema Lectura Redimida.
