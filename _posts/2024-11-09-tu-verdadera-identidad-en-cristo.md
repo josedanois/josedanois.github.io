@@ -4,7 +4,7 @@ title: Tu verdadera identidad en Cristo
 cover-img: /assets/img/identidad.jpg
 thumbnail-img: /assets/img/identidad.jpg
 share-img: /assets/img/identidad.jpg
-tags: [identidad]
+tags: [Identidad]
 ---
 Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
 
