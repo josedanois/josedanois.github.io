@@ -40,6 +40,8 @@ published: true
 -   Necesitamos a Jesús la Palabra Viva. Juan 1:14
 
   >Entonces la Palabra se hizo hombre y vino a vivir entre nosotros. Estaba lleno de amor inagotable y fidelidad. Y hemos visto su gloria, la gloria del único Hijo del Padre.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDAxOTY5OF19
+eyJoaXN0b3J5IjpbLTE1NTQ0MDUwM119
 -->
