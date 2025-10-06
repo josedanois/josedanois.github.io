@@ -3,7 +3,8 @@ layout: post
 title: Cómo seguir el mapa de las Escrituras para que nos lleve a Jesús
 cover-img: /assets/img/bibliaabierta.jpg
 thumbnail-img: /assets/img/bibliaabierta.jpg
-share-img: /assets/img/bibliaauthor: José Danois
+share-img: /assets/img/bibliaabierta.jpg
+author: José Danois
 tags: [Biblia]
 published: true
 ---
@@ -82,5 +83,5 @@ ___
 
 [^1]: Roark, N., & Cline, R. (2019). La teología bíblica: Cómo la iglesia enseña fielmente el evangelio (M. Dever & J. Leeman, Eds.; A. Molero & R. Molero, Trads.; pp. 25-33). Poiema Lectura Redimida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTE1MTIwOSwtOTgxNzI3OTNdfQ==
+eyJoaXN0b3J5IjpbMTA4MTA3MTgwLC05ODE3Mjc5M119
 -->
