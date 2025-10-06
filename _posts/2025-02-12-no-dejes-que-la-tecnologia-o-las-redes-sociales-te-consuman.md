@@ -1,12 +1,13 @@
 ---
 layout: post
 title: No dejes que la tecnología o las redes sociales te consuman o te distraigan
-image: /images/tecnología.png
+cover-img: /assets/img/tecnología.png
+thumbnail-img: /assets/img/tecnología.png
+share-img: /assets/img/tecnología.png
 author: José Danois
 tags: [Reflexión] 
 published: true
 ---
-![Tecnología](/images/tecnología.png)
 > Lucas 5:16 - 'Pero Jesús se retiraba a lugares solitarios para orar'.
 
 Este versículo enfatiza la práctica de Jesús de encontrar soledad para orar, destacando la importancia de buscar la comunión con Dios lejos de las distracciones del mundo.
@@ -19,5 +20,5 @@ Adopte la disciplina de dedicar tiempo a estudiar, meditar y orar sin las distra
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTQwNDY3NV19
+eyJoaXN0b3J5IjpbMTI0MjU4Mzg5MF19
 -->
