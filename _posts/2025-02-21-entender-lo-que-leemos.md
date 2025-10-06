@@ -3,7 +3,7 @@ layout: post
 title: Entender lo que leemos
 image: /images/charlespurgeon.jpg
 author: José Danois
-tags: [extracto, biblia] 
+tags: [Extracto, Biblia] 
 published: true
 ---
 
@@ -33,3 +33,6 @@ Tiene que haber un conocimiento de las cosas divinas, tal y como son reveladas, 
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MzM3NDE2NDZdfQ==
+-->
