@@ -3,8 +3,7 @@ layout: post
 title: Cuando Dios dice no los acompañaré
 cover-img: /assets/img/nolosacompañare.jpg
 thumbnail-img: /assets/img/nolosacompañare.jpg 
-share-img: /assets/img/nolosacompañare.jpg
-author: José Danois
+share-author: José Danois
 tags: [Reflexión Bíblica]
 published: true
 ---
@@ -39,5 +38,5 @@ Conocer a Dios es una experiencia intensa que llega a lo más profundo del ser. 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTcwMDM3Nl19
+eyJoaXN0b3J5IjpbLTE0Mjg4NTExMTQsLTQzNTcwMDM3Nl19
 -->
