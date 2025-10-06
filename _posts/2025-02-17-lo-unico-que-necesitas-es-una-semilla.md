@@ -3,7 +3,7 @@ layout: post
 title: Lo único que necesitas es una semilla
 image: /images/semillas.jpg
 author: José Danois
-tags: [diario] 
+tags: [Diario] 
 published: true
 ---
 
@@ -19,3 +19,6 @@ Todos tenemos la capacidad de fructificar, el asunto está en que tomemos nuestr
 >Lo único que necesitas es una semilla y claro esta la disposición de sembrarla y la fe para creer que crecerá y dará fruto.
 
 Hoy siembra en ti, siembra en los demás, siembra en tus sueños y metas, siembra en tu hogar, en tu matrimonio una semilla. Riégala todos los días y permite que llegue a dar fruto.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU2MjYxODc3OF19
+-->
