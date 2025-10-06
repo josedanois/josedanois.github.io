@@ -4,7 +4,7 @@ title: Cuida tu Vida Interior
 cover-img: /assets/img/corazon.jpg
 thumbnail-img: /assets/img/corazon.jpg
 share-img: /assets/img/corazon.jpg
-tags: [reflexión bíblica, corazón]
+tags: [Reflexión Bíblica, Corazón]
 ---
 >"Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida" Proverbios 4:23
 
