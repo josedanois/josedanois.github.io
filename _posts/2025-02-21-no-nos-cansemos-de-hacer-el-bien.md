@@ -1,13 +1,13 @@
 ---
 layout: post
 title: No nos cansemos de hacer el bien
-image: /images/cosecha.jpg
+cover-img: /assets/img/cosecha.jpg
+thumbnail-img: /assets/img/cosecha.jpg
+share-img: /assets/img/cosecha.jpg
 author: José Danois
 tags: [Diario] 
 published: true
 ---
-
-![Cosecha](/images/cosecha.jpg)
 _**No nos cansemos, pues, de hacer bien; porque a su tiempo segaremos, si no desmayamos. Gálatas 6:9**_
 
 Años atrás, cuando era jovencito, Dios me dio esa palabra. Ese verso quedó grabado en mi corazón. A lo largo de los años, cada vez que experimento desánimo o frustración cuando no veo los resultados deseados en la obra de Dios, viene a mi mente esta palabra de Gálatas 6:9.
@@ -65,5 +65,5 @@ Los que cosechan son aquellos que no se cansan de hacer el bien, aquellos que pe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTMyNTgzNSwxNzg1NDQzMThdfQ==
+eyJoaXN0b3J5IjpbMTkzNDUwOTEwNCwxNzg1NDQzMThdfQ==
 -->
