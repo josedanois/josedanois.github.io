@@ -3,9 +3,9 @@ layout: post
 title: ¿Qué es la Biblia?
 cover-img: /assets/img/bible-4249164_1280.jpg
 thumbnail-img: /assets/img/bible-4249164_1280.jpg
-share-img: /assets/imgimage: /images/bible-4249164_1280.jpg
+share-img: /assets/img/bible-4249164_1280.jpg
 author: José Danois
-tags: [Bbiblia]
+tags: [Biblia]
 published: true
 ---
 ![Biblia](/images/bible-4249164_1280.jpg)
