@@ -26,6 +26,8 @@ Su gracia siempre me libró y me guiará feliz.
 
 Y cuando en Sión por siglos mil brillando esté cual sol,  
 Yo cantaré por siempre allí Su amor que me salvó.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mjg1Mzg0MV19
+eyJoaXN0b3J5IjpbLTEzNjk4MTIwNF19
 -->
