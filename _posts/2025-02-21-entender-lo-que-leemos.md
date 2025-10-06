@@ -31,8 +31,10 @@ _**Ciertamente, el beneficio de la lectura debe llegar al alma a través del ent
 
 Tiene que haber un conocimiento de las cosas divinas, tal y como son reveladas, antes de poder disfrutar de ellas. Debemos procurar entender, en la medida que nos permitan nuestras mentes finitas, qué es lo que Dios quiere decir con esto o aquello. _**Si no es así, podemos besar el libro sin amar su contenido; podemos reverenciar la letra, sin tener respeto a Dios, que es el que nos habla en esas palabras.**_ No nos podemos sentir alentados con algo que no entendemos, ni encontrar una guía para nuestra vida en aquello que no comprendemos; tampoco es posible moldear nuestra personalidad de acuerdo con la Palabra si no la entendemos.
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM3NDE2NDZdfQ==
+eyJoaXN0b3J5IjpbLTE4NjE4MDAyMjddfQ==
 -->
