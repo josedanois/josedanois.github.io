@@ -5,7 +5,7 @@ cover-img: /assets/img/nuevacreacion.jpg
 thumbnail-img: /assets/img/nuevacreacion.jpg
 share-img: /assets/img/nuevacreacion.jpg
 author: José Danois
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 published: true
 ---
 Imaginemos por un momento que somos una hoja en blanco. Sin forma, sin color, sin vida. De repente, un artista talentoso toma su pincel y comienza a crear una obra maestra. Trazos precisos, colores vibrantes, detalles exquisitos... La hoja en blanco se transforma en una obra de arte, adquiriendo una nueva identidad, un nuevo propósito.
@@ -64,5 +64,5 @@ La nueva creación que Dios nos ofrece en Cristo es un regalo inestimable. Al se
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzY4OTc1M119
+eyJoaXN0b3J5IjpbMjYwNDU0ODg3LC00NjM2ODk3NTNdfQ==
 -->
