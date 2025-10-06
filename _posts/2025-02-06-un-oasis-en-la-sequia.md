@@ -39,6 +39,3 @@ A continuación, comparto contigo algunas reflexiones, basadas en la sabiduría 
 Querido pastor, líder, hermano: no te rindas. No desmayes en hacer el bien, porque a su tiempo segarás si no te cansas (Gálatas 6:9). El Señor está contigo. Él conoce tu fatiga, tus lágrimas, tus desvelos. Levanta tus manos caídas y afirma las rodillas débiles. No te has movido en vano, ni has trabajado en vano (Isaías 49:4). Tu labor en el Señor no es en vano. Sigue adelante, con la mirada puesta en Jesús, el autor y consumador de la fe (Hebreos 12:2).
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDEwMjIzMjJdfQ==
--->
