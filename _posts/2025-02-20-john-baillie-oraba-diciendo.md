@@ -3,7 +3,7 @@ layout: post
 title: John Baillie oraba diciendo...
 image: /images/manosunidas.jpg
 author: José Danois
-tags: [extracto]
+tags: [Extracto]
 published: true
 ---
 
@@ -31,3 +31,6 @@ El autor británico John Baillie oraba diciendo: Enséñame, oh Dios, a usar de 
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM4NDgyMjE0NF19
+-->
