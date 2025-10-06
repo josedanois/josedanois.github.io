@@ -5,7 +5,7 @@ cover-img: /assets/img/Examiname.png
 thumbnail-img: /assets/img/Examiname.png
 share-img: /assets/img/Examiname.png
 author: José Danois
-tags: [reflexión bíblica] 
+tags: [Reflexión Bíblica] 
 published: true
 ---
 ***Examíname, oh Dios, y conoce mi corazón; pruébame y conoce los pensamientos que me inquietan. Salmo 139.23***
@@ -82,5 +82,6 @@ Deja que él te hable por su palabra. Recuerda, este momento no es para pensar e
 
 [^3]: Romanos 8:29
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjAwNDg0LDE4MjcyOTI3ODldfQ==
+eyJoaXN0b3J5IjpbMzA3Mjg1OTI0LDE3NzYwMDQ4NCwxODI3Mj
+kyNzg5XX0=
 -->
