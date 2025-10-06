@@ -5,7 +5,7 @@ cover-img: /assets/img/agradandoadios.png
 thumbnail-img: /assets/img/agradandoadios.png 
 share-img: /assets/img/agradandoadios.png
 author: José Danois
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 published: true
 ---
 El deseo de cada creyente en Cristo debería ser agradar a Dios. Si hemos sido objeto de su amor y de su gracia lo menos que podemos hacer es vivir para agradarle.
