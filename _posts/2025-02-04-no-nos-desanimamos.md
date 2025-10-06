@@ -1,12 +1,13 @@
 ---
 layout: post
 title: No nos desanimamos
-image: /images/desanimo.jpg
+cover-img: /assets/img/desanimo.jpg
+thumbnail-img: /assets/img/desanimo.jpg 
+share-img: /assets/img/desanimo.jpg
 author: José Danois
 tags: [reflexión bíblica]
 published: true
 ---
-![Desánimo ](/images/desanimo.jpg)
 En medio de los desafíos y tribulaciones de la vida, es fácil sentirse desanimado y descorazonado. 2 Corintios 4:16-18, nos ofrece un poderoso mensaje de esperanza y resiliencia, recordándonos que a pesar de las pruebas que enfrentamos, podemos encontrar fortaleza y renovación en Cristo.
 
 **El desafío del desaliento**
