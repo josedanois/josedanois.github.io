@@ -3,7 +3,7 @@ layout: post
 title: Intimidades Divinas
 cover-img: /assets/img/hombreenelsendero.jpg
 thumbnail-img: /assets/img/hombreenelsendero.jpg
-share-img: /assets/img/hombreenelsendero.jpg
+share-img: /assets/img
 author: José Danois
 tags: [Extracto] 
 published: true
@@ -29,5 +29,5 @@ Shaw, C. (2005). Alza tus ojos. Desarrollo Cristiano Internacional.
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2MTgyNDYxXX0=
+eyJoaXN0b3J5IjpbLTE2MjE4NjExMSw0NDYxODI0NjFdfQ==
 -->
