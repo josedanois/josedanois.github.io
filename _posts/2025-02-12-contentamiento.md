@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Esa extraña virtud llamada contentamiento
-image: /images/contentamiento.jpg
+cover-img: /assets/img/contentamiento.jpg
+thumbnail-img: /assets/img/contentamiento.jpg
+share-img: /assets/img/contentamiento.jpg
 author: José Danois
 tags: [Reflexión Bíblica] 
 published: true
 ---
-![Hombre arrodillado](/images/contentamiento.jpg)
-
 Vivimos en un mundo de descontento e insatisfacción. En gran parte esto se debe a la no satisfacción de las necesidades y a las situaciones que nos resultan incomodas.
 
 Los creyentes no somos inmunes al descontento, lo encontramos en la Iglesia y en nosotros mismos.
@@ -114,5 +114,5 @@ Es hora de cambiar esa actitud y comenzar a ser enseñado. Es momento de entrar 
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjk4Njk0NF19
+eyJoaXN0b3J5IjpbLTI0NTM1OTE5OV19
 -->
