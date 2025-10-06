@@ -1,13 +1,13 @@
 ---
 layout: post
 title: John Baillie oraba diciendo...
-image: /images/manosunidas.jpg
+cover-img: /assets/img/manosunidas.jpg
+thumbnail-img: /assets/img/manosunidas.jpg
+share-img: /assets/img/manosunidas.jpg
 author: José Danois
 tags: [Extracto]
 published: true
 ---
-
-![Manos](/images/manosunidas.jpg)
 El autor británico John Baillie oraba diciendo: Enséñame, oh Dios, a usar de tal modo todas las circunstancias de mi vida hoy, que puedan producir en mí frutos de santidad y no frutos de pecado:
 
 -   Permíteme usar el desencanto como material para la paciencia.
@@ -34,5 +34,5 @@ El autor británico John Baillie oraba diciendo: Enséñame, oh Dios, a usar de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxMTQ3OTgzXX0=
+eyJoaXN0b3J5IjpbLTEzOTIxNjM0MjBdfQ==
 -->
