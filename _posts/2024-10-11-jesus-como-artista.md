@@ -4,7 +4,7 @@ title: Jesús como artista
 cover-img: /assets/img/vangogh.jpg
 thumbnail-img: /assets/img/vangogh.jpg
 share-img: /assets/img/vangogh.jpg
-tags: [Extracto]
+tags: [Eextracto]
 ---
 El siguiente extracto es de una carta[^1] de Vincent Van Gogh[^2] a Emile Bernard, el 26 de junio de 1888. Es interesante como Van Gogh que en algún momento fuera pastor protestante, se expresa en esta carta acerca de Jesús. 
 
@@ -29,3 +29,6 @@ ___
 [^1]: Cartas de Van Gogh
 
 [^2]:  Vincent van Gogh (1853-1890) fue un pintor postimpresionista holandés que se encuentra entre las figuras más famosas e influyentes en la historia del arte occidental. Durante poco más de una década, creó alrededor de 2100 obras de arte, incluyendo alrededor de 860 pinturas al óleo, la mayoría de las cuales datan de los últimos dos años de su vida. Desde joven tuvo inclinación hacia el dibujo. Su primer trabajo fue en una galería de arte. Más tarde se convirtió en pastor protestante y en 1879, a la edad de veintiséis años, se marchó como misionero a una región minera de Bélgica, donde comenzó a dibujar a la gente de la comunidad local. A finales de marzo de 1876 regresó a Inglaterra, donde permaneció dos años. Por aquel tiempo, Van Gogh aumentó su fanatismo religioso. Le entusiasmaba la lectura de la Biblia, y _La imitación de Cristo_ de Tomás de Kempis. Después de estar un tiempo como maestro auxiliar en Ramsgate, empezó a trabajar en Isleworth como ayudante del predicador metodista Jones, donde llegó a subir al púlpito de la iglesia y leer un sermón que se había preparado escrupulosamente. Sobre este primer sermón existe una copia que envió a su hermano Theo con frases como: **Cuando me encontraba en el púlpito, me sentía como quien desde una oscura cueva subterránea vuelve a salir a la plena luz, y es maravilloso pensar que, desde ahora, predicaré el Evangelio por todo el mundo.**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEzODU2MDk4MV19
+-->
