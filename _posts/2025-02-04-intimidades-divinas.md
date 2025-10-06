@@ -5,7 +5,7 @@ cover-img: /assets/img/hombreenelsendero.jpg
 thumbnail-img: /assets/img/hombreenelsendero.jpg
 share-img: /assets/img/hombreenelsendero.jpg
 author: José Danois
-tags: [extracto] 
+tags: [Extracto] 
 published: true
 ---
 >***Vino luego esta palabra de Jehová a Samuel: Me pesa haber hecho rey a Saúl, porque se ha apartado de mí y no ha cumplido mis palabras. Se apesadumbró Samuel y clamó a Jehová toda aquella noche. 1 Samuel 15.10–11***
