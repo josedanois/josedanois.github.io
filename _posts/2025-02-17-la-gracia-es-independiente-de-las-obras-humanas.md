@@ -30,10 +30,13 @@ Quienes ponen su confianza en la ley están bajo maldición, porque la Escritura
 
 Cuando vivíamos controlados por nuestra vieja naturaleza, los deseos pecaminosos actuaban dentro de nosotros y la ley despertaba esos malos deseos que producían una cosecha de acciones pecaminosas, las cuales nos llevaban a la muerte. Pero ahora fuimos liberados de la ley, porque morimos a ella y ya no estamos presos de su poder. Ahora podemos servir a Dios, no según el antiguo modo—que consistía en obedecer la letra de la ley—sino mediante uno nuevo, el de vivir en el Espíritu. Romanos 7:5-7 
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
+---
 
 [^1]: Pearlman, M. (1992). Teología Bíblica y Sistemática (pp. 167-168). Editorial Vida.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM4NDkxMzldfQ==
+eyJoaXN0b3J5IjpbLTQ4NzMxOTI4MV19
 -->
