@@ -4,7 +4,7 @@ title: Adoración más allá de nuestros labios
 cover-img: /assets/img/Adoracion.png
 thumbnail-img: /assets/img/Adoracion.png
 share-img: /assets/img/Adoracion.png
-tags: [reflexión bíblica, adoración]
+tags: [Reflexión Bíblica, Adoración]
 ---
 Hoy en día nos hemos especializado en la adoración. Nos preocupa como ser mejores adoradores o como llevar una “buena” adoración en el servicio de la Iglesia. Incluso, existen libros y cursos sobre Adoración. Todo esto responde al contexto de la experiencia cúltica o congregacional. Es decir, cuando los creyentes se reúnen en sus congregaciones locales o en algún evento para adorar. De ahí el surgimiento de tantos ministerios de adoración en nuestras iglesias con sus respectivas liturgias.
 
