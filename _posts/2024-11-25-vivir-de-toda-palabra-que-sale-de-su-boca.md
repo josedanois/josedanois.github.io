@@ -4,7 +4,7 @@ title: Vivir de toda palabra que sale de su boca
 cover-img: /assets/img/santabiblia.jpg
 thumbnail-img: /assets/img/santabiblia.jpg
 share-img: /assets/img/santabiblia.jpg
-tags: [Bbiblia]
+tags: [Biblia]
 ---
 > Jesús respondió: Escrito está: “No sólo de pan vive el hombre, sino de toda palabra que sale de la boca de Dios”. Mateo 4:4
 
@@ -54,5 +54,5 @@ Es por esa razón que cada día necesitamos el pan nuestro de cada día, no solo
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMjQwNjE1XX0=
+eyJoaXN0b3J5IjpbLTg2MDYwOTU5N119
 -->
