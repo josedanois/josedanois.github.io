@@ -1,12 +1,13 @@
 ---
 layout: post
 title: No soy lo que debería ser
-image: /images/JohnNewton.jpg
+cover-img: /assets/img/JohnNewton.jpg
+thumbnail-img: /assets/img/JohnNewton.jpg
+share-img: /assets/img/JohnNewton.jpg
 author: José Danois
 tags: [Extracto]
 published: true
 ---
-![JohnNewton](/images/JohnNewton.jpg)
 > No soy lo que debería ser: ¡ah, ¡qué imperfecto y deficiente! No soy lo que deseo ser; aborrezco lo que es malo, y me apego a lo que es bueno. No soy lo que espero ser: pronto dejaré de lado la mortalidad, y con la mortalidad todo pecado e imperfección. Sin embargo, aunque no soy lo que debería ser, ni lo que deseo ser, ni lo que espero ser, puedo decir verdaderamente que no soy lo que una vez fui; un esclavo del pecado y de Satanás; y puedo unirme de corazón al apóstol, y reconocer: “Por la gracia de Dios soy lo que soy”.
 
 John Newton (Teólogo evangélico)
@@ -29,5 +30,5 @@ Yo cantaré por siempre allí Su amor que me salvó.
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjk4MTIwNF19
+eyJoaXN0b3J5IjpbOTI2MDc1OTNdfQ==
 -->
