@@ -5,7 +5,7 @@ cover-img: /assets/img/nolosacompañare.jpg
 thumbnail-img: /assets/img/nolosacompañare.jpg 
 share-img: /assets/img/nolosacompañare.jpg
 author: José Danois
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 published: true
 ---
 >El Señor le dijo a Moisés: «Váyanse, tú y el pueblo que sacaste de la tierra de Egipto. Suban a la tierra que juré dar a Abraham, Isaac y Jacob. A ellos les dije: “Daré esta tierra a sus descendientes”. Enviaré un ángel delante de ti para expulsar a los cananeos, los amorreos, los hititas, los ferezeos, los heveos y los jebuseos. Suban a la tierra donde fluyen la leche y la miel. Sin embargo, yo no los acompañaré, porque son un pueblo terco y rebelde. Si lo hiciera, seguramente los destruiría en el camino». (Éxodo 33:1-3).
