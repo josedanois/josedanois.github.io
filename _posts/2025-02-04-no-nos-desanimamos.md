@@ -1,7 +1,8 @@
 ---
 layout: post
 title: No nos desanimamos
-cover-img: /assets/img/desthumbnail-img: /assets/img/desanimo.jpg 
+cover-img: /assets/img/desanimo.jpg
+thumbnail-img: /assets/img/desanimo.jpg 
 share-img: /assets/img/desanimo.jpg
 author: José Danois
 tags: [Reflexión Bíblica]
@@ -49,5 +50,6 @@ No nos desanimemos, sino sigamos avanzando con fe y determinación, sabiendo que
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTEyNTU1OSwtNzY2MDg5MDk5XX0=
+eyJoaXN0b3J5IjpbLTU5OTMxNTgxNiwtNDg5MTI1NTU5LC03Nj
+YwODkwOTldfQ==
 -->
