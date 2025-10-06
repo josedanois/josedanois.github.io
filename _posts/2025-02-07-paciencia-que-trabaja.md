@@ -5,7 +5,7 @@ cover-img: /assets/img/Perseverancia.jpg
 thumbnail-img: /assets/img/Perseverancia.jpg
 share-img: /assets/img/Perseverancia.jpg
 author: José Danois
-tags: [reflexión bíblica] 
+tags: [Reflexión Bíblica] 
 published: true
 ---
 >Con vuestra paciencia ganaréis vuestras almas. Lucas 21:19
@@ -156,5 +156,5 @@ Algo la paciencia está produciendo en ti. Te está haciendo resistente, te est�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDYzNTUwOTZdfQ==
+eyJoaXN0b3J5IjpbNzE2NTA3OTQ0XX0=
 -->
