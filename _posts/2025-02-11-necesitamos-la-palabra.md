@@ -3,7 +3,7 @@ layout: post
 title: Necesitamos la Palabra
 image: /images/jesuspalabra.jpg
 author: José Danois
-tags: [reflexión bíblica] 
+tags: [Reflexión Bíblica] 
 published: true
 ---
 ![Jesús](/images/jesuspalabra.jpg)
@@ -40,3 +40,6 @@ published: true
 -   Necesitamos a Jesús la Palabra Viva. Juan 1:14
 
   >Entonces la Palabra se hizo hombre y vino a vivir entre nosotros. Estaba lleno de amor inagotable y fidelidad. Y hemos visto su gloria, la gloria del único Hijo del Padre.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU0NDAxOTY5OF19
+-->
