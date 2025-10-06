@@ -4,7 +4,7 @@ title: Extendiéndome a lo que está delante
 cover-img: /assets/img/carretera.jpg
 thumbnail-img: /assets/img/carretera.jpg
 share-img: /assets/img/carretera.jpg
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 ---
 >*Yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante, prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús. Filipenses 3:13-14*
 
