@@ -5,7 +5,7 @@ cover-img: /assets/img/gloria.jpg
 thumbnail-img: /assets/img/gloria.jpg
 share-img: /assets/img/gloria.jpg
 author: José Danois
-tags: [reflexión bíblica] 
+tags: [Reflexión Bíblica] 
 published: true
 ---
 >Desvelando el Poder de la Transformación Espiritual
@@ -48,5 +48,5 @@ La increíble realidad es que la gloria de Dios ya reside dentro de nosotros a t
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTE1MTc2OF19
+eyJoaXN0b3J5IjpbLTI1NjIyMTAxNywxNzYxMTUxNzY4XX0=
 -->
