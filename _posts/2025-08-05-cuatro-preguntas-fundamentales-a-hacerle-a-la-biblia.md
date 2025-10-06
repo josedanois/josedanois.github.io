@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Cuatro preguntas fundamentales a hacerle a la Biblia
-image: /images/preguntas.jpg
+cover-img: /assets/img//preguntas.jpg
+thumbnail-img: /assets/img/preguntas.jpg
+share-img: /assets/img//preguntas.jpg
 author: José Danois
 tags: [Bbiblia]
 published: true
 ---
-![Biblia](/images/preguntas.jpg)
-
 Cuando se trata de estudiar y aplicar la Biblia, es esencial hacer buenas preguntas. En un sentido muy real, la calidad de las preguntas que formulamos determina lo que sacamos del texto y nuestra capacidad para aplicarlo a nuestra vida. Pero debemos asegurarnos de que hacemos las preguntas adecuadas.
 
 **¿Qué tipo de preguntas pretende responder la Biblia?**[^1]
