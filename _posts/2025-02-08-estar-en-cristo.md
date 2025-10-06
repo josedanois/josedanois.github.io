@@ -5,7 +5,7 @@ cover-img: /assets/img/atardecer.jpg
 thumbnail-img: /assets/img/atardecer.jpg
 share-img: /assets/img/atardecer.jpg
 author: José Danois
-tags: [reflexión] 
+tags: [Reflexión] 
 published: true
 ---
 Estar en Cristo, no es solo una posición, es la unión perfecta entre el creyente y su Señor. Es un estado en el cual experimentamos por decirlo así una fusión sagrada. Como Pablo diría: “ya no vivo yo, mas vive Cristo en mí;”. [^1]
@@ -36,5 +36,5 @@ Es triste si no somos capaces de disfrutar de las bendiciones que él ya nos ha 
 
 [^3]: Juan 15:5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU2MjkwOTNdfQ==
+eyJoaXN0b3J5IjpbLTExOTA2Njc3MTddfQ==
 -->
