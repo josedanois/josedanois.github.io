@@ -1,13 +1,13 @@
 ---
 layout: post
 title: ¿Está alguno afligido?
-image: /images/hombreorando.jpg
+cover-img: /assets/img/hombreorando.jpg
+thumbnail-img: /assets/img/hombreorando.jpg
+share-img: /assets/img/hombreorando.jpg
 author: José Danois
 tags: [Reflexión Bíblica] 
 published: true
 ---
-
-![Hombre orando](/images/hombreorando.jpg)
 > ***¿Está alguno entre vosotros afligido? Haga oración…Santiago 5:13***
 
 No sé si lo sabías, pero los creyentes también nos afligimos. La aflicción puede visitarnos cuando atravesamos diversas pruebas, procesos, problemas, o adversidades.
@@ -48,5 +48,5 @@ Estas afligido haz oración, alguien está esperando para escucharte, para forta
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM2MDM5M119
+eyJoaXN0b3J5IjpbMTkzODIzMzkyNl19
 -->
