@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Intimidades Divinas
-image: /images/hombreenelsendero.jpg
+cover-img: /assets/img/hombreenelsendero.jpg
+thumbnail-img: /assets/img/hombreenelsendero.jpg
+share-img: /assets/img/hombreenelsendero.jpg
 author: José Danois
 tags: [extracto] 
 published: true
 ---
-![Hombre caminando](/images/hombreenelsendero.jpg)
 >***Vino luego esta palabra de Jehová a Samuel: Me pesa haber hecho rey a Saúl, porque se ha apartado de mí y no ha cumplido mis palabras. Se apesadumbró Samuel y clamó a Jehová toda aquella noche. 1 Samuel 15.10–11***
 
 Estos versículos, perdidos en el dramático relato de la segunda desobediencia de Saúl, casi pasan desapercibidos. El genio del historiador, no obstante, lo llevó a insertar en medio de un relato netamente carnal, una mirilla que nos permite ver por un instante lo que estaba pasando en el plano espiritual de esta anécdota. Cuando nos detenemos, como espectadores, en este segundo escenario, no podemos dejar de sentirnos atraídos por la extraordinaria intimidad del cuadro que presenta.
