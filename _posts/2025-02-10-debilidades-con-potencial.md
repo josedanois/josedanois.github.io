@@ -5,7 +5,7 @@ cover-img: /assets/img/Mariposa.jpg
 thumbnail-img: /assets/img/Mariposa.jpg
 share-img: /assets/img/Mariposa.jpg
 author: José Danois
-tags: [extracto] 
+tags: [Extracto] 
 published: true
 ---
 Existe una tendencia universal en el ser humano a esconder sus debilidades. Estamos tristes, pero ponemos cara de alegría. Deseamos llorar, pero contenemos nuestras lágrimas. Nos sentimos abrumados, pero aparentamos estar en control. Luchamos con la depresión, pero buscamos convencer a los demás de nuestro buen ánimo.
@@ -26,5 +26,5 @@ No trate de disimular sus debilidades. No busque esconderlas, ni pierda el tiemp
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Mjg1NTg2XX0=
+eyJoaXN0b3J5IjpbLTQyODAyOTUxOF19
 -->
