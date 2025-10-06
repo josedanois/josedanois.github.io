@@ -5,7 +5,7 @@ cover-img: /assets/img/honmbreantelacruz.jpg
 thumbnail-img: /assets/img/honmbreantelacruz.jpg
 share-img: /assets/img/honmbreantelacruz.jpg
 author: José Danois
-tags: [reflexión bíblica] 
+tags: [Reflexión Bíblica] 
 published: true
 ---
 En Lucas 8:26-39 se nos cuenta la historia de un hombre endemoniado. Su condición era tal que andaba desnudo y no vivía en una casa, sino en los sepulcros. Cada vez que los demonios se apoderaban de él, intentaban sujetar sus pies y manos con cadenas, pero él las rompía y el demonio lo arrastraba a lugares solitarios.
@@ -33,5 +33,5 @@ Proclamó por todo el pueblo lo mucho que Jesús había hecho por él.
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDQ1ODUzXX0=
+eyJoaXN0b3J5IjpbMjAwNzEzMDI2OV19
 -->
