@@ -5,7 +5,7 @@ cover-img: /assets/img/recibiendoanimo.jpg
 thumbnail-img: /assets/img/recibiendoanimo.jpg
 share-img: /assets/img/recibiendoanimo.jpg
 author: José Danois
-tags: [reflexión]
+tags: [Reflexión]
 published: true
 ---
 Sabemos que el camino del ministerio no siempre está bañado por el sol de la victoria, ni adornado con los laureles del éxito terrenal. A veces, la aridez del desierto se apodera del panorama ministerial, dejándonos con un corazón sediento de resultados, y un espíritu cansado por la aparente falta de fruto.
@@ -39,3 +39,6 @@ A continuación, comparto contigo algunas reflexiones, basadas en la sabiduría 
 Querido pastor, líder, hermano: no te rindas. No desmayes en hacer el bien, porque a su tiempo segarás si no te cansas (Gálatas 6:9). El Señor está contigo. Él conoce tu fatiga, tus lágrimas, tus desvelos. Levanta tus manos caídas y afirma las rodillas débiles. No te has movido en vano, ni has trabajado en vano (Isaías 49:4). Tu labor en el Señor no es en vano. Sigue adelante, con la mirada puesta en Jesús, el autor y consumador de la fe (Hebreos 12:2).
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU3NzIwMjg2Ml19
+-->
