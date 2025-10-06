@@ -4,7 +4,7 @@ title: Conocidos por Dios
 cover-img: /assets/img/conocidospordios.jpg 
 thumbnail-img: /assets/img/conocidospordios.jpg
 share-img: /assets/img/conocidospordios.jpg
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 ---
 > *Ahora conozco en parte; pero entonces conoceré como fui conocido. 1 Corintios 13:12*
 
