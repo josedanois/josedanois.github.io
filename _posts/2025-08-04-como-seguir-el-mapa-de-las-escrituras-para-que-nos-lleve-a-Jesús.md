@@ -5,7 +5,7 @@ cover-img: /assets/img/bibliaabierta.jpg
 thumbnail-img: /assets/img/bibliaabierta.jpg
 share-img: /assets/img/bibliaabierta.jpg
 author: José Danois
-tags: [Bbiblia]
+tags: [Biblia]
 published: true
 ---
 Hemos visto que si pasamos por alto el mensaje central de la historia de la Biblia produciremos evangelios e iglesias falsas. La segunda cosa que necesitamos, es un marco de referencia para comprender toda la Biblia. La teología bíblica provee dicho marco porque guía nuestra lectura de la Biblia protegiéndonos de interpretarla erróneamente.
