@@ -61,7 +61,9 @@ Los que cosechan son aquellos que no se cansan de hacer el bien, aquellos que pe
 
 > Los que siembran con lágrimas cosecharán con gritos de alegría. Lloran al ir sembrando sus semillas, pero regresan cantando cuando traen la cosecha. Salmos 126:5-6
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTQ0MzE4XX0=
+eyJoaXN0b3J5IjpbLTE0NTMyNTgzNSwxNzg1NDQzMThdfQ==
 -->
