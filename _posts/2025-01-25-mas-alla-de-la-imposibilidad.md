@@ -4,7 +4,7 @@ title: Más allá de la imposibilidad
 cover-img: /assets/img/imposibilidad.jpg
 thumbnail-img: /assets/img/imposibilidad.jpg
 share-img: /assets/img/imposibilidad.jpg
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 ---
 >Y he aquí tu parienta Elisabet, ella también ha concebido hijo en su vejez; y este es el sexto mes para ella, la que llamaban estéril; porque nada hay imposible para Dios. Entonces María dijo: He aquí la sierva del Señor; hágase conmigo conforme a tu palabra. Y el ángel se fue de su presencia. Lucas 1:38-38
 
