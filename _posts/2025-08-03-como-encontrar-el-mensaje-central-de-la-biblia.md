@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Cómo encontrar el mensaje central de la historia
-image: /images/bibliaabierta.jpg
+cover-img: /assets/img/bibliaabierta.jpg
+thumbnail-img: /assets/img/bibliaabierta.jpg
+share-img: /assets/img/bibliaabierta.jpg
 author: José Danois
 tags: [Biblia]
 published: true
 ---
-![Biblia](/images/bibliaabierta.jpg)
-
 **_Necesitamos las Teología Bíblica_**[^1]
 
 Es posible leer una historia, encontrarla interesante y, aun así, perderte por completo su mensaje central. Por ejemplo, podrías poner una atención desmedida en el escenario o en los personajes secundarios. Podrías leer solamente párrafos aislados o saltar sin rumbo de un lugar a otro. Incluso podrías tratar de confeccionar la trama de la historia o su moraleja desde diversas secciones desconectadas. Pero si haces algo así, lo más probable es que malinterpretes la historia, la figura del héroe y los temas principales.
