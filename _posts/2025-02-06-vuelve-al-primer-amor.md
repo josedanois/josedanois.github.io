@@ -51,6 +51,3 @@ _Pedro se entristeció de que le dijese la tercera vez: ¿Me amas? y le respondi
 Juan 21:15-17
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM4NDExMzgsMTg5MTcxNDU4NV19
--->
