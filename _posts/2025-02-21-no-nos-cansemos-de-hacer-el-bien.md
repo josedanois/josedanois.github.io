@@ -3,7 +3,7 @@ layout: post
 title: No nos cansemos de hacer el bien
 image: /images/cosecha.jpg
 author: José Danois
-tags: [diario] 
+tags: [Diario] 
 published: true
 ---
 
@@ -62,3 +62,6 @@ Los que cosechan son aquellos que no se cansan de hacer el bien, aquellos que pe
 > Los que siembran con lágrimas cosecharán con gritos de alegría. Lloran al ir sembrando sus semillas, pero regresan cantando cuando traen la cosecha. Salmos 126:5-6
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTc4NTQ0MzE4XX0=
+-->
