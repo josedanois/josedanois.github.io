@@ -4,7 +4,7 @@ title: Un pacto inquebrantable
 cover-img: /assets/img/pactoinquebrantable.jpg
 thumbnail-img: /assets/img/pactoinquebrantable.jpg
 share-img: /assets/img/pactoinquebrantable.jpg
-tags: [reflexión bíblica, pacto]
+tags: [Reflexión Bíblica, Pacto]
 ---
 > ***Descubriendo la Profundidad de la Amistad con Jesús***
 
