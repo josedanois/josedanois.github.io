@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Hemos sido bendecidos con toda bendición espiritual...
-image: /images/celestiales.jpg
+cover-img: /assets/img/celestiales.jpg
+thumbnail-img: /assets/img/celestiales.jpg
+share-img: /assets/img/celestiales.jpg
 author: José Danois
 tags: [Reflexión Bíblica]
 published: true
 ---
-![Cielos](/images/celestiales.jpg)
 > Bendito sea Dios, Padre de nuestro Señor Jesucristo, que nos ha bendecido en las regiones celestiales con toda bendición espiritual en Cristo. Efesios 1.3
 
 El capítulo 1 de la epístola a los Efesios comienza con una poderosa declaración:
@@ -51,5 +52,5 @@ Haremos bien en dar una cuidadosa lectura a la epístola a los Efesios, particul
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTkwMzQ0NTJdfQ==
+eyJoaXN0b3J5IjpbLTE5NjI2MTMyMjJdfQ==
 -->
