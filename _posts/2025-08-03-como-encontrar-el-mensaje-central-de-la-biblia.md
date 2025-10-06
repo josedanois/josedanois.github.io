@@ -3,7 +3,7 @@ layout: post
 title: Cómo encontrar el mensaje central de la historia
 image: /images/bibliaabierta.jpg
 author: José Danois
-tags: [biblia]
+tags: [Biblia]
 published: true
 ---
 ![Biblia](/images/bibliaabierta.jpg)
@@ -52,5 +52,8 @@ El propio Jesús dice en Lucas 24 que Él es la clave para interpretar las Escri
 
 En conclusión, si no entendemos el mensaje central de la narrativa bíblica, produciremos evangelios e iglesias falsas. La teología bíblica nos ayuda a entender correctamente la gran historia de la Biblia, colocando al Rey Jesús en el principio, el centro y el final de la verídica y singular historia que encontramos en las Escrituras.
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
+___
 
 [^1]: Roark, N., & Cline, R. (2019). La teología bíblica: Cómo la iglesia enseña fielmente el evangelio (M. Dever & J. Leeman, Eds.; A. Molero & R. Molero, Trads.; pp. 15-24). Poiema Lectura Redimida.
