@@ -4,7 +4,7 @@ title: Cuando llega la duda
 cover-img: /assets/img/duda.jpg
 thumbnail-img: /assets/img/duda.jpg
 share-img: /assets/img/duda.jpg
-tags: [reflexión bíblica, video]
+tags: [Reflexión Bíblica, Video]
 ---
 >***Juan el Bautista, quien estaba en prisión, oyó acerca de todas las cosas que hacía el Mesías. Entonces envió a sus discípulos para que le preguntaran a Jesús: ¿Eres tú el Mesías a quien hemos esperado o debemos seguir buscando a otro? Mateo 11:2–3 NTV***
 
