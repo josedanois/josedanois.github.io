@@ -28,7 +28,9 @@ La gracia de Dios es un misterio maravilloso que nos llena de esperanza y alegr�
 
 > ¡Gracias a Dios por su don inefable! 2 Corintios 9:15
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0OTkyMjg0XX0=
+eyJoaXN0b3J5IjpbLTE3OTE3NDA3MTNdfQ==
 -->
