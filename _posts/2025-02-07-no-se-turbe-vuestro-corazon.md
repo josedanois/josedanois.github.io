@@ -5,7 +5,7 @@ cover-img: /assets/img/hielo.jpg
 thumbnail-img: /assets/img/hielo.jpg
 share-img: /assets/img/hielo.jpg
 author: José Danois
-tags: [reflexión bíblica] 
+tags: [Reflexión Bíblica] 
 published: true
 ---
 >No se turbe vuestro corazón; creed en Dios, creed también en mí. Juan 14:1-2
@@ -40,5 +40,5 @@ Solo en Jesús el Hijo de Dios encuentras tu paz.
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTI1Mzg3NV19
+eyJoaXN0b3J5IjpbOTAwNjE5NzI1XX0=
 -->
