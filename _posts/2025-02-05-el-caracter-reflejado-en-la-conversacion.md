@@ -5,7 +5,7 @@ cover-img: /assets/img/discutir.jpg
 thumbnail-img: /assets/img/discutir.jpg
 share-img: /assets/img/discutir.jpg
 author: José Danois
-tags: [crecimiento]
+tags: [Crecimiento]
 published: true
 ---
 >***"Todo hombre sea pronto para oír, tardo para hablar, tardo para airarse." Santiago 1:19***
@@ -63,3 +63,6 @@ La conversación es un reflejo de nuestro carácter y una herramienta poderosa p
 A fin de cuentas, la clave está en encontrar el equilibrio. La comunicación efectiva no se trata solo de hacer oír nuestra voz, sino de escuchar y valorar las voces de los demás. Solo así podremos construir conversaciones significativas que reflejen lo mejor de nosotros mismos y fortalezcan nuestras conexiones con los demás, siguiendo el consejo de Santiago 1:19: "Todo hombre sea pronto para oír, tardo para hablar, tardo para airarse." 
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUwOTMwMDY3MF19
+-->
