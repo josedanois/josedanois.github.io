@@ -3,11 +3,12 @@ layout: post
 title: ¿Qué es la Biblia?
 cover-img: /assets/img/bible-4249164_1280.jpg
 thumbnail-img: /assets/img/bible-4249164_1280.jpg
-share-img: /assets/img/bible-4249164_1280.jpg
+share-img: /assets/imgimage: /images/bible-4249164_1280.jpg
 author: José Danois
-tags: [Biblia]
+tags: [Bbiblia]
 published: true
 ---
+![Biblia](/images/bible-4249164_1280.jpg)
 **_Una introducción a la teología de las Escrituras._**
 
 **Un Dios que habla**[^1]
@@ -63,3 +64,6 @@ universidad de taylor_
 ___
 
 [^1]: Crédito: [https://www.biblegateway.com/resources/scripture-engagement/main/what-is-the-bible](https://www.biblegateway.com/resources/scripture-engagement/main/what-is-the-bible "Link: https://www.biblegateway.com/resources/scripture-engagement/main/what-is-the-bible")
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY0NDM4ODM2OF19
+-->
