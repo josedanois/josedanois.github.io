@@ -8,7 +8,6 @@ author: José Danois
 tags: [Biblia]
 published: true
 ---
-![Biblia](/images/bible-4249164_1280.jpg)
 **_Una introducción a la teología de las Escrituras._**
 
 **Un Dios que habla**[^1]
