@@ -5,7 +5,7 @@ cover-img: /assets/img/bibliaabierta.jpg
 thumbnail-img: /assets/img/bibliaabierta.jpg
 share-img: /assets/img/images/bibliaabierta.jpg
 author: José Danois
-tags: [Bbiblia]
+tags: [Biblia]
 published: true
 ---
 **_Necesitamos las Teología Bíblica_**[^1]
