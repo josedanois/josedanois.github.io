@@ -5,7 +5,7 @@ cover-img: /assets/img/prosperidad.jpg
 thumbnail-img: /assets/img/prosperidad.jpg 
 share-img: /assets/img/prosperidad.jpg
 author: José Danois
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 published: true
 ---
 En el ámbito cristiano, la palabra "prosperidad" ha sido objeto de interpretaciones erróneas y enfoques distorsionados. A menudo se asocia únicamente con riquezas materiales, ignorando la dimensión integral que este concepto engloba en las Escrituras.
