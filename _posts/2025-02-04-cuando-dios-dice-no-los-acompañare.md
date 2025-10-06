@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Cuando Dios dice no los acompañaré
-image: /images/nolosacompañare.jpg
+cover-img: /assets/img/nolosacompañare.jpg
+thumbnail-img: /assets/img/nolosacompañare.jpg 
+share-img: /assets/img/nolosacompañare.jpg
 author: José Danois
 tags: [reflexión bíblica]
 published: true
 ---
-![Mariposa](/images/nolosacompañare.jpg)
 >El Señor le dijo a Moisés: «Váyanse, tú y el pueblo que sacaste de la tierra de Egipto. Suban a la tierra que juré dar a Abraham, Isaac y Jacob. A ellos les dije: “Daré esta tierra a sus descendientes”. Enviaré un ángel delante de ti para expulsar a los cananeos, los amorreos, los hititas, los ferezeos, los heveos y los jebuseos. Suban a la tierra donde fluyen la leche y la miel. Sin embargo, yo no los acompañaré, porque son un pueblo terco y rebelde. Si lo hiciera, seguramente los destruiría en el camino». (Éxodo 33:1-3).
 
 Es raro escuchar a Dios decir, yo no los acompañaré. ¿Qué sucedía?
