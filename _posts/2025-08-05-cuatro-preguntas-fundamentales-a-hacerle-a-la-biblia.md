@@ -3,7 +3,7 @@ layout: post
 title: Cuatro preguntas fundamentales a hacerle a la Biblia
 image: /images/preguntas.jpg
 author: José Danois
-tags: [Biblia]
+tags: [Bbiblia]
 published: true
 ---
 ![Biblia](/images/preguntas.jpg)
@@ -138,3 +138,6 @@ Ahora que hemos explorado cada una de las cuatro preguntas fundamentales, retroc
 ___
 
 [^1]:  Crédito: Harmon, M. S. (2017). Asking the Right Questions: A Practical Guide to Understanding and Applying the Bible. Crossway.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMTU1ODk3ODFdfQ==
+-->
