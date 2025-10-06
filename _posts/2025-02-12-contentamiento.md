@@ -111,6 +111,8 @@ Puedo mantenerme contento y adorando aun cuando esté apretado o ajustado. Pero 
 Puede ser que estés ahora mismo en la escuela del contentamiento y se te está haciendo difícil aprender. Se nos salen las quejas, los lamentos y los porqués. Estás en un estado de negación, pero es tiempo de que aceptes el escenario en el que tienes que vivir en este momento.
 
 Es hora de cambiar esa actitud y comenzar a ser enseñado. Es momento de entrar en una dependencia de Cristo. Él es la fuente de todo.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzY0Nzg5OV19
+eyJoaXN0b3J5IjpbLTUwMjk4Njk0NF19
 -->
