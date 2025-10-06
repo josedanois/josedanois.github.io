@@ -4,7 +4,7 @@ title: Gracia que nos levanta y nos sienta a la mesa del Rey
 cover-img: /assets/img/sentadosalamesadelrey.jpg
 thumbnail-img: /assets/img/sentadosalamesadelrey.jpg
 share-img: /assets/img/sentadosalamesadelrey.jpg
-tags: [reflexión bíblica, gracia]
+tags: [Reflexión Bíblica, Gracia]
 ---
 >***A partir de ese día Mefiboset se sentó a la mesa de David como uno más de los hijos del rey. 2 Samuel 9:6-11***
 
