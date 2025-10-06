@@ -5,7 +5,7 @@ cover-img: /assets/img/amorfrio.jpg
 thumbnail-img: /assets/img/amorfrio.jpg
 share-img: /assets/img/amorfrio.jpg
 author: José Danois
-tags: [reflexión bíblica] 
+tags: [Reflexión Bíblica] 
 published: true
 ---
 Es fácil perder el primer amor. Vivimos en un mundo lleno de distracciones y sustitutos artificiales que pueden alejarnos de nuestra relación con Cristo. A veces, nos sentimos complacidos con nuestra vida cristiana y pensamos que estamos bien. Sin embargo, debemos ser cautelosos cuando nos sentimos demasiado cómodos.
@@ -51,3 +51,6 @@ _Pedro se entristeció de que le dijese la tercera vez: ¿Me amas? y le respondi
 Juan 21:15-17
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwODI4MDM1MDZdfQ==
+-->
