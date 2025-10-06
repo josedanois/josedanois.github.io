@@ -3,7 +3,7 @@ layout: post
 title: No soy lo que debería ser
 image: /images/JohnNewton.jpg
 author: José Danois
-tags: [extracto]
+tags: [Extracto]
 published: true
 ---
 ![JohnNewton](/images/JohnNewton.jpg)
@@ -26,3 +26,6 @@ Su gracia siempre me libró y me guiará feliz.
 
 Y cuando en Sión por siglos mil brillando esté cual sol,  
 Yo cantaré por siempre allí Su amor que me salvó.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc0Mjg1Mzg0MV19
+-->
