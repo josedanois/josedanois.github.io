@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Transformados por la Gloria de Cristo
-image: /images/gloria.jpg
+cover-img: /assets/img/gloria.jpg
+thumbnail-img: /assets/img/gloria.jpg
+share-img: /assets/img/gloria.jpg
 author: José Danois
 tags: [reflexión bíblica] 
 published: true
 ---
-![Gloria](/images/gloria.jpg)
 >Desvelando el Poder de la Transformación Espiritual
 
 Imagina una vida transformada progresivamente, reflejando el radiante carácter de Cristo. Esta es la promesa que Dios nos ofrece a través de la fe. Hoy, profundizamos en 2 Corintios 3:18, explorando el poder de la gloria de Cristo para cambiarnos a su imagen.
