@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Una Nueva Creación
-image: /images/nuevacreacion.jpg
+cover-img: /assets/img/nuevacreacion.jpg
+thumbnail-img: /assets/img/nuevacreacion.jpg
+share-img: /assets/img/nuevacreacion.jpg
 author: José Danois
 tags: [reflexión bíblica]
 published: true
 ---
-![Mariposa](/images/nuevacreacion.jpg)
 Imaginemos por un momento que somos una hoja en blanco. Sin forma, sin color, sin vida. De repente, un artista talentoso toma su pincel y comienza a crear una obra maestra. Trazos precisos, colores vibrantes, detalles exquisitos... La hoja en blanco se transforma en una obra de arte, adquiriendo una nueva identidad, un nuevo propósito.
 
 Algo similar ocurre cuando aceptamos a Jesucristo como nuestro Salvador. _**Experimentamos una transformación radical, una nueva creación que nos libera del pecado y nos da la oportunidad de vivir una vida plena y significativa.**_
