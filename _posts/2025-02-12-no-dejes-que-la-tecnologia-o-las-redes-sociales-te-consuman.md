@@ -16,6 +16,8 @@ En esta era de conectividad constante y avances tecnológicos, es crucial evitar
 Recordemos que, así como Jesús a menudo se retiraba a lugares solitarios para comunicarse con el Padre, nosotros también necesitamos momentos de quietud y devoción enfocada.
 
 Adopte la disciplina de dedicar tiempo a estudiar, meditar y orar sin las distracciones de pantallas y notificaciones. Al priorizar estas prácticas, nos aseguramos de que nuestro crecimiento espiritual permanezca en primer plano, permitiéndonos involucrarnos con la Palabra de Dios de manera más profunda e íntima. Que cultivemos un equilibrio que nos permita usar la tecnología sabiamente y al mismo tiempo salvaguardar la santidad de nuestro viaje espiritual.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDcyMjYzMl19
+eyJoaXN0b3J5IjpbMTM3NTQwNDY3NV19
 -->
