@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Raíces de amargura
-image: /images/corazonraices.png
+cover-img: /assets/img/corazonraices.png
+thumbnail-img: /assets/img/corazonraices.png
+share-img: /assets/img/corazonraices.png
 author: José Danois
 tags: [reflexión bíblica]
 published: true
 ---
-![Raíces de amargura](/images/corazonraices.png)
 >Mirad bien, no sea que alguno deje de alcanzar la gracia de Dios; que brotando alguna raíz de amargura, os estorbe, y por ella muchos sean contaminados; Hebreos 12:15
 
 Este pasaje presenta varios puntos interesantes sobre el problema de la raíz de amargura en la vida de los cristianos. Primeramente, observe que el contexto del problema se encuentra en el marco de las relaciones interpersonales. El pasaje comienza animando a los hebreos a que procuren vivir sus relaciones en un ámbito de paz y santidad. Esto quiere decir llevar la interacción con otras personas a una dimensión totalmente diferente a la que usualmente se ve entre los que no son de la casa de Dios. Las relaciones deben estar caracterizadas por una pureza y un bienestar que testifican el obrar del Espíritu en todo momento. Los conflictos y las diferencias se resuelven dentro de un marco de armonía y respeto mutuo.
