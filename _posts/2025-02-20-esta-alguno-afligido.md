@@ -3,7 +3,7 @@ layout: post
 title: ¿Está alguno afligido?
 image: /images/hombreorando.jpg
 author: José Danois
-tags: [reflexión bíblica] 
+tags: [Reflexión Bíblica] 
 published: true
 ---
 
@@ -45,3 +45,6 @@ No debemos subestimar el poder de la oración, el acceso divino que tenemos al c
 Por más sencillo que parezca la exhortación de Santiago, la oración es el recurso divino para cuando estamos afligidos, tristes o abatidos. No hay sustituto.
 
 Estas afligido haz oración, alguien está esperando para escucharte, para fortalecerte, para responderte.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTUxNzc0NDgyOF19
+-->
