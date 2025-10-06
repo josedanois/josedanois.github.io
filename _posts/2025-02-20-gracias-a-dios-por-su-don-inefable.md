@@ -1,13 +1,13 @@
 ---
 layout: post
 title: ¡Gracias a Dios por su don inefable!
-image: /images/doninefable.jpg
+cover-img: /assets/img/doninefable.jpg
+thumbnail-img: /assets/img/doninefable.jpg
+share-img: /assets/img/doninefable.jpg
 author: José Danois
 tags: [Gracia]
 published: true
 ---
-
-![Manos extendidas](/images/doninefable.jpg)
 La gracia de Dios es uno de los conceptos más importantes y centrales de la fe cristiana. Se trata del amor incondicional y gratuito que Dios nos muestra a través de su Hijo Jesucristo, quien murió en la cruz para perdonar nuestros pecados y darnos la vida eterna. La gracia de Dios no depende de nuestros méritos o esfuerzos, sino que es un regalo que solo podemos recibir por la fe.
 
 Según el diccionario de la Real Academia Española, gracia es «el favor o ayuda que se hace sin merecimiento particular». En el ámbito teológico, la gracia se refiere al favor o ayuda que Dios nos hace sin que lo merezcamos, solo por pura bondad y misericordia. La Biblia usa varias palabras para expresar este concepto, como «hen» en hebreo y «charis» en griego, que significan «favor», «benevolencia» o «don».
@@ -32,5 +32,5 @@ La gracia de Dios es un misterio maravilloso que nos llena de esperanza y alegr�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE3NDA3MTNdfQ==
+eyJoaXN0b3J5IjpbNjUzNDQzMDEwXX0=
 -->
