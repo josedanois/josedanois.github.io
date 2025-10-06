@@ -29,8 +29,10 @@ El autor británico John Baillie oraba diciendo: Enséñame, oh Dios, a usar de 
 
 — La oración - Edición revisada: ¿Hace alguna diferencia? por Philip Yancey
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDgyMjE0NF19
+eyJoaXN0b3J5IjpbMjYxMTQ3OTgzXX0=
 -->
