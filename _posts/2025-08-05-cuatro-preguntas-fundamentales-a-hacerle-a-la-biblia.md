@@ -3,7 +3,7 @@ layout: post
 title: Cuatro preguntas fundamentales a hacerle a la Biblia
 image: /images/preguntas.jpg
 author: José Danois
-tags: [biblia]
+tags: [Biblia]
 published: true
 ---
 ![Biblia](/images/preguntas.jpg)
@@ -133,6 +133,8 @@ Ahora que hemos explorado cada una de las cuatro preguntas fundamentales, retroc
 
 ¿Por qué no lo intentas? Elige un capítulo de la Biblia y léelo, haciéndote las cuatro preguntas. ¿No sabes por dónde empezar? Prueba con Mateo 8. Si eres de los que toman notas, coge papel y bolígrafo, o abre un archivo para apuntar lo que aprendas de cada pregunta. Pide al Señor que te abra los ojos para ver quién es Él, quién eres tú y qué significa caminar fielmente con Él.
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 
+___
 
 [^1]:  Crédito: Harmon, M. S. (2017). Asking the Right Questions: A Practical Guide to Understanding and Applying the Bible. Crossway.
