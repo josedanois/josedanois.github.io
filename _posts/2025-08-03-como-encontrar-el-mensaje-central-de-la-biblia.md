@@ -3,8 +3,7 @@ layout: post
 title: Cómo encontrar el mensaje central de la historia
 cover-img: /assets/img/bibliaabierta.jpg
 thumbnail-img: /assets/img/bibliaabierta.jpg
-share-img: /assets/img/images/bibliaabierta.jpg
-author: José Danois
+share-img: /assets/img//bibliaauthor: José Danois
 tags: [Biblia]
 published: true
 ---
@@ -58,5 +57,5 @@ ___
 
 [^1]: Roark, N., & Cline, R. (2019). La teología bíblica: Cómo la iglesia enseña fielmente el evangelio (M. Dever & J. Leeman, Eds.; A. Molero & R. Molero, Trads.; pp. 15-24). Poiema Lectura Redimida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzMzNzk1N119
+eyJoaXN0b3J5IjpbLTE3NjYwMzg2MTAsLTM5NzMzNzk1N119
 -->
