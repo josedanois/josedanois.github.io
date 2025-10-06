@@ -3,12 +3,11 @@ layout: post
 title: Teniendo entendimiento espiritual
 cover-img: /assets/img/entendimiento.jpg
 thumbnail-img: /assets/img/entendimiento.jpg
-share-img: /assets/imgimage: /images/entendimiento.jpg
+share-img: /assets/img/entendimiento.jpg
 author: José Danois
 tags: [Rreflexión Bbíblica]
 published: true
 ---
-![Biblia](/images/entendimiento.jpg)
 El entendimiento espiritual es un tema crucial en la vida cristiana, como se destaca en las Escrituras. A menudo, nos encontramos actuando sin un entendimiento completo de la voluntad de Dios, dejándonos llevar por nuestras emociones en lugar de la guía del Espíritu Santo. Esta falta de entendimiento espiritual puede llevarnos por caminos equivocados y obstaculizar nuestro crecimiento en la fe.
 
 El salmo 32:9, nos dice “No seas como el mulo o el caballo, que no tienen entendimiento, que necesitan un freno y una brida para mantenerse controlados”. El pasaje nos advierte sobre la necesidad de desarrollar una mente que esté en sintonía con Dios, y a no actuar solo por impulso o emociones. También nos recuerda que, como seres humanos creados a la imagen de Dios, poseemos la capacidad de razonar, comprender y discernir la voluntad divina. Sin embargo, esta capacidad debe ser desarrollada y cultivada a través de una búsqueda diligente del conocimiento de Dios.
