@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Lo único que necesitas es una semilla
-image: /images/semillas.jpg
+cover-img: /assets/img/semillas.jpg
+thumbnail-img: /assets/img/semillas.jpg
+share-img: /assets/img/semillas.jpg
 author: José Danois
 tags: [Diario] 
 published: true
 ---
-
-![Semillas](/images/semillas.jpg)
 >Es como el grano de mostaza, que cuando se siembra en tierra, es la más pequeña de todas las semillas que hay en la tierra; pero después de sembrado, crece, y se hace la mayor de todas las hortalizas, y echa grandes ramas, de tal manera que las aves del cielo pueden morar bajo su sombra. Marcos 4:31-32
 
 No necesitas mucho para lograr grandes cosas. Lo único que necesitas es una semilla. La semilla que siembres hoy será el árbol del mañana, ese que te dará los frutos deseados. Todo comienza con una simple semilla. Sí, esa semilla sencilla y pequeña, pero que encierra tan gran potencial para lograr tantas cosas.
@@ -22,5 +22,5 @@ Hoy siembra en ti, siembra en los demás, siembra en tus sueños y metas, siembr
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDkwOTA3N119
+eyJoaXN0b3J5IjpbODAxMTgwMzJdfQ==
 -->
