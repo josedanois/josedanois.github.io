@@ -5,7 +5,7 @@ cover-img: /assets/img/corazonraices.png
 thumbnail-img: /assets/img/corazonraices.png
 share-img: /assets/img/corazonraices.png
 author: José Danois
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 published: true
 ---
 >Mirad bien, no sea que alguno deje de alcanzar la gracia de Dios; que brotando alguna raíz de amargura, os estorbe, y por ella muchos sean contaminados; Hebreos 12:15
@@ -25,5 +25,5 @@ Shaw, C. (2005). Alza tus ojos. Desarrollo Cristiano Internacional.
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODE4ODMwOF19
+eyJoaXN0b3J5IjpbMTY5MzYzNTk1NiwtMzY4MTg4MzA4XX0=
 -->
