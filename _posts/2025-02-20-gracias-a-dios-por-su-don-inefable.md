@@ -3,7 +3,7 @@ layout: post
 title: ¡Gracias a Dios por su don inefable!
 image: /images/doninefable.jpg
 author: José Danois
-tags: [gracia]
+tags: [Gracia]
 published: true
 ---
 
@@ -29,3 +29,6 @@ La gracia de Dios es un misterio maravilloso que nos llena de esperanza y alegr�
 > ¡Gracias a Dios por su don inefable! 2 Corintios 9:15
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDI0OTkyMjg0XX0=
+-->
