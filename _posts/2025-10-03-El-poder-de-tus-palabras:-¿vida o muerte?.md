@@ -65,7 +65,9 @@ Hoy te invito a preguntarte:
 Pidámosle al Señor que llene nuestro corazón de su bondad, porque cuando el corazón es transformado, la lengua deja de ser un arma y se convierte en un canal de vida y bendición.
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzQxMjI4MywyMDUxODg4NDY3LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTk3NjgyNzYxNiwxMzk3NDEyMjgzLDIwNT
+E4ODg0NjcsLTIwODg3NDY2MTJdfQ==
 -->
