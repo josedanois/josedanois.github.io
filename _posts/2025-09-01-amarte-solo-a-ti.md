@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Amarte sólo a ti Señor
-image: /images/amarte.png
+cover-img: /assets/img/amarte.png
+thumbnail-img: /assets/img/amarte.png
+share-img: /assets/img/amarte.png
 author: José Danois
 tags: [diario]
 published: true
@@ -32,3 +34,6 @@ Que nuestro anhelo, nuestro deseo, nuestro motivador sea el amor a Dios. Que nue
 Que el amor por otras cosas palidezca frente al gran amor de Cristo el Señor, quien nos amó con amor eterno antes que lo amaramos.
 
 > **Pero cuantas cosas eran para mí ganancia, las he estimado como pérdida por amor de Cristo. Filipenses 3:7**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ5Nzc4ODE2XX0=
+-->
