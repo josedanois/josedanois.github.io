@@ -30,3 +30,8 @@ Las acciones que tomes hoy definirán tu futuro. El salmo 126:5-6 lo dice de est
 Este es el tiempo de sembrar. Siembra en tu salud, siembra en tu vida, en tu familia, siembra en tu vida espiritual. Al principio no es fácil, pero luego te alegrarás viendo la cosecha, es decir, viendo los resultados positivos.
 
 **P.D. Por cierto, ahora no solo camino, he regresado al gimnasio.**
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU3NTc0ODY3M119
+-->
