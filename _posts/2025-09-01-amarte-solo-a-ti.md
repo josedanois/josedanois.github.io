@@ -8,7 +8,6 @@ author: José Danois
 tags: [diario]
 published: true
 ---
-![Amarte Dios](/images/amarte.png)
 Recuerdo aquella vieja canción que cantábamos en la Iglesia para los años 80 donde le expresábamos a Dios el deseo de amarlo solo a él. Crea que alguno también podrá recordar. La letra de la canción decía:
 
 > **Amarte solo a ti Señor**
@@ -34,6 +33,8 @@ Que nuestro anhelo, nuestro deseo, nuestro motivador sea el amor a Dios. Que nue
 Que el amor por otras cosas palidezca frente al gran amor de Cristo el Señor, quien nos amó con amor eterno antes que lo amaramos.
 
 > **Pero cuantas cosas eran para mí ganancia, las he estimado como pérdida por amor de Cristo. Filipenses 3:7**
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Nzc4ODE2XX0=
+eyJoaXN0b3J5IjpbLTEzOTQ3NzUzOV19
 -->
