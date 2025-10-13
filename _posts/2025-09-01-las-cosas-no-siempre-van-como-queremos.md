@@ -24,3 +24,8 @@ Tal vez deberíamos de examinar que tipo de confianza tenemos en Dios.
 conforme a su voluntad, él nos oye. Y si sabemos que él nos oye en
 cualquiera cosa que pidamos, sabemos que tenemos las peticiones que le
 hayamos hecho.» 1 Juan 5:14-15
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDg3OTcwMDYxXX0=
+-->
