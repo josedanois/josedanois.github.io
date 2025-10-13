@@ -29,3 +29,8 @@ Lo importante es perseverar, así como el caracolito, para llegar a nuestra meta
 
 > “Corramos con perseverancia la carrera que Dios nos ha puesto por
 delante.” Hebreos 12:1
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA0NzE5MDQzOV19
+-->
