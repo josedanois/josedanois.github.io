@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Expectativas
-image: /images/expectativas.jpg
+cover-img: /assets/img/expectativas.jpg
+thumbnail-img: /assets/img/expectativas.jpg
+share-img: /assets/img/expectativas.jpg
 author: José Danois
 tags: [diario]
 published: true
 ---
-![Su gracia](/images/expectativas.jpg)
 A veces tenemos tantas expectativas. Cada vez que comienza un año nos hacemos expectativas de cómo debería ser el mismo. Incluso, nos hacemos expectativas de lo que pensamos que Dios debería hacer, según nuestra manera de pensar. Sin embargo, cuando nuestras expectativas no se cumplen nos desilusionamos, nos desanimamos y no queremos seguir caminando.
 
 Esto me trae a la memoria un profeta de la Biblia llamado Elías, un hombre sujeto a pasiones como las nuestras, según lo describe la Biblia. El profeta que en el Carmelo hizo que descendiera fuego del cielo y consumiera el sacrificio. El hombre que ajusticio a los profetas de Baal. Elías obedeció a Dios y el nombre del Dios de Israel fue reivindicado. Fue una gran victoria espiritual. Sin embargo, una gran victoria no siempre garantiza que todo seguirá bien. Quizás, el profeta Elías pensaba que todo iría bien de ese momento en adelante, que tendría descanso. Lo que había sucedido sería suficiente para que todos buscarán a Dios. Pero no fue así. La esposa del rey Acab (Jezabel) ante lo sucedido puso precio a la cabeza de Elías. El profeta tenía que morir. Entonces, Elías sale huyendo al desierto donde se sumerge en la depresión y le dice a Dios que le quite la vida.
@@ -23,5 +24,5 @@ Hoy no es el día de echarte a morir, hoy es el día de levantarte en el nombre 
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzNDYxMzY5XX0=
+eyJoaXN0b3J5IjpbMTE1NzU0MDA1MF19
 -->
