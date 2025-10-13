@@ -36,3 +36,8 @@ La Escritura nos dice que el amor:
 1 Corintios 13:4-7
 
 >No podemos ser tan solo metal que resuena o platillos que hacen mucho ruido. Permitamos que la esencia del amor de Cristo nos llene y se exprese por medio de nosotros.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjUzNDMxMTU5XX0=
+-->
