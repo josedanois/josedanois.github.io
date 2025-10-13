@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Gracia para todos
-image: /images/graciaparatodos.jpg
+cover-img: /assets/img/graciaparatodos.jpg
+thumbnail-img: /assets/img/graciaparatodos.jpg
+share-img: /assets/img/graciaparatodos.jpg
 author: José Danois
 tags: [gracia]
 published: true
 ---
-![Mano](/images/graciaparatodos.jpg)
 Si has dedicado algún tiempo a leer la Biblia, te abras encontrado en algún momento con esas “molestas” listas de nombres llamadas genealogías. Por lo general las obviamos porque nos parecen aburridas y sin sentido. Pensamos ¿para qué están puestas en la Biblia, tienen alguna importancia?
 
 La realidad es que si tienen importancia. Pero que tiene que ver eso con nuestro título “Gracia para Todos”, quizás nada o tal vez mucho. Eso lo veremos más adelante, pero primero lo primero.
@@ -74,5 +75,5 @@ Dios escogió eso que el mundo de alguna manera dañó para manifestar su gracia
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Mzc3MDA0OF19
+eyJoaXN0b3J5IjpbLTE4ODk1MTA4MDRdfQ==
 -->
