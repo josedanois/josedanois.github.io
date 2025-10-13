@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Cristo el faro
-image: /images/lighthouse1.jpg
+cover-img: /assets/img/lighthouse1.jpg
+thumbnail-img: /assets/img/lighthouse1.jpg
+share-img: /assets/img/lighthouse1.jpg
 author: José Danois
 tags: [poema]
 published: true
 ---
-![Faro](/images/lighthouse1.jpg)
 En la oscuridad de la vida errante,  
 cuando las sombras me envuelven sin fin,  
 brilla un Faro en la noche constante,  
@@ -39,5 +40,6 @@ el faro de amor que me lleva hacia Dios.
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkwNTI1ODddfQ==
+eyJoaXN0b3J5IjpbLTIwMTM0NTI1NjUsLTEyNTkwNTI1ODddfQ
+==
 -->
