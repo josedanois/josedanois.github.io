@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Perseverencia
-image: /images/perseverencia2.jpg
+cover-img: /assets/img/perseverencia2.jpg
+thumbnail-img: /assets/img/perseverencia2.jpg 
+share-img: /assets/img/perseverencia2.jpg
 author: José Danois
 tags: [diario]
 published: true
 ---
-![Perseverancia](/images/perseverencia2.jpg)
 Cada mañana, cuando salgo a caminar, me encuentro con pequeñas curiosidades que solo un ojo observador puede ver.
 
 Hace algún tiempo me encontré con este pequeño caracol cruzando la carretera. Un tramo corto para los humanos, pero extenso para él. No sé a dónde iba o cuál era su meta, pero me llamo la atención su determinación.
@@ -32,5 +33,5 @@ delante.” Hebreos 12:1
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzE5MDQzOV19
+eyJoaXN0b3J5IjpbMTEwMjQ2MzE1Ml19
 -->
