@@ -71,3 +71,8 @@ Así como Dios usó toda clase de personas para que la simiente prometida llegar
 Puede ser que hayas sido marcado por el pecado, por alguien, por el mundo. Eso te dañó, eso te afectó. Pero no tienes que seguir así.
 
 Dios escogió eso que el mundo de alguna manera dañó para manifestar su gracia. El ejemplo está en su genealogía. Hay gracia para todos, hay gracia para ti.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ5Mzc3MDA0OF19
+-->
