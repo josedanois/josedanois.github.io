@@ -60,3 +60,8 @@ Que podamos exclamar junto con el apóstol “miren cuanto nos ama el Padre que 
 Dios compartió con nosotros la paternidad. Cristo era el unigénito y ahora hemos venido a ser parte de esta familia.
 
 El amor de Dios no tiene límites, no escasea. Todo porque nos amó. Nos hizo hijos igual que su hijo Cristo.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNTM1ODYyMDhdfQ==
+-->
