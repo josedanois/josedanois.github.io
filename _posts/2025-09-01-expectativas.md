@@ -20,3 +20,8 @@ Cuando el profeta Elías huyo al desierto, se echó debajo de un arbusto, deseá
 Quizás estás huyendo como Elías hacia el desierto, has dicho este año ha sido terrible. Puede ser que te hayas echado bajo el arbusto de la tristeza, la desilusión o la depresión. Pero allí, en medio de tu necesidad, el Señor se acerca a ti para decirte, no tiene por qué ser el final, no estás acabado o acabada. Fortalécete en mí, pon tu mirada en mí y camina conmigo.
 
 Hoy no es el día de echarte a morir, hoy es el día de levantarte en el nombre del Señor y enfrentar con fe y optimismo lo que está por delante.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzkzNDYxMzY5XX0=
+-->
