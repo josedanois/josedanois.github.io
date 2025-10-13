@@ -36,3 +36,8 @@ No hay tormenta que apague Su brillo,
 ni mar tan profundo que borre Su voz,  
 es Cristo, el Faro que guía el camino,  
 el faro de amor que me lleva hacia Dios.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyNTkwNTI1ODddfQ==
+-->
