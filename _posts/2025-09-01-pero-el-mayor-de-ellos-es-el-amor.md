@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Pero el mayor de ellos es el amor
-image: /images/faith-4411141_1280.jpg
+cover-img: /assets/img/faith-4411141_1280.jpg
+thumbnail-img: /assets/img/faith-4411141_1280.jpg
+share-img: /assets/img/faith-4411141_1280.jpg
 author: José Danois
 tags: [reflexión bíblica]
 published: true
 ---
-![Amor](/images/faith-4411141_1280.jpg)
 > Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor._
 
 La escritura nos dice que el amor de Dios ha sido derramado en nuestros corazones por medio del Espíritu Santo que nos ha sido dado. Eso significa que quien ha recibido a Cristo en su corazón y profesa ser cristiano, imita realmente el amor y la conducta de Cristo.
@@ -39,5 +40,5 @@ La Escritura nos dice que el amor:
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzNDMxMTU5XX0=
+eyJoaXN0b3J5IjpbLTE5MjUxNjA0NDBdfQ==
 -->
