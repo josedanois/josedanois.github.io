@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Comienza a caminar
-image: /images/caminar.jpg
+cover-img: /assets/img/caminar.jpg
+thumbnail-img: /assets/img/caminar.jpg
+share-img: /assets/img/caminar.jpg
 author: José Danois
 tags: [diario]
 published: true
 ---
-![Caminar](/images/caminar.jpg)
 Recuerdo que hace unos años, mi hijo me instaba a acompañarlo al gimnasio. Lo pensé mucho antes de decidirme. Anteriormente, había estado en uno y lo había dejado. No obstante, ante la insistencia de mi hijo regresé nuevamente al gimnasio donde estuvimos unos 6 meses, luego el gimnasio cerró. A pesar de eso, el tiempo que estuvimos allí sirvió para crear en nosotros una disciplina y una rutina. Aunque pudimos haber buscado otro gimnasio, optamos por caminar (idea de mi hijo) y hacer ejercicios en el hogar.
 
 Cuando comencé a caminar,
@@ -33,5 +34,5 @@ Este es el tiempo de sembrar. Siembra en tu salud, siembra en tu vida, en tu fam
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTc0ODY3M119
+eyJoaXN0b3J5IjpbLTM5MDUyMzQ4XX0=
 -->
