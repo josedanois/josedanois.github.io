@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Cuando la gracia te abraza
-image: /images/hijoprodigo.jpg
+cover-img: /assets/img/hijoprodigo.jpg
+thumbnail-img: /assets/img/hijoprodigo.jpg 
+share-img: /assets/img/hijoprodigo.jpg
 author: José Danois
 tags: [extracto,gracia]
 published: true
 ---
-![hijo pródigo](/images/hijoprodigo.jpg)
 “Cuando el hijo pródigo llegó a casa, la gracia lo recibió y lo abrazó. La ley dijo: “¡Atrápenlo!”. La gracia dijo: “¡Abrácenlo!”. La ley dijo: “¡Golpéenlo!”. La gracia dijo: “¡Bésenlo!”. La ley fue tras él y lo ató. La gracia dijo: “¡Suéltalo y déjalo ir!” La ley me dice lo torcido que estoy; la gracia viene y me hace recto”.
 
 La gracia yace en el centro de la imitación de Cristo.
@@ -19,5 +20,5 @@ Fuente: John Pollock, [Moody without Sankey](https://www.amazon.com/D-L-Moody-wi
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Mjc4OTI5MV19
+eyJoaXN0b3J5IjpbNDg2Njg0OTc2XX0=
 -->
