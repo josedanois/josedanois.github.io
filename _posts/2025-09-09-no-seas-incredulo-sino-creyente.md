@@ -120,3 +120,8 @@ La fe no es una emoción pasajera, ni una fórmula mágica para obtener cosas. L
 Así como Tomás pasó de la incredulidad a exclamar:**“¡Señor mío y Dios mío!”**, también nosotros podemos vivir como verdaderos creyentes, firmes en la fe que vence al mundo (1 Jn. 5:4).
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/VZAuAkrJXps?si=3S7CZY7cqFClOXjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk2NDI5MzU4OF19
+-->
