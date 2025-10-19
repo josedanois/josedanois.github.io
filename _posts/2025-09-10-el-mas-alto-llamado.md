@@ -1,12 +1,13 @@
 ---
 layout: post
 title: El más alto llamado
-image: /images/jeremias.png
+cover-img: /assets/img/jeremias.png
+thumbnail-img: /assets/img/jeremias.png 
+share-img: /assets/img/jeremias.png
 author: José Danois
 tags: [reflexion bíblica]
 published: true
 ---
-![jeremias](/images/jeremias.png)
 >Hay pasajes de la Biblia que nos sacuden el corazón porque parecen hablarnos de manera personal, como si hubieran sido escritos pensando en nosotros. Jeremías 1:5-7 es uno de esos textos.
 
 Aquí encontramos el relato de cómo Dios llama al profeta Jeremías. Un joven inseguro, consciente de sus limitaciones, pero escogido desde antes de nacer para una misión que lo superaba por completo. Y lo más sorprendente es que lo que Dios le dijo a Jeremías también tiene mucho que decirnos hoy.
@@ -103,5 +104,5 @@ Por eso hoy te invito a hacer algo sencillo pero poderoso:  **cree lo que Dios d
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk2MzUzOF19
+eyJoaXN0b3J5IjpbMTEzNDYxMDkwM119
 -->
