@@ -57,3 +57,8 @@ El Padre sigue buscando adoradores que lo adoren de esa manera. Que nuestra ador
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Gr91MYRPdgk?si=9KXwoiHhDLPR8ADp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE0MzI5Njk2OV19
+-->
