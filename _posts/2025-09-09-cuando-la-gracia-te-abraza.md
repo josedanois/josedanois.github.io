@@ -16,3 +16,8 @@ Lucas 15:11-32
 > Porque de su plenitud tomamos todos, y gracia sobre gracia. Pues la ley por medio de Moisés fue dada, pero la gracia y la verdad vinieron por medio de Jesucristo. Juan 1:16-17
 
 Fuente: John Pollock, [Moody without Sankey](https://www.amazon.com/D-L-Moody-without-Sankey-History/dp/1857921674 "Link: https://www.amazon.com/D-L-Moody-without-Sankey-History/dp/1857921674") (Hodder y Stoughton, 1963), 134.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc3Mjc4OTI5MV19
+-->
