@@ -41,3 +41,8 @@ Jesús lo explicó claramente:
 La verdadera diferencia no la hace tu ropa, ni tu peinado, ni tus accesorios. La verdadera diferencia la hace lo que llevas en tu corazón.
 
 > **«De la abundancia del corazón habla la boca… el hombre bueno, del buen tesoro de su corazón saca lo bueno»**  **Lucas 6:45**
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU0MzM5NTc2M119
+-->
