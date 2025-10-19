@@ -54,3 +54,8 @@ La manera más eficaz de ser transformados es acudir a Dios y a Su Palabra para 
 📌 Comparte tu reflexión:  
 
 ¿En qué área de tu vida sientes que necesitas alinear tu mente con la Palabra de Dios? ¡Déjamelo en los comentarios! Quiero leerte, orar contigo y juntos crecer en este proceso de transformación espiritual. 💬✨
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUwMjU0MTE3Ml19
+-->
