@@ -16,3 +16,8 @@ Es interesante conservar registros escritos de lo que pensamos y creemos, y lueg
 Aunque la tecnología, en gran medida, nos está empujando a dejar de escribir a la vieja manera (a papel y lápiz), creo que sigue siendo la forma más significativa.
 
 ¿Qué te parece? ¿Conservas tú también tus libretas con escritos personales? ¿Prefieres la escritura a mano o te inclinas más por lo digital?
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NjE3MzkxODZdfQ==
+-->
