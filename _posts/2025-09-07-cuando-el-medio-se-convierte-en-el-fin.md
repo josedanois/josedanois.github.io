@@ -53,3 +53,8 @@ En el evangelio de Mateo, Jesús dice: “Donde esté vuestro tesoro, allí esta
 Los medios pueden ser maravillosos si los usamos como tales. Pero cuando se convierten en fines, terminan vaciándonos por dentro. Como pastores, líderes y creyentes, tenemos la responsabilidad de guiar a otros, no solo en lo que creemos, sino también en cómo vivimos. Y eso incluye cómo usamos las herramientas que el mundo digital nos ofrece.
 
 Que el Señor nos dé sabiduría para usar los medios sin perdernos en ellos, y gracia para vivir conectados, sí… pero con el cielo
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3ODQ0MDUyOThdfQ==
+-->
