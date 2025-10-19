@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Sin el Evangelio
-image: /images/jesús.jpg
+cover-img: /assets/img/jesús.jpg
+thumbnail-img: /assets/img/jesús.jpg 
+share-img: /assets/img/jesús.jpg
 author: José Danois
 tags: [extracto] 
 published: true
 ---
-![Jesús](/images/jesús.jpg)
-
 Sin el evangelio,[^1] 
 todo es inútil y vano;  
 Sin el evangelio,  
@@ -83,6 +83,11 @@ Y estamos consolados en la tribulación, gozosos en el dolor, gloriándonos bajo
 
 Esto es lo que deberíamos, en resumen, buscar en toda la Escritura: **verdaderamente conocer a Jesucristo, y las infinitas riquezas que están comprendidas en él y nos son ofrecidas por él de Dios Padre.**
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+
 ---
 
 [^1]: Publicado originalmente por Tullian Tchividjian
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3NzkyNzYzMzRdfQ==
+-->
