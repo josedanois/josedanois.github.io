@@ -1,12 +1,13 @@
 ---
 layout: post
 title: No seas incrédulo, sino creyente
-image: /images/fe.png
+cover-img: /assets/img/fe.png
+thumbnail-img: /assets/img/fe.png 
+share-img: /assets/img/fe.png
 author: José Danois
 tags: [reflexión bíblica,fe]
 published: true
 ---
-![fe](/images/fe.png)
 **Juan 20:27-29**
 
 “Luego dijo a Tomás: Pon aquí tu dedo, y mira mis manos; y acerca tu mano, y métela en mi costado; y no seas incrédulo, sino creyente. Entonces Tomás respondió y le dijo: ¡Señor mío, y Dios mío! Jesús le dijo: Porque me has visto, Tomás, creíste; bienaventurados los que no vieron, y creyeron.”
@@ -123,5 +124,5 @@ Así como Tomás pasó de la incredulidad a exclamar:**“¡Señor mío y Dios m
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDI5MzU4OF19
+eyJoaXN0b3J5IjpbNjMyMDQ1OTldfQ==
 -->
