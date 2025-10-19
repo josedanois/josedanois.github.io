@@ -100,3 +100,8 @@ Por eso hoy te invito a hacer algo sencillo pero poderoso:  **cree lo que Dios d
 “Señor, gracias porque me conociste antes de que existiera y me escogiste en Cristo. Perdóname cuando he dicho lo contrario de tu Palabra y me he menospreciado. Hoy recibo con fe mi más alto llamado: ser tu hijo, ser semejante a Cristo y anunciar tus virtudes. Lléname de tu Espíritu y dame la valentía para ir donde me envíes y decir lo que Tú pongas en mi boca.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SdoEN8zrXiM?si=nBpYlXv0EBz1S-EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1ODk2MzUzOF19
+-->
