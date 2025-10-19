@@ -20,3 +20,8 @@ Eso me lleva a la declaración del apóstol Juan, hemos  _"**hemos llegado a sab
 Es solo cuando llegamos a saber y a creer la verdad de Dios que recibimos revelación plena de su verdad. Es decir, no solo tengo el conocimiento de la verdad, sino que también comienzo a creerla. El problema que tenemos, a veces, es que contamos con el conocimiento, (de hecho, tenemos la revelación de su Palabra en la Biblia) sin embargo, no creemos. Es cierto que no puede haber fe sin conocimiento (la fe es por el oír y el oír de la Palabra) pero una vez sabemos cómo lo expresa, Juan, no podemos quedarnos pasivos,  **tenemos que creer**. ¿Qué tenemos que creer? Lo que Dios revela y expresa en su Palabra. Que él nos ama con un amor que no tiene comparación en la tierra, que él es amor, que todo lo que él dice y promete es verdadero en mi vida.
   
 Entonces, cuando empiezo a creer la revelación, esta es efectiva en mi vida. ¿Cómo lo sé? Porque trae libertad espiritual a mi vida, produce paz y me permite aceptar el amor de Dios libremente y disfrutarlo.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY5MTIyODE3XX0=
+-->
