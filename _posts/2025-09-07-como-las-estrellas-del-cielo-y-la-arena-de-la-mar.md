@@ -26,3 +26,8 @@ Su fidelidad y misericordia superan cualquier cálculo humano (Salmo 36:5).
 “Ahora al que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos o entendemos, según el poder que actúa en nosotros…” (Efesios 3:20).
 
 ¡El Dios que creó mil veces más estrellas que granos de arena también te creó a ti, y tiene un propósito maravilloso para tu vida! 🌟
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTAyNTc4OTA1XX0=
+-->
