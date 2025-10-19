@@ -49,3 +49,8 @@ La experiencia de Teófilo y la diligencia de Lucas nos recuerdan que el conocim
 Como los bereanos, estamos llamados a examinar todo con criterio bíblico, a escudriñar con reverencia, y a dejarnos enseñar por Dios mismo. No basta con oír sermones o leer devocionales; debemos ir a la fuente, a la Palabra de Dios, y beber de ella cada día. Solo así podremos discernir entre la verdad y el error, vivir vidas que agraden al Señor, y ser luz en medio de las tinieblas.
 
 Que el ejemplo de Lucas, su celo por la verdad, y el noble espíritu de los bereanos nos inspiren a amar, estudiar y vivir la Palabra de Dios con profundidad y pasión. Porque conocer bien la verdad no solo transforma nuestro entendimiento: transforma toda nuestra vida.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3NjcwOTI4OF19
+-->
