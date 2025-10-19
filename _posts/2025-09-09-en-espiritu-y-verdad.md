@@ -1,12 +1,13 @@
 ---
 layout: post
 title: En Espíritu y Verdad
-image: /images/adorarenespiritu.png
+cover-img: /assets/img/adorarenespiritu.png
+thumbnail-img: /assets/img/adorarenespiritu.png 
+share-img: /assets/img/adorarenespiritu.png
 author: José Danois
 tags: [reflexion bíblica, adoración]
 published: true
 ---
-![adorar en espiritu](/images/adorarenespiritu.png)
 ## Una conversación que lo cambia todo
 
 El capítulo 4 de Juan nos relata el conocido encuentro entre Jesús y la mujer samaritana. En medio de ese diálogo surge un tema crucial: la adoración. La mujer le habla a Jesús sobre el lugar correcto para adorar, pero Él le responde con una verdad que marcaría un antes y un después:
@@ -60,5 +61,5 @@ El Padre sigue buscando adoradores que lo adoren de esa manera. Que nuestra ador
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzI5Njk2OV19
+eyJoaXN0b3J5IjpbLTE4MDY0MTc2MzBdfQ==
 -->
