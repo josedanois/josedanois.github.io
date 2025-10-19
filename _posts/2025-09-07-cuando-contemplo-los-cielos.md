@@ -30,3 +30,8 @@ De todo lo creado, de todas las maravillas de la naturaleza solo tu y yo fuimos 
 > Sin embargo, cuando se cumplió el tiempo establecido, Dios envió a su Hijo, nacido de una mujer y sujeto a la ley. Dios lo envió para que comprara la libertad de los que éramos esclavos de la ley, a fin de poder adoptarnos como sus propios hijos; Gálatas 4:4-5 NTV
 
 Aunque era Dios, no consideró que el ser igual a Dios fuera algo a lo cual aferrarse. En cambio, renunció a sus privilegios divinos; adoptó la humilde posición de un esclavo y nació como un ser humano. Cuando apareció en forma de hombre, se humilló a sí mismo en obediencia a Dios y murió en una cruz como morían los criminales. Por lo tanto, Dios lo elevó al lugar de máximo honor y le dio el nombre que está por encima de todos los demás nombres. Filipenses 2:6-9 NTV.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MTk4MDg3ODldfQ==
+-->
