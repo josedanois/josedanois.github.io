@@ -44,3 +44,8 @@ Ninguna disciplina cristiana debe convertirse en una moneda de pago o intercambi
 Como creyentes, no podemos sustituir la “moneda” de la fe —o si se quiere, la llave de la fe— por la moneda de las obras. A Dios le agrada la fe: que confiemos en Él y no en nosotros mismos.
 
 > Y a Aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos o entendemos, según el poder que actúa en nosotros, a él sea gloria en la iglesia en Cristo Jesús por todas las edades, por los siglos de los siglos. Amén. (Efesios 3:20-21)
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ2NzA0ODQ2MV19
+-->
