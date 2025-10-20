@@ -1,0 +1,19 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>{{ site.title }} - Microblog</title>
+    <link>{{ site.url }}/micro/</link>
+    <description>Feed de microblog de {{ site.title }}</description>
+    {% for post in site.micro limit:20 %}
+    <item>
+      <title>{{ post.title | escape }}</title>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <description>{{ post.content | xml_escape }}</description>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
