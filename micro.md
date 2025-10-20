@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
       // Configura los parámetros de GraphComment para este post
       window["gc_params_" + postId] = {
-        graphcomment_id: "josedanois", // 👈 tu GraphComment ID
+        graphcomment_id: "jdanois", // 👈 tu GraphComment ID
         page_id: postUrl,
         fixed_header_height: 0
       };
