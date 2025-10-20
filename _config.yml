@@ -287,9 +287,9 @@ defaults:
       layout: "page"
   -
     collections:
-  micro:
-    output: true
-    permalink: /micro/:title/
+     micro:
+       output: true
+       permalink: /micro/:title/
 
 
 
