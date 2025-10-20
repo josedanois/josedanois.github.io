@@ -10,3 +10,8 @@ layout: default
     🕓 {{ page.date | date: "%d %b %Y" }}
   </div>
 </article>
+
+{% if page.comments %}
+  {% include graphcomment.html %}
+{% endif %}
+
