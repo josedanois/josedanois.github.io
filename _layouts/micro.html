@@ -2,19 +2,16 @@
 layout: default
 ---
 
-<article class="micro-entry">
-  <div class="micro-content">
+<article class="micro-post">
+  <header>
+    <h2 class="post-title">{{ page.title }}</h2>
+    <p class="post-meta">{{ page.date | date: "%d %B %Y" }}</p>
+  </header>
+
+  <div class="post-content">
     {{ content }}
   </div>
-  <div class="micro-date">
-    🕓 {{ page.date | date: "%d %b %Y" }}
-  </div>
 </article>
-
-{% if page.comments %}
-  {% include graphcomment.html %}
-{% endif %}
-
 
 {% if page.comments or site.micro_comments %}
   {% include graphcomment.html %}
