@@ -15,3 +15,7 @@ layout: default
   {% include graphcomment.html %}
 {% endif %}
 
+
+{% if page.comments or site.micro_comments %}
+  {% include graphcomment.html %}
+{% endif %}
