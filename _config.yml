@@ -311,3 +311,6 @@ collections:
     output: true
     permalink: /micro/:title/
 
+
+micro_comments: true
+
