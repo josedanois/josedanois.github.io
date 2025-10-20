@@ -72,6 +72,7 @@ social-network-links:
 #  twitch: yourname
 #  yelp: yourname
   telegram: jdanois
+  rss: feed-micro.xml
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
