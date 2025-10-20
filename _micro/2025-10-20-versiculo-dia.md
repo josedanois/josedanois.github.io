@@ -1,6 +1,7 @@
 ---
 layout: micro
 title: "Versiculo del día"
+tags: [Verso del día]
 date: 2025-10-20
 ---
 
