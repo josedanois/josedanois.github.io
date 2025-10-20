@@ -4,13 +4,20 @@ title: Microblog
 permalink: /micro/
 ---
 
-<h2>Microblog</h2>
+---
+layout: page
+title: "Microblog"
+permalink: /micro/
+---
 
-<ul>
-{% for post in site.micro reversed %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a> – <small>{{ post.date | date: "%b %-d, %Y" }}</small>
-    <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
-  </li>
-{% endfor %}
-</ul>
+<h2>Microblog</h2>
+<p class="micro-intro">Reflexiones cortas, pensamientos y notas rápidas del día.</p>
+
+<div class="micro-timeline">
+  {% for post in site.micro reversed %}
+    <div class="micro-item">
+      <div class="micro-date">{{ post.date | date: "%d %b %Y" }}</div>
+      <div class="micro-text">{{ post.content | markdownify }}</div>
+    </div>
+  {% endfor %}
+</div>
