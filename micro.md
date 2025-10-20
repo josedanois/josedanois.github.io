@@ -1,11 +1,5 @@
 ---
 layout: page
-title: Microblog
-permalink: /micro/
----
-
----
-layout: page
 title: "Microblog"
 permalink: /micro/
 ---
