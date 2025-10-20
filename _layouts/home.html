@@ -6,11 +6,12 @@ layout: page
 
 {% assign posts = paginator.posts | default: site.posts %}
 
-<ul class="posts-list list-unstyled" role="list">
+<div class="micro-feed">
+  {% assign colors = "linear-gradient(135deg,#f6d365 0%,#fda085 100%),linear-gradient(135deg,#a1c4fd 0%,#c2e9fb 100%),linear-gradient(135deg,#84fab0 0%,#8fd3f4 100%),linear-gradient(135deg,#fccb90 0%,#d57eeb 100%)" | split: "," %}
   {% for post in posts %}
-  <li class="post-preview">
-    <article class="micro-card">
-
+    {% assign color = colors[forloop.index0 | modulo: colors.size] %}
+    <article class="micro-card" style="background: {{ color }}">
+      
       {%- capture thumbnail -%}
         {% if post.thumbnail-img %}
           {{ post.thumbnail-img }}
@@ -27,14 +28,14 @@ layout: page
 
       {% if thumbnail != "" %}
       <div class="post-image">
-        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        <a href="{{ post.url | relative_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | relative_url }}" alt="Post thumbnail">
         </a>
       </div>
       {% endif %}
 
       <header>
-        <a href="{{ post.url | absolute_url }}">
+        <a href="{{ post.url | relative_url }}">
           <h2 class="post-title">{{ post.title | strip_html }}</h2>
         </a>
         {% if post.subtitle %}
@@ -44,13 +45,10 @@ layout: page
       </header>
 
       <div class="excerpt">
-        {% assign excerpt_length = site.excerpt_length | default: 50 %}
-        {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-          <a href="{{ post.url | absolute_url }}" class="micro-comments-btn">🕮 Leer más</a>
-        {% endif %}
+        {{ post.excerpt | strip_html | truncatewords: 50 }}
       </div>
+
+      <a href="{{ post.url | relative_url }}" class="micro-comments-btn">🕮 Leer más</a>
 
       {% if post.tags.size > 0 %}
       <div class="micro-tags">
@@ -61,9 +59,8 @@ layout: page
       {% endif %}
 
     </article>
-  </li>
   {% endfor %}
-</ul>
+</div>
 
 {% if paginator.total_pages > 1 %}
 <ul class="pagination main-pager">
@@ -85,3 +82,4 @@ layout: page
   {% endif %}
 </ul>
 {% endif %}
+
