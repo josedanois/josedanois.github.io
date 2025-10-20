@@ -6,3 +6,6 @@ comments: true
 ---
 
 "Cuando el alma descansa en Dios, incluso el silencio se convierte en adoración."
+
+
+{% include graphcomment.html %}
