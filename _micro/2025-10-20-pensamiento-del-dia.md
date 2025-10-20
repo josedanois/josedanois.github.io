@@ -1,6 +1,7 @@
 ---
 layout: micro
 title: "Pensamiento del día"
+tags: [Pensamiento del día]
 date: 2025-10-20
 ---
 
