@@ -17,16 +17,29 @@ permalink: /micro/
     <!-- Tarjeta del post -->
     <div class="micro-card" style="border:1px solid #ddd; border-radius:10px; padding:1rem; box-shadow:0 2px 5px rgba(0,0,0,0.05); transition: box-shadow 0.2s;">
       <h3 style="margin:0 0 0.3rem 0;"><a href="{{ post.url }}" style="text-decoration:none; color:#2c3e50;">{{ post.title }}</a></h3>
+
+      <!-- Contenido del post -->
       <div class="micro-excerpt" style="margin-bottom:0.5rem;">
         {{ post.excerpt }}
       </div>
+
+      <!-- Etiquetas / hashtags -->
+      {% if post.tags %}
+      <div class="micro-tags" style="margin-bottom:0.5rem;">
+        {% for tag in post.tags %}
+          <span style="display:inline-block; background-color:#ecf0f1; color:#2c3e50; padding:0.2rem 0.5rem; border-radius:4px; font-size:0.8em; margin-right:0.3rem;">#{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      <!-- Botón comentarios -->
       <a href="{{ post.url }}" class="micro-comments-btn" style="display:inline-block; padding:0.4rem 0.8rem; background-color:#3498db; color:#fff; border-radius:5px; text-decoration:none; font-weight:bold;">💬 Ver comentarios</a>
     </div>
   </div>
 {% endfor %}
 </div>
 
-<!-- Estilos hover -->
+<!-- Estilos hover y responsive -->
 <style>
 .micro-card:hover {
   box-shadow:0 4px 12px rgba(0,0,0,0.12);
