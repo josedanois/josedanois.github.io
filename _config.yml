@@ -285,12 +285,6 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-  -
-    collections:
-     micro:
-       output: true
-       permalink: /micro/:title/
-
 
 
 # Exclude these files from production site
@@ -310,4 +304,10 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+
+collections:
+  micro:
+    output: true
+    permalink: /micro/:title/
 
