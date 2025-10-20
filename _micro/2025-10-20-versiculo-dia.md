@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: micro
 title: "Versiculo del día"
 date: 2025-10-20
 category: micro
