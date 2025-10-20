@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: micro
 title: "Pensamiento del día"
 date: 2025-10-20
 ---
