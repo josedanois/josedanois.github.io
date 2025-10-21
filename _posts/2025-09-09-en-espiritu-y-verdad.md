@@ -5,7 +5,7 @@ cover-img: /assets/img/adorarenespiritu.png
 thumbnail-img: /assets/img/adorarenespiritu.png 
 share-img: /assets/img/adorarenespiritu.png
 author: José Danois
-tags: [reflexion bíblica, adoración]
+tags: [Reflexion Bíblica, Adoración]
 published: true
 ---
 ## Una conversación que lo cambia todo
@@ -61,5 +61,5 @@ El Padre sigue buscando adoradores que lo adoren de esa manera. Que nuestra ador
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY0MTc2MzBdfQ==
+eyJoaXN0b3J5IjpbMTA4Mzg5NDA4Ml19
 -->
