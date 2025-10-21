@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Cuando contemplo los cielos…
-image: /images/luna.jpg
+cover-img: /assets/img/luna.jpg
+thumbnail-img: /assets/img/luna.jpg 
+share-img: /assets/img/luna.jpg
 author: José Danois
-tags: [reflexión]
+tags: [Reflexión]
 published: true
 ---
-![luna](/images/luna.jpg)
 > Cuando contemplo tus cielos, obra de tus dedos, la luna y las estrellas que allí fijaste, me pregunto: «¿Qué es el hombre para que en él pienses? ¿Qué es el hijo del hombre para que lo tomes en cuenta?». Salmos 8:3-4 NVI
 
 El universo abarca todo lo conocido: la materia, la energía, el espacio y el tiempo. Las escalas de tiempo son tan grandes que ni siquiera podemos imaginarlas.
@@ -33,5 +34,5 @@ Aunque era Dios, no consideró que el ser igual a Dios fuera algo a lo cual afer
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk4MDg3ODldfQ==
+eyJoaXN0b3J5IjpbMjUwNDQ4MzkyXX0=
 -->
