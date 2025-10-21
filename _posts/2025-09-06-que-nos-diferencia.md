@@ -1,12 +1,13 @@
 ---
 layout: post
 title: ¿Qué nos diferencia?
-image: /images/diferencia.png
+cover-img: /assets/img/diferencia.png
+thumbnail-img: /assets/img/diferencia.png
+share-img: /assets/img/diferencia.png
 author: José Danois
-tags: [viejas libretas, reflexión bíblica]
+tags: [Viejas Libretas, Reflexión Bíblica]
 published: true
 ---
-![libretas](/images/diferencia.png)
 > **Pues no es judío el que lo es exteriormente, ni es la circuncisión la que se hace exteriormente en la carne; sino que es judío el que lo es en lo interior, y la circuncisión es la del corazón, en espíritu, no en letra; la alabanza del cual no viene de los hombres, sino de Dios. Romanos 2:28-29**
 
 Cuantas veces las personas tratan de diferenciarse por su forma de vestir, por su peinado o por sus detalles externos. Es decir, por su apariencia. Muchas veces quieren ir en contra de lo convencional, para acentuar una determinada identidad. Lo curioso es que, mientras más intentan diferenciarse, más terminan pareciéndose a otros. Crean subculturas que se distinguen de la cultura general, pero dentro de esas subculturas, todos parecen iguales. La aparente diferencia individual se diluye en la uniformidad del grupo.
@@ -44,5 +45,5 @@ La verdadera diferencia no la hace tu ropa, ni tu peinado, ni tus accesorios. La
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzM5NTc2M119
+eyJoaXN0b3J5IjpbMTYyMjcxNzMyXX0=
 -->
