@@ -1187,6 +1187,22 @@ pre {
     background: #2a2a2a;
     border-color: #444;
   }
+
+  /* Imágenes más pequeñas y centradas */
+.micro-card .post-image {
+  text-align: center; /* centra la imagen */
+  margin-bottom: 0.6rem;
+}
+
+.micro-card .post-image img {
+  width: auto;
+  max-width: 250px; /* tamaño máximo de la imagen */
+  height: 140px; /* altura uniforme */
+  object-fit: cover; /* recorta y centra la imagen */
+  border-radius: 8px;
+}
+
+  
 }
 
 .micro-feed {
