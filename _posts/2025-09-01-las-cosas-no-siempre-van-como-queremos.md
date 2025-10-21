@@ -5,7 +5,7 @@ cover-img: /assets/img/Frustración.jpg
 thumbnail-img: /assets/img/Frustración.jpg
 share-img: /assets/img/Frustración.jpg
 author: José Danois
-tags: [diario]
+tags: [Diario]
 published: true
 ---
 A veces las cosas no van como queremos que sucedan. Sin embargo, Dios obra de acuerdo a su voluntad y propósito. Hay muchas cosas que deseamos ver que sucedan y no suceden. Me he dado cuenta que muchas veces mientras más empujo, menos logro, incluso cuando oro. Eso no significa que tenemos que desechar la oración o que no funcione.
@@ -28,5 +28,5 @@ hayamos hecho.» 1 Juan 5:14-15
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MzUxNDU4MF19
+eyJoaXN0b3J5IjpbMjUwNzc5MDg0XX0=
 -->
