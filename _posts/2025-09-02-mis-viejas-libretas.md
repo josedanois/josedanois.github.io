@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Mis viejas libretas
-image: /images/IMG_3173.jpg
+cover-img: /assets/img/IMG_3173.jpg
+thumbnail-img: /assets/img/IMG_3173.jpg
+share-img: /assets/img/IMG_3173.jpg
 author: José Danois
-tags: [viejas libretas]
+tags: [Viejas Libretas]
 published: true
 ---
-![libretas](/images/IMG_3173.jpg)
 En la foto puedes ver parte de las libretas de anotaciones y escritos que todavía conservo. No soy escritor, pero escribo bastante. Estas libretas han sido, por años, recipientes de mis pensamientos y reflexiones acerca de la Fe. En muchas se encuentran los borradores de mis sermones o predicaciones, y varias han servido también como diario personal.
 
 Últimamente he estado revisándolas, con la intención de desecharlas más adelante. No obstante, hay material que quiero conservar. Y la manera de hacerlo es compartiéndolo aquí. Así que las publicaciones que provengan de estas libretas estarán en una categoría llamada “Viejas libretas”. No podía ser de otra manera.
@@ -19,5 +20,5 @@ Aunque la tecnología, en gran medida, nos está empujando a dejar de escribir a
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE3MzkxODZdfQ==
+eyJoaXN0b3J5IjpbLTEyNzM5MDM2NzFdfQ==
 -->
