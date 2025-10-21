@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Cuando el Medio se Convierte en el Fin
-image: /images/digital.png
+cover-img: /assets/img/digital.png
+thumbnail-img: /assets/img/digital.png 
+share-img: /assets/img/digital.png
 author: José Danois
 tags: [Era Digital, Desconexión espiritual]
 published: true
 ---
-![Digital](/images/digital.png)
 Vivimos en una época en la que las herramientas tecnológicas han alcanzado un lugar central en nuestra vida diaria. Usamos aplicaciones para comunicarnos, informarnos, entretenernos, e incluso para relacionarnos con Dios. Pero hay una realidad que muchas veces pasamos por alto: estas herramientas, que en un principio fueron creadas para facilitarnos la vida, corren el riesgo de convertirse en nuestros amos, desplazando el propósito por el cual fueron creadas.
 
 # El medio que se vuelve el fin
@@ -56,5 +57,5 @@ Que el Señor nos dé sabiduría para usar los medios sin perdernos en ellos, y 
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDI1MzAzOV19
+eyJoaXN0b3J5IjpbLTE1MTM3MDgyNjJdfQ==
 -->
