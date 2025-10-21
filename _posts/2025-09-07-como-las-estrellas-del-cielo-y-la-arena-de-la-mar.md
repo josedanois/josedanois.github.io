@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Como las estrellas del cielo y la arena del mar
-image: /images/estrellas.png
+cover-img: /assets/img/estrellas.png
+thumbnail-img: /assets/img/estrellas.png
+share-img: /assets/img/estrellas.png
 author: José Danois
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 published: true
 ---
-![estrellas](/images/estrellas.png)
 En la Biblia, Dios le promete a Abraham:
 
 > _“Te multiplicaré en gran manera, y haré que tu descendencia sea como las estrellas del cielo y como la arena que está a la orilla del mar” (Génesis 22:17)._
@@ -29,5 +30,5 @@ Su fidelidad y misericordia superan cualquier cálculo humano (Salmo 36:5).
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyNTc4OTA1XX0=
+eyJoaXN0b3J5IjpbODMwNjU5MDQwXX0=
 -->
