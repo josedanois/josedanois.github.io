@@ -5,7 +5,7 @@ cover-img: /assets/img/amarte.png
 thumbnail-img: /assets/img/amarte.png
 share-img: /assets/img/amarte.png
 author: José Danois
-tags: [diario]
+tags: [Diario]
 published: true
 ---
 Recuerdo aquella vieja canción que cantábamos en la Iglesia para los años 80 donde le expresábamos a Dios el deseo de amarlo solo a él. Crea que alguno también podrá recordar. La letra de la canción decía:
@@ -36,5 +36,5 @@ Que el amor por otras cosas palidezca frente al gran amor de Cristo el Señor, q
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ3NzUzOV19
+eyJoaXN0b3J5IjpbMTcxNjc3MjI4NSwtMTM5NDc3NTM5XX0=
 -->
