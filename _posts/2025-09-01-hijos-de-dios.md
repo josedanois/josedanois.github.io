@@ -5,7 +5,7 @@ cover-img: /assets/img/hijos.jpg
 thumbnail-img: /assets/img/hijos.jpg
 share-img: /assets/img/hijos.jpg
 author: José Danois
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 published: true
 ---
 > Miren cuánto nos ama el Padre, que nos ha concedido ser llamados hijos de Dios. Y lo somos. El mundo no nos conoce, porque no lo conoció a él. Todo aquel que permanece en él, no peca; todo aquel que peca, no lo ha visto, ni lo ha conocido. Todo aquel que ha nacido de Dios no practica el pecado, porque la simiente de Dios permanece en él, y no puede pecar, porque ha nacido de Dios. 1 Juan 3:1,6,9
@@ -64,5 +64,5 @@ El amor de Dios no tiene límites, no escasea. Todo porque nos amó. Nos hizo hi
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwODU2NzQzXX0=
+eyJoaXN0b3J5IjpbMjA1NTk5MzM1XX0=
 -->
