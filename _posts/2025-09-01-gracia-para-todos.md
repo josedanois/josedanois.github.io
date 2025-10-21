@@ -5,7 +5,7 @@ cover-img: /assets/img/graciaparatodos.jpg
 thumbnail-img: /assets/img/graciaparatodos.jpg
 share-img: /assets/img/graciaparatodos.jpg
 author: José Danois
-tags: [gracia]
+tags: [Gracia]
 published: true
 ---
 Si has dedicado algún tiempo a leer la Biblia, te abras encontrado en algún momento con esas “molestas” listas de nombres llamadas genealogías. Por lo general las obviamos porque nos parecen aburridas y sin sentido. Pensamos ¿para qué están puestas en la Biblia, tienen alguna importancia?
@@ -75,5 +75,5 @@ Dios escogió eso que el mundo de alguna manera dañó para manifestar su gracia
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk1MTA4MDRdfQ==
+eyJoaXN0b3J5IjpbMTk2OTI0MDY1Ml19
 -->
