@@ -5,7 +5,7 @@ cover-img: /assets/img/jesús.jpg
 thumbnail-img: /assets/img/jesús.jpg 
 share-img: /assets/img/jesús.jpg
 author: José Danois
-tags: [extracto] 
+tags: [Extracto] 
 published: true
 ---
 Sin el evangelio,[^1] 
@@ -89,5 +89,6 @@ Esto es lo que deberíamos, en resumen, buscar en toda la Escritura: **verdadera
 
 [^1]: Publicado originalmente por Tullian Tchividjian
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkyNzYzMzRdfQ==
+eyJoaXN0b3J5IjpbLTE0NDQ5OTc3MTAsLTE3NzkyNzYzMzRdfQ
+==
 -->
