@@ -1189,6 +1189,88 @@ pre {
   }
 }
 
+.micro-feed {
+  display: grid;
+  grid-template-columns: 1fr; /* Una sola columna */
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.micro-card {
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background: #fff;
+}
+
+.micro-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.12);
+}
+
+.micro-card .post-title {
+  margin: 0;
+  font-size: 1.3rem;
+}
+
+.micro-card .post-subtitle {
+  font-size: 1rem;
+  color: #7f8c8d;
+}
+
+.micro-card .date {
+  font-size: 0.85rem;
+  color: #555;
+  margin-bottom: 0.5rem;
+}
+
+.micro-card .excerpt {
+  margin: 0.8rem 0;
+  line-height: 1.5;
+  color: #333;
+}
+
+.micro-card .post-image img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 0.8rem;
+}
+
+.micro-tags {
+  margin-top: 0.5rem;
+}
+
+.micro-tag {
+  display: inline-block;
+  background-color: #3498db;
+  color: #fff;
+  font-size: 0.8em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 5px;
+  margin-right: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+
+.micro-comments-btn {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  background-color: #3498db;
+  color: #fff;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.micro-comments-btn:hover {
+  background-color: #2980b9;
+}
+
+/* GraphComment */
+.graph-comment-container {
+  margin-top: 1rem;
+}
 
 
 
