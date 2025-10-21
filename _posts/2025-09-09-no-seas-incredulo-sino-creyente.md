@@ -5,7 +5,7 @@ cover-img: /assets/img/fe.png
 thumbnail-img: /assets/img/fe.png 
 share-img: /assets/img/fe.png
 author: José Danois
-tags: [reflexión bíblica,fe]
+tags: [Reflexión Bíblica, Fe]
 published: true
 ---
 **Juan 20:27-29**
@@ -124,5 +124,5 @@ Así como Tomás pasó de la incredulidad a exclamar:**“¡Señor mío y Dios m
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyMDQ1OTldfQ==
+eyJoaXN0b3J5IjpbLTQxODcxMTg3M119
 -->
