@@ -5,7 +5,7 @@ cover-img: /assets/img/obrasdeDios.jpg
 thumbnail-img: /assets/img/obrasdeDios.jpg
 share-img: /assets/img/obrasdeDios.jpg
 author: José Danois
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 published: true
 ---
 > Al pasar Jesús, vio a un hombre ciego de nacimiento. Y le preguntaron sus discípulos, diciendo: Rabí, ¿quién pecó, este o sus padres, para que haya nacido ciego? Respondió Jesús: No es que pecó este, ni sus padres, sino para que las obras de Dios se manifiesten en él. Juan 9:1-3
@@ -52,5 +52,5 @@ Finalmente, no olvides que la mayor obra que demuestra la gloria de Dios y la ma
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkxMzc5NTVdfQ==
+eyJoaXN0b3J5IjpbLTIwNjYzOTA2MjddfQ==
 -->
