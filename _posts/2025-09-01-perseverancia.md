@@ -5,7 +5,7 @@ cover-img: /assets/img/perseverencia2.jpg
 thumbnail-img: /assets/img/perseverencia2.jpg 
 share-img: /assets/img/perseverencia2.jpg
 author: José Danois
-tags: [diario]
+tags: [Diario]
 published: true
 ---
 Cada mañana, cuando salgo a caminar, me encuentro con pequeñas curiosidades que solo un ojo observador puede ver.
@@ -33,5 +33,5 @@ delante.” Hebreos 12:1
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjQ2MzE1Ml19
+eyJoaXN0b3J5IjpbLTE0OTA3NDkyOTZdfQ==
 -->
