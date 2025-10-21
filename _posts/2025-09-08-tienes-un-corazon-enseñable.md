@@ -1,12 +1,13 @@
 ---
 layout: post
 title: ¿Tienes un corazón enseñable?
-image: /images/corazonenseñable.png
+cover-img: /assets/img/corazonenseñable.png
+thumbnail-img: /assets/img/corazonenseñable.png 
+share-img: /assets/img/corazonenseñable.png
 author: José Danois
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 published: true
 ---
-![corazon enseñable](/images/corazonenseñable.png)
 > “Llegó entonces a Éfeso un judío llamado Apolos, natural de Alejandría, varón elocuente y poderoso en las Escrituras…”  
 > (Hechos 18:24-26)
 
@@ -57,5 +58,5 @@ La manera más eficaz de ser transformados es acudir a Dios y a Su Palabra para 
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjU0MTE3Ml19
+eyJoaXN0b3J5IjpbNjkzNzE1MDkzXX0=
 -->
