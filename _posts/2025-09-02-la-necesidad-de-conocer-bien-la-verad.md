@@ -1,12 +1,13 @@
 ---
 layout: post
 title: La necesidad de conocer bien la verdad
-image: /images/verdad.png
+cover-img: /assets/img/verdad.png
+thumbnail-img: /assets/img/verdad.png
+share-img: /assets/img/verdad.png
 author: José Danois
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 published: true
 ---
-![verdad](/images/verdad.png)
 >Para que llegues a tener plena seguridad de lo que te enseñaron.Lucas 1:4
 
 Lucas, un médico y amigo de Teófilo, le escribe para que conozca bien la verdad de las cosas en las cuales ha sido instruido. A Teófilo se le habían enseñado algunas cosas acerca de Jesús, su obra y enseñanza. Sin embargo, parece que la enseñanza que había recibido era poca o superficial. Lucas entra en conocimiento de la necesidad que tenía Teófilo. Puede ser que haya tenido una conversación con el dónde este le expresara sus dudas. Lucas, inspirado por el Espíritu Santo, ve la necesidad de redactar un tratado donde se propone hablar acerca de las cosas que Jesús comenzó hacer y enseñar (Hechos 1:1) presentándolas de una manera ordenada.
@@ -52,5 +53,5 @@ Que el ejemplo de Lucas, su celo por la verdad, y el noble espíritu de los bere
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjcwOTI4OF19
+eyJoaXN0b3J5IjpbMTk4NzQxNzM5OV19
 -->
