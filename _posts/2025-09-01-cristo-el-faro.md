@@ -5,7 +5,7 @@ cover-img: /assets/img/lighthouse1.jpg
 thumbnail-img: /assets/img/lighthouse1.jpg
 share-img: /assets/img/lighthouse1.jpg
 author: José Danois
-tags: [poema]
+tags: [Poema]
 published: true
 ---
 En la oscuridad de la vida errante,  
@@ -40,6 +40,5 @@ el faro de amor que me lleva hacia Dios.
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM0NTI1NjUsLTEyNTkwNTI1ODddfQ
-==
+eyJoaXN0b3J5IjpbMTg3NDkxNTAxOSwtMTI1OTA1MjU4N119
 -->
