@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Vestidos por su gracia
-image: /images/sugracia.jpg
+cover-img: /assets/img/sugracia.jpg
+thumbnail-img: /assets/img/sugracia.jpg
+share-img: /assets/img/sugracia.jpg
 author: José Danois
-tags: [gracia]
+tags: [Gracia]
 published: true
 ---
-![Su gracia](/images/sugracia.jpg)
 Hace aproximadamente un poco más de dos milenios, una mujer se coloca sobre sus hombros su cántaro para ir a recoger agua. Respira profundamente y sale con precaución de las sombras de su casa hacia la luz brillante de la calle.
 
 Era alrededor del mediodía, y ella había planificado el momento exacto para salir y evitar las miradas escrutadoras y las malas lenguas de sus vecinos que ya habían estado temprano en los alrededores del pozo.
@@ -57,5 +58,5 @@ _Si conocieras el don de Dios, y quién es el que te dice: Dame de beber; tú le
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTgzNTBdfQ==
+eyJoaXN0b3J5IjpbLTE3MzI3ODQ4MzVdfQ==
 -->
