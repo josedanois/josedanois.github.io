@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Reflexiones sobre el Creer y la Vida Espiritual
-image: /images/IMG_3174.jpg
+cover-img: /assets/img/IMG_3174.jpg
+thumbnail-img: /assets/img/IMG_3174.jpg
+share-img: /assets/img/IMG_3174.jpg
 author: José Danois
-tags: [viejas libretas, reflexión bíblica]
+tags: [Viejas Libretas, Reflexión Bíblica]
 published: true
 ---
-![libretas](/images/IMG_3174.jpg)
 Apuntes de mis viejas libretas (Julio 9, 2016)
 
 El evangelio se fundamenta en  **creer**, no meramente en el obrar. Todo lo recibimos por  **gracia**.  **Creer**  es depositar nuestra fe en una persona o en lo que esa persona dice. De hecho, «sin fe es imposible agradar a Dios, porque es necesario que el que se acerca a Dios crea que le hay y que es galardonador de los que le buscan» (Hebreos 11:6).  **Creer**  es aceptar como verdadero lo que se nos revela; es la acción que surge de la fe, esa «certeza de lo que se espera, la convicción de lo que no se ve» (Hebreos 11:1). En el evangelio, nada podemos ganar por mérito propio ni por buenas obras.
@@ -47,5 +48,5 @@ Como creyentes, no podemos sustituir la “moneda” de la fe —o si se quiere,
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzA0ODQ2MV19
+eyJoaXN0b3J5IjpbMjIyMzYyOTgzXX0=
 -->
