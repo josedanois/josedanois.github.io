@@ -5,7 +5,7 @@ cover-img: /assets/img/faith-4411141_1280.jpg
 thumbnail-img: /assets/img/faith-4411141_1280.jpg
 share-img: /assets/img/faith-4411141_1280.jpg
 author: José Danois
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 published: true
 ---
 > Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor._
@@ -40,5 +40,5 @@ La Escritura nos dice que el amor:
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUxNjA0NDBdfQ==
+eyJoaXN0b3J5IjpbNzU0MTI3NDMyXX0=
 -->
