@@ -3,7 +3,7 @@ layout: post
 title: Cuando el Medio se Convierte en el Fin
 image: /images/digital.png
 author: José Danois
-tags: [era digital, deconexión espiritual]
+tags: [Era Digital, Desconexión espiritual]
 published: true
 ---
 ![Digital](/images/digital.png)
@@ -56,5 +56,5 @@ Que el Señor nos dé sabiduría para usar los medios sin perdernos en ellos, y 
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ0MDUyOThdfQ==
+eyJoaXN0b3J5IjpbLTQ2NDI1MzAzOV19
 -->
