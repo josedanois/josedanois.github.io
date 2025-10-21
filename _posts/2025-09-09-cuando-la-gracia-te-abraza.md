@@ -5,7 +5,7 @@ cover-img: /assets/img/hijoprodigo.jpg
 thumbnail-img: /assets/img/hijoprodigo.jpg 
 share-img: /assets/img/hijoprodigo.jpg
 author: José Danois
-tags: [extracto,gracia]
+tags: [Extracto, Gracia]
 published: true
 ---
 “Cuando el hijo pródigo llegó a casa, la gracia lo recibió y lo abrazó. La ley dijo: “¡Atrápenlo!”. La gracia dijo: “¡Abrácenlo!”. La ley dijo: “¡Golpéenlo!”. La gracia dijo: “¡Bésenlo!”. La ley fue tras él y lo ató. La gracia dijo: “¡Suéltalo y déjalo ir!” La ley me dice lo torcido que estoy; la gracia viene y me hace recto”.
@@ -20,5 +20,5 @@ Fuente: John Pollock, [Moody without Sankey](https://www.amazon.com/D-L-Moody-wi
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2Njg0OTc2XX0=
+eyJoaXN0b3J5IjpbNzI3MzU1OTk4LDQ4NjY4NDk3Nl19
 -->
