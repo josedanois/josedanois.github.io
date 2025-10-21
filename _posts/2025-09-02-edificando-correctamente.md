@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Edificando correctamente
-image: /images/edificando.png
+cover-img: /assets/img/edificando.png
+thumbnail-img: /assets/img/edificando.png
+share-img: /assets/img/edificando.png
 author: José Danois
-tags: [reflexión bíblica]
+tags: [Reflexión Bíblica]
 published: true
 ---
-![edificando](/images/edificando.png)
 > “En él todo el edificio, bien armado, se va levantando para llegar a ser un templo santo en el Señor. En él también ustedes son edificados juntamente para ser morada de Dios por su Espíritu.” Efesios 2:21-22
 
 ## **Una Iglesia que se levanta sobre Cristo**
@@ -79,5 +80,5 @@ Al final, el verdadero éxito espiritual no está en cuán alto construimos, sin
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTUzNTE5N119
+eyJoaXN0b3J5IjpbLTIwNzEyNDM0ODhdfQ==
 -->
