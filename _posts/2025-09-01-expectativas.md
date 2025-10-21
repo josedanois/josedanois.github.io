@@ -5,7 +5,7 @@ cover-img: /assets/img/expectativas.jpg
 thumbnail-img: /assets/img/expectativas.jpg
 share-img: /assets/img/expectativas.jpg
 author: José Danois
-tags: [diario]
+tags: [Diario]
 published: true
 ---
 A veces tenemos tantas expectativas. Cada vez que comienza un año nos hacemos expectativas de cómo debería ser el mismo. Incluso, nos hacemos expectativas de lo que pensamos que Dios debería hacer, según nuestra manera de pensar. Sin embargo, cuando nuestras expectativas no se cumplen nos desilusionamos, nos desanimamos y no queremos seguir caminando.
@@ -24,5 +24,5 @@ Hoy no es el día de echarte a morir, hoy es el día de levantarte en el nombre 
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios y no olvides **[suscribirte](https://www.feedio.co/@jdanois)** gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzU0MDA1MF19
+eyJoaXN0b3J5IjpbLTMyNzg2ODIzOF19
 -->
