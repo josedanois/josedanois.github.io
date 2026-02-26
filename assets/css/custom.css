@@ -1,1 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+.post-content,
+.post-content p,
+.post-content li,
+.post-content blockquote,
+.post-content span {
+  font-family: 'Libre Baskerville', serif;
+}
 
