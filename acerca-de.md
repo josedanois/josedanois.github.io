@@ -1,16 +1,17 @@
 ---
 layout: page
 title: Acerca de
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hola, bienvenidos a mi [Blog](https://jdanois.github.io/). Este espacio esta dedicado a la reflexión bíblica y teológica.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Puedes acceder a las publicaciones [Aquí](https://jdanois.github.io/).
 
-What else do you need?
+Te invito a unirte a la conversación dejando tus comentarios en los artículos.
 
-### My story
+_No se conformen a este mundo; más bien, transfórmense por la renovación de su entendimiento de modo que comprueben cuál sea la voluntad de Dios, buena, agradable y perfecta. Romanos 12:2_
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Contacto
+
+[E-Mail ✉️](mailto:jdanonline@gmail.com) 
