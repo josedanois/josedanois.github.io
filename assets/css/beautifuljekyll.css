@@ -1124,3 +1124,25 @@ pre {
     display: inline-block;
   }
 }
+
+/* Aplicar Libre Baskerville solo al cuerpo del texto y párrafos */
+body, 
+.posts-list .post-entry, 
+.post-content, 
+p, 
+li {
+    font-family: 'Libre Baskerville', serif !important;
+    font-size: 18px; /* Tamaño ideal para esta fuente */
+    line-height: 1.8;
+    color: #333;
+}
+
+/* Forzar que los títulos (Main title y headers) NO usen Baskerville */
+h1, h2, h3, h4, h5, h6,
+.navbar-brand,
+.post-title,
+.post-heading h1,
+.section-heading {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    font-weight: 800;
+}
