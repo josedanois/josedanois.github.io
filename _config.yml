@@ -21,9 +21,9 @@ author: José Danois
 
 navbar-links:
   Acerca de: "acerca-de"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Recursos:
+    - Bible Gateway: "https://www.biblegateway.com/"
+    - Software Bíblico Logos: "https://es.logos.com/"
   Author's home: "https://josedanois.com/"
 
 ################
