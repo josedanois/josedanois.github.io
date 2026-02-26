@@ -4,7 +4,7 @@ title: Acerca de
 subtitle: 
 ---
 
-Hola, bienvenidos a mi [Blog](https://jdanois.github.io/). Este espacio esta dedicado a la reflexión bíblica y teológica.
+Hola, bienvenidos a mi [Blog](https://jdanois.github.io/). Este espacio está dedicado a la reflexión bíblica y teológica en diálogo con la experiencia del diario vivir.
 
 Puedes acceder a las publicaciones [Aquí](https://jdanois.github.io/).
 
