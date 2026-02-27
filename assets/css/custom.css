@@ -1,16 +1,1 @@
-/* Ajustar imágenes dentro del contenido de posts */
-.post-content img {
-  display: block;
-  margin: 20px auto;
-  max-width: 60%; /* reduce el tamaño al 60% del ancho del contenedor */
-  height: auto;
-  border-radius: 4px; /* opcional — esquinas suavizadas */
-}
 
-.post-content img {
-  display: block;
-  margin: 20px auto;
-  width: 60%;     /* ancho deseado */
-  aspect-ratio: 16 / 9; /* fuerza proporción rectangular */
-  object-fit: cover; /* recorta para llenar ese rectángulo */
-}
