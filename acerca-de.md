@@ -3,6 +3,9 @@ layout: page
 title: Acerca de
 subtitle: 
 ---
+![pic](https://i.postimg.cc/vTM9NH80/IMG_3482_POP_OUT_modified.png)
+
+_Creciendo en la gracia y el conocimiento de Dios_
 
 Hola, bienvenidos a mi [Blog](https://jdanois.github.io/). Este espacio está dedicado a la reflexión bíblica y teológica en diálogo con la experiencia del diario vivir.
 
