@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Ellas dan testimonio de mí
-subtitle: 
+title: Cuando el medio se convierte en el fin
+subtitle: Un Llamado a Reorientar Nuestros Corazones en la Era Digital
 cover-img: 
-thumbnail-img: /assets/img/Juan316.jpg
+thumbnail-img: 
 share-img: /assets/img/Juan316.jpg
-tags: [biblia]
+tags: [Era Digital]
 author: José Danois
 published: true
 ---
@@ -13,5 +13,5 @@ published: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDk1NzM3NF19
+eyJoaXN0b3J5IjpbLTI0NDEwNjY3NF19
 -->
