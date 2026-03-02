@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/Juan316.jpg
 share-img: /assets/img/Juan316.jpg
-tags: [biblia]
+tags: [Biblia]
 author: José Danois
 published: true
 ---
@@ -119,3 +119,6 @@ No leamos la Biblia para encontrar algo, sino para encontrar a alguien. Aquel qu
 ---
 
 [^1]:  El verbo escudriñad, que es como se usa en la Reina Valera 60, tiene dos opciones: o imperativo (escudriñad) o indicativo (escudriñáis). En el gr. las dos formas se escriben igual y el contexto normalmente determina cuál corresponde. Aquí el contexto sugiere el modo indicativo. Jesús esta diciendo: "la razón por la cual ustedes estudian las Escrituras es porque..."
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDE1NjM4MTM5XX0=
+-->
