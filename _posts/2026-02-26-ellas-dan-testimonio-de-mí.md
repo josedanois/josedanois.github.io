@@ -12,7 +12,7 @@ published: true
 ![](/assets/img/Juan316.jpg)
 > Ustedes estudian las Escrituras a fondo porque piensan que ellas les dan vida eterna. ¡Pero las Escrituras me señalan a mí! Sin embargo, ustedes se niegan a venir a mí para recibir esa vida. Juan 5:39–40 NTV
 
-****¿Qué es la Biblia?****
+**¿Qué es la Biblia?**
 
 Un cristiano te diría que la Biblia es un conjunto de 66 libros, que es la Palabra de Dios. Otro tipo de persona podría decirte que es un libro mágico. De hecho, algunos lo usan como amuleto. Para otros, la Biblia parece ser un libro de fórmulas o recetas a la manera de “cómo hacer esto”. Hay quienes buscan códigos ocultos en la Biblia. Un no creyente diría que la Biblia es un libro como cualquier otro y, para los más escépticos, la Biblia es un libro para justificar todo tipo de violencia e injusticia en nombre de Dios.
 
