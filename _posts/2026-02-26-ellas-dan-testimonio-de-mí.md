@@ -116,6 +116,6 @@ No leamos la Biblia para encontrar algo, sino para encontrar a alguien. Aquel qu
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)**.
 
-
+---
 
 [^1]:  El verbo escudriñad, que es como se usa en la Reina Valera 60, tiene dos opciones: o imperativo (escudriñad) o indicativo (escudriñáis). En el gr. las dos formas se escriben igual y el contexto normalmente determina cuál corresponde. Aquí el contexto sugiere el modo indicativo. Jesús esta diciendo: "la razón por la cual ustedes estudian las Escrituras es porque..."
