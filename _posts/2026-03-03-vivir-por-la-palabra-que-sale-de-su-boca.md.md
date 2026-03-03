@@ -55,12 +55,13 @@ Pero la Palabra de Dios que sale de su boca es suficiente para todo lo que neces
 
 Es por esa razón que cada día necesitamos el pan nuestro de cada día, no solo el pan material, sino la palabra de Dios que sale de su boca.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI1Y3Viu8_w?si=2cyw9XBDNKB29zLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI1Y3Viu8_w?si=2cyw9XBDNKB29zLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>{: .mx-auto.d-block :}
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)**.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTcxMjk0OCwtMTE0NDk2OTczOV19
+eyJoaXN0b3J5IjpbMTg5NzE1NDY3NywtNjI1NzEyOTQ4LC0xMT
+Q0OTY5NzM5XX0=
 -->
