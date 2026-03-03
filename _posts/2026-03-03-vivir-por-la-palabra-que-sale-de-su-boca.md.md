@@ -1,6 +1,15 @@
 
 
-
+layout: post
+title: Edificados como Casa Espiritual
+subtitle: 
+cover-img: 
+thumbnail-img: /assets/img/templo.jpg
+share-img: /assets/img/templo.jpg
+tags: [Reflexión Bíblica]
+author: José Danois
+published: true
+---
 
 ![](https://copilot.microsoft.com/th/id/BCO.914996ec-4ec4-4738-9eb2-c7d6595ad3f6.png)
 
@@ -48,10 +57,11 @@ Pero la Palabra de Dios que sale de su boca es suficiente para todo lo que neces
 
 Es por esa razón que cada día necesitamos el pan nuestro de cada día, no solo el pan material, sino la palabra de Dios que sale de su boca.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI1Y3Viu8_w?si=2cyw9XBDNKB29zLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjIxNDY1MSwtMTE0NDk2OTczOV19
+eyJoaXN0b3J5IjpbLTE0MjkxNTkxMTEsLTExNDQ5Njk3MzldfQ
+==
 -->
