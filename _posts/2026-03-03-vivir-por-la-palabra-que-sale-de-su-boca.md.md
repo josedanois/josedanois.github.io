@@ -1,10 +1,7 @@
 
 > __No sólo de pan vive el hombre, sino de toda palabra que sale de la boca de Dios. Mateo 4:4__
 
-![](https://copilot.microsoft.com/shares/Rfn2ZAueyD2HwPn5q1DgB)
 
-
-![enter image description here](https://copilot.microsoft.com/shares/Rfn2ZAueyD2HwPn5q1DgB)
 
 Nadie puede negar que el pan (y lo que este representa) es necesario para la subsistencia humana.
 
@@ -53,5 +50,5 @@ Es por esa razón que cada día necesitamos el pan nuestro de cada día, no solo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5NjY3MDQ4LC0xMTQ0OTY5NzM5XX0=
+eyJoaXN0b3J5IjpbMTM3OTQ0OTU1MywtMTE0NDk2OTczOV19
 -->
