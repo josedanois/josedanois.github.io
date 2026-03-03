@@ -1,15 +1,14 @@
-
+---
 layout: post
 title: Edificados como Casa Espiritual
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/Juan316.jpg
-share-img: /assets/img/Juan316.jpg
-tags: [Biblia]
+thumbnail-img: /assets/img/templo.jpg
+share-img: /assets/img/templo.jpg
+tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-
 > Acercándoos a él, piedra viva, desechada ciertamente por los hombres, mas para Dios escogida y preciosa, vosotros también, como piedras vivas, sed edificados como casa espiritual y sacerdocio santo, para ofrecer sacrificios espirituales aceptables a Dios por medio de Jesucristo. 1 Pedro 2:4–5
 
 ![](/assets/img/templo.jpg)
@@ -60,5 +59,5 @@ Cada día, mientras vivimos nuestra vida de fe, recordemos que somos llamados a 
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzMTI4MTY4XX0=
+eyJoaXN0b3J5IjpbLTIwMjE2ODI0NzBdfQ==
 -->
