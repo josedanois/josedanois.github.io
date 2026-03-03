@@ -1,5 +1,5 @@
 layout: post
-title: Vivir de toda la Palabra que sale de su boca
+title: La necesidad de conocer bien la verdad
 subtitle: 
 cover-img: 
 thumbnail-img: /assets/img/verdad.png
@@ -8,17 +8,15 @@ tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-
-
 Lucas, un médico y amigo de Teófilo, le escribe para que conozca bien la verdad de las cosas en las cuales ha sido instruido. A Teófilo se le habían enseñado algunas cosas acerca de Jesús, su obra y enseñanza. Sin embargo, parece que la enseñanza que había recibido era poca o superficial. Lucas entra en conocimiento de la necesidad que tenía Teófilo. Puede ser que haya tenido una conversación con el dónde este le expresara sus dudas. Lucas, inspirado por el Espíritu Santo, ve la necesidad de redactar un tratado donde se propone hablar acerca de las cosas que Jesús comenzó hacer y enseñar (Hechos 1:1) presentándolas de una manera ordenada.
 
-verdad.png
+![](/assets/img/verdad.png)
 
 Para este propósito, Lucas, quien era un hombre educado y preparado, investigó las fuentes más fidedignas, esto es, los apóstoles de Jesús, para escribir su evangelio. Los apóstoles de Jesús, vieron a Jesús con sus propios ojos, escucharon sus enseñanzas de sus propios labios y fueron ministros de su Palabra.
 
 Lucas no toma a la ligera esta tarea de escribirle a Teófilo acerca de la maravillosa historia de Jesús. Dado que ya otros (muchos) habían tratado de poner en orden los acontecimientos de la vida de Jesús, Lucas se propone hacerlo, no sin antes investigar todas las cosas desde su origen.
 
-****Dos cosas importantes se desprenden de esta palabra.****
+Dos cosas importantes se desprenden de esta palabra.
 
 1.  La necesidad de conocer bien la verdad de las cosas en las cuales hemos sido instruidos.
 2.  La responsabilidad personal de escudriñar, estudiar, reflexionar y meditar diligentemente en las Escrituras. Haciendo esto podemos discernir entre el bien y el mal, y a vivir de acuerdo a la voluntad de Dios.
@@ -55,5 +53,5 @@ Que el ejemplo de Lucas, su celo por la verdad, y el noble espíritu de los bere
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODE5MDU3NV19
+eyJoaXN0b3J5IjpbLTE4NTczNTk0NTldfQ==
 -->
