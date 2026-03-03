@@ -1,3 +1,4 @@
+---
 layout: post
 title: La necesidad de conocer bien la verdad
 subtitle: 
@@ -16,18 +17,18 @@ Para este propósito, Lucas, quien era un hombre educado y preparado, investigó
 
 Lucas no toma a la ligera esta tarea de escribirle a Teófilo acerca de la maravillosa historia de Jesús. Dado que ya otros (muchos) habían tratado de poner en orden los acontecimientos de la vida de Jesús, Lucas se propone hacerlo, no sin antes investigar todas las cosas desde su origen.
 
-Dos cosas importantes se desprenden de esta palabra.
+**Dos cosas importantes se desprenden de esta palabra.**
 
 1.  La necesidad de conocer bien la verdad de las cosas en las cuales hemos sido instruidos.
 2.  La responsabilidad personal de escudriñar, estudiar, reflexionar y meditar diligentemente en las Escrituras. Haciendo esto podemos discernir entre el bien y el mal, y a vivir de acuerdo a la voluntad de Dios.
 
-****¿Por qué conocer bien la verdad que hemos recibido o sido instruidos?****
+**¿Por qué conocer bien la verdad que hemos recibido o sido instruidos?**
 
 La verdad nos hace libres, dijo nuestro Señor Jesucristo. Libres de la ignorancia, libres del pecado. Hay cosas que puede que las tengamos por verdades ciertas cuando en realidad son mentiras o mentiras disfrazadas de verdad. Hoy todos son proponentes de su propia verdad y para muchos ni siquiera existe la verdad. Hay muchas voces proponiendo sus propias ideas y muchos medios para escuchar. Lucas le dice a Teófilo para que conozcas bien la verdad. Cuando se conoce bien la verdad es fácil identificar a la mentira.
 
 El reto del cristiano es conocer bien la verdad. Cuando Lucas le escribe a Teófilo, él va a las fuentes originales, a los testigos de Cristo. Es de ahí donde él desarrolla su evangelio. Dios nos dejó las Escrituras, su Palabra. En él mundo postmoderno que nos ha tocado vivir la Palabra es nuestro cernidor de ideas, creencias y enseñanzas. Sin embargo, para que la Palabra sea eficaz cumpliendo esta función tenemos que leerla y estudiarla con espíritu humildad y enseñable. Abiertos a que ella misma nos corrija si estamos equivocados.
 
-****Cada creyente tiene la responsabilidad de leer diligentemente la Escritura.****
+**Cada creyente tiene la responsabilidad de leer diligentemente la Escritura.**
 
 > Los bereanos eran mucho más nobles que los tesalonicenses, y escucharon gustosos el mensaje. Todos los días examinaban las Escrituras para comprobar si lo que Pablo y Silas decían era cierto. Hechos 17:11
 
@@ -41,9 +42,9 @@ Cada día tenemos la obligación de examinar nuestra fe, de evaluar lo que creem
 
 > Lámpara es a mis pies tu palabra, Y lumbrera a mi camino. Salmo 119:105
 
-Dios nos dejó la maravillosa Escritura, pero también nos dejó su Espíritu y la Biblia dice que la unción que permanece en nosotros, nos enseña todas las cosas.
+Dios nos dejó la maravillosa Escritura, pero también nos dejó su Espíritu y la Biblia dice que la unción que permanece en nosotros nos enseña todas las cosas.
 
-****Conclusión****
+**Conclusión**
 
 La experiencia de Teófilo y la diligencia de Lucas nos recuerdan que el conocimiento profundo de la verdad no es un lujo, sino una necesidad espiritual. El mundo está lleno de confusión, relativismo y engaño, el creyente no puede conformarse con una fe superficial ni con conocimientos prestados. Necesitamos conocer bien la verdad en la cual hemos sido instruidos, y esto solo se logra por medio de una búsqueda constante, humilde y guiada por el Espíritu en las Escrituras.
 
@@ -53,5 +54,5 @@ Que el ejemplo de Lucas, su celo por la verdad, y el noble espíritu de los bere
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTczNTk0NTldfQ==
+eyJoaXN0b3J5IjpbMjA5OTg1MTU4XX0=
 -->
