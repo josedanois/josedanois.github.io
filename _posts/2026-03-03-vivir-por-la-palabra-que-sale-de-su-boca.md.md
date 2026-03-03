@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: https://copilot.microsoft.com/th/id/BCO.914996ec-4ec4-4738-9eb2-c7d6595ad3f6.png
 share-img: https://copilot.microsoft.com/th/id/BCO.914996ec-4ec4-4738-9eb2-c7d6595ad3f6.png
-tags: [Reflexión Bíblica]
+tags: [Reflexión Bíblica, Video]
 author: José Danois
 published: true
 ---
@@ -62,6 +62,6 @@ Es por esa razón que cada día necesitamos el pan nuestro de cada día, no solo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwNTcyNjU2LDE4OTcxNTQ2NzcsLTYyNT
-cxMjk0OCwtMTE0NDk2OTczOV19
+eyJoaXN0b3J5IjpbLTYzMzExNTcwNSw2MzA1NzI2NTYsMTg5Nz
+E1NDY3NywtNjI1NzEyOTQ4LC0xMTQ0OTY5NzM5XX0=
 -->
