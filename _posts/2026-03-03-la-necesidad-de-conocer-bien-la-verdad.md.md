@@ -1,7 +1,18 @@
-
+layout: post
+title: Vivir de toda la Palabra que sale de su boca
+subtitle: 
+cover-img: 
+thumbnail-img: /assets/img/verdad.png
+share-img: /assets/img/verdad.png
+tags: [Reflexión Bíblica]
+author: José Danois
+published: true
+---
 
 
 Lucas, un médico y amigo de Teófilo, le escribe para que conozca bien la verdad de las cosas en las cuales ha sido instruido. A Teófilo se le habían enseñado algunas cosas acerca de Jesús, su obra y enseñanza. Sin embargo, parece que la enseñanza que había recibido era poca o superficial. Lucas entra en conocimiento de la necesidad que tenía Teófilo. Puede ser que haya tenido una conversación con el dónde este le expresara sus dudas. Lucas, inspirado por el Espíritu Santo, ve la necesidad de redactar un tratado donde se propone hablar acerca de las cosas que Jesús comenzó hacer y enseñar (Hechos 1:1) presentándolas de una manera ordenada.
+
+verdad.png
 
 Para este propósito, Lucas, quien era un hombre educado y preparado, investigó las fuentes más fidedignas, esto es, los apóstoles de Jesús, para escribir su evangelio. Los apóstoles de Jesús, vieron a Jesús con sus propios ojos, escucharon sus enseñanzas de sus propios labios y fueron ministros de su Palabra.
 
@@ -44,5 +55,5 @@ Que el ejemplo de Lucas, su celo por la verdad, y el noble espíritu de los bere
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjU3MzI5N119
+eyJoaXN0b3J5IjpbMTgxODE5MDU3NV19
 -->
