@@ -1,5 +1,4 @@
-
-
+---
 layout: post
 title: Vivir de toda la Palabra que sale de su boca
 subtitle: 
@@ -10,7 +9,6 @@ tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-
 ![](https://copilot.microsoft.com/th/id/BCO.914996ec-4ec4-4738-9eb2-c7d6595ad3f6.png)
 
 No se puede negar que el pan (y lo que este representa) es necesario para la subsistencia humana.
@@ -59,8 +57,10 @@ Es por esa razón que cada día necesitamos el pan nuestro de cada día, no solo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LI1Y3Viu8_w?si=2cyw9XBDNKB29zLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)**.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwOTkyMTE1LC0xMTQ0OTY5NzM5XX0=
+eyJoaXN0b3J5IjpbLTYyNTcxMjk0OCwtMTE0NDk2OTczOV19
 -->
