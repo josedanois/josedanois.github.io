@@ -1,11 +1,11 @@
 
 
 layout: post
-title: Edificados como Casa Espiritual
+title: Vivir de toda la Palabra que sale de su boca
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/templo.jpg
-share-img: /assets/img/templo.jpg
+thumbnail-img: https://copilot.microsoft.com/th/id/BCO.914996ec-4ec4-4738-9eb2-c7d6595ad3f6.png
+share-img: https://copilot.microsoft.com/th/id/BCO.914996ec-4ec4-4738-9eb2-c7d6595ad3f6.png
 tags: [Reflexión Bíblica]
 author: José Danois
 published: true
@@ -62,6 +62,5 @@ Es por esa razón que cada día necesitamos el pan nuestro de cada día, no solo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkxNTkxMTEsLTExNDQ5Njk3MzldfQ
-==
+eyJoaXN0b3J5IjpbNDQwOTkyMTE1LC0xMTQ0OTY5NzM5XX0=
 -->
