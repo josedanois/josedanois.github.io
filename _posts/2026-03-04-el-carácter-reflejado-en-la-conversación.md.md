@@ -54,9 +54,9 @@ La conversación es un reflejo de nuestro carácter y una herramienta poderosa p
 
 A fin de cuentas, la clave está en encontrar el equilibrio. La comunicación efectiva no se trata solo de hacer oír nuestra voz, sino de escuchar y valorar las voces de los demás. Solo así podremos construir conversaciones significativas que reflejen lo mejor de nosotros mismos y fortalezcan nuestras conexiones con los demás, siguiendo el consejo de Santiago 1:19: “Todo hombre sea pronto para oír, tardo para hablar, tardo para airarse.”
 
-**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](chat.google.com/room/AAQAzlLWQG0?cls=7)**.
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDY3NDQ0MSwtMTMyMTI0NjQzNywxOD
-Q3NjczNTE4XX0=
+eyJoaXN0b3J5IjpbLTE4MjMxMTk0NjIsLTEzMjEyNDY0MzcsMT
+g0NzY3MzUxOF19
 -->
