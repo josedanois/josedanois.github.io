@@ -2,6 +2,13 @@
 layout: post
 title: "Mi post fijado"
 pinned: true
+subtitle: 
+cover-img: 
+thumbnail-img: 
+share-img: 
+tags: [Comunidad, Chat]
+author: José Danois
+published: true
 ---
 
 
@@ -32,5 +39,5 @@ Lo mejor es que, si usas Gmail, ya tienes acceso. Solo tienes que hacer clic en 
 
 ¡Nos vemos dentro!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQxNzcxNDRdfQ==
+eyJoaXN0b3J5IjpbLTI5MDcyOTM2M119
 -->
