@@ -4,13 +4,13 @@ title: Comunidad Virtual
 pinned: true
 subtitle: 
 cover-img: 
-thumbnail-img: 
-share-img: 
+thumbnail-img: /assets/img/virtual.png
+share-img: /assets/img/virtual.png
 tags: [Comunidad, Chat]
 author: José Danois
 published: true
 ---
-virtual.png
+![](/assets/img/virtual.png)
 
 https://chat.google.com/room/AAQA4dpsr70?cls=7
 
@@ -40,5 +40,5 @@ Lo mejor es que, si usas Gmail, ya tienes acceso. Solo tienes que hacer clic en 
 
 ¡Nos vemos dentro!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjQ2MzMyNF19
+eyJoaXN0b3J5IjpbLTIwMDE3OTg4OTldfQ==
 -->
