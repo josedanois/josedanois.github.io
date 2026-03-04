@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comunidad Virtual
+title: Te invito a nuestra Comunidad Virtual
 pinned: true
 subtitle: 
 cover-img: 
@@ -15,11 +15,9 @@ published: true
 https://chat.google.com/room/AAQA4dpsr70?cls=7
 
 
-### Propuesta de Invitación: "El Círculo de [Nombre de tu Blog]"
 
-**Asunto (si es para email):** 
 
-🚀 Te invito a nuestra nueva casa (en Google Chat)
+🚀 Te invito a nuestra Comunidad Virtual (en Google Chat)
 
 ¡Hola!
 
@@ -40,5 +38,5 @@ Lo mejor es que, si usas Gmail, ya tienes acceso. Solo tienes que hacer clic en 
 
 ¡Nos vemos dentro!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDE3OTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTIwNzIwMzc0MThdfQ==
 -->
