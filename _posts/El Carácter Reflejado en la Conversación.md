@@ -8,13 +8,13 @@ La manera en que llevamos una conversación dice mucho sobre nuestro carácter. 
 
 Como nos recuerda Proverbios 18:21: “La muerte y la vida están en poder de la lengua, y el que la ama comerá de sus frutos”. Esta poderosa advertencia nos recuerda que nuestras palabras pueden edificar o destruir, dependiendo de cómo las usemos.
 
-****Señales del Carácter Dominante****
+**Señales del Carácter Dominante**
 
 Uno de los estilos de comunicación más llamativos es el carácter dominante. En una conversación, las personas con este tipo de personalidad tienden a mostrar rasgos que indican un deseo de liderar, controlar o influir. A continuación, algunas señales que podrían indicar un carácter dominante en una conversación:
 
-1.  ****Inicia y dirige la conversación:****  Las personas con un carácter dominante tienden a tomar las riendas del diálogo. Prefieren ser quienes eligen los temas y controlan el flujo de la conversación. Es común verlas redirigiendo el enfoque hacia los asuntos que les interesan o les preocupan.
-2.  ****Expresa opiniones fuertes y contundentes:****  La seguridad en su postura es característica de este tipo de personalidad. Estas personas no dudan en compartir sus puntos de vista, a menudo de manera directa y clara, sin temor a las consecuencias. Sin embargo, la Palabra nos enseña en Proverbios 15:1: “La respuesta amable calma el enojo, pero la agresiva echa leña al fuego”. Incluso cuando expresamos opiniones firmes, debemos hacerlo con mansedumbre.
-3.  ****Interrumpe frecuentemente:****  A veces, las personas dominantes interrumpen a otros para expresar su opinión o cambiar de tema, lo que puede ser percibido como una falta de respeto o impaciencia. Para ellos, la necesidad de expresarse puede superar la consideración de los turnos en la conversación.
+1.  **Inicia y dirige la conversación:** Las personas con un carácter dominante tienden a tomar las riendas del diálogo. Prefieren ser quienes eligen los temas y controlan el flujo de la conversación. Es común verlas redirigiendo el enfoque hacia los asuntos que les interesan o les preocupan.
+2.  **Expresa opiniones fuertes y contundentes:** La seguridad en su postura es característica de este tipo de personalidad. Estas personas no dudan en compartir sus puntos de vista, a menudo de manera directa y clara, sin temor a las consecuencias. Sin embargo, la Palabra nos enseña en Proverbios 15:1: “La respuesta amable calma el enojo, pero la agresiva echa leña al fuego”. Incluso cuando expresamos opiniones firmes, debemos hacerlo con mansedumbre.
+3.  **Interrumpe frecuentemente:***  A veces, las personas dominantes interrumpen a otros para expresar su opinión o cambiar de tema, lo que puede ser percibido como una falta de respeto o impaciencia. Para ellos, la necesidad de expresarse puede superar la consideración de los turnos en la conversación.
 4.  ****Minimiza las opiniones de los demás:****  Una persona dominante puede, intencionalmente o no, hacer que las ideas o aportaciones de otros parezcan menos importantes que las suyas. Este comportamiento puede ser resultado de una confianza elevada en sus propias opiniones o de un deseo de mantener el control del diálogo.
 5.  ****Utiliza un lenguaje asertivo e incluso imperativo:****  El tono y las palabras de las personas con carácter dominante suelen sonar más a una orden que a una sugerencia. Se expresan de forma decidida y firme, lo cual puede intimidar o, en otros casos, ser percibido como un liderazgo natural. A este respecto, Santiago 3:2 nos recuerda la importancia del control sobre nuestras palabras: “Porque todos fallamos en muchas cosas. Si alguien no falla en lo que dice, es una persona perfecta, capaz de dominar todo su cuerpo.”
 6.  ****Mantiene un contacto visual intenso:****  El contacto visual prolongado es una herramienta que las personas dominantes utilizan para reafirmar su control y autoridad en la conversación. Este gesto puede generar una sensación de poder, confianza e incluso intimidación en el interlocutor.
@@ -46,5 +46,5 @@ A fin de cuentas, la clave está en encontrar el equilibrio. La comunicación ef
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual]([chat.google.com/room/AAQAzlLWQG0?cls=7](https://chat.google.com/app/chat/AAQAzlLWQG0))**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDE2NDk2MF19
+eyJoaXN0b3J5IjpbLTM2OTc3NDE3Nl19
 -->
