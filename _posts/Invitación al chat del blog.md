@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mi post fijado"
+title: Comunidad Virtual
 pinned: true
 subtitle: 
 cover-img: 
@@ -39,5 +39,5 @@ Lo mejor es que, si usas Gmail, ya tienes acceso. Solo tienes que hacer clic en 
 
 ¡Nos vemos dentro!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDcyOTM2M119
+eyJoaXN0b3J5IjpbLTI0NDQwMTgxMV19
 -->
