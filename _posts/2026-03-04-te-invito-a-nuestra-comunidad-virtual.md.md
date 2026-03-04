@@ -16,9 +16,9 @@ https://chat.google.com/room/AAQA4dpsr70?cls=7
 
 ¡Hola!
 
-Disfruto mucho escribiendo para ti en el blog, pero a veces siento que falta algo: **escucharte a ti de forma más directa.**
+Me gusta escribir para ti en el blog, pero a veces siento que falta algo: **escucharte a ti de forma más directa.**
 
-Por eso, he decidido abrir un **Espacio en Google Chat** exclusivo para los lectores más activos. No será un grupo de spam, sino un lugar para:
+Por eso, he decidido abrir un **[Espacio en Google Chat](https://chat.google.com/room/AAQA4dpsr70?cls=7)** exclusivo para los lectores más activos. No será un grupo de spam, sino un lugar para:
 
 -   **Anticipos exclusivos:** Ver en qué estoy trabajando antes de que se publique.
     
@@ -33,5 +33,5 @@ Lo mejor es que, si usas Gmail, ya tienes acceso. Solo tienes que hacer clic en 
 
 ¡Nos vemos dentro!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjMwOTgwMjhdfQ==
+eyJoaXN0b3J5IjpbLTM1MTc0OTkyMl19
 -->
