@@ -1,19 +1,20 @@
 
-
-
+---
 layout: post
 title: El Carácter Reflejado en la Conversación
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/verdad.png
-share-img: /assets/img/verdad.png
+thumbnail-img: /assets/img/conversation-7059924_640.jpg
+share-img: /assets/img/conversation-7059924_640.jpg
 tags: [Crecimiento Personal, Comunicación]
 author: José Danois
 published: true
 ---
+![](/assets/img/conversation-7059924_640.jpg)
+
 > “Todo hombre sea pronto para oír, tardo para hablar, tardo para airarse.” Santiago 1:19
 
-****¿Qué dice tu forma de hablar?****
+**¿Qué dice tu forma de hablar?**
 
 La manera en que llevamos una conversación dice mucho sobre nuestro carácter. Las palabras que elegimos, el tono de voz que usamos, los gestos que acompañan nuestras expresiones y hasta los silencios son elementos que componen una ventana al interior de nuestra personalidad. En la interacción diaria, cada conversación es una oportunidad para reflejar quiénes somos, cómo pensamos y cómo nos relacionamos con el mundo. Así, analizar los estilos de comunicación puede ser de gran utilidad para comprender mejor a las personas que nos rodean y, al mismo tiempo, mejorar nuestras interacciones sociales.
 
@@ -57,5 +58,5 @@ A fin de cuentas, la clave está en encontrar el equilibrio. La comunicación ef
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual]([chat.google.com/room/AAQAzlLWQG0?cls=7](https://chat.google.com/app/chat/AAQAzlLWQG0))**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkwOTk2MzRdfQ==
+eyJoaXN0b3J5IjpbMTg0NzY3MzUxOF19
 -->
