@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Mi post fijado"
+pinned: true
+---
 
 
 
@@ -27,5 +32,5 @@ Lo mejor es que, si usas Gmail, ya tienes acceso. Solo tienes que hacer clic en 
 
 ¡Nos vemos dentro!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTIwMDY3MzVdfQ==
+eyJoaXN0b3J5IjpbLTExNjQxNzcxNDRdfQ==
 -->
