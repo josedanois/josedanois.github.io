@@ -12,8 +12,6 @@ published: true
 ---
 ![](/assets/img/virtual.png)
 
-https://chat.google.com/room/AAQA4dpsr70?cls=7
-
 ¡Hola!
 
 Me gusta escribir para ti en el blog, pero a veces siento que falta algo: **escucharte a ti de forma más directa.**
@@ -24,14 +22,13 @@ Por eso, he decidido abrir un **[Espacio en Google Chat](https://chat.google.com
     
 -   **Conversación real:** Comentar los temas del blog en tiempo real con otros lectores.
     
--   **Voz y voto:** Ayudarme a decidir sobre qué temas escribir los próximos meses.
-    
+-   **Voz y voto:** Ayudarme a decidir sobre qué temas escribir los próximos meses.  
 
 Lo mejor es que, si usas Gmail, ya tienes acceso. Solo tienes que hacer clic en el siguiente enlace para unirte:
 
-👉 **[Insertar aquí el enlace de invitación a tu Espacio]**
+👉 **https://chat.google.com/room/AAQA4dpsr70?cls=7**
 
 ¡Nos vemos dentro!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTc0OTkyMl19
+eyJoaXN0b3J5IjpbMjgzNDAzMDc2XX0=
 -->
