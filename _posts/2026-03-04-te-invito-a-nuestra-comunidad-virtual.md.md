@@ -26,9 +26,9 @@ Por eso, he decidido abrir un **[Espacio en Google Chat](https://chat.google.com
 
 Lo mejor es que, si usas Gmail, ya tienes acceso. Solo tienes que hacer clic en el siguiente enlace para unirte:
 
-> 👉 **[Espacio en Google Chat](https://chat.google.com/room/AAQA4dpsr70?cls=7)**
+👉 **[Espacio en Google Chat](https://chat.google.com/room/AAQA4dpsr70?cls=7)**
 
 ¡Nos vemos dentro!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI4MDg5NDldfQ==
+eyJoaXN0b3J5IjpbLTU4NDcxNzM5OV19
 -->
