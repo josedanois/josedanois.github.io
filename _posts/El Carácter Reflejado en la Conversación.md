@@ -2,12 +2,12 @@
 
 
 layout: post
-title: La necesidad de conocer bien la verdad
+title: El Carácter Reflejado en la Conversación
 subtitle: 
 cover-img: 
 thumbnail-img: /assets/img/verdad.png
 share-img: /assets/img/verdad.png
-tags: [Reflexión Bíblica]
+tags: [Crecimiento Personal, Comunicación]
 author: José Danois
 published: true
 ---
@@ -57,5 +57,5 @@ A fin de cuentas, la clave está en encontrar el equilibrio. La comunicación ef
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual]([chat.google.com/room/AAQAzlLWQG0?cls=7](https://chat.google.com/app/chat/AAQAzlLWQG0))**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY2MTk0MjRdfQ==
+eyJoaXN0b3J5IjpbLTEzMDkwOTk2MzRdfQ==
 -->
