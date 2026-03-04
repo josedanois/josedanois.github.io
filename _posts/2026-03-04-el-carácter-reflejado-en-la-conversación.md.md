@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El Carácter Reflejado en la Conversación
+title: 📌El Carácter Reflejado en la Conversación
 subtitle: 
 cover-img: 
 thumbnail-img: /assets/img/conversation-7059924_640.jpg
@@ -57,6 +57,6 @@ A fin de cuentas, la clave está en encontrar el equilibrio. La comunicación ef
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjMxMTk0NjIsLTEzMjEyNDY0MzcsMT
-g0NzY3MzUxOF19
+eyJoaXN0b3J5IjpbMTQ4MjM4NjE4NSwtMTgyMzExOTQ2MiwtMT
+MyMTI0NjQzNywxODQ3NjczNTE4XX0=
 -->
