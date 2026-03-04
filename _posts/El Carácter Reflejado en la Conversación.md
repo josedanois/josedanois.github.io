@@ -1,5 +1,16 @@
 
 
+
+layout: post
+title: La necesidad de conocer bien la verdad
+subtitle: 
+cover-img: 
+thumbnail-img: /assets/img/verdad.png
+share-img: /assets/img/verdad.png
+tags: [Reflexión Bíblica]
+author: José Danois
+published: true
+---
 > “Todo hombre sea pronto para oír, tardo para hablar, tardo para airarse.” Santiago 1:19
 
 ****¿Qué dice tu forma de hablar?****
@@ -37,7 +48,7 @@ El carácter dominante es solo uno de los muchos tipos de personalidades que se 
 3.  **Personalidad pasivo-agresiva:** Este estilo de comunicación es más sutil, pero no menos problemático. Las personas pasivo-agresivas expresan su descontento de manera indirecta, a menudo a través de comentarios sarcásticos, chismes o incluso saboteando el trabajo de otros. Este comportamiento puede surgir de la frustración por no sentirse capaces de expresar abiertamente sus preocupaciones o necesidades, lo que a menudo genera confusión y malentendidos en las relaciones.
 4.  **Personalidad asertiva:** El estilo de comunicación asertivo es generalmente considerado el más equilibrado. Las personas asertivas son capaces de expresar sus opiniones y necesidades de forma clara y respetuosa, sin imponer sus puntos de vista sobre los demás ni dejarse llevar por la sumisión. Este estilo fomenta la confianza mutua y la comunicación efectiva, ya que valora tanto la autoexpresión como el respeto por los demás. En Efesios 4:15, se nos anima a “hablar la verdad en amor,” un ejemplo perfecto de cómo la asertividad debe guiar nuestras conversaciones.
 
-****Conclusión****
+**Conclusión**
 
 La conversación es un reflejo de nuestro carácter y una herramienta poderosa para comprender mejor a las personas. Al analizar los diferentes estilos de comunicación, podemos identificar patrones que nos ayudan a mejorar nuestras interacciones y, a su vez, desarrollar mejores relaciones sociales. Ya sea que estemos tratando con una personalidad dominante, sumisa, agresiva, pasivo-agresiva o asertiva, comprender estos estilos nos permite adaptarnos y comunicarnos de manera más efectiva.
 
@@ -46,5 +57,5 @@ A fin de cuentas, la clave está en encontrar el equilibrio. La comunicación ef
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual]([chat.google.com/room/AAQAzlLWQG0?cls=7](https://chat.google.com/app/chat/AAQAzlLWQG0))**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3ODE4NzQ4XX0=
+eyJoaXN0b3J5IjpbLTIwNzY2MTk0MjRdfQ==
 -->
