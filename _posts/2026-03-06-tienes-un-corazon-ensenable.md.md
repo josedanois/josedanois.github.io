@@ -19,7 +19,7 @@ Ese momento marcó la diferencia en su vida y en su ministerio.
 
 El punto no es que Apolos estuviera lejos de Dios, sino que necesitaba crecer. Y creció porque tuvo algo esencial: un corazón enseñable. No permitió que su elocuencia lo encerrara en el orgullo ni que su reputación le impidiera escuchar. Aceptó corrección. Se dejó instruir. Y como resultado, fue más útil y más efectivo en la obra del Señor.
 
-****El crecimiento espiritual depende de nuestra disposición a ser enseñados.****
+**El crecimiento espiritual depende de nuestra disposición a ser enseñados.**
 
 Muchas veces podemos parecer maduros por fuera: conocemos versículos, servimos en la iglesia, hablamos con seguridad. Pero, como Apolos, puede haber áreas donde nuestra comprensión todavía necesita ser ajustada. Y lo que creemos moldea profundamente lo que somos.
 
@@ -48,12 +48,12 @@ No podemos basar nuestra fe solo en emociones, experiencias o lo que siempre hem
 
 > Un corazón enseñable es la clave para crecer y ser transformado.
 
-****Hoy podemos preguntarnos:****
+**Hoy podemos preguntarnos:**
 
 -   ¿Hay áreas en mi vida donde necesito mayor claridad?
 -   ¿Estoy dispuesto a ser corregido si la Palabra me muestra algo diferente?
 
-****Oremos:****
+**Oremos:**
 
 “Señor, examina mi corazón. Muéstrame si hay en mí pensamientos o creencias que no están alineados con Tu Palabra. Dame un espíritu humilde y enseñable, como el de Apolos, para seguir creciendo y servirte con mayor fidelidad. Renueva mi entendimiento y guíame en Tu verdad. Amén.”
 
@@ -62,5 +62,5 @@ Que nuestra mayor fortaleza no sea lo que ya sabemos, sino nuestra disposición 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE4MjA4NjhdfQ==
+eyJoaXN0b3J5IjpbLTgwNzk0NDU4MF19
 -->
