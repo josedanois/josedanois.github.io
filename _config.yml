@@ -257,7 +257,10 @@ date_format: "%B %-d, %Y"
 # Facebook App ID
 #fb_app_id: ""
 
-custom_css: "/assets/css/custom.css"
+# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
+site-css:
+  - "/assets/css/custom.css"
+
 
 
 #################################################################################
