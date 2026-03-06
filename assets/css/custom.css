@@ -49,9 +49,9 @@
 
 /* ============================================
    SUBTÍTULO DE LA PÁGINA PRINCIPAL
-   (span.subheading dentro de .page-heading)
+   (usa class="page-subheading")
    ============================================ */
-.intro-header .page-heading .subheading {
+.page-subheading {
   font-size: 22px !important;   /* Ajusta aquí */
   font-weight: 400 !important;
   line-height: 1.3 !important;
@@ -62,10 +62,10 @@
 
 /* ============================================
    SUBTÍTULO DE LOS POSTS
-   (h3.subheading dentro de .post-heading)
+   (usa h3.subheading en tus entradas)
    ============================================ */
-.intro-header .post-heading h3.subheading,
-.post-heading h3.subheading {
+.post-heading h3.subheading,
+.intro-header .post-heading h3.subheading {
   font-size: 20px !important;   /* Más pequeño que el de la página principal */
   font-weight: 400 !important;
   line-height: 1.3 !important;
