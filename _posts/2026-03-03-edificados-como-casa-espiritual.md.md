@@ -15,7 +15,7 @@ published: true
 
 Hay una poderosa verdad que encontramos en la Palabra de Dios. Es un llamado, una invitación a acercarnos a Cristo, la “Piedra viva”, y a ser edificados como una “casa espiritual y sacerdocio santo”. Esta es una verdad que no solo nos fortalece en tiempos de prueba, sino que nos da una visión clara de quiénes somos en Cristo y cuál es nuestro propósito en este mundo.
 
-# Acércate a la Piedra Viva
+## Acércate a la Piedra Viva
 
 El apóstol Pedro, en su primera carta, nos exhorta a acercarnos a Cristo, quien es la “Piedra viva”. Esta piedra, aunque rechazada por los hombres, es escogida y preciosa para Dios. ¡Qué maravilloso es saber que, aunque el mundo nos rechace, Dios nos considera preciosos y escogidos en Cristo! Cristo es la roca de nuestra salvación, la fuente de vida eterna, el fundamento sobre el cual se construye nuestra fe.
 
@@ -59,5 +59,6 @@ Cada día, mientras vivimos nuestra vida de fe, recordemos que somos llamados a 
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODY0OTgxNSwtMjAyMTY4MjQ3MF19
+eyJoaXN0b3J5IjpbMTQ5ODAzOTkxNiwtODg4NjQ5ODE1LC0yMD
+IxNjgyNDcwXX0=
 -->
