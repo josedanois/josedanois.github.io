@@ -114,11 +114,11 @@ Vayamos a la Escritura con hambre de Cristo y pidámosle al Espíritu Santo: rev
 
 No leamos la Biblia para encontrar algo, sino para encontrar a alguien. Aquel que se quiere revelar, aquel que quiere darnos vida, Cristo Jesús.
 
-**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)**.
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
 
 ---
 
 [^1]:  El verbo escudriñad, que es como se usa en la Reina Valera 60, tiene dos opciones: o imperativo (escudriñad) o indicativo (escudriñáis). En el gr. las dos formas se escriben igual y el contexto normalmente determina cuál corresponde. Aquí el contexto sugiere el modo indicativo. Jesús esta diciendo: "la razón por la cual ustedes estudian las Escrituras es porque..."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1NjM4MTM5XX0=
+eyJoaXN0b3J5IjpbLTEwNTc5MDIwMF19
 -->
