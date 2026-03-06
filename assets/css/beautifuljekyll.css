@@ -1125,9 +1125,8 @@ pre {
   }
 }
 
-.page-content {
-  color: var(--text-col) !important;
-}
-.page-content {
+.page-content,
+.page-content p {
   color: #1e293b !important;
 }
+
