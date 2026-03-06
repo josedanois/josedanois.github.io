@@ -1,1 +1,42 @@
+/* ============================
+   TÍTULO DEL BLOG (NAVBAR)
+   ============================ */
+.navbar-brand {
+  font-size: 36px !important;   /* Título principal del blog */
+  font-weight: 700;
+}
 
+
+/* ============================
+   TÍTULO PRINCIPAL DE CADA POST
+   ============================ */
+.post-title {
+  font-size: 30px !important;   /* Título grande del post */
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+
+/* ============================
+   ARMONÍA TIPOGRÁFICA DENTRO DEL POST
+   ============================ */
+.post-content h1 {
+  font-size: 30px;
+  line-height: 1.25;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.post-content h2 {
+  font-size: 26px;
+  line-height: 1.3;
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.post-content h3 {
+  font-size: 22px;
+  line-height: 1.35;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
