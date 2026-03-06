@@ -1124,3 +1124,7 @@ pre {
     display: inline-block;
   }
 }
+
+.page-content {
+  color: var(--text-col) !important;
+}
