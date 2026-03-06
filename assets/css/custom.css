@@ -69,3 +69,11 @@
   color: #555 !important;
 }
 
+/* SUBTÍTULO INTERNO DEL POST (h3.post-subtitle) */
+.post-subtitle {
+  font-size: 18px !important;   /* Ajusta aquí el tamaño */
+  font-weight: 400 !important;
+  line-height: 1.4 !important;
+  margin-top: 0.5rem !important;
+  color: #555 !important;
+}
