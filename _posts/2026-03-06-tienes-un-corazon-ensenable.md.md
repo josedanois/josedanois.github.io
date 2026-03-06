@@ -3,13 +3,13 @@ layout: post
 title: ¿Tienes un corazón enseñable?
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/celestiales.jpg
-share-img: /assets/img/celestiales.jpg
+thumbnail-img: /assets/img/1mhu3zptvro-1536x1025.jpg
+share-img: /assets/img/1mhu3zptvro-1536x1025.jpg
 tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![](/assets/img/celestiales.jpg)
+![](/assets/img/1mhu3zptvro-1536x1025.jpg)
 
 > “Llegó entonces a Éfeso un judío llamado Apolos, natural de Alejandría, varón elocuente y poderoso en las Escrituras…” (Hechos 18:24–26)
 
@@ -59,6 +59,8 @@ No podemos basar nuestra fe solo en emociones, experiencias o lo que siempre hem
 
 Que nuestra mayor fortaleza no sea lo que ya sabemos, sino nuestra disposición constante a seguir aprendiendo.
 
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzU5MzcxOF19
+eyJoaXN0b3J5IjpbLTEzODE4MjA4NjhdfQ==
 -->
