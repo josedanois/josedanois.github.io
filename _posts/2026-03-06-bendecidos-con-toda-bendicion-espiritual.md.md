@@ -48,6 +48,8 @@ Entonces, ser bendecidos con toda bendición espiritual en los lugares celestial
 5.  Esta bendición solo está en Cristo. Cuando somos unidos a Cristo por medio de la fe, participamos de su bendición. (Efesios 2:6)
 
 Haremos bien en dar una cuidadosa lectura a la epístola a los Efesios, particularmente los primeros tres capítulos, para ver y entender el carácter y la magnitud de estas bendiciones. Una vez comiences a meditar en las mismas y a verte bendecido, podrás experimentar el poder libertador y transformador de Cristo.
+
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU4MTQ3ODBdfQ==
+eyJoaXN0b3J5IjpbLTE0MTQ1MjY5MDNdfQ==
 -->
