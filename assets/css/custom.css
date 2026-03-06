@@ -77,3 +77,12 @@
   margin-top: 0.5rem !important;
   color: #555 !important;
 }
+
+/* TÍTULO PRINCIPAL DEL SITIO (site-title) */
+.site-title {
+  font-size: 42px !important;   /* Antes 36px — ahora más dominante */
+  font-weight: 700 !important;
+  line-height: 1.1 !important;
+  margin-bottom: 0.3rem !important;
+}
+
