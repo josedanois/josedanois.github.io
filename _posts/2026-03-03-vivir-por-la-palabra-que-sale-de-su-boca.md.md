@@ -19,7 +19,7 @@ Cuando Jesús le contesta al diablo, cita Deuteronomio 8:3, donde Dios le dice a
 
 “Te humilló y te hizo pasar hambre, pero luego te alimentó con maná, comida que ni tú ni tus antepasados habían conocido, con lo que te enseñó que no solo de pan vive el hombre, sino de todo lo que sale de la boca del Señor.”
 
-## **Reflexiona en lo siguiente:**
+**Reflexiona en lo siguiente:**
 
 Vivir por la palabra del Señor no siempre es fácil. La palabra es sinónimo de su voluntad.
 
@@ -62,7 +62,7 @@ Es por esa razón que cada día necesitamos el pan nuestro de cada día, no solo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzM4NzI2MiwtNjMzMTE1NzA1LDYzMD
+eyJoaXN0b3J5IjpbLTQ5ODgyNjM1OCwtNjMzMTE1NzA1LDYzMD
 U3MjY1NiwxODk3MTU0Njc3LC02MjU3MTI5NDgsLTExNDQ5Njk3
 MzldfQ==
 -->
