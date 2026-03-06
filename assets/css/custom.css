@@ -1,35 +1,37 @@
 /* ============================
    TÍTULO DEL BLOG (NAVBAR)
    ============================ */
-.navbar-brand,
-.navbar-custom .navbar-brand {
+.navbar-brand {
   font-size: 36px !important;
   font-weight: 700 !important;
 }
 
 
 /* ============================
-   TÍTULOS DE LOS POSTS
+   TÍTULO PRINCIPAL DE CADA POST
    ============================ */
-
-/* Título grande en la cabecera del post individual */
 .intro-header h1,
-.intro-header .post-heading h1 {
+.post-heading h1 {
   font-size: 30px !important;
   font-weight: 700 !important;
   line-height: 1.2 !important;
 }
 
-/* Subtítulo en la cabecera del post */
+
+/* ============================
+   SUBTÍTULO DEL POST
+   ============================ */
 .intro-header h2.subheading,
-.intro-header .post-heading .subheading {
+.post-heading .subheading {
   font-size: 22px !important;
   font-weight: 400 !important;
   line-height: 1.3 !important;
-  margin-top: 0.5rem !important;
 }
 
-/* Títulos de los posts en listados (inicio, archivo, etc.) */
+
+/* ============================
+   TÍTULOS EN LISTADOS (INICIO/ARCHIVO)
+   ============================ */
 .post-preview h2.post-title,
 .post-preview .post-title {
   font-size: 30px !important;
@@ -44,21 +46,15 @@
 .post-content h1 {
   font-size: 30px;
   line-height: 1.25;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
 }
 
 .post-content h2 {
   font-size: 26px;
   line-height: 1.3;
-  margin-top: 1.75rem;
-  margin-bottom: 0.75rem;
 }
 
 .post-content h3 {
   font-size: 22px;
   line-height: 1.35;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
 }
 
