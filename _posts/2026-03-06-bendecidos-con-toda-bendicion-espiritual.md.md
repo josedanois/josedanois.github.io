@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Esa extraña virtud llamada contentamiento
+title: Bendecidos con toda bendición espiritual…
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/amadeo-valar-G2BRwDpsuXo-unsplash.jpg
-share-img: /assets/img/amadeo-valar-G2BRwDpsuXo-unsplash.jpg
+thumbnail-img: /assets/img/celestiales.jpg
+share-img: /assets/img/celestiales.jpg
 tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![](/assets/img/amadeo-valar-G2BRwDpsuXo-unsplash.jpg)
+![](/assets/img/celestiales.jpg)
 
 > Bendito sea Dios, Padre de nuestro Señor Jesucristo, que nos ha bendecido en las regiones celestiales con toda bendición espiritual en Cristo. Efesios 1.3
 
@@ -49,5 +49,5 @@ Entonces, ser bendecidos con toda bendición espiritual en los lugares celestial
 
 Haremos bien en dar una cuidadosa lectura a la epístola a los Efesios, particularmente los primeros tres capítulos, para ver y entender el carácter y la magnitud de estas bendiciones. Una vez comiences a meditar en las mismas y a verte bendecido, podrás experimentar el poder libertador y transformador de Cristo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMjY2MjczXX0=
+eyJoaXN0b3J5IjpbLTE4NDU4MTQ3ODBdfQ==
 -->
