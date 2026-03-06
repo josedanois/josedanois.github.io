@@ -1128,3 +1128,6 @@ pre {
 .page-content {
   color: var(--text-col) !important;
 }
+.page-content {
+  color: #1e293b !important;
+}
