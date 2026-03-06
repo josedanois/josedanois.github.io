@@ -47,30 +47,29 @@
   line-height: 1.35;
 }
 
-/* ============================
-   SUBTÍTULO PRINCIPAL DEL SITIO
-   (debajo del título "Volviendo a la Palabra")
-   ============================ */
-header .container > p {
-  font-size: 20px !important;
+/* ============================================
+   SUBTÍTULO DE LA PÁGINA PRINCIPAL
+   (span.subheading dentro de .page-heading)
+   ============================================ */
+.intro-header .page-heading .subheading {
+  font-size: 22px !important;   /* Ajusta aquí */
   font-weight: 400 !important;
   line-height: 1.3 !important;
-  margin-top: 0.25rem !important;
+  margin-top: 0.3rem !important;
   color: #555 !important;
 }
 
 
-/* ============================
+/* ============================================
    SUBTÍTULO DE LOS POSTS
-   (tu versión usa h3, a veces con clase, a veces sin clase)
-   ============================ */
-.intro-header h3,
-.post-heading h3,
-.intro-header h3.subheading,
+   (h3.subheading dentro de .post-heading)
+   ============================================ */
+.intro-header .post-heading h3.subheading,
 .post-heading h3.subheading {
-  font-size: 22px !important;
+  font-size: 20px !important;   /* Más pequeño que el de la página principal */
   font-weight: 400 !important;
   line-height: 1.3 !important;
-  margin-top: 0.5rem !important;
+  margin-top: 0.4rem !important;
   color: #555 !important;
 }
+
