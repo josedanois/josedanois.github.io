@@ -1125,16 +1125,15 @@ pre {
   }
 }
 
-.page-content,
-.page-content p {
+.blog-post,
+.blog-post p {
   color: #1e293b !important;
 }
-
-.page-content h1,
-.page-content h2,
-.page-content h3,
-.page-content h4,
-.page-content h5,
-.page-content h6 {
+.blog-post h1,
+.blog-post h2,
+.blog-post h3,
+.blog-post h4,
+.blog-post h5,
+.blog-post h6 {
   color: #1e293b !important;
 }
