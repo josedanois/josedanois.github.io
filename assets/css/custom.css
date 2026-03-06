@@ -1,10 +1,12 @@
-/* ============================
-   TÍTULO DEL BLOG (NAVBAR)
-   ============================ */
-.navbar-brand {
-  font-size: 40px !important;
+/* TÍTULO PRINCIPAL DEL SITIO EN EL HEADER GRANDE */
+.intro-header .page-heading h1,
+.page-heading h1 {
+  font-size: 42px !important;  /* súbelo más si quieres: 44, 46 */
   font-weight: 700 !important;
+  line-height: 1.1 !important;
+  margin-bottom: 0.3rem !important;
 }
+
 
 
 /* ============================
@@ -78,11 +80,4 @@
   color: #555 !important;
 }
 
-/* TÍTULO PRINCIPAL DEL SITIO (header grande) */
-.page-title {
-  font-size: 46px !important;   /* Ajusta aquí */
-  font-weight: 700 !important;
-  line-height: 1.1 !important;
-  margin-bottom: 0.3rem !important;
-}
 
