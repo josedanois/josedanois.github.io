@@ -1129,11 +1129,12 @@ pre {
 .blog-post p {
   color: #1e293b !important;
 }
-.blog-post h1,
-.blog-post h2,
-.blog-post h3,
-.blog-post h4,
-.blog-post h5,
-.blog-post h6 {
+.post-heading h1,
+.post-heading h2,
+.post-heading h3,
+.post-heading h4,
+.post-heading h5,
+.post-heading h6 {
   color: #1e293b !important;
 }
+
