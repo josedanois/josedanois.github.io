@@ -9,7 +9,7 @@ tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![](/aassets/img/amadeo-valar-G2BRwDpsuXo-unsplash.jpg)
+![](/assets/img/amadeo-valar-G2BRwDpsuXo-unsplash.jpg)
 
 > No lo digo porque tenga escasez, pues he aprendido a contentarme, cualquiera que sea mi situación. Filipenses 4:11
 
@@ -110,5 +110,5 @@ Es hora de cambiar esa actitud y comenzar a ser enseñado. Es momento de entrar 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTAwMjA3MywxMTc5NzAxODIxXX0=
+eyJoaXN0b3J5IjpbMTkwNTYxMjgzNCwxMTc5NzAxODIxXX0=
 -->
