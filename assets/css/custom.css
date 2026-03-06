@@ -73,3 +73,7 @@
   color: #555 !important;
 }
 
+/* TEST VISUAL PARA CAZAR LOS SUBTÍTULOS */
+.subheading {
+  color: red !important;
+}
