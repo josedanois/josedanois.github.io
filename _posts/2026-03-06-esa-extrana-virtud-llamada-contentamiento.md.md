@@ -3,13 +3,13 @@ layout: post
 title: Esa extraña virtud llamada contentamiento
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/conversation-7059924_640.jpg
-share-img: /assets/img/conversation-7059924_640.jpg
-tags: [Crecimiento Personal, Comunicación]
+thumbnail-img: /assets/img/madeo-valar-G2BRwDpsuXo-unsplash.jpg
+share-img: /assets/img/madeo-valar-G2BRwDpsuXo-unsplash.jpg
+tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![](/assets/img/conversation-7059924_640.jpg)
+![](/assets/img/madeo-valar-G2BRwDpsuXo-unsplash.jpg)
 
 > No lo digo porque tenga escasez, pues he aprendido a contentarme, cualquiera que sea mi situación. Filipenses 4:11
 
@@ -107,6 +107,8 @@ Puede ser que estés ahora mismo en la escuela del contentamiento y se te está 
 
 Es hora de cambiar esa actitud y comenzar a ser enseñado. Es momento de entrar en una dependencia de Cristo. Él es la fuente de todo.
 
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk0NjUyN119
+eyJoaXN0b3J5IjpbMTE3OTcwMTgyMV19
 -->
