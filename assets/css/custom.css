@@ -60,15 +60,12 @@
 }
 
 
-/* ============================================
-   SUBTÍTULO DE LOS POSTS
-   (usa h3.subheading en tus entradas)
-   ============================================ */
-.post-heading h3.subheading,
-.intro-header .post-heading h3.subheading {
-  font-size: 20px !important;   /* Más pequeño que el de la página principal */
+/* SUBTÍTULO DE LOS POSTS (usa class="post-subheading") */
+.post-subheading {
+  font-size: 20px !important;   /* Ajusta aquí el tamaño */
   font-weight: 400 !important;
   line-height: 1.3 !important;
   margin-top: 0.4rem !important;
   color: #555 !important;
 }
+
