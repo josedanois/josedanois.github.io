@@ -9,7 +9,7 @@ tags: [Extracto]
 author: José Danois
 published: true
 ---
-Creo que no necesito señalar la necesidad de leer las Escrituras. Ya sabemos cuán necesario es alimentarnos de la Palabra de Dios. ¿Necesito preguntarte si lees la Biblia o no? Nos encontramos en una época en la cual se leen muchas revistas y periódicos, pero no la Biblia, como debiera ser. Antiguamente en Inglaterra se tenían pocos libros, pero la gente tenía una biblioteca en un solo libro: la Biblia. ¡Y hay que ver cómo lo leían!
+Creo que no necesito señalar la necesidad de leer las Escrituras. [^1]Ya sabemos cuán necesario es alimentarnos de la Palabra de Dios. ¿Necesito preguntarte si lees la Biblia o no? Nos encontramos en una época en la cual se leen muchas revistas y periódicos, pero no la Biblia, como debiera ser. Antiguamente en Inglaterra se tenían pocos libros, pero la gente tenía una biblioteca en un solo libro: la Biblia. ¡Y hay que ver cómo lo leían!
 
 ¡Qué poco de la Escritura se encuentra en los sermones modernos en comparación con los de aquellos maestros de la teología, los puritanos! Casi cada una de sus frases parece arrojar luz sobre un texto de la Escritura, no solamente aquel sobre el que están predicando, sino muchos otros que salen a la luz en el transcurso del sermón. Yo le pediría a Dios que nosotros los ministros nos mantuviésemos más cerca del antiguo y gran Libro. Si así lo hiciéramos, seríamos predicadores instructivos, aunque no estuviésemos al tanto de las «nuevas corrientes» o del pensamiento moderno.
 
@@ -29,16 +29,16 @@ Tu conocimiento de la letra puede engendrar orgullo en tu corazón, y esto solam
 
 _**Ciertamente, el beneficio de la lectura debe llegar al alma a través del entendimiento. Tiene que haber un conocimiento de Dios antes de poder amarle.**_
 
-Tiene que haber un conocimiento de las cosas divinas, tal y como son reveladas, antes de poder disfrutar de ellas. Debemos procurar entender, en la medida que nos permitan nuestras mentes finitas, qué es lo que Dios quiere decir con esto o aquello. _****Si no es así, podemos besar el libro sin amar su contenido; podemos reverenciar la letra, sin tener respeto a Dios, que es el que nos habla en esas palabras.****_ No nos podemos sentir alentados con algo que no entendemos, ni encontrar una guía para nuestra vida en aquello que no comprendemos; tampoco es posible moldear nuestra personalidad de acuerdo con la Palabra si no la entendemos.
+Tiene que haber un conocimiento de las cosas divinas, tal y como son reveladas, antes de poder disfrutar de ellas. Debemos procurar entender, en la medida que nos permitan nuestras mentes finitas, qué es lo que Dios quiere decir con esto o aquello. _**Si no es así, podemos besar el libro sin amar su contenido; podemos reverenciar la letra, sin tener respeto a Dios, que es el que nos habla en esas palabras.**_ No nos podemos sentir alentados con algo que no entendemos, ni encontrar una guía para nuestra vida en aquello que no comprendemos; tampoco es posible moldear nuestra personalidad de acuerdo con la Palabra si no la entendemos.
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 
 ----------
 
-Spurgeon, C. H. (2009). Cómo leer la Biblia (J. M. Berrocal, Trad.; Tercera edición, pp. 7-10). Editorial Peregrino.
+[^1]: Spurgeon, C. H. (2009). Cómo leer la Biblia (J. M. Berrocal, Trad.; Tercera edición, pp. 7-10). Editorial Peregrino.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTg3OTA1NV19
+eyJoaXN0b3J5IjpbNjcxMTYyODg5XX0=
 -->
