@@ -62,10 +62,9 @@ Los medios pueden ser maravillosos si los usamos como tales. Pero cuando se conv
 
 Que el Señor nos dé sabiduría para usar los medios sin perdernos en ellos, y gracia para vivir conectados, sí… pero con el cielo.
 
-**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODI0NzUyMzMsLTE5OTY4ODQzOTldfQ
-==
+eyJoaXN0b3J5IjpbMTA0MjMxODExMiwtMTk5Njg4NDM5OV19
 -->
