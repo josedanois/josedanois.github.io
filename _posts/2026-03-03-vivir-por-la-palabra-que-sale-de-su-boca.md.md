@@ -57,12 +57,12 @@ Es por esa razón que cada día necesitamos el pan nuestro de cada día, no solo
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/LI1Y3Viu8_w?si=2cyw9XBDNKB29zLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>{: .mx-auto.d-block :}
 
-**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODgyNjM1OCwtNjMzMTE1NzA1LDYzMD
+eyJoaXN0b3J5IjpbLTY5NzM4ODcyNSwtNjMzMTE1NzA1LDYzMD
 U3MjY1NiwxODk3MTU0Njc3LC02MjU3MTI5NDgsLTExNDQ5Njk3
 MzldfQ==
 -->
