@@ -9,7 +9,7 @@ tags: [Extracto]
 author: José Danois
 published: true
 ---
-Creo que no necesito señalar la necesidad de leer las Escrituras. [^1]Ya sabemos cuán necesario es alimentarnos de la Palabra de Dios. ¿Necesito preguntarte si lees la Biblia o no? Nos encontramos en una época en la cual se leen muchas revistas y periódicos, pero no la Biblia, como debiera ser. Antiguamente en Inglaterra se tenían pocos libros, pero la gente tenía una biblioteca en un solo libro: la Biblia. ¡Y hay que ver cómo lo leían!
+Creo que no necesito señalar la necesidad de leer las Escrituras.[^1] Ya sabemos cuán necesario es alimentarnos de la Palabra de Dios. ¿Necesito preguntarte si lees la Biblia o no? Nos encontramos en una época en la cual se leen muchas revistas y periódicos, pero no la Biblia, como debiera ser. Antiguamente en Inglaterra se tenían pocos libros, pero la gente tenía una biblioteca en un solo libro: la Biblia. ¡Y hay que ver cómo lo leían!
 
 ¡Qué poco de la Escritura se encuentra en los sermones modernos en comparación con los de aquellos maestros de la teología, los puritanos! Casi cada una de sus frases parece arrojar luz sobre un texto de la Escritura, no solamente aquel sobre el que están predicando, sino muchos otros que salen a la luz en el transcurso del sermón. Yo le pediría a Dios que nosotros los ministros nos mantuviésemos más cerca del antiguo y gran Libro. Si así lo hiciéramos, seríamos predicadores instructivos, aunque no estuviésemos al tanto de las «nuevas corrientes» o del pensamiento moderno.
 
@@ -40,5 +40,5 @@ Tiene que haber un conocimiento de las cosas divinas, tal y como son reveladas, 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxMTYyODg5XX0=
+eyJoaXN0b3J5IjpbODI4ODg3MTc5LDY3MTE2Mjg4OV19
 -->
