@@ -3,8 +3,8 @@ layout: post
 title: Cómo seguir el mapa de las Escrituras para que nos lleve a Jesús
 subtitle: 
 cover-img: 
-thumbnail-img: 
-share-img: 
+thumbnail-img: /assets/img/1mhu3zptvro-1536x1025.jpg
+share-img: /assets/img/1mhu3zptvro-1536x1025.jpg
 tags: [Extracto]
 author: José Danois
 published: true
@@ -86,5 +86,5 @@ La teología bíblica nos ayuda a entender cómo el glorioso mapa de las Escritu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk3MDM5NDNdfQ==
+eyJoaXN0b3J5IjpbLTI0MDU0Njk5NV19
 -->
