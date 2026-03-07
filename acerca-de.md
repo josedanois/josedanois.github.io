@@ -19,4 +19,6 @@ _No se conformen a este mundo; más bien, transfórmense por la renovación de s
 
 ### Contacto
 
-[E-Mail ✉️](mailto:jdanonline@gmail.com) 
+[E-Mail ✉️](mailto:jdanonline@gmail.com)
+
+[Telegram ](https://t.me/jdanonline)
