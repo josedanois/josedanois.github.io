@@ -3,14 +3,15 @@ layout: post
 title: Cómo seguir el mapa de las Escrituras para que nos lleve a Jesús
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/1mhu3zptvro-1536x1025.jpg
-share-img: /assets/img/1mhu3zptvro-1536x1025.jpg
+thumbnail-img: /assets/img/mapa.jpg
+share-img: /assets/img/mapa.jpg
 tags: [Extracto]
 author: José Danois
 published: true
 ---
-
 Hemos visto que si pasamos por alto el mensaje central de la historia de la Biblia produciremos evangelios e iglesias falsas. La segunda cosa que necesitamos, es un marco de referencia para comprender toda la Biblia. La teología bíblica provee dicho marco porque guía nuestra lectura de la Biblia protegiéndonos de interpretarla erróneamente.[^1]
+
+![](/assets/img/mapa.jpg)
 
 > Teología bíblica es una forma de leer toda la historia bíblica ayudándonos a poner nuestra atención en el tema central de las Escrituras, el Señor Jesucristo. En otras palabras, la teología bíblica es el mapa bíblico del camino que nos lleva a Jesús.
 
@@ -86,5 +87,5 @@ La teología bíblica nos ayuda a entender cómo el glorioso mapa de las Escritu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDU0Njk5NV19
+eyJoaXN0b3J5IjpbLTYyNzAyMjc1Nl19
 -->
