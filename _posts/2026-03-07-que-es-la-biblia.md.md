@@ -48,11 +48,11 @@ Jesús prometió que el Espíritu Santo permitiría a los apóstoles ser testigo
 
 Dios no desperdicia sus palabras, sino que habla para cumplir su propósito en nuestras vidas. En [Isaías 55:10-11](https://www.biblegateway.com/passage/?search=Isaiah%2055:10-11&version=ESV&src=tools) Dios dice: “Porque como la lluvia y la nieve descienden del cielo y no vuelven allí, sino que riegan la tierra, haciéndola producir y germinar, dando semilla al que siembra y pan al que come, así será mi palabra que va fuera de mi boca; no volverá a mí vacía, sino que realizará lo que yo me propongo, y tendrá éxito en aquello para lo que la envié” (NVI). Las palabras de Dios que están registradas en la Biblia tienen el poder de fortalecer y nutrir la relación que Dios desea con nosotros. El Espíritu Santo de Dios, que habló por medio de los profetas y apóstoles. ([2 Pedro 1:20-21](https://www.biblegateway.com/passage/?search=2%20Peter%201:20-21&version=NIV&src=tools); [Juan 14:26](https://www.biblegateway.com/passage/?search=John%2014:26&version=NIV&src=tools)), es el mismo Espíritu que hace eficaz su mensaje en nuestras vidas ([1 Corintios 2:14](https://www.biblegateway.com/passage/?search=1%20Corinthians%202:14&version=NIV&src=tools); ver también [2 Timoteo 2:7](https://www.biblegateway.com/passage/?search=2%20Timothy%202:7&version=NIV&src=tools)).
 
-****Compromiso con la revelación y las Escrituras***
+**Compromiso con la revelación y las Escrituras**
 
 Dios quiere que experimentemos un cambio de vida cuando escuchemos sus palabras, que seamos tierra fértil de [Marcos 4:1-9](https://www.biblegateway.com/passage/?search=Mark%204:1-9&version=NIV&src=tools), los sabios constructores de [Mateo 7:24-27](https://www.biblegateway.com/passage/?search=Matthew%207:24-27&version=NIV&src=tools), los observadores que se miran en los espejos de [Santiago 1:22-25](https://www.biblegateway.com/passage/?search=James%201:22-25&version=NIV&src=tools), o las multitudes emocionalmente receptivas de [Nehemías 8:8-12](https://www.biblegateway.com/passage/?search=Nehemiah%208:8-12&version=NIV&src=tools). Leer y estudiar la Biblia puede ser una práctica transformadora y enriquecedora, ya que el Espíritu implanta la verdad de Dios en nuestros corazones según el diseño de Dios para nuestras vidas. Cuando leemos las Escrituras con miras a acercarnos a Dios, esa relación prospera y el propósito final de la revelación de Dios se cumple…
 
-__Greg MaGee, Ph.D…__  
+__Greg MaGee, Ph.D__  
 __Profesor asociado de estudios bíblicos__  
 __universidad de taylor__
 
@@ -62,5 +62,5 @@ __universidad de taylor__
 
 [^1]: ****Crédito:****  [https://www.biblegateway.com/resources/scripture-engagement/main/what-is-the-bible](https://www.biblegateway.com/resources/scripture-engagement/main/what-is-the-bible)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDA3MzUzMTFdfQ==
+eyJoaXN0b3J5IjpbNTkyMDA2NDU3XX0=
 -->
