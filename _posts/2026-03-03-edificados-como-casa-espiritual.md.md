@@ -57,8 +57,8 @@ No olvidemos que somos parte de algo más grande que nosotros mismos. Somos part
 
 Cada día, mientras vivimos nuestra vida de fe, recordemos que somos llamados a manifestar la gracia de Dios a través de nuestros sacrificios espirituales. Que nuestras vidas, nuestras palabras, nuestras acciones y nuestro servicio sean una ofrenda agradable a Dios, todo por medio de Jesucristo, nuestro Señor y Salvador.
 
-**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODAzOTkxNiwtODg4NjQ5ODE1LC0yMD
-IxNjgyNDcwXX0=
+eyJoaXN0b3J5IjpbLTk0MjU3NTM3OSwxNDk4MDM5OTE2LC04OD
+g2NDk4MTUsLTIwMjE2ODI0NzBdfQ==
 -->
