@@ -1,3 +1,4 @@
+---
 layout: post
 title: ¿Qué es la Biblia?
 subtitle: 
@@ -62,5 +63,5 @@ __universidad de taylor__
 
 [^1]: ****Crédito:****  [https://www.biblegateway.com/resources/scripture-engagement/main/what-is-the-bible](https://www.biblegateway.com/resources/scripture-engagement/main/what-is-the-bible)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyMDA2NDU3XX0=
+eyJoaXN0b3J5IjpbLTEwMjg2MzYwNDJdfQ==
 -->
