@@ -16,33 +16,33 @@ _**** teología bíblica es una forma de leer toda la historia bíblica ayudánd
 
 ¿Pero por qué sabemos que Jesús es el mensaje central de toda la Biblia? Porque Él mismo lo dice.
 
-****EL MEJOR ESTUDIO BÍBLICO DE TODOS LOS TIEMPOS****
+**EL MEJOR ESTUDIO BÍBLICO DE TODOS LOS TIEMPOS**
 
-Imagínate que hubieras estado con los discípulos cuando se encontraron con el Cristo resucitado en el camino a Emaús. Encontramos esta extraordinaria escena registrada en ****Lucas 24****. Lo que allí se revela es literalmente el mejor estudio bíblico de todos los tiempos.
+Imagínate que hubieras estado con los discípulos cuando se encontraron con el Cristo resucitado en el camino a Emaús. Encontramos esta extraordinaria escena registrada en **Lucas 24**. Lo que allí se revela es literalmente el mejor estudio bíblico de todos los tiempos.
 
 Dos discípulos estaban caminando en dirección a una aldea situada a unos once kilómetros de Jerusalén. Lucas nos dice que “mientras hablaban y discutían entre sí, Jesús mismo se acercó, y caminaba con ellos. Mas los ojos de ellos estaban velados, para que no le conociesen” (24:15–16). Los discípulos entonces compartieron con Jesús las cosas sorprendentes que acababan de acontecer en Jerusalén:
 
-_****Y ellos le dijeron: De Jesús nazareno, que fue varón profeta, poderoso en obra y en palabra delante de Dios y de todo el pueblo; y cómo le entregaron los principales sacerdotes y nuestros gobernantes a sentencia de muerte, y le crucificaron. Pero nosotros esperábamos que Él era el que había de redimir a Israel; y ahora, además de todo esto, hoy es ya el tercer día que esto ha acontecido. Aunque también nos han asombrado unas mujeres de entre nosotros, las que antes del día fueron al sepulcro; y como no hallaron Su cuerpo, vinieron diciendo que también habían visto visión de ángeles, quienes dijeron que Él vive. Y fueron algunos de los nuestros al sepulcro, y hallaron así como las mujeres habían dicho, pero a Él no le vieron (24:19–24).****_
+_**Y ellos le dijeron: De Jesús nazareno, que fue varón profeta, poderoso en obra y en palabra delante de Dios y de todo el pueblo; y cómo le entregaron los principales sacerdotes y nuestros gobernantes a sentencia de muerte, y le crucificaron. Pero nosotros esperábamos que Él era el que había de redimir a Israel; y ahora, además de todo esto, hoy es ya el tercer día que esto ha acontecido. Aunque también nos han asombrado unas mujeres de entre nosotros, las que antes del día fueron al sepulcro; y como no hallaron Su cuerpo, vinieron diciendo que también habían visto visión de ángeles, quienes dijeron que Él vive. Y fueron algunos de los nuestros al sepulcro, y hallaron así como las mujeres habían dicho, pero a Él no le vieron (24:19–24).**_
 
 Jesús respondió:
 
-_****¡Oh insensatos, y tardos de corazón para creer todo lo que los profetas han dicho! ¿No era necesario que el Cristo padeciera estas cosas, y que entrara en Su gloria? Y comenzando desde Moisés, y siguiendo por todos los profetas, les declaraba en todas las Escrituras lo que de Él decían (24:25–27).****_
+_**¡Oh insensatos, y tardos de corazón para creer todo lo que los profetas han dicho! ¿No era necesario que el Cristo padeciera estas cosas, y que entrara en Su gloria? Y comenzando desde Moisés, y siguiendo por todos los profetas, les declaraba en todas las Escrituras lo que de Él decían (24:25–27).**_
 
 Más tarde, Jesús les dijo a Sus discípulos:
 
-_****Estas son las palabras que os hablé, estando aún con vosotros: que era necesario que se cumpliese todo lo que está escrito de Mí en la ley de Moisés, en los profetas y en los salmos. Entonces les abrió el entendimiento, para que comprendiesen las Escrituras; y les dijo: Así está escrito, y así fue necesario que el Cristo padeciese, y resucitase de los muertos al tercer día; y que se predicase en Su nombre el arrepentimiento y el perdón de pecados en todas las naciones, comenzando desde Jerusalén (24:44–47).****_
+_**Estas son las palabras que os hablé, estando aún con vosotros: que era necesario que se cumpliese todo lo que está escrito de Mí en la ley de Moisés, en los profetas y en los salmos. Entonces les abrió el entendimiento, para que comprendiesen las Escrituras; y les dijo: Así está escrito, y así fue necesario que el Cristo padeciese, y resucitase de los muertos al tercer día; y que se predicase en Su nombre el arrepentimiento y el perdón de pecados en todas las naciones, comenzando desde Jerusalén (24:44–47).**_
 
 En resumen, cuando Jesús analizó las Escrituras del Antiguo Testamento —compuesto por los Libros de Moisés, los Profetas y los Salmos o Escritos— tenía la intención de que Sus discípulos entendieran que todos estos libros fueron escritos acerca de Él. Así es como Lucas lo dice: “les declaraba en todas las Escrituras lo que de Él decían”. Jesús no puede ser más claro. Es de necios leer el Antiguo Testamento y no entender que Jesús es su centro. Toda la historia bíblica trata acerca de Él. El Antiguo Testamento promete la venida del Mesías y señala hacia Su misión, y el Nuevo Testamento revela la culminación de las gloriosas promesas en Cristo.
 
 Así pues, toda la meta narrativa bíblica se basa en el Rey enviado por Dios y Su dominio y Reino lleno de gracia, y se basa en el perdón de pecados que ese Rey ha ganado para Su pueblo; un pueblo compuesto de gente de toda tribu, lengua, pueblo y nación. Si queremos entender la gran historia de las Escrituras, tenemos que entender que están centradas en Jesucristo de principio a fin.
 
-****¿QUÉ ES LA TEOLOGÍA BÍBLICA?****
+**¿QUÉ ES LA TEOLOGÍA BÍBLICA?**
 
 Vamos a explicar brevemente a qué nos referimos cuando usamos la frase “teología bíblica”. Si creemos que la Biblia es la Palabra inspirada e inerrante de Dios, ¿no deberíamos aspirar a que toda nuestra teología sea “bíblica”? Sí, por supuesto. Pero cuando usamos en este libro la frase “teología bíblica”, nos referimos a algo más específico.
 
 Por un lado, la teología sistemática empieza con temas clave —Dios, el hombre, el pecado, Cristo, la salvación, etc.— y después examina las Escrituras para ver qué es lo que se enseña de dichos temas. Por otro lado, la teología bíblica procura leer toda la historia bíblica preguntando cómo cada parte se relaciona con el todo.
 
-_****La teología bíblica es una forma de leer la Biblia como una historia escrita por un Autor divino que culmina en quien es Jesucristo y en lo que ha hecho, para que cada parte de las Escrituras sean comprendidas en relación a Él.****_
+_**La teología bíblica es una forma de leer la Biblia como una historia escrita por un Autor divino que culmina en quien es Jesucristo y en lo que ha hecho, para que cada parte de las Escrituras sean comprendidas en relación a Él.****_
 
 La teología bíblica nos ayuda a entender la Biblia como un gran libro compuesto a su vez por un montón de libritos que narran una gran historia. Desde la primera hasta la última página, el Héroe y eje central de esta historia es Jesucristo. La teología bíblica es para la iglesia, comienza con la Biblia, y termina con el Rey Jesús y Su Iglesia.
 
@@ -86,5 +86,5 @@ La teología bíblica nos ayuda a entender cómo el glorioso mapa de las Escritu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTk4ODU5MV19
+eyJoaXN0b3J5IjpbMjc0NTEwNTQ1XX0=
 -->
