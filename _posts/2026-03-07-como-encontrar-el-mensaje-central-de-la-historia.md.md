@@ -10,7 +10,7 @@ author: José Danois
 published: true
 ---
 
-Es posible leer una historia, encontrarla interesante y, aun así, perderte por completo su mensaje central. Por ejemplo, podrías poner una atención desmedida en el escenario o en los personajes secundarios. Podrías leer solamente párrafos aislados o saltar sin rumbo de un lugar a otro. Incluso podrías tratar de confeccionar la trama de la historia o su moraleja desde diversas secciones desconectadas. Pero si haces algo así, lo más probable es que malinterpretes la historia, la figura del héroe y los temas principales.
+Es posible leer una historia, encontrarla interesante y, aun así, perderte por completo su mensaje central. Por ejemplo, podrías poner una atención desmedida en el escenario o en los personajes secundarios. Podrías leer solamente párrafos aislados o saltar sin rumbo de un lugar a otro. Incluso podrías tratar de confeccionar la trama de la historia o su moraleja desde diversas secciones desconectadas. Pero si haces algo así, lo más probable es que malinterpretes la historia, la figura del héroe y los temas principales.[^1]
 
 La Biblia es una historia divinamente inspirada y narra dicha gran historia —también llamada meta narrativa— a través de una colección de historias, canciones, poesía, dichos sapienciales, evangelios, cartas y literatura apocalíptica. En conjunto, estos estilos diversos cuentan la historia verídica de la obra redentora de Dios en el mundo. La Biblia contiene sesenta y seis libros escritos por diferentes autores. Dichos autores fueron inspirados por el Espíritu Santo, quien usó la personalidad y el contexto propio de cada uno de ellos para entregarnos el canon de las Escrituras, el cual contiene un único mensaje y tema principal.
 
@@ -28,13 +28,13 @@ Dicho de forma sencilla, ¡no entenderás la meta narrativa bíblica hasta que c
 
 Dios nos ha revelado en las Escrituras los propósitos del Rey, los planes del Rey y las promesas del Rey. A medida que estos temas se van desarrollando en la historia bíblica, debemos prestarles atención y leerlos tal y como Jesús dice que debemos hacerlo. La historia de Dios es una gran historia. En realidad, es la más grandiosa de todas y está centrada en Su plan de redención a través de la persona y obra de Jesucristo. Pero para interpretar la Biblia fielmente, necesitamos las herramientas adecuadas. La disciplina de la teología bíblica es una de dichas herramientas.
 
-****1. La teología bíblica nos ayuda a captar el propósito principal de la Biblia****
+**1. La teología bíblica nos ayuda a captar el propósito principal de la Biblia**
 
 Algunas personas tratan la Palabra de Dios como si fuera una colección de historias independientes, una selección de dichos sabios y consejería e, incluso, un libro de cocina universal con recetas para tener “una buena vida” esparcidas a lo largo de sus sesenta y seis libros. Pero este tipo de enfoque falla en revelar el propósito central de las Escrituras. El Dios trino explica en la Biblia quién es Él, cómo es Él y de qué manera obra en toda la historia a través de Su Espíritu Santo y Su Hijo, Jesucristo, el Rey, y de qué manera debemos glorificarle en este mundo.
 
 > __La teología bíblica nos permite captar este propósito principal al considerar cada pasaje de las Escrituras a la luz de toda la Biblia de forma que podamos entender cómo cada parte de las Escrituras se relaciona con Jesús.__
 
-****2. La teología bíblica nos ayuda a proteger a la iglesia y a guiarla****
+**2. La teología bíblica nos ayuda a proteger a la iglesia y a guiarla**
 
 Para interpretar las Escrituras correctamente debemos saber dónde encaja cada libro en la narrativa general de la Biblia. Y conocer dicha narrativa general nos ayudará a leer y comprender con exactitud cada evento, personaje o lección que se nos ha entregado como parte de la Palabra progresivamente revelada de Dios. Al entender la historia de las Escrituras en su conjunto, podemos definir quién es Jesús y qué es Su evangelio. Dios ha prometido rescatar a un pueblo de cada nación, tribu y lengua para Su propia gloria a través de su Hijo y por Su Espíritu Santo. Estas personas redimidas son miembros del Cuerpo de Cristo, la Iglesia. ¿Qué se supone que debe ser y hacer la Iglesia de Cristo? Jesús les dijo a aquellos que se habían arrepentido de sus pecados y confiado solo en Él —Sus discípulos— que las Escrituras declaran que se tiene que predicar “en Su nombre el arrepentimiento y el perdón de pecados en todas las naciones, comenzando desde Jerusalén” (Lc 24:47).
 
@@ -42,11 +42,11 @@ Para interpretar las Escrituras correctamente debemos saber dónde encaja cada l
 
 De esta manera, la teología bíblica protege a la iglesia del error letal de proclamar un evangelio falso y la guía a que la proclamación del verdadero evangelio sea el punto central de su misión de alcanzar al mundo, y que todo sea para alabanza de la gloria de Dios.
 
-****3. La teología bíblica nos ayuda en nuestros esfuerzos evangelísticos****
+**3. La teología bíblica nos ayuda en nuestros esfuerzos evangelísticos**
 
 Compartir las buenas nuevas con aquellos que no están familiarizados con el cristianismo requiere mucho más que explicar “las cuatro leyes espirituales” o “la ruta de Romanos”. Las personas necesitan entender en primer lugar que la doctrina cristiana implica la transformación total de nuestra mentalidad. Cuando evangelizamos, debemos empezar con Dios y la creación para entender qué es lo que salió mal. A partir de ahí, seremos capaces de comprender lo que Dios ha estado haciendo a lo largo de la historia, lo cual a su vez nos permitirá descubrir porqué envió a Jesús y porqué importa en la actualidad. Solo estaremos capacitados para entender lo que Dios está haciendo ahora mismo y lo que hará en el futuro cuando entendamos correctamente y en su contexto adecuado estos eventos del pasado.
 
-****4. La teología bíblica nos ayuda a leer, comprender y enseñar la Biblia como Jesús dijo que debemos hacerlo****
+**4. La teología bíblica nos ayuda a leer, comprender y enseñar la Biblia como Jesús dijo que debemos hacerlo**
 
 El propio Jesús dice en Lucas 24 que Él es la clave para interpretar las Escrituras. Así que, si no leemos las Escrituras de forma que nos guíen a Jesús, entonces no captaremos el mensaje central de la Biblia y, como resultado, enseñaremos a otros a cometer el mismo error.
 
@@ -58,5 +58,5 @@ En conclusión, si no entendemos el mensaje central de la narrativa bíblica, pr
 
 [^1]:  Roark, N., & Cline, R. (2019). La teología bíblica: Cómo la iglesia enseña fielmente el evangelio (M. Dever & J. Leeman, Eds.; A. Molero & R. Molero, Trads.; pp. 15-24). Poiema Lectura Redimida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzgyMDU3MV19
+eyJoaXN0b3J5IjpbLTE3MTYxNjAxNzJdfQ==
 -->
