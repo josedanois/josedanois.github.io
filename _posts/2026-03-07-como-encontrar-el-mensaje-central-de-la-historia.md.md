@@ -9,7 +9,6 @@ tags: [Extracto]
 author: José Danois
 published: true
 ---
-
 Es posible leer una historia, encontrarla interesante y, aun así, perderte por completo su mensaje central. Por ejemplo, podrías poner una atención desmedida en el escenario o en los personajes secundarios. Podrías leer solamente párrafos aislados o saltar sin rumbo de un lugar a otro. Incluso podrías tratar de confeccionar la trama de la historia o su moraleja desde diversas secciones desconectadas. Pero si haces algo así, lo más probable es que malinterpretes la historia, la figura del héroe y los temas principales.[^1]
 
 La Biblia es una historia divinamente inspirada y narra dicha gran historia —también llamada meta narrativa— a través de una colección de historias, canciones, poesía, dichos sapienciales, evangelios, cartas y literatura apocalíptica. En conjunto, estos estilos diversos cuentan la historia verídica de la obra redentora de Dios en el mundo. La Biblia contiene sesenta y seis libros escritos por diferentes autores. Dichos autores fueron inspirados por el Espíritu Santo, quien usó la personalidad y el contexto propio de cada uno de ellos para entregarnos el canon de las Escrituras, el cual contiene un único mensaje y tema principal.
@@ -58,5 +57,5 @@ En conclusión, si no entendemos el mensaje central de la narrativa bíblica, pr
 
 [^1]:  Roark, N., & Cline, R. (2019). La teología bíblica: Cómo la iglesia enseña fielmente el evangelio (M. Dever & J. Leeman, Eds.; A. Molero & R. Molero, Trads.; pp. 15-24). Poiema Lectura Redimida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTYxNjAxNzJdfQ==
+eyJoaXN0b3J5IjpbLTEwNzQ0Njc2NzRdfQ==
 -->
