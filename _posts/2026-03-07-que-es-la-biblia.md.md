@@ -61,7 +61,7 @@ __universidad de taylor__
 
 ----------
 
-[^1]: ****Crédito:****  [https://www.biblegateway.com/resources/scripture-engagement/main/what-is-the-bible](https://www.biblegateway.com/resources/scripture-engagement/main/what-is-the-bible)
+[^1]: **Crédito:**  [https://www.biblegateway.com/resources/scripture-engagement/main/what-is-the-bible](https://www.biblegateway.com/resources/scripture-engagement/main/what-is-the-bible)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjg2MzYwNDJdfQ==
+eyJoaXN0b3J5IjpbLTM4NDYyOTY0Ml19
 -->
