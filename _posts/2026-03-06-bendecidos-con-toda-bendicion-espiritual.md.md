@@ -49,7 +49,7 @@ Entonces, ser bendecidos con toda bendición espiritual en los lugares celestial
 
 Haremos bien en dar una cuidadosa lectura a la epístola a los Efesios, particularmente los primeros tres capítulos, para ver y entender el carácter y la magnitud de estas bendiciones. Una vez comiences a meditar en las mismas y a verte bendecido, podrás experimentar el poder libertador y transformador de Cristo.
 
-**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ1MjY5MDNdfQ==
+eyJoaXN0b3J5IjpbNDU1NjQyMzE0LC0xNDE0NTI2OTAzXX0=
 -->
