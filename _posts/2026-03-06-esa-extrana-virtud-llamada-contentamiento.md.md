@@ -107,8 +107,9 @@ Puede ser que estés ahora mismo en la escuela del contentamiento y se te está 
 
 Es hora de cambiar esa actitud y comenzar a ser enseñado. Es momento de entrar en una dependencia de Cristo. Él es la fuente de todo.
 
-**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTYxMjgzNCwxMTc5NzAxODIxXX0=
+eyJoaXN0b3J5IjpbMTI0OTUwNjkxNSwxOTA1NjEyODM0LDExNz
+k3MDE4MjFdfQ==
 -->
