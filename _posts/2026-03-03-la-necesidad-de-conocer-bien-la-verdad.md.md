@@ -52,7 +52,7 @@ Como los bereanos, estamos llamados a examinar todo con criterio bíblico, a esc
 
 Que el ejemplo de Lucas, su celo por la verdad, y el noble espíritu de los bereanos nos inspiren a amar, estudiar y vivir la Palabra de Dios con profundidad y pasión. Porque conocer bien la verdad no solo transforma nuestro entendimiento: transforma toda nuestra vida.
 
-**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjU0Mjg2MiwxNzQwNDg5NjQ3XX0=
+eyJoaXN0b3J5IjpbNzAyMTE0OTU5LDE3NDA0ODk2NDddfQ==
 -->
