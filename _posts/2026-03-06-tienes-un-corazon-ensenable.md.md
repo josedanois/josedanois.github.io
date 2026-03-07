@@ -59,8 +59,8 @@ No podemos basar nuestra fe solo en emociones, experiencias o lo que siempre hem
 
 Que nuestra mayor fortaleza no sea lo que ya sabemos, sino nuestra disposición constante a seguir aprendiendo.
 
-**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://chat.google.com/room/AAQAzlLWQG0?cls=7)**.
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzk0NDU4MF19
+eyJoaXN0b3J5IjpbMTM1ODQ1MDg3NywtODA3OTQ0NTgwXX0=
 -->
