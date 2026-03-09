@@ -137,7 +137,6 @@ Jesús habló del dinero más de lo que solemos admitir:
     
 -   Parábolas sobre administración fiel.
     
-
 Para Jesús, el uso del dinero revela el estado del corazón.
 
 Habla del dinero con una franqueza sorprendente. No porque lo desprecie, sino porque sabe que puede convertirse en un falso dios.
@@ -158,7 +157,6 @@ El perdón es indispensable en la vida del Reino:
     
 -   Reconciliarse antes de adorar.
     
-
 Quien ha sido perdonado, perdona.
 
 ## 🔥 **12. Juicio y esperanza futura**
@@ -175,7 +173,6 @@ Jesús habló con claridad del juicio final y de la esperanza eterna:
     
 -   La vida eterna como conocimiento de Dios.
     
-
 El futuro ilumina el presente.
 
 ## 🌿 **13. La misión**
@@ -192,7 +189,6 @@ Jesús envió a sus discípulos a anunciar el Reino:
     
 -   Con la promesa de su presencia.
     
-
 La misión continúa hoy.
 
 # **Un hilo conductor: el Reino de Dios**
@@ -211,5 +207,5 @@ Su mensaje sigue siendo una puerta abierta. Quien la cruza, encuentra vida.
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDY5Mjc0M119
+eyJoaXN0b3J5IjpbNzAyOTEzNTddfQ==
 -->
