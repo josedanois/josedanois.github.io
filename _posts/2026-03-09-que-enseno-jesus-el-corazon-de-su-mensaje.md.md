@@ -15,6 +15,8 @@ Cuando abrimos los evangelios y escuchamos la voz de Jesús, descubrimos algo m�
 
 A lo largo de los cuatro evangelios, Jesús aborda una sorprendente variedad de temas espirituales, éticos y teológicos. Sin embargo, todos ellos convergen en una misma realidad: **el Reino de Dios**.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/MK4yf_jVhdQ?si=jKzcFF9Ga9uNVeS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 🕊️ **1. El Reino que no es un lugar, sino una invasión en el corazón**
 
 Para Jesús, el "Reino de Dios" no era un territorio geográfico con fronteras físicas ni un sistema político, sino la soberanía de Dios establecida en el interior del ser humano. Este fue el eje central y el tema más frecuente de su predicación, mencionado entre 80 y 90 veces.
@@ -207,5 +209,5 @@ Su mensaje sigue siendo una puerta abierta. Quien la cruza, encuentra vida.
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyOTEzNTddfQ==
+eyJoaXN0b3J5IjpbNjI3NzgyNDI4LDcwMjkxMzU3XX0=
 -->
