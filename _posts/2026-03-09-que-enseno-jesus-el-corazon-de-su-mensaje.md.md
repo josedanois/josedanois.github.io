@@ -9,7 +9,7 @@ tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![](/assets/img/1mhu3zptvro-1536x1025.jpg)
+![](https://copilot.microsoft.com/th/id/BCO.3c061737-ab03-476c-8978-efad465a2347.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjA2OTA0MF19
+eyJoaXN0b3J5IjpbOTk5NTUwOTJdfQ==
 -->
