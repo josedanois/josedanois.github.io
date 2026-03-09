@@ -15,7 +15,7 @@ Cuando abrimos los evangelios y escuchamos la voz de Jesús, descubrimos algo m�
 
 A lo largo de los cuatro evangelios, Jesús aborda una sorprendente variedad de temas espirituales, éticos y teológicos. Sin embargo, todos ellos convergen en una misma realidad: **el Reino de Dios**.
 
-## 🕊️ **1. **El Reino que no es un lugar, sino una invasión en el corazón****
+## 🕊️ **1. El Reino que no es un lugar, sino una invasión en el corazón**
 
 Para Jesús, el "Reino de Dios" no era un territorio geográfico con fronteras físicas ni un sistema político, sino la soberanía de Dios establecida en el interior del ser humano. Este fue el eje central y el tema más frecuente de su predicación, mencionado entre 80 y 90 veces.
 
@@ -38,8 +38,7 @@ Si el Reino es el marco, el amor es su esencia. Jesús lo coloca en el centro de
 -   **Amar al prójimo** como a uno mismo.
     
 -   **Amar a los enemigos**, un mandato que rompe la lógica humana y revela la lógica divina.
-    
-
+  
 El amor, para Jesús, no es sentimiento sino entrega, misericordia y compasión activa. No es un ideal abstracto. Es un camino. Una forma de mirar. Una manera de existir. Es la luz que revela el rostro del Padre y la huella que distingue a los hijos del Reino.
 
 ## 🙏 **3. La vida espiritual auténtica**
@@ -55,8 +54,7 @@ Jesús confronta la religiosidad vacía y llama a una espiritualidad sincera:
 -   **El ayuno y la limosna**: prácticas que deben nacer del corazón, no de la apariencia.
     
 -   **La confianza en la providencia**: “No se afanen por el mañana”.
-    
-
+   
 La vida espiritual, según Jesús, es relación antes que ritual.
 
 ## 🧭 **4. La ética del Reino**
@@ -111,7 +109,6 @@ La fe, para Jesús, es confianza radical en Dios. Sus milagros no solo mostraban
     
 -   “Si tuvieran fe como un grano de mostaza…”
     
-
 La fe abre espacio para la acción de Dios.
 
 ## 🕯️ **8. El discipulado: seguirle por encima de todo**
@@ -214,5 +211,5 @@ Su mensaje sigue siendo una puerta abierta. Quien la cruza, encuentra vida.
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0NzAyMzYxXX0=
+eyJoaXN0b3J5IjpbLTM3NDY5Mjc0M119
 -->
