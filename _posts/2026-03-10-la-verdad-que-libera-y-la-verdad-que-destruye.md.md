@@ -21,7 +21,7 @@ Cuando alguien comienza a estudiar teología —o cualquier disciplina que trate
 
 Esa sensación es comprensible, pero peligrosa. La verdad, cuando se percibe como propiedad privada, se convierte en un símbolo de estatus espiritual o intelectual. El joven teólogo, o el creyente apasionado por la doctrina, puede caer en la ilusión de que su valor está en lo que entiende, no en lo que ama.
 
-Y así, sin darse cuenta, comienza a mirar por encima del hombro a los creyentes sencillos, a los que oran con fe sin conocer la terminología técnica, a los que aman a Cristo sin poder explicar la fórmula calcedoniana. La verdad se vuelve un pedestal desde el cual juzgar, no un camino para servir.
+Y así, sin darse cuenta, comienza a mirar por encima del hombro a los creyentes sencillos, a los que oran con fe sin conocer la terminología técnica, a los que aman a Cristo sin poder explicar la fórmula calcedoniana[^1] . La verdad se vuelve un pedestal desde el cual juzgar, no un camino para servir.
 
 ## **La tragedia espiritual: estudiar el amor sin amar**
 
@@ -68,5 +68,6 @@ Solo así la verdad deja de ser un arma y se convierte en un puente. Solo así e
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjM4NjAzMiwtMTQ2MzA0NjA2MF19
+eyJoaXN0b3J5IjpbMTYzMDg4NDI1MSwxMjc2Mzg2MDMyLC0xND
+YzMDQ2MDYwXX0=
 -->
