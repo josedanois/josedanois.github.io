@@ -41,7 +41,7 @@ Cuando la verdad se usa así, deja de ser luz y se convierte en fuego que quema.
 
 ## **La humildad como camino de sanidad**
 
-¿Cómo sanar esta enfermedad espiritual? ¿Cómo evitar que la verdad se convierta en un arma y que el conocimiento se vuelva orgullo?
+**¿Cómo sanar esta enfermedad espiritual?** ¿Cómo evitar que la verdad se convierta en un arma y que el conocimiento se vuelva orgullo?
 
 La respuesta no es renunciar al conocimiento, sino **someterlo al amor**.
 
@@ -55,12 +55,11 @@ La respuesta no es renunciar al conocimiento, sino **someterlo al amor**.
     
 5.  **Buscar edificar, no impresionar.** La meta no es ganar argumentos, sino ganar corazones.
     
-
 La verdad que no edifica no es la verdad de Cristo. El conocimiento que no produce humildad no es sabiduría. La teología que no conduce al amor no es teología cristiana.
 
 ## **Conclusión: la verdad que se parece a Cristo**
 
-La verdadera madurez espiritual no consiste en acumular información, sino en reflejar el carácter de Cristo. Y Cristo nunca usó la verdad para humillar, sino para liberar. Nunca usó su sabiduría para dominar, sino para servir. Nunca usó su autoridad para aplastar, sino para sanar.
+La verdadera madurez espiritual no consiste en acumular información, sino en reflejar el carácter de Cristo. Y **Cristo nunca usó la verdad para humillar, sino para liberar. Nunca usó su sabiduría para dominar, sino para servir. Nunca usó su autoridad para aplastar, sino para sanar.**
 
 Por eso, la única manera cristiana de manejar la verdad es **siguiéndola en amor**. Y la única manera cristiana de manejar el conocimiento es **dejando que el amor lo gobierne**.
 
@@ -73,6 +72,6 @@ Solo así la verdad deja de ser un arma y se convierte en un puente. Solo así e
 [^1]: La **fórmula calcedoniana** es la definición cristológica establecida por el **Concilio de Calcedonia (451 d.C.)**, donde la Iglesia afirmó que **Jesucristo es una sola persona (hipóstasis) en dos naturalezas: divina y humana**, sin confusión, sin mezcla, sin división y sin separación.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDgyNDk0NDUsMTI3NjM4NjAzMiwtMT
-Q2MzA0NjA2MF19
+eyJoaXN0b3J5IjpbNDQ2NjgzMTQ1LC0xOTQ4MjQ5NDQ1LDEyNz
+YzODYwMzIsLTE0NjMwNDYwNjBdfQ==
 -->
