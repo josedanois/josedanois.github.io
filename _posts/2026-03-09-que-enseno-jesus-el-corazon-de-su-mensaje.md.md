@@ -9,7 +9,7 @@ tags: [Enseñanza]
 author: José Danois
 published: true
 ---
-![](https://copilot.microsoft.com/shares/vwcF1T1aF8ZLY9y8sjfSv)
+![](https://copilot.microsoft.com/th/id/BCO.3c061737-ab03-476c-8978-efad465a2347.png)
 
 Cuando abrimos los evangelios y escuchamos la voz de Jesús, descubrimos algo más que un conjunto de doctrinas o normas morales. Nos encontramos con el Maestro que habla desde la autoridad del cielo, que revela el corazón del Padre y que nos invita a una transformación radical de vida. Sus palabras no son meras ideas: son semillas de Reino, capaces de renovar la mente, sanar el corazón y reorientar la existencia.
 
@@ -209,6 +209,6 @@ Su mensaje sigue siendo una puerta abierta. Quien la cruza, encuentra vida.
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzE1NDQxOSw2Mjc3ODI0MjgsNzAyOT
-EzNTddfQ==
+eyJoaXN0b3J5IjpbNjI3NzgyNDI4LDYyNzc4MjQyOCw3MDI5MT
+M1N119
 -->
