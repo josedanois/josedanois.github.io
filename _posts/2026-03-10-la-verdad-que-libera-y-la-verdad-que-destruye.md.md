@@ -21,7 +21,7 @@ Cuando alguien comienza a estudiar teología —o cualquier disciplina que trate
 
 Esa sensación es comprensible, pero peligrosa. La verdad, cuando se percibe como propiedad privada, se convierte en un símbolo de estatus espiritual o intelectual. El joven teólogo, o el creyente apasionado por la doctrina, puede caer en la ilusión de que su valor está en lo que entiende, no en lo que ama.
 
-Y así, sin darse cuenta, comienza a mirar por encima del hombro a los creyentes sencillos, a los que oran con fe sin conocer la terminología técnica, a los que aman a Cristo sin poder explicar la fórmula calcedoniana [^1]. La verdad se vuelve un pedestal desde el cual juzgar, no un camino para servir.
+Y así, sin darse cuenta, comienza a mirar por encima del hombro a los creyentes sencillos, a los que oran con fe sin conocer la terminología técnica, a los que aman a Cristo sin poder explicar la fórmula calcedoniana[^1]. La verdad se vuelve un pedestal desde el cual juzgar, no un camino para servir.
 
 ## **La tragedia espiritual: estudiar el amor sin amar**
 
@@ -72,6 +72,6 @@ Solo así la verdad deja de ser un arma y se convierte en un puente. Solo así e
 [^1]: La **fórmula calcedoniana** es la definición cristológica establecida por el **Concilio de Calcedonia (451 d.C.)**, donde la Iglesia afirmó que **Jesucristo es una sola persona (hipóstasis) en dos naturalezas: divina y humana**, sin confusión, sin mezcla, sin división y sin separación.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NjgzMTQ1LC0xOTQ4MjQ5NDQ1LDEyNz
-YzODYwMzIsLTE0NjMwNDYwNjBdfQ==
+eyJoaXN0b3J5IjpbLTExNTczMTAzOTcsNDQ2NjgzMTQ1LC0xOT
+Q4MjQ5NDQ1LDEyNzYzODYwMzIsLTE0NjMwNDYwNjBdfQ==
 -->
