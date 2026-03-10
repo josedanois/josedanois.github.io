@@ -11,7 +11,7 @@ published: true
 ---
 ![](https://copilot.microsoft.com/th/id/BCO.621e452f-fad9-45ef-9d6f-0111d41e33c7.png)
 
-Hay una tensión antigua que atraviesa la historia de la fe cristiana: la relación entre **verdad** y **amor**. Ambas son esenciales, ambas provienen de Dios, ambas son necesarias para la vida de la iglesia. Sin embargo, cuando se separan, la verdad puede convertirse en un arma y el amor en un sentimentalismo vacío. El apóstol Pablo lo vio con claridad y lo expresó con una precisión que sigue siendo incómodamente actual: _“El conocimiento envanece, pero el amor edifica”_ (1 Corintios 8:1).
+Hay una tensión antigua que atraviesa la historia de la fe cristiana: la relación entre **verdad** y **amor**. Ambas son esenciales, ambas provienen de Dios, ambas son necesarias para la vida de la iglesia. Sin embargo, cuando se separan, la verdad puede convertirse en un arma y el amor en un sentimentalismo vacío. El apóstol Pablo lo vio con claridad y lo expresó de la sig: _“El conocimiento envanece, pero el amor edifica”_ (1 Corintios 8:1).
 
 Esta advertencia no es un ataque al conocimiento, sino a la **actitud del corazón** que puede acompañarlo. El conocimiento, por sí mismo, tiende a inflar; el amor, por sí mismo, tiende a construir. El primero puede levantar muros; el segundo, puentes. El primero puede producir orgullo; el segundo, servicio. El primero puede convertir la verdad en un trofeo; el segundo, en un don.
 
@@ -65,6 +65,8 @@ La verdadera madurez espiritual no consiste en acumular información, sino en re
 Por eso, la única manera cristiana de manejar la verdad es **siguiéndola en amor**. Y la única manera cristiana de manejar el conocimiento es **dejando que el amor lo gobierne**.
 
 Solo así la verdad deja de ser un arma y se convierte en un puente. Solo así el conocimiento deja de inflar y comienza a edificar. Solo así la iglesia deja de dividirse y comienza a crecer “en todo, en aquel que es la cabeza, esto es, Cristo”.
+
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTY4MjU4MCwtMTQ2MzA0NjA2MF19
+eyJoaXN0b3J5IjpbNTg0MTE2NDIwLC0xNDYzMDQ2MDYwXX0=
 -->
