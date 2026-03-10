@@ -65,6 +65,8 @@ Por eso, la única manera cristiana de manejar la verdad es **siguiéndola en am
 
 Solo así la verdad deja de ser un arma y se convierte en un puente. Solo así el conocimiento deja de inflar y comienza a edificar. Solo así la iglesia deja de dividirse y comienza a crecer “en todo, en aquel que es la cabeza, esto es, Cristo”.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/abNy1Xq4N-0?si=vgPpbYratsytJhpe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 
 ---
@@ -72,6 +74,7 @@ Solo así la verdad deja de ser un arma y se convierte en un puente. Solo así e
 [^1]: La **fórmula calcedoniana** es la definición cristológica establecida por el **Concilio de Calcedonia (451 d.C.)**, donde la Iglesia afirmó que **Jesucristo es una sola persona (hipóstasis) en dos naturalezas: divina y humana**, sin confusión, sin mezcla, sin división y sin separación.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTczMTAzOTcsNDQ2NjgzMTQ1LC0xOT
-Q4MjQ5NDQ1LDEyNzYzODYwMzIsLTE0NjMwNDYwNjBdfQ==
+eyJoaXN0b3J5IjpbLTkwMzg2ODAzNywtMTE1NzMxMDM5Nyw0ND
+Y2ODMxNDUsLTE5NDgyNDk0NDUsMTI3NjM4NjAzMiwtMTQ2MzA0
+NjA2MF19
 -->
