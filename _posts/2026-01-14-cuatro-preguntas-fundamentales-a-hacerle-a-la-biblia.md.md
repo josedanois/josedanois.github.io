@@ -101,7 +101,7 @@ Pedro enumera rápidamente una serie de cosas acerca de lo que Dios ha hecho por
 
 Como ya hemos identificado la condición caída de un pasaje (ver arriba), debemos confesar las formas específicas en que se manifiesta en nuestra propia vida. Entonces, volviendo a Proverbios 6:16–19, queremos reconocer y luego confesar casos específicos de ojos altivos, lengua mentirosa y otros pecados que el Espíritu Santo nos recuerda.
 
-****Finalmente, debemos preguntarnos qué promesas del evangelio debemos creer.****  
+**Finalmente, debemos preguntarnos qué promesas del evangelio debemos creer.**  
 Aquí hay un buen ejemplo de Efesios 4:22-24, donde Pablo ordena a los creyentes a despojarse del viejo hombre, que pertenece a la antigua manera de vivir y que está corrompido por los deseos engañosos, y a renovarse en el espíritu de la mente, y a vestirse del nuevo hombre, creado a semejanza de Dios en verdadera justicia y santidad.
 
 El evangelio aborda los “deseos engañosos” contra los que todavía debemos luchar como cristianos, renovando nuestras mentes para pensar de una manera que honre a Cristo.
@@ -110,25 +110,25 @@ A través del evangelio, Dios ha comenzado a transformarnos a “la semejanza de
 
 Alábalo, confiesa, arrepiéntete y cree. Estas son varias formas clave en las que expresamos nuestro amor por Dios. Ahora es el momento de analizar nuestra cuarta y última pregunta fundamental.
 
-## ****4. ¿Qué aprendemos sobre las relaciones con los demás?****
+## **4. ¿Qué aprendemos sobre las relaciones con los demás?**
 
 Dios nos creó para estar en comunidad unos con otros. Cuando nos salva de nuestros pecados, nos hace parte del cuerpo de Cristo. Jesús nos manda amar a nuestro prójimo como a nosotros mismos.
 
-****Veamos cómo es esto desde tres perspectivas diferentes.****
+**Veamos cómo es esto desde tres perspectivas diferentes.**
 
-****En primer lugar, considere lo que el pasaje enseña sobre vivir e interactuar correctamente con los demás.****
+**En primer lugar, considere lo que el pasaje enseña sobre vivir e interactuar correctamente con los demás.**
 
 A diario nos relacionamos con una gran variedad de personas: familiares, amigos, compañeros de piso, compañeros de trabajo, compañeros de clase, vecinos, creyentes, no cristianos, etc. La Biblia dice mucho sobre cómo debemos relacionarnos con los que nos rodean. La Biblia tiene mucho que decir sobre cómo debemos relacionarnos con los que nos rodean.
 
-Primera de Pedro es un gran ejemplo. El apóstol escribe: “Mantened honorable vuestra conducta entre los gentiles, para que cuando hablen contra vosotros como malhechores, vean vuestras buenas obras y glorifiquen a Dios en el día de la visitación” (2:12). Se instruye a los creyentes “Honrad a todos. Amad a la fraternidad. Temed a Dios. Honrad al emperador” (2:17). Los siervos deben someterse a su señor (2:18-25). Las esposas deben someterse a sus maridos (3:1-6). Los maridos deben “vivir con [sus] esposas de manera comprensiva” (3:7). Los cristianos deben “tener unidad de ánimo, simpatía, amor fraternal, corazón tierno y ánimo humilde” (3:8), negándose a devolver mal por mal (3:9-12). Cuando los incrédulos nos pregunten por qué somos diferentes del mundo, debemos estar preparados para dar una respuesta (3:13-17). ****Seguir a Jesús requiere que interactuemos sabiamente con quienes nos rodean. La Biblia es el lugar donde podemos aprender a hacerlo.****
+Primera de Pedro es un gran ejemplo. El apóstol escribe: “Mantened honorable vuestra conducta entre los gentiles, para que cuando hablen contra vosotros como malhechores, vean vuestras buenas obras y glorifiquen a Dios en el día de la visitación” (2:12). Se instruye a los creyentes “Honrad a todos. Amad a la fraternidad. Temed a Dios. Honrad al emperador” (2:17). Los siervos deben someterse a su señor (2:18-25). Las esposas deben someterse a sus maridos (3:1-6). Los maridos deben “vivir con [sus] esposas de manera comprensiva” (3:7). Los cristianos deben “tener unidad de ánimo, simpatía, amor fraternal, corazón tierno y ánimo humilde” (3:8), negándose a devolver mal por mal (3:9-12). Cuando los incrédulos nos pregunten por qué somos diferentes del mundo, debemos estar preparados para dar una respuesta (3:13-17). **Seguir a Jesús requiere que interactuemos sabiamente con quienes nos rodean. La Biblia es el lugar donde podemos aprender a hacerlo.**
 
-****Una segunda perspectiva útil es considerar lo que enseña el pasaje sobre la reconciliación con otras personas.**** En un mundo caído, el conflicto es inevitable. Como cristianos, estamos llamados a “vivir en paz con todos”, si es posible (Rom. 12:18). Pablo reprende duramente a los corintios por recurrir a los tribunales para resolver sus conflictos en lugar de tratarlos en la iglesia (1 Co. 6:1-11). Llama a dos mujeres de la iglesia de Filipos para que arreglen sus diferencias, e incluso pide a otros que se impliquen para ayudarlas, antes de que dañen a la iglesia (Fil. 4:2-3).
+**Una segunda perspectiva útil es considerar lo que enseña el pasaje sobre la reconciliación con otras personas.** En un mundo caído, el conflicto es inevitable. Como cristianos, estamos llamados a “vivir en paz con todos”, si es posible (Rom. 12:18). Pablo reprende duramente a los corintios por recurrir a los tribunales para resolver sus conflictos en lugar de tratarlos en la iglesia (1 Co. 6:1-11). Llama a dos mujeres de la iglesia de Filipos para que arreglen sus diferencias, e incluso pide a otros que se impliquen para ayudarlas, antes de que dañen a la iglesia (Fil. 4:2-3).
 
-****Por último, reflexiona sobre lo que el pasaje enseña acerca de amar, servir y cuidar a los demás.**** Segundo Samuel 9:1-13 narra la historia de David cuando llama a Mefiboset para que comparezca ante él. Como nieto de Saúl, el rey anterior, Mefiboset probablemente espera ser ejecutado, ya que los reyes antiguos solían eliminar a cualquier rival potencial a sus tronos. Sin embargo, en lugar de matarlo, David le muestra su bondad. Devuelve a Mefiboset las tierras de su familia e incluso le invita a comer a la mesa de David como a un hijo más. ¡Qué hermosa imagen de lo que significa amar y servir bien a los demás!
+**Por último, reflexiona sobre lo que el pasaje enseña acerca de amar, servir y cuidar a los demás.** Segundo Samuel 9:1-13 narra la historia de David cuando llama a Mefiboset para que comparezca ante él. Como nieto de Saúl, el rey anterior, Mefiboset probablemente espera ser ejecutado, ya que los reyes antiguos solían eliminar a cualquier rival potencial a sus tronos. Sin embargo, en lugar de matarlo, David le muestra su bondad. Devuelve a Mefiboset las tierras de su familia e incluso le invita a comer a la mesa de David como a un hijo más. ¡Qué hermosa imagen de lo que significa amar y servir bien a los demás!
 
-****Interactuar, reconciliar y servir.**** Éstas son sólo tres maneras comunes en que la Biblia nos desafía a amar a nuestro prójimo como a nosotros mismos.
+**Interactuar, reconciliar y servir.** Éstas son sólo tres maneras comunes en que la Biblia nos desafía a amar a nuestro prójimo como a nosotros mismos.
 
-## ****Conclusión****
+## **Conclusión**
 
 Ahora que hemos explorado cada una de las cuatro preguntas fundamentales, retrocedamos un momento para ver el panorama general. Recuerde que el objetivo final de la lectura de la Biblia es que Dios transforme nuestras vidas para que nos parezcamos a nuestro Señor Jesús. Hacer estas cuatro preguntas fundamentales centra nuestra atención en el mensaje principal de la Biblia y nos prepara para aplicar las verdades bíblicas a nuestras vidas de manera significativa.
 
@@ -140,5 +140,5 @@ Ahora que hemos explorado cada una de las cuatro preguntas fundamentales, retroc
 
 [^1]:  Harmon, M. S. (2017). Asking the Right Questions: A Practical Guide to Understanding and Applying the Bible. Crossway.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTQyNTc3NSw0ODM3MDg4OF19
+eyJoaXN0b3J5IjpbMTg2MjQ1MDM1MSw0ODM3MDg4OF19
 -->
