@@ -5,7 +5,7 @@ subtitle: Necesitamos las Teología Bíblica
 cover-img: 
 thumbnail-img: 
 share-img: 
-tags: [Extracto]
+tags: [Extracto, Biblia]
 author: José Danois
 published: true
 ---
@@ -57,5 +57,5 @@ En conclusión, si no entendemos el mensaje central de la narrativa bíblica, pr
 
 [^1]:  Roark, N., & Cline, R. (2019). La teología bíblica: Cómo la iglesia enseña fielmente el evangelio (M. Dever & J. Leeman, Eds.; A. Molero & R. Molero, Trads.; pp. 15-24). Poiema Lectura Redimida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ0Njc2NzRdfQ==
+eyJoaXN0b3J5IjpbNjAzNDc2ODczLC0xMDc0NDY3Njc0XX0=
 -->
