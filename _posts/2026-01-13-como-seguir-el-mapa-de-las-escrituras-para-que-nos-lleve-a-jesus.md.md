@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/mapa.jpg
 share-img: /assets/img/mapa.jpg
-tags: [Extracto]
+tags: [Extracto, Biblia]
 author: José Danois
 published: true
 ---
@@ -87,5 +87,5 @@ La teología bíblica nos ayuda a entender cómo el glorioso mapa de las Escritu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzAyMjc1Nl19
+eyJoaXN0b3J5IjpbMTU1MzUxNDExMSwtNjI3MDIyNzU2XX0=
 -->
