@@ -5,7 +5,7 @@ subtitle: Un Dios que habla
 cover-img: 
 thumbnail-img: 
 share-img: 
-tags: [Extracto]
+tags: [Extracto, Biblia]
 author: José Danois
 published: true
 ---
@@ -63,5 +63,5 @@ __universidad de taylor__
 
 [^1]: **Crédito:**  [https://www.biblegateway.com/resources/scripture-engagement/main/what-is-the-bible](https://www.biblegateway.com/resources/scripture-engagement/main/what-is-the-bible)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTA3MTE0NV19
+eyJoaXN0b3J5IjpbMTY4NDk4MDkwMiwyMDU1MDcxMTQ1XX0=
 -->
