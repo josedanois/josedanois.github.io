@@ -43,7 +43,7 @@ En Éxodo 22:21-22, Dios ordena a su pueblo: “No agraviaréis al forastero ni 
 
 Dios deja claro que valora y protege a los marginados, y espera que su pueblo haga lo mismo. Porque Dios los valora como portadores de su imagen, el pueblo de Dios debe tratarlos con dignidad y respeto.
 
-**Carácter, conducta y preocupaciones. Son tres ángulos distintos que nos ayudan a ver lo que un pasaje nos dice sobre Dios.****
+**Carácter, conducta y preocupaciones. Son tres ángulos distintos que nos ayudan a ver lo que un pasaje nos dice sobre Dios.**
 
 Distinguir si algo muestra el carácter de Dios, su conducta o sus preocupaciones no es lo importante; reconocer lo que el texto nos enseña sobre Dios es lo que importa.
 
@@ -53,15 +53,15 @@ En 2 Corintios 13:14, Pablo escribe: “La gracia del Señor Jesucristo y el amo
 
 Aquí vemos algo verdadero sobre cada persona de la Trinidad. Dios Padre nos muestra amor, el Señor Jesucristo nos muestra gracia, y experimentamos la comunión con el Espíritu Santo.
 
-****Empezar por lo que un pasaje nos enseña sobre Dios nos recuerda que, ante todo, la Biblia trata de Él, no de nosotros. Una vez establecida esta premisa, estamos preparados para formular nuestra segunda pregunta fundamental.****
+**Empezar por lo que un pasaje nos enseña sobre Dios nos recuerda que, ante todo, la Biblia trata de Él, no de nosotros. Una vez establecida esta premisa, estamos preparados para formular nuestra segunda pregunta fundamental.**
 
-## ****2. ¿Qué aprendemos de las personas?****
+## **2. ¿Qué aprendemos de las personas?**
 
 Como cúspide de la creación de Dios, los seres humanos están en el centro de los propósitos de Dios para la creación. Nos hizo a su imagen para reflejar su belleza y gobernar la creación bajo su amorosa autoridad (Gn. 1:26-31). Pero Adán y Eva se rebelaron contra Dios y, como descendientes suyos, todos y cada uno de nosotros entramos en el mundo como pecadores (Génesis 3; Rom. 5:12-21). Los que se han apartado de su pecado y han confiado en Jesucristo han recibido vida espiritual y el Espíritu Santo, pero aún deben luchar contra el pecado (Rom. 8:12-13; 2 Cor. 5:17).
 
-****Cuando se trata de aprender lo que un pasaje nos enseña sobre las personas, podemos abordarlo desde tres ángulos diferentes.****
+**Cuando se trata de aprender lo que un pasaje nos enseña sobre las personas, podemos abordarlo desde tres ángulos diferentes.**
 
-****El primer ángulo consiste en buscar en el texto aspectos de lo que significa ser creado a imagen de Dios. ¿Qué anhelos o deseos revela el pasaje que sean expresiones de haber sido creados a imagen de Dios?****
+**El primer ángulo consiste en buscar en el texto aspectos de lo que significa ser creado a imagen de Dios. ¿Qué anhelos o deseos revela el pasaje que sean expresiones de haber sido creados a imagen de Dios?**
 
 Por ejemplo, Ana, la esposa estéril de Elcana, ora:
 
@@ -70,34 +70,34 @@ Por ejemplo, Ana, la esposa estéril de Elcana, ora:
 Dios nos creó como seres humanos para ser fecundos, multiplicarnos y llenar la tierra (Gn. 1:28), por lo que el deseo de Ana de tener un hijo es natural y comprensible.  
 Por supuesto, el pecado distorsiona regularmente los deseos que Dios nos ha dado y los retuerce en direcciones y expresiones dañinas.
 
-****Así que el segundo ángulo para descubrir lo que un pasaje revela sobre la humanidad es buscar la(s) condición(es) caída(s) que expone.****
+**Así que el segundo ángulo para descubrir lo que un pasaje revela sobre la humanidad es buscar la(s) condición(es) caída(s) que expone.**
 
 Por ahora, podemos simplemente describir la condición caída como las creencias, actitudes, sentimientos, acciones o tendencias pecaminosas mencionadas o implícitas en el texto.
 
-****En algunos pasajes la condición caída es imposible de pasar por alto.**** Tomemos, por ejemplo, Proverbios 6:16-19:
+**En algunos pasajes la condición caída es imposible de pasar por alto.** Tomemos, por ejemplo, Proverbios 6:16-19:
 
 Hay seis cosas que el Señor aborrece y siete que le son detestables: los ojos que se enaltecen, la lengua que miente, las manos que derraman sangre inocente, el corazón que trama planes perversos, los pies que corren a hacer lo malo, el testigo falso que propaga mentiras y el que siembra discordia entre hermanos.
 
-****En otros textos, puede que haya que leer entre líneas para ver la condición caída.**** Después de cientos de años de ser dirigidos por jueces, Israel pidió al profeta Samuel que les nombrara un rey (1 Sam. 8:1-9). A pesar de la advertencia del Señor sobre lo que haría un rey (1 Sam. 8:10-18), el pueblo insistió, diciendo: “¡No! Pero habrá un rey sobre nosotros, para que también seamos como todas las naciones, y que nuestro rey nos juzgue y salga delante de nosotros y pelee nuestras batallas” (1 Sam. 8:19-20). El problema es que Dios nunca pretendió que su pueblo fuera “como todas las naciones”; llamó a su pueblo a ser “un reino de sacerdotes y una nación santa” (Ex. 19:6). ****Por lo tanto, la condición caída aquí es rechazar nuestra identidad como pueblo de Dios, apartado para sus propósitos especiales en este mundo.****
+**En otros textos, puede que haya que leer entre líneas para ver la condición caída.** Después de cientos de años de ser dirigidos por jueces, Israel pidió al profeta Samuel que les nombrara un rey (1 Sam. 8:1-9). A pesar de la advertencia del Señor sobre lo que haría un rey (1 Sam. 8:10-18), el pueblo insistió, diciendo: “¡No! Pero habrá un rey sobre nosotros, para que también seamos como todas las naciones, y que nuestro rey nos juzgue y salga delante de nosotros y pelee nuestras batallas” (1 Sam. 8:19-20). El problema es que Dios nunca pretendió que su pueblo fuera “como todas las naciones”; llamó a su pueblo a ser “un reino de sacerdotes y una nación santa” (Ex. 19:6). **Por lo tanto, la condición caída aquí es rechazar nuestra identidad como pueblo de Dios, apartado para sus propósitos especiales en este mundo.**
 
-****El tercer ángulo para llegar a lo que un pasaje revela sobre las personas es buscar cómo deberían ser nuestras vidas como personas redimidas.****
+**El tercer ángulo para llegar a lo que un pasaje revela sobre las personas es buscar cómo deberían ser nuestras vidas como personas redimidas.**
 
 En Hechos 2:42-47, Lucas describe cómo vivían los primeros creyentes su fe en Jesús:
 
 Se mantenían firmes en la enseñanza de los apóstoles, en la comunión, en el partimiento del pan y en la oración. Todos estaban asombrados por los muchos prodigios y señales que realizaban los apóstoles. Todos los creyentes estaban juntos y tenían todo en común: vendían sus propiedades y posesiones, y compartían sus bienes entre sí según la necesidad de cada uno. No dejaban de reunirse unánimes en el Templo ni un solo día. De casa en casa partían el pan y compartían la comida con alegría y generosidad, alabando a Dios y disfrutando de la estimación general del pueblo. Y cada día el Señor añadía al grupo los que iban siendo salvos.
 
-****Esta instantánea nos ayuda a ver cómo el Evangelio transforma a las personas para que vivan como individuos redimidos, así como una comunidad redimida.****  
+**Esta instantánea nos ayuda a ver cómo el Evangelio transforma a las personas para que vivan como individuos redimidos, así como una comunidad redimida.**  
 Creados, caídos y redimidos. Cada una de ellas arroja luz sobre lo que la Biblia nos enseña acerca de la humanidad. Ahora estamos preparados para plantear nuestra tercera pregunta fundamental.
 
-## ****3. ¿Qué aprendemos acerca de relacionarnos con Dios?****
+## **3. ¿Qué aprendemos acerca de relacionarnos con Dios?**
 
 Amar a Dios con todo nuestro ser se expresa de diversas maneras. Por eso, cuando leemos la Biblia, queremos prestar atención a cómo debemos relacionarnos con Dios. Un buen punto de partida es considerar tres formas comunes en las que debemos responder a quién es Dios y quiénes somos nosotros.
 
-****La primera es considerar por qué debemos alabar a Dios.**** Tomemos, por ejemplo, 1 Pedro 1:3–5, donde el apóstol escribe:
+**La primera es considerar por qué debemos alabar a Dios.** Tomemos, por ejemplo, 1 Pedro 1:3–5, donde el apóstol escribe:
 
 Pedro enumera rápidamente una serie de cosas acerca de lo que Dios ha hecho por nosotros en Cristo y los beneficios que recibimos de ello: nacemos de nuevo; tenemos una esperanza viva; tenemos una herencia; estamos protegidos por el poder de Dios. Todas estas son razones para elogiarlo.
 
-****En segundo lugar****, también debemos preguntarnos de qué pecado debemos confesar y arrepentirnos. Confesión significa estar de acuerdo con Dios sobre nuestro pecado y reconocerlo. El arrepentimiento es alejarnos de nuestro pecado y tomar medidas tangibles para buscar cambios en nuestras vidas. La confesión y el arrepentimiento no nos ganan el favor ante Dios. En base a lo que Jesús ha hecho, ya hemos sido declarados inocentes ante Dios. Pero el pecado rompe nuestra comunión con Dios, provocando lo que podríamos llamar “distancia relacional”.La confesión y el arrepentimiento son, juntos, la forma en que restauramos nuestra comunión con Dios.
+**En segundo lugar**, también debemos preguntarnos de qué pecado debemos confesar y arrepentirnos. Confesión significa estar de acuerdo con Dios sobre nuestro pecado y reconocerlo. El arrepentimiento es alejarnos de nuestro pecado y tomar medidas tangibles para buscar cambios en nuestras vidas. La confesión y el arrepentimiento no nos ganan el favor ante Dios. En base a lo que Jesús ha hecho, ya hemos sido declarados inocentes ante Dios. Pero el pecado rompe nuestra comunión con Dios, provocando lo que podríamos llamar “distancia relacional”. La confesión y el arrepentimiento son, juntos, la forma en que restauramos nuestra comunión con Dios.
 
 Como ya hemos identificado la condición caída de un pasaje (ver arriba), debemos confesar las formas específicas en que se manifiesta en nuestra propia vida. Entonces, volviendo a Proverbios 6:16–19, queremos reconocer y luego confesar casos específicos de ojos altivos, lengua mentirosa y otros pecados que el Espíritu Santo nos recuerda.
 
@@ -140,5 +140,5 @@ Ahora que hemos explorado cada una de las cuatro preguntas fundamentales, retroc
 
 [^1]:  Harmon, M. S. (2017). Asking the Right Questions: A Practical Guide to Understanding and Applying the Bible. Crossway.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTgzMzIzNSw0ODM3MDg4OF19
+eyJoaXN0b3J5IjpbMTg1OTQyNTc3NSw0ODM3MDg4OF19
 -->
