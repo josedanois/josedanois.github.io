@@ -9,12 +9,9 @@ tags: [Extracto, Biblia]
 author: José Danois
 published: true
 ---
-Hemos visto que si pasamos por alto el mensaje central de la historia de la Biblia produciremos evangelios e iglesias falsas. La segunda cosa que necesitamos, es un marco de referencia para comprender toda la Biblia. La teología bíblica provee dicho marco porque guía nuestra lectura de la Biblia protegiéndonos de interpretarla erróneamente.[^1]
+![](/assets/img/xqvf3d6qil0kfrsa1pnuucwo7ykz.png)
 
-![](/assets/img/mapa.jpg)
-
-
-****¿Qué tipo de preguntas pretende responder la Biblia?****
+**¿Qué tipo de preguntas pretende responder la Biblia?**[^1]
 
 La Biblia es, ante todo, una historia en la que Dios muestra su gloria a través de la creación y la redención de la humanidad. Tiene sentido, pues, que la Biblia esté concebida para responder a preguntas relacionadas con este tema central.
 
@@ -22,31 +19,31 @@ Jesús confirma este doble enfoque sobre Dios y la humanidad. Cuando le pregunta
 
 El reto, pues, consiste en formular preguntas que nos ayuden a ver estas realidades cuando leemos la Biblia.
 
-## ****1. ¿Qué aprendemos de Dios?****
+## **1. ¿Qué aprendemos de Dios?**
 
-****Las Escrituras revelan quién es Dios al menos de tres maneras diferentes.****
+**Las Escrituras revelan quién es Dios al menos de tres maneras diferentes.**
 
-****En primer lugar****, ****nos muestra el carácter de Dios, o sus atributos.**** A veces la Biblia los enuncia directamente. En Apocalipsis 4:8 por ejemplo, vemos que los cuatro seres vivientes que rodean el trono de Dios gritan sin cesar,
+**En primer lugar**, **nos muestra el carácter de Dios, o sus atributos.** A veces la Biblia los enuncia directamente. En Apocalipsis 4:8 por ejemplo, vemos que los cuatro seres vivientes que rodean el trono de Dios gritan sin cesar,
 
-_****«Santo, santo, santo, es el Señor Dios Todopoderoso, ¡que era y es y ha de venir!»****_
+_**«Santo, santo, santo, es el Señor Dios Todopoderoso, ¡que era y es y ha de venir!»**_
 
 Se necesita poco esfuerzo para ver en este pasaje que Dios es santo, todopoderoso y eterno.
 
-****En segundo lugar****, ****la Escritura revela quién es Dios mostrándonos su conducta.**** En otras palabras, vemos a Dios haciendo cosas en un pasaje que nos muestran quién es.
+**En segundo lugar**, **la Escritura revela quién es Dios mostrándonos su conducta.** En otras palabras, vemos a Dios haciendo cosas en un pasaje que nos muestran quién es.
 
-****El Salmo 23 es un ejemplo excelente:****
+**El Salmo 23 es un ejemplo excelente:**
 
 El Señor es mi pastor, nada me falta; en verdes pastos me hace descansar. Junto a tranquilas aguas me conduce; me infunde nuevas fuerzas. Me guía por sendas de justicia haciendo honor a su nombre. Aun si voy por valles tenebrosos, no temeré ningún mal porque tú estás a mi lado; tu vara y tu bastón me reconfortan. Dispones ante mí un banqueteen presencia de mis enemigos. Has ungido con aceite mi cabeza; has llenado mi copa a rebosar. Seguro estoy de que la bondad y el amor me seguirán todos los días de mi vida; y en la casa del Señor habitaré para siempre.
 
-****Fíjate en todas las cosas diferentes que Dios hace por su pueblo****: guía, restaura, consuela, prepara, unge. Prestar atención a lo que Dios hace en un pasaje nos ayuda a crecer en nuestra comprensión de Dios.
+**Fíjate en todas las cosas diferentes que Dios hace por su pueblo**: guía, restaura, consuela, prepara, unge. Prestar atención a lo que Dios hace en un pasaje nos ayuda a crecer en nuestra comprensión de Dios.
 
-****En tercer lugar, la Biblia revela quién es Dios mostrándonos sus preocupaciones.****
+**En tercer lugar, la Biblia revela quién es Dios mostrándonos sus preocupaciones.**
 
 En Éxodo 22:21-22, Dios ordena a su pueblo: “No agraviaréis al forastero ni lo oprimiréis, pues forasteros fuisteis en la tierra de Egipto. No maltratarás a ninguna viuda ni a ningún huérfano”.
 
 Dios deja claro que valora y protege a los marginados, y espera que su pueblo haga lo mismo. Porque Dios los valora como portadores de su imagen, el pueblo de Dios debe tratarlos con dignidad y respeto.
 
-****Carácter, conducta y preocupaciones. Son tres ángulos distintos que nos ayudan a ver lo que un pasaje nos dice sobre Dios.****
+**Carácter, conducta y preocupaciones. Son tres ángulos distintos que nos ayudan a ver lo que un pasaje nos dice sobre Dios.****
 
 Distinguir si algo muestra el carácter de Dios, su conducta o sus preocupaciones no es lo importante; reconocer lo que el texto nos enseña sobre Dios es lo que importa.
 
@@ -143,5 +140,5 @@ Ahora que hemos explorado cada una de las cuatro preguntas fundamentales, retroc
 
 [^1]:  Harmon, M. S. (2017). Asking the Right Questions: A Practical Guide to Understanding and Applying the Bible. Crossway.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDY4OTg2Myw0ODM3MDg4OF19
+eyJoaXN0b3J5IjpbMTMwNTgzMzIzNSw0ODM3MDg4OF19
 -->
