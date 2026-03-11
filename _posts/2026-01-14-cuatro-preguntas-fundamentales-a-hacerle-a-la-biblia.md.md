@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/xqvf3d6qil0kfrsa1pnuucwo7ykz.png
 share-img: /assets/img/xqvf3d6qil0kfrsa1pnuucwo7ykz.png
-tags: [Extracto]
+tags: [Extracto, Biblia]
 author: José Danois
 published: true
 ---
@@ -13,77 +13,135 @@ Hemos visto que si pasamos por alto el mensaje central de la historia de la Bibl
 
 ![](/assets/img/mapa.jpg)
 
-> Teología bíblica es una forma de leer toda la historia bíblica ayudándonos a poner nuestra atención en el tema central de las Escrituras, el Señor Jesucristo. En otras palabras, la teología bíblica es el mapa bíblico del camino que nos lleva a Jesús.
 
-¿Pero por qué sabemos que Jesús es el mensaje central de toda la Biblia? Porque Él mismo lo dice.
+****¿Qué tipo de preguntas pretende responder la Biblia?****
 
-**EL MEJOR ESTUDIO BÍBLICO DE TODOS LOS TIEMPOS**
+La Biblia es, ante todo, una historia en la que Dios muestra su gloria a través de la creación y la redención de la humanidad. Tiene sentido, pues, que la Biblia esté concebida para responder a preguntas relacionadas con este tema central.
 
-Imagínate que hubieras estado con los discípulos cuando se encontraron con el Cristo resucitado en el camino a Emaús. Encontramos esta extraordinaria escena registrada en **Lucas 24**. Lo que allí se revela es literalmente el mejor estudio bíblico de todos los tiempos.
+Jesús confirma este doble enfoque sobre Dios y la humanidad. Cuando le preguntan cuál es el mandamiento más importante, responde: “Amarás al Señor tu Dios con todo tu corazón, con toda tu alma y con toda tu mente” (Mt. 22:37). Pero Jesús no ha terminado. Continúa: “Y la segunda es semejante: Amarás a tu prójimo como a ti mismo” (Mt. 22:39). Ama a Dios. Amar a los demás. Este es el corazón de lo que Dios quiere de su pueblo.
 
-Dos discípulos estaban caminando en dirección a una aldea situada a unos once kilómetros de Jerusalén. Lucas nos dice que “mientras hablaban y discutían entre sí, Jesús mismo se acercó, y caminaba con ellos. Mas los ojos de ellos estaban velados, para que no le conociesen” (24:15–16). Los discípulos entonces compartieron con Jesús las cosas sorprendentes que acababan de acontecer en Jerusalén:
+El reto, pues, consiste en formular preguntas que nos ayuden a ver estas realidades cuando leemos la Biblia.
 
-_**Y ellos le dijeron: De Jesús nazareno, que fue varón profeta, poderoso en obra y en palabra delante de Dios y de todo el pueblo; y cómo le entregaron los principales sacerdotes y nuestros gobernantes a sentencia de muerte, y le crucificaron. Pero nosotros esperábamos que Él era el que había de redimir a Israel; y ahora, además de todo esto, hoy es ya el tercer día que esto ha acontecido. Aunque también nos han asombrado unas mujeres de entre nosotros, las que antes del día fueron al sepulcro; y como no hallaron Su cuerpo, vinieron diciendo que también habían visto visión de ángeles, quienes dijeron que Él vive. Y fueron algunos de los nuestros al sepulcro, y hallaron así como las mujeres habían dicho, pero a Él no le vieron (24:19–24).**_
+## ****1. ¿Qué aprendemos de Dios?****
 
-Jesús respondió:
+****Las Escrituras revelan quién es Dios al menos de tres maneras diferentes.****
 
-_**¡Oh insensatos, y tardos de corazón para creer todo lo que los profetas han dicho! ¿No era necesario que el Cristo padeciera estas cosas, y que entrara en Su gloria? Y comenzando desde Moisés, y siguiendo por todos los profetas, les declaraba en todas las Escrituras lo que de Él decían (24:25–27).**_
+****En primer lugar****, ****nos muestra el carácter de Dios, o sus atributos.**** A veces la Biblia los enuncia directamente. En Apocalipsis 4:8 por ejemplo, vemos que los cuatro seres vivientes que rodean el trono de Dios gritan sin cesar,
 
-Más tarde, Jesús les dijo a Sus discípulos:
+_****«Santo, santo, santo, es el Señor Dios Todopoderoso, ¡que era y es y ha de venir!»****_
 
-_**Estas son las palabras que os hablé, estando aún con vosotros: que era necesario que se cumpliese todo lo que está escrito de Mí en la ley de Moisés, en los profetas y en los salmos. Entonces les abrió el entendimiento, para que comprendiesen las Escrituras; y les dijo: Así está escrito, y así fue necesario que el Cristo padeciese, y resucitase de los muertos al tercer día; y que se predicase en Su nombre el arrepentimiento y el perdón de pecados en todas las naciones, comenzando desde Jerusalén (24:44–47).**_
+Se necesita poco esfuerzo para ver en este pasaje que Dios es santo, todopoderoso y eterno.
 
-En resumen, cuando Jesús analizó las Escrituras del Antiguo Testamento —compuesto por los Libros de Moisés, los Profetas y los Salmos o Escritos— tenía la intención de que Sus discípulos entendieran que todos estos libros fueron escritos acerca de Él. Así es como Lucas lo dice: “les declaraba en todas las Escrituras lo que de Él decían”. Jesús no puede ser más claro. Es de necios leer el Antiguo Testamento y no entender que Jesús es su centro. Toda la historia bíblica trata acerca de Él. El Antiguo Testamento promete la venida del Mesías y señala hacia Su misión, y el Nuevo Testamento revela la culminación de las gloriosas promesas en Cristo.
+****En segundo lugar****, ****la Escritura revela quién es Dios mostrándonos su conducta.**** En otras palabras, vemos a Dios haciendo cosas en un pasaje que nos muestran quién es.
 
-Así pues, toda la meta narrativa bíblica se basa en el Rey enviado por Dios y Su dominio y Reino lleno de gracia, y se basa en el perdón de pecados que ese Rey ha ganado para Su pueblo; un pueblo compuesto de gente de toda tribu, lengua, pueblo y nación. Si queremos entender la gran historia de las Escrituras, tenemos que entender que están centradas en Jesucristo de principio a fin.
+****El Salmo 23 es un ejemplo excelente:****
 
-**¿QUÉ ES LA TEOLOGÍA BÍBLICA?**
+El Señor es mi pastor, nada me falta; en verdes pastos me hace descansar. Junto a tranquilas aguas me conduce; me infunde nuevas fuerzas. Me guía por sendas de justicia haciendo honor a su nombre. Aun si voy por valles tenebrosos, no temeré ningún mal porque tú estás a mi lado; tu vara y tu bastón me reconfortan. Dispones ante mí un banqueteen presencia de mis enemigos. Has ungido con aceite mi cabeza; has llenado mi copa a rebosar. Seguro estoy de que la bondad y el amor me seguirán todos los días de mi vida; y en la casa del Señor habitaré para siempre.
 
-Vamos a explicar brevemente a qué nos referimos cuando usamos la frase “teología bíblica”. Si creemos que la Biblia es la Palabra inspirada e inerrante de Dios, ¿no deberíamos aspirar a que toda nuestra teología sea “bíblica”? Sí, por supuesto. Pero cuando usamos en este libro la frase “teología bíblica”, nos referimos a algo más específico.
+****Fíjate en todas las cosas diferentes que Dios hace por su pueblo****: guía, restaura, consuela, prepara, unge. Prestar atención a lo que Dios hace en un pasaje nos ayuda a crecer en nuestra comprensión de Dios.
 
-Por un lado, la teología sistemática empieza con temas clave —Dios, el hombre, el pecado, Cristo, la salvación, etc.— y después examina las Escrituras para ver qué es lo que se enseña de dichos temas. Por otro lado, la teología bíblica procura leer toda la historia bíblica preguntando cómo cada parte se relaciona con el todo.
+****En tercer lugar, la Biblia revela quién es Dios mostrándonos sus preocupaciones.****
 
-_**La teología bíblica es una forma de leer la Biblia como una historia escrita por un Autor divino que culmina en quien es Jesucristo y en lo que ha hecho, para que cada parte de las Escrituras sean comprendidas en relación a Él.**_
+En Éxodo 22:21-22, Dios ordena a su pueblo: “No agraviaréis al forastero ni lo oprimiréis, pues forasteros fuisteis en la tierra de Egipto. No maltratarás a ninguna viuda ni a ningún huérfano”.
 
-La teología bíblica nos ayuda a entender la Biblia como un gran libro compuesto a su vez por un montón de libritos que narran una gran historia. Desde la primera hasta la última página, el Héroe y eje central de esta historia es Jesucristo. La teología bíblica es para la iglesia, comienza con la Biblia, y termina con el Rey Jesús y Su Iglesia.
+Dios deja claro que valora y protege a los marginados, y espera que su pueblo haga lo mismo. Porque Dios los valora como portadores de su imagen, el pueblo de Dios debe tratarlos con dignidad y respeto.
 
-**La teología bíblica es para la iglesia**
+****Carácter, conducta y preocupaciones. Son tres ángulos distintos que nos ayudan a ver lo que un pasaje nos dice sobre Dios.****
 
-A pesar de que la disciplina de la teología bíblica puede llegar a ser altamente técnica y complicada, aun los creyentes primitivos valoraron esta rama teológica y entendieron su utilidad para la iglesia. Leemos en Hechos 17 que Pablo y Silas compartieron el evangelio en Tesalónica y después pasaron tiempo proclamando la Palabra de Dios a aquellos que acudían a la sinagoga judía en Berea. El apóstol Pablo “discutió con ellos, declarando y exponiendo por medio de las Escrituras, que era necesario que el Cristo padeciese, y resucitase de los muertos; y que Jesús, a quien yo os anuncio, decía él, es el Cristo” (Hch 17:2–3). ¿Y qué sucedió? “Así que creyeron muchos de ellos, y mujeres griegas de distinción, y no pocos hombres” (Hch 17:12).
+Distinguir si algo muestra el carácter de Dios, su conducta o sus preocupaciones no es lo importante; reconocer lo que el texto nos enseña sobre Dios es lo que importa.
 
-Los bereanos escucharon el razonamiento de Pablo, sus explicaciones y sus pruebas basadas en el Antiguo Testamento. Le escucharon proclamar que era necesario que Jesucristo, el Rey prometido por Dios “padeciese, y resucitase de los muertos” (Hch 17:3). El apóstol Pablo ayudó a sus oyentes a entender cómo la historia de las Escrituras se centra y culmina en Jesús. Pablo les proporcionó un mapa bíblico que los llevó a Cristo. Y por la gracia de Dios, muchos de los bereanos creyeron.
+Cuando nos preguntamos qué aprendemos sobre Dios, debemos asegurarnos de prestar atención a las tres personas de la Trinidad.
 
-Pero recuerda que los bereanos no creyeron en la palabra de Pablo sin más. Lucas, el autor del libro de Hechos, nos dice que: “Y éstos eran más nobles que los que estaban en Tesalónica, pues recibieron la palabra con toda solicitud, escudriñando cada día las Escrituras para ver si estas cosas eran así” (Hch 17:11). Los bereanos recibieron la palabra con entusiasmo y examinaron las Escrituras diariamente para confirmar si lo que se les enseñaba era verdad. Los creyentes primitivos no pensaban que el uso de la teología bíblica era solo para los apóstoles. No pensaban que la teología bíblica estaba reservada para los profesionales académicos de los seminarios prestigiosos. Al contrario, se dieron cuenta de que era responsabilidad suya escudriñar las Escrituras y desarrollar un marco correcto para entender cómo la historia bíblica se centra en Jesús y culmina en Su persona.
+En 2 Corintios 13:14, Pablo escribe: “La gracia del Señor Jesucristo y el amor de Dios y la comunión del Espíritu Santo sean con todos vosotros.”
 
-Estos creyentes entendieron que la teología bíblica es para la iglesia. Y si tú estás en Cristo, entonces la teología bíblica también es para ti.
+Aquí vemos algo verdadero sobre cada persona de la Trinidad. Dios Padre nos muestra amor, el Señor Jesucristo nos muestra gracia, y experimentamos la comunión con el Espíritu Santo.
 
-**El inicio de la teología bíblica se encuentra en la lectura cuidadosa de la Biblia**
+****Empezar por lo que un pasaje nos enseña sobre Dios nos recuerda que, ante todo, la Biblia trata de Él, no de nosotros. Una vez establecida esta premisa, estamos preparados para formular nuestra segunda pregunta fundamental.****
 
-El inicio de la teología bíblica se encuentra en la lectura cuidadosa y acompañada de oración de la Biblia. Tenemos que acudir a las Escrituras con humildad, buscando entender su meta narrativa en sus propios términos.
+## ****2. ¿Qué aprendemos de las personas?****
 
-La Biblia es sumamente diversa. Es un libro compuesto a su vez de muchos libritos que fueron escritos por diversos autores, en diferentes épocas y usando múltiples géneros. Así pues, cuando leemos la Biblia descubrimos la gran variedad de la que está compuesta: narrativa, poesía, leyes, sabiduría, profecía, epístolas, evangelios, etc. Relacionar entre sí esta variedad de libros escritos en diferentes épocas y lugares, y dirigidos a audiencias distintas, puede llegar a ser una tarea abrumadora. ¡Y en realidad lo es!
+Como cúspide de la creación de Dios, los seres humanos están en el centro de los propósitos de Dios para la creación. Nos hizo a su imagen para reflejar su belleza y gobernar la creación bajo su amorosa autoridad (Gn. 1:26-31). Pero Adán y Eva se rebelaron contra Dios y, como descendientes suyos, todos y cada uno de nosotros entramos en el mundo como pecadores (Génesis 3; Rom. 5:12-21). Los que se han apartado de su pecado y han confiado en Jesucristo han recibido vida espiritual y el Espíritu Santo, pero aún deben luchar contra el pecado (Rom. 8:12-13; 2 Cor. 5:17).
 
-De todas maneras, no debemos pensar que esta es una tarea imposible. De hecho, la teología bíblica es claramente posible porque toda la Biblia es un libro inspirado por Dios: “Toda la Escritura es inspirada por Dios” (2Ti 3:16). La unidad de toda la historia bíblica está cimentada sobre el verdadero Autor de la Biblia, Dios mismo.
+****Cuando se trata de aprender lo que un pasaje nos enseña sobre las personas, podemos abordarlo desde tres ángulos diferentes.****
 
-Recuerda lo que el apóstol Pedro dice acerca de la Biblia: “ninguna profecía de la Escritura es de interpretación privada, porque nunca la profecía fue traída por voluntad humana, sino que los santos hombres de Dios hablaron siendo inspirados por el Espíritu Santo” (2P 1:20–21). Si el Señor mismo inspiró estos libros, entonces debemos escudriñarlos con cuidado y oración, buscando entender de forma completa su plan y propósito.
+****El primer ángulo consiste en buscar en el texto aspectos de lo que significa ser creado a imagen de Dios. ¿Qué anhelos o deseos revela el pasaje que sean expresiones de haber sido creados a imagen de Dios?****
 
-Imagínate que cada libro de la Biblia brillara como una estrella. Hasta que no te alejaras lo suficiente, no te darías cuenta de que estas estrellas forman una colosal y gloriosa constelación. Y esto es lo que hace la teología bíblica, analiza y cataloga cada estrella, y después se aleja para ver el impresionante panorama de la gloriosa constelación divina. ¿Y qué encontramos en el centro de esta gloriosa constelación? A Dios el Padre enviando a Su Hijo a través del Espíritu Santo para ganar un pueblo para Su propia gloria.
+Por ejemplo, Ana, la esposa estéril de Elcana, ora:
 
-**La culminación de la teología bíblica se encuentra en el Rey Jesús y Su Iglesia**
+«Señor de los Ejércitos, si te dignas mirar la desdicha de esta sierva tuya, y si en vez de olvidarme te acuerdas de mí y me concedes un hijo varón, yo te lo entregaré para toda su vida y nunca se le cortará el cabello». (1 Sam. 1:11)
 
-La práctica de la teología bíblica es un privilegio de toda la iglesia. Debemos leer todas las partes de la Biblia con cuidado y oración para entender su significado general. A medida que vamos leyendo y releyendo toda la historia bíblica, se hace evidente que las Escrituras se centran de forma clara y nítida en Jesús.
+Dios nos creó como seres humanos para ser fecundos, multiplicarnos y llenar la tierra (Gn. 1:28), por lo que el deseo de Ana de tener un hijo es natural y comprensible.  
+Por supuesto, el pecado distorsiona regularmente los deseos que Dios nos ha dado y los retuerce en direcciones y expresiones dañinas.
 
-Escucha las palabras de Pablo: “Y Él es antes de todas las cosas, y todas las cosas en Él subsisten” (Col 1:17). Cristo mismo, el Rey prometido, es aquel que sostiene todas las cosas, incluyendo la gran historia de la propia Biblia. El Antiguo Testamento señala hacia el futuro y prepara —por así decirlo— el camino para la llegada del Rey. El Nuevo Testamento proclama la llegada del Rey y Su misión para con todas las naciones. Por tanto, encontramos la culminación de la teología bíblica en el Rey Jesús y en el cumplimiento de Sus promesas de rescatar y redimir para Sí mismo un pueblo para alabanza de Su gloria.
+****Así que el segundo ángulo para descubrir lo que un pasaje revela sobre la humanidad es buscar la(s) condición(es) caída(s) que expone.****
 
-**CONCLUSIÓN**
+Por ahora, podemos simplemente describir la condición caída como las creencias, actitudes, sentimientos, acciones o tendencias pecaminosas mencionadas o implícitas en el texto.
 
-La teología bíblica nos ayuda a entender cómo el glorioso mapa de las Escrituras señala hacia el futuro y se centra en el resucitado y reinante Rey Jesucristo, y en el pueblo que ha comprado con Su sangre. Queremos que nuestros ojos y nuestro entendimiento se abran tal y como les ocurrió a esos discípulos en el camino a Emaús —Lc 24:31, 45—, y que así podamos reconocer a Jesús en todas las partes de la Biblia y amarle con todo nuestro corazón cuando se nos abran todas las Escrituras (Lc 24:32). Si leemos correctamente el mapa bíblico, este siempre nos guiará a Jesús y nos mostrará nuestra identidad como Su pueblo.
+****En algunos pasajes la condición caída es imposible de pasar por alto.**** Tomemos, por ejemplo, Proverbios 6:16-19:
+
+Hay seis cosas que el Señor aborrece y siete que le son detestables: los ojos que se enaltecen, la lengua que miente, las manos que derraman sangre inocente, el corazón que trama planes perversos, los pies que corren a hacer lo malo, el testigo falso que propaga mentiras y el que siembra discordia entre hermanos.
+
+****En otros textos, puede que haya que leer entre líneas para ver la condición caída.**** Después de cientos de años de ser dirigidos por jueces, Israel pidió al profeta Samuel que les nombrara un rey (1 Sam. 8:1-9). A pesar de la advertencia del Señor sobre lo que haría un rey (1 Sam. 8:10-18), el pueblo insistió, diciendo: “¡No! Pero habrá un rey sobre nosotros, para que también seamos como todas las naciones, y que nuestro rey nos juzgue y salga delante de nosotros y pelee nuestras batallas” (1 Sam. 8:19-20). El problema es que Dios nunca pretendió que su pueblo fuera “como todas las naciones”; llamó a su pueblo a ser “un reino de sacerdotes y una nación santa” (Ex. 19:6). ****Por lo tanto, la condición caída aquí es rechazar nuestra identidad como pueblo de Dios, apartado para sus propósitos especiales en este mundo.****
+
+****El tercer ángulo para llegar a lo que un pasaje revela sobre las personas es buscar cómo deberían ser nuestras vidas como personas redimidas.****
+
+En Hechos 2:42-47, Lucas describe cómo vivían los primeros creyentes su fe en Jesús:
+
+Se mantenían firmes en la enseñanza de los apóstoles, en la comunión, en el partimiento del pan y en la oración. Todos estaban asombrados por los muchos prodigios y señales que realizaban los apóstoles. Todos los creyentes estaban juntos y tenían todo en común: vendían sus propiedades y posesiones, y compartían sus bienes entre sí según la necesidad de cada uno. No dejaban de reunirse unánimes en el Templo ni un solo día. De casa en casa partían el pan y compartían la comida con alegría y generosidad, alabando a Dios y disfrutando de la estimación general del pueblo. Y cada día el Señor añadía al grupo los que iban siendo salvos.
+
+****Esta instantánea nos ayuda a ver cómo el Evangelio transforma a las personas para que vivan como individuos redimidos, así como una comunidad redimida.****  
+Creados, caídos y redimidos. Cada una de ellas arroja luz sobre lo que la Biblia nos enseña acerca de la humanidad. Ahora estamos preparados para plantear nuestra tercera pregunta fundamental.
+
+## ****3. ¿Qué aprendemos acerca de relacionarnos con Dios?****
+
+Amar a Dios con todo nuestro ser se expresa de diversas maneras. Por eso, cuando leemos la Biblia, queremos prestar atención a cómo debemos relacionarnos con Dios. Un buen punto de partida es considerar tres formas comunes en las que debemos responder a quién es Dios y quiénes somos nosotros.
+
+****La primera es considerar por qué debemos alabar a Dios.**** Tomemos, por ejemplo, 1 Pedro 1:3–5, donde el apóstol escribe:
+
+Pedro enumera rápidamente una serie de cosas acerca de lo que Dios ha hecho por nosotros en Cristo y los beneficios que recibimos de ello: nacemos de nuevo; tenemos una esperanza viva; tenemos una herencia; estamos protegidos por el poder de Dios. Todas estas son razones para elogiarlo.
+
+****En segundo lugar****, también debemos preguntarnos de qué pecado debemos confesar y arrepentirnos. Confesión significa estar de acuerdo con Dios sobre nuestro pecado y reconocerlo. El arrepentimiento es alejarnos de nuestro pecado y tomar medidas tangibles para buscar cambios en nuestras vidas. La confesión y el arrepentimiento no nos ganan el favor ante Dios. En base a lo que Jesús ha hecho, ya hemos sido declarados inocentes ante Dios. Pero el pecado rompe nuestra comunión con Dios, provocando lo que podríamos llamar “distancia relacional”.La confesión y el arrepentimiento son, juntos, la forma en que restauramos nuestra comunión con Dios.
+
+Como ya hemos identificado la condición caída de un pasaje (ver arriba), debemos confesar las formas específicas en que se manifiesta en nuestra propia vida. Entonces, volviendo a Proverbios 6:16–19, queremos reconocer y luego confesar casos específicos de ojos altivos, lengua mentirosa y otros pecados que el Espíritu Santo nos recuerda.
+
+****Finalmente, debemos preguntarnos qué promesas del evangelio debemos creer.****  
+Aquí hay un buen ejemplo de Efesios 4:22-24, donde Pablo ordena a los creyentes a despojarse del viejo hombre, que pertenece a la antigua manera de vivir y que está corrompido por los deseos engañosos, y a renovarse en el espíritu de la mente, y a vestirse del nuevo hombre, creado a semejanza de Dios en verdadera justicia y santidad.
+
+El evangelio aborda los “deseos engañosos” contra los que todavía debemos luchar como cristianos, renovando nuestras mentes para pensar de una manera que honre a Cristo.
+
+A través del evangelio, Dios ha comenzado a transformarnos a “la semejanza de Dios” para que ya no seamos esclavos de los deseos engañosos que a menudo se sienten tan poderosos en nuestra experiencia. Estas son promesas que debemos creer para profundizar nuestra relación con Dios.
+
+Alábalo, confiesa, arrepiéntete y cree. Estas son varias formas clave en las que expresamos nuestro amor por Dios. Ahora es el momento de analizar nuestra cuarta y última pregunta fundamental.
+
+## ****4. ¿Qué aprendemos sobre las relaciones con los demás?****
+
+Dios nos creó para estar en comunidad unos con otros. Cuando nos salva de nuestros pecados, nos hace parte del cuerpo de Cristo. Jesús nos manda amar a nuestro prójimo como a nosotros mismos.
+
+****Veamos cómo es esto desde tres perspectivas diferentes.****
+
+****En primer lugar, considere lo que el pasaje enseña sobre vivir e interactuar correctamente con los demás.****
+
+A diario nos relacionamos con una gran variedad de personas: familiares, amigos, compañeros de piso, compañeros de trabajo, compañeros de clase, vecinos, creyentes, no cristianos, etc. La Biblia dice mucho sobre cómo debemos relacionarnos con los que nos rodean. La Biblia tiene mucho que decir sobre cómo debemos relacionarnos con los que nos rodean.
+
+Primera de Pedro es un gran ejemplo. El apóstol escribe: “Mantened honorable vuestra conducta entre los gentiles, para que cuando hablen contra vosotros como malhechores, vean vuestras buenas obras y glorifiquen a Dios en el día de la visitación” (2:12). Se instruye a los creyentes “Honrad a todos. Amad a la fraternidad. Temed a Dios. Honrad al emperador” (2:17). Los siervos deben someterse a su señor (2:18-25). Las esposas deben someterse a sus maridos (3:1-6). Los maridos deben “vivir con [sus] esposas de manera comprensiva” (3:7). Los cristianos deben “tener unidad de ánimo, simpatía, amor fraternal, corazón tierno y ánimo humilde” (3:8), negándose a devolver mal por mal (3:9-12). Cuando los incrédulos nos pregunten por qué somos diferentes del mundo, debemos estar preparados para dar una respuesta (3:13-17). ****Seguir a Jesús requiere que interactuemos sabiamente con quienes nos rodean. La Biblia es el lugar donde podemos aprender a hacerlo.****
+
+****Una segunda perspectiva útil es considerar lo que enseña el pasaje sobre la reconciliación con otras personas.**** En un mundo caído, el conflicto es inevitable. Como cristianos, estamos llamados a “vivir en paz con todos”, si es posible (Rom. 12:18). Pablo reprende duramente a los corintios por recurrir a los tribunales para resolver sus conflictos en lugar de tratarlos en la iglesia (1 Co. 6:1-11). Llama a dos mujeres de la iglesia de Filipos para que arreglen sus diferencias, e incluso pide a otros que se impliquen para ayudarlas, antes de que dañen a la iglesia (Fil. 4:2-3).
+
+****Por último, reflexiona sobre lo que el pasaje enseña acerca de amar, servir y cuidar a los demás.**** Segundo Samuel 9:1-13 narra la historia de David cuando llama a Mefiboset para que comparezca ante él. Como nieto de Saúl, el rey anterior, Mefiboset probablemente espera ser ejecutado, ya que los reyes antiguos solían eliminar a cualquier rival potencial a sus tronos. Sin embargo, en lugar de matarlo, David le muestra su bondad. Devuelve a Mefiboset las tierras de su familia e incluso le invita a comer a la mesa de David como a un hijo más. ¡Qué hermosa imagen de lo que significa amar y servir bien a los demás!
+
+****Interactuar, reconciliar y servir.**** Éstas son sólo tres maneras comunes en que la Biblia nos desafía a amar a nuestro prójimo como a nosotros mismos.
+
+## ****Conclusión****
+
+Ahora que hemos explorado cada una de las cuatro preguntas fundamentales, retrocedamos un momento para ver el panorama general. Recuerde que el objetivo final de la lectura de la Biblia es que Dios transforme nuestras vidas para que nos parezcamos a nuestro Señor Jesús. Hacer estas cuatro preguntas fundamentales centra nuestra atención en el mensaje principal de la Biblia y nos prepara para aplicar las verdades bíblicas a nuestras vidas de manera significativa.
+
+¿Por qué no lo intentas? Elige un capítulo de la Biblia y léelo, haciéndote las cuatro preguntas. ¿No sabes por dónde empezar? Prueba con Mateo 8. Si eres de los que toman notas, coge papel y bolígrafo, o abre un archivo para apuntar lo que aprendas de cada pregunta. Pide al Señor que te abra los ojos para ver quién es Él, quién eres tú y qué significa caminar fielmente con Él.
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 
 ----------
 
-[^1]:  Roark, N., & Cline, R. (2019). La teología bíblica: Cómo la iglesia enseña fielmente el evangelio (M. Dever & J. Leeman, Eds.; A. Molero & R. Molero, Trads.; pp. 25-33). Poiema Lectura Redimida.
+[^1]:  Harmon, M. S. (2017). Asking the Right Questions: A Practical Guide to Understanding and Applying the Bible. Crossway.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTk5MDUwNCw0ODM3MDg4OF19
+eyJoaXN0b3J5IjpbMjAwMDY4OTg2Myw0ODM3MDg4OF19
 -->
