@@ -69,7 +69,9 @@ A Aquel que es poderoso para hacer mucho más abundantemente de lo que pedimos o
 
 Amén.
 
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjUzOTk5M119
+eyJoaXN0b3J5IjpbMTE4NzIxODkxMV19
 -->
