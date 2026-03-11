@@ -3,8 +3,8 @@ layout: post
 title: Cuatro preguntas fundamentales a hacerle a la Biblia
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/mapa.jpg
-share-img: /assets/img/mapa.jpg
+thumbnail-img: /assets/img/xqvf3d6qil0kfrsa1pnuucwo7ykz.png
+share-img: /assets/img/xqvf3d6qil0kfrsa1pnuucwo7ykz.png
 tags: [Extracto]
 author: José Danois
 published: true
@@ -85,5 +85,5 @@ La teología bíblica nos ayuda a entender cómo el glorioso mapa de las Escritu
 
 [^1]:  Roark, N., & Cline, R. (2019). La teología bíblica: Cómo la iglesia enseña fielmente el evangelio (M. Dever & J. Leeman, Eds.; A. Molero & R. Molero, Trads.; pp. 25-33). Poiema Lectura Redimida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzNzA4ODhdfQ==
+eyJoaXN0b3J5IjpbMTE2MTk5MDUwNCw0ODM3MDg4OF19
 -->
