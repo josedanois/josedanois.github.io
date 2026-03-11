@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/IMG_3174-768x1024.png
 share-img: /assets/img/IMG_3174-768x1024.png
-tags: [Extracto, Biblia]
+tags: [Reflexión]
 author: José Danois
 published: true
 ---
@@ -15,7 +15,7 @@ El evangelio no descansa sobre lo que hacemos, sino sobre en quién creemos.
 
 Con el paso del tiempo he entendido que el corazón del mensaje no es el esfuerzo humano, sino la gracia divina. Todo lo recibimos. Nada lo compramos. Nada lo merecemos.
 
-**Creer es apoyarse en una Persona.****  Es descansar el peso del alma en Aquel que ha hablado. Por eso la Escritura afirma que «sin fe es imposible agradar a Dios» (Hebreos 11:6). No dice “sin obras”, ni “sin disciplinas”, ni “sin sacrificios”.  ****Dice sin fe.****
+**Creer es apoyarse en una Persona.**  Es descansar el peso del alma en Aquel que ha hablado. Por eso la Escritura afirma que «sin fe es imposible agradar a Dios» (Hebreos 11:6). No dice “sin obras”, ni “sin disciplinas”, ni “sin sacrificios”.  **Dice sin fe.**
 
 La fe es esa certeza silenciosa que sostiene la esperanza cuando todavía no vemos. Es la convicción profunda de que Dios es real, de que Él está, de que Él responde, de que Él recompensa a los que le buscan (Hebreos 11:1, 6).
 
@@ -25,7 +25,7 @@ A veces olvidamos esto.
 
 Pensamos, quizá sin decirlo en voz alta, que si oramos más, Dios nos mirará mejor. Que si ayunamos más, nos concederá lo que pedimos. Que si hacemos suficientes sacrificios, obtendremos su favor.
 
-****Pero nada de eso nos hace más aceptos. Ya somos aceptos en Cristo.****
+**Pero nada de eso nos hace más aceptos. Ya somos aceptos en Cristo.**
 
 Entonces, ¿para qué oramos?
 
@@ -43,11 +43,11 @@ Es decirle a Dios: “Mi hambre más grande eres Tú”.
 
 Es suspender lo legítimo por un momento para expresar que hay algo superior. Como el salmista que buscaba a Dios “en tierra seca y árida donde no hay aguas” (Salmos 63:1). El ayuno nos recuerda que el alimento sostiene el cuerpo, pero solo Dios sostiene la vida.
 
-****La fe es el lenguaje del evangelio.****  Desde el principio hasta el final, la justicia de Dios se revela por fe (Romanos 1:17). Jesús repetía una y otra vez: “El que cree…”. Todo parece girar alrededor de esa respuesta sencilla y profunda del corazón.
+**La fe es el lenguaje del evangelio.**  Desde el principio hasta el final, la justicia de Dios se revela por fe (Romanos 1:17). Jesús repetía una y otra vez: “El que cree…”. Todo parece girar alrededor de esa respuesta sencilla y profunda del corazón.
 
 “El que cree en mí…” “Si puedes creer…” “Todo aquel que en él cree…”
 
-****Creer.****
+**Creer.**
 
 Y sin embargo, cuando lo que esperamos no ocurre, cuando las respuestas se demoran, el alma se inquieta. Comenzamos a medirnos: “No estoy haciendo suficiente”. “No estoy orando lo bastante”. “No estoy ayunando lo suficiente”.
 
@@ -71,5 +71,5 @@ Amén.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyMjcwNzAyXX0=
+eyJoaXN0b3J5IjpbMTQzNjUzOTk5M119
 -->
