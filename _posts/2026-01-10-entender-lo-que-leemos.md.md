@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: 
 share-img: 
-tags: [Extracto]
+tags: [Extracto, Leer]
 author: José Danois
 published: true
 ---
@@ -40,5 +40,5 @@ Tiene que haber un conocimiento de las cosas divinas, tal y como son reveladas, 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4ODg3MTc5XX0=
+eyJoaXN0b3J5IjpbMTQ1NTkxNTQ2MSw4Mjg4ODcxNzldfQ==
 -->
