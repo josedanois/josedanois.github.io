@@ -51,26 +51,26 @@ Algunas claves bíblicas para edificar correctamente son:
 
 -   **La fe**: “Edificándoos sobre vuestra santísima fe” (Judas 20).  
     La fe nos mantiene firmes frente a las pruebas y a las falsas enseñanzas.
--   ****La gracia y el conocimiento****: “Crezcan en la gracia y en el conocimiento de nuestro Señor Jesucristo” (2 Pedro 3:18).  
+-   **La gracia y el conocimiento**: “Crezcan en la gracia y en el conocimiento de nuestro Señor Jesucristo” (2 Pedro 3:18).  
     La gracia nos da poder; el conocimiento nos da dirección.
--   ****La verdad presente****: “Estén afianzados en la verdad que ahora tienen” (2 Pedro 1:12).  
+-   **La verdad presente**: “Estén afianzados en la verdad que ahora tienen” (2 Pedro 1:12).  
     Cristo es esa verdad viva que sostiene nuestra fe.
--   ****El amor****: “Que crezcamos en todo en aquel que es la cabeza, Cristo… edificándonos en amor” (Efesios 4:15-16).  
+-   **El amor**: “Que crezcamos en todo en aquel que es la cabeza, Cristo… edificándonos en amor” (Efesios 4:15-16).  
     El amor es lo que une al cuerpo de Cristo y lo hace crecer.
 
-## ****Un llamado a reflexionar****
+## Un llamado a reflexionar
 
 La edificación espiritual no es opcional. Somos llamados a ser:
 
--   ****Un templo santo****
--   ****Una morada de Dios por Su Espíritu****
--   ****Una expresión viva de Cristo en la tierra****
+-   **Un templo santo**
+-   **Una morada de Dios por Su Espíritu**
+-   **Una expresión viva de Cristo en la tierra**
 
-Y aunque el fundamento ya está puesto —Jesús mismo—, cada día debemos preguntarnos: ****¿con qué materiales estoy edificando mi vida?****
+Y aunque el fundamento ya está puesto —Jesús mismo—, cada día debemos preguntarnos: **¿con qué materiales estoy edificando mi vida?**
 
 Dios no busca estructuras vacías, sino corazones transformados. No se trata de cuánto sabemos, sino de cuánto de Cristo se refleja en nosotros.
 
-Al final, el verdadero éxito espiritual no está en cuán alto construimos, sino en ****cuán firmes permanecemos en el fundamento eterno que es Jesucristo****.
+Al final, el verdadero éxito espiritual no está en cuán alto construimos, sino en **cuán firmes permanecemos en el fundamento eterno que es Jesucristo**.
 
 👉 ¿Qué materiales estás usando para edificar tu vida espiritual hoy?
 
@@ -78,5 +78,5 @@ Al final, el verdadero éxito espiritual no está en cuán alto construimos, sin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDIzMzEzOTJdfQ==
+eyJoaXN0b3J5IjpbLTEwNjI0ODI4MTZdfQ==
 -->
