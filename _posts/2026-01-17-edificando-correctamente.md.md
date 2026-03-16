@@ -74,9 +74,11 @@ Al final, el verdadero éxito espiritual no está en cuán alto construimos, sin
 
 👉 ¿Qué materiales estás usando para edificar tu vida espiritual hoy?
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/LOJdhy3tUYA?si=dVoyL2n2W8WhQMSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTIyMzQxMTJdfQ==
+eyJoaXN0b3J5IjpbLTE1OTEwNjExMywtMTk1MjIzNDExMl19
 -->
