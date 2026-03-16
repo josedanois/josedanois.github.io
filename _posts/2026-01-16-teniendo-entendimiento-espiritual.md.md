@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/large__77a64140-439c-4b51-aedb-3c097a95135d.jpg
 share-img: /assets/img/large__77a64140-439c-4b51-aedb-3c097a95135d.jpg
-tags: [Reflexión Bíblica]
+tags: [Reflexión Bíblica, Entendimiento]
 author: José Danois
 published: true
 ---
@@ -19,11 +19,11 @@ El salmo 32:9, nos dice “No seas como el mulo o el caballo, que no tienen ente
 
 > El entendimiento espiritual se refiere a **la capacidad de discernir, comprender y actuar según las verdades espirituales reveladas por Dios**.
 
-No es solo un conocimiento intelectual o una habilidad mental, sino una comprensión otorgada por el Espíritu Santo, que guía a cada creyente hacia una relación más profunda con Dios. En Jeremías 9:24, Dios nos exhorta: “Si alguien ha de gloriarse, que se gloríe **en conocerme y de comprender**** que yo soy el Señor, que actúo en la tierra con amor, con derecho y justicia”.
+No es solo un conocimiento intelectual o una habilidad mental, sino una comprensión otorgada por el Espíritu Santo, que guía a cada creyente hacia una relación más profunda con Dios. En Jeremías 9:24, Dios nos exhorta: “Si alguien ha de gloriarse, que se gloríe **en conocerme y de comprender** que yo soy el Señor, que actúo en la tierra con amor, con derecho y justicia”.
 
 Este entendimiento se nos ha dado desde el momento en que nacemos de nuevo, como señala 2 Corintios 4:6: “Dios… hizo brillar su luz en nuestro corazón para que conociéramos la gloria de Dios que resplandece en el rostro de Cristo”. Sin embargo, aunque ya contamos con este entendimiento, a menudo seguimos funcionando bajo la mentalidad antigua, una forma de pensar que refleja una vida sin la guía de Dios.
 
-Entonces, aunque recibimos la mente de Cristo al nacer de nuevo , debemos ****ejercitar y fortalecer este entendimiento a través del estudio de las Escrituras, la oración y la obediencia a la voluntad de Dios****. De lo contrario, corremos el riesgo de vivir con una mentalidad mundana, guiados por nuestros propios deseos y no por la sabiduría divina.
+Entonces, aunque recibimos la mente de Cristo al nacer de nuevo, debemos **ejercitar y fortalecer este entendimiento a través del estudio de las Escrituras, la oración y la obediencia a la voluntad de Dios**. De lo contrario, corremos el riesgo de vivir con una mentalidad mundana, guiados por nuestros propios deseos y no por la sabiduría divina.
 
 ### ****El ejemplo de los discípulos y la reprensión de Jesús****
 
@@ -41,7 +41,7 @@ Pero, nutrir el entendimiento es solo el primer paso; también debe ser ejercita
 
 El Espíritu Santo es fundamental en nuestra búsqueda de entendimiento espiritual. Jesús prometió a sus discípulos que el Espíritu les guiaría a toda verdad (Juan 16:13). En Lucas 24:45, Jesús abrió el entendimiento de sus discípulos para que comprendieran las Escrituras, un acto que nos recuerda la dependencia que debemos tener en el Espíritu para comprender la voluntad de Dios.
 
-Pablo también oraba para que los ojos del entendimiento de los creyentes fueran iluminados (Efesios 1:18), resaltando que tanto nuestro corazón como nuestra mente necesitan ser abiertos por el Espíritu Santo. ****Así, el entendimiento espiritual se convierte en una herramienta que nos ayuda a conocer mejor a Dios, a ser transformados y a comprender nuestra esperanza en Él.****
+Pablo también oraba para que los ojos del entendimiento de los creyentes fueran iluminados (Efesios 1:18), resaltando que tanto nuestro corazón como nuestra mente necesitan ser abiertos por el Espíritu Santo. **Así, el entendimiento espiritual se convierte en una herramienta que nos ayuda a conocer mejor a Dios, a ser transformados y a comprender nuestra esperanza en Él.**
 
 ### ****Renovación del entendimiento****
 
@@ -61,9 +61,9 @@ El entendimiento espiritual es una de las características más importantes de u
 
 No podemos ser ignorantes de la verdad de Dios. No podemos vivir como el mundo o como los discípulos de Jesús que, a veces, carecían de entendimiento. Dios nos ha dado su Espíritu para iluminarnos, para guiarnos y para que su verdad habite en nuestras mentes y corazones. No dejemos que nuestra mente permanezca en tinieblas, sino busquemos activamente una relación con Dios que profundice nuestro entendimiento espiritual cada día. Así, caminaremos con sabiduría, amor y en plena comunión con Él.
 
-En un mundo lleno de confusión e incertidumbre, la necesidad de un entendimiento espiritual claro es más apremiante que nunca. Como creyentes, hemos sido llamados a ser personas de sabiduría y discernimiento, capaces de navegar por las complejidades de la vida con una perspectiva bíblica. ****Al nutrir nuestro entendimiento con el conocimiento de Dios, ejercitarlo en la vida diaria y permitir que el Espíritu Santo nos ilumine, podemos experimentar la plenitud de la vida que Dios ha prometido.**** No nos conformemos con un entendimiento superficial, sino que busquemos profundizar en las riquezas de la sabiduría divina, para que podamos vivir vidas que glorifiquen a Dios y reflejen Su carácter.
+En un mundo lleno de confusión e incertidumbre, la necesidad de un entendimiento espiritual claro es más apremiante que nunca. Como creyentes, hemos sido llamados a ser personas de sabiduría y discernimiento, capaces de navegar por las complejidades de la vida con una perspectiva bíblica. **Al nutrir nuestro entendimiento con el conocimiento de Dios, ejercitarlo en la vida diaria y permitir que el Espíritu Santo nos ilumine, podemos experimentar la plenitud de la vida que Dios ha prometido.** No nos conformemos con un entendimiento superficial, sino que busquemos profundizar en las riquezas de la sabiduría divina, para que podamos vivir vidas que glorifiquen a Dios y reflejen Su carácter.
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzcxMDIxOV19
+eyJoaXN0b3J5IjpbMTc1MjE1Mjg2NF19
 -->
