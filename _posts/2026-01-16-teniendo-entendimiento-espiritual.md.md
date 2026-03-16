@@ -3,13 +3,13 @@ layout: post
 title: Teniendo entendimiento espiritual
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/IMG_3174-768x1024.png
-share-img: /assets/img/IMG_3174-768x1024.png
+thumbnail-img: /assets/img/large__77a64140-439c-4b51-aedb-3c097a95135d.jpg
+share-img: /assets/img/large__77a64140-439c-4b51-aedb-3c097a95135d.jpg
 tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![](/assets/img/IMG_3174-768x1024.png)
+![](/assets/img/large__77a64140-439c-4b51-aedb-3c097a95135d.jpg)
 
 El entendimiento espiritual es un tema crucial en la vida cristiana, como se destaca en las Escrituras. A menudo, nos encontramos actuando sin un entendimiento completo de la voluntad de Dios, dejándonos llevar por nuestras emociones en lugar de la guía del Espíritu Santo. Esta falta de entendimiento espiritual puede llevarnos por caminos equivocados y obstaculizar nuestro crecimiento en la fe.
 
@@ -17,9 +17,9 @@ El salmo 32:9, nos dice “No seas como el mulo o el caballo, que no tienen ente
 
 ### ****¿Qué es el entendimiento espiritual?****
 
-> El entendimiento espiritual se refiere a ****la capacidad de discernir, comprender y actuar según las verdades espirituales reveladas por Dios****.
+> El entendimiento espiritual se refiere a **la capacidad de discernir, comprender y actuar según las verdades espirituales reveladas por Dios**.
 
-No es solo un conocimiento intelectual o una habilidad mental, sino una comprensión otorgada por el Espíritu Santo, que guía a cada creyente hacia una relación más profunda con Dios. En Jeremías 9:24, Dios nos exhorta: “Si alguien ha de gloriarse, que se gloríe ****en conocerme y de comprender**** que yo soy el Señor, que actúo en la tierra con amor, con derecho y justicia”.
+No es solo un conocimiento intelectual o una habilidad mental, sino una comprensión otorgada por el Espíritu Santo, que guía a cada creyente hacia una relación más profunda con Dios. En Jeremías 9:24, Dios nos exhorta: “Si alguien ha de gloriarse, que se gloríe **en conocerme y de comprender**** que yo soy el Señor, que actúo en la tierra con amor, con derecho y justicia”.
 
 Este entendimiento se nos ha dado desde el momento en que nacemos de nuevo, como señala 2 Corintios 4:6: “Dios… hizo brillar su luz en nuestro corazón para que conociéramos la gloria de Dios que resplandece en el rostro de Cristo”. Sin embargo, aunque ya contamos con este entendimiento, a menudo seguimos funcionando bajo la mentalidad antigua, una forma de pensar que refleja una vida sin la guía de Dios.
 
@@ -65,5 +65,5 @@ En un mundo lleno de confusión e incertidumbre, la necesidad de un entendimient
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzczNzc2NV19
+eyJoaXN0b3J5IjpbLTMzNzcxMDIxOV19
 -->
