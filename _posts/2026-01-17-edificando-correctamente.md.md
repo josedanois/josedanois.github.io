@@ -3,13 +3,13 @@ layout: post
 title: Edificando correctamente
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/large__77a64140-439c-4b51-aedb-3c097a95135d.jpg
-share-img: /assets/img/large__77a64140-439c-4b51-aedb-3c097a95135d.jpg
-tags: [Reflexión Bíblica, Entendimiento]
+thumbnail-img: /assets/img/ba0e120e-826e-4e97-90e3-18e2d5d0ab19_2048x2048.jpg
+share-img: /assets/img/ba0e120e-826e-4e97-90e3-18e2d5d0ab19_2048x2048.jpg
+tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![](/assets/img/large__77a64140-439c-4b51-aedb-3c097a95135d.jpg)
+![](/assets/img/ba0e120e-826e-4e97-90e3-18e2d5d0ab19_2048x2048.jpg)
 
 > __“En él todo el edificio, bien armado, se va levantando para llegar a ser un templo santo en el Señor. En él también ustedes son edificados juntamente para ser morada de Dios por su Espíritu.” Efesios 2:21-22__
 
@@ -78,5 +78,5 @@ Al final, el verdadero éxito espiritual no está en cuán alto construimos, sin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTg5NjAwOV19
+eyJoaXN0b3J5IjpbNDE2OTM4MTEyXX0=
 -->
