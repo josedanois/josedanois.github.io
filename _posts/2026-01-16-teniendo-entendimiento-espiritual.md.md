@@ -49,7 +49,7 @@ La renovación de nuestro entendimiento es un proceso constante. Pablo nos exhor
 
 La renovación diaria de nuestro entendimiento es vital porque, como cristianos, estamos constantemente expuestos a las filosofías y principios del mundo. Necesitamos contrarrestar esta influencia y no conformarnos a los estándares de una cultura que no reconoce a Dios. En su lugar, debemos permitir que nuestra mente sea moldeada por los valores y principios que se encuentran en la Palabra de Dios, fortaleciéndonos así en el conocimiento de Su voluntad.
 
-### La plenitud de un entendimiento renovado**
+### La plenitud de un entendimiento renovado
 
 Al final, la meta del entendimiento espiritual es conocer y seguir la voluntad de Dios en nuestras vidas. Efesios 1:17-18 destaca que este entendimiento nos permite conocerlo mejor, comprender nuestra esperanza y apreciar las riquezas de su herencia. También nos transforma, ayudándonos a identificar la voluntad de Dios, que es “buena, agradable y perfecta” (Romanos 12:2).
 
@@ -65,5 +65,5 @@ En un mundo lleno de confusión e incertidumbre, la necesidad de un entendimient
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg3ODM3NzYsMTc1MjE1Mjg2NF19
+eyJoaXN0b3J5IjpbMTQ1MDI0Mjk3NiwxNzUyMTUyODY0XX0=
 -->
