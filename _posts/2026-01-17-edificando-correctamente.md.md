@@ -18,7 +18,7 @@ published: true
 Cuando Jesús le preguntó a sus discípulos quién decían que era Él, Pedro respondió con una verdad fundamental: __“Tú eres el Cristo, el Hijo del Dios viviente”__.  
 Ante esas palabras, Jesús declaró que sobre esa roca —la verdad de quién es Él— edificaría Su Iglesia.
 
-Esa declaración sigue siendo crucial hoy. La Iglesia no es un edificio, una denominación ni un concilio humano. La Iglesia es ****el cuerpo de Cristo****, Su pueblo redimido, comprado a precio de sangre. Y lo más importante: es Cristo mismo quien la edifica.
+Esa declaración sigue siendo crucial hoy. La Iglesia no es un edificio, una denominación ni un concilio humano. La Iglesia es **el cuerpo de Cristo**, Su pueblo redimido, comprado a precio de sangre. Y lo más importante: es Cristo mismo quien la edifica.
 
 ## ¿Qué significa “edificar”?
 
@@ -78,5 +78,5 @@ Al final, el verdadero éxito espiritual no está en cuán alto construimos, sin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI0ODI4MTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NTIyMzQxMTJdfQ==
 -->
