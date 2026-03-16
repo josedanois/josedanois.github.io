@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/IMG_3174-768x1024.png
 share-img: /assets/img/IMG_3174-768x1024.png
-tags: [Reflexión]
+tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
@@ -65,5 +65,5 @@ En un mundo lleno de confusión e incertidumbre, la necesidad de un entendimient
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTczMjIzM119
+eyJoaXN0b3J5IjpbLTM1MzczNzc2NV19
 -->
