@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El más alto llamado
+title: El poder de tus palabras
 subtitle: 
 cover-img: 
 thumbnail-img: /assets/img/poderdelalengua.png
@@ -26,7 +26,7 @@ En **Proverbios 18:21** encontramos una declaración que, si la pensamos bien, e
 
 Con una sola frase puedes levantarle el ánimo a alguien que está triste, darle esperanza a quien se siente derrotado o incluso fortalecer una relación. Pero también, con unas pocas palabras, puedes herir profundamente, desanimar o causar división.
 
-En otras palabras, lo que decimos ****marca la diferencia****. Por eso la Escritura lo compara con algo tan radical como la vida y la muerte.
+En otras palabras, lo que decimos **marca la diferencia**. Por eso la Escritura lo compara con algo tan radical como la vida y la muerte.
 
 ## Cosechamos lo que hablamos
 
@@ -41,20 +41,16 @@ Esto significa que, de una manera u otra, terminamos comiendo lo que sembramos c
 
 ## Lo que decimos refleja lo que somos
 
-Jesús lo explicó de una forma muy clara en ****Lucas 6:45****:
+Jesús lo explicó de una forma muy clara en **Lucas 6:45**:
 
 > “De lo que abunda en el corazón, habla la boca.”
 
 Al final, nuestras palabras son un reflejo de lo que hay en nuestro interior. Si mi corazón está lleno de resentimiento, eso se notará en mi manera de hablar. Pero si mi corazón está lleno de Dios, de gratitud y de fe, también eso se manifestará en mis palabras.
 
 La verdadera clave para transformar nuestra manera de hablar no está solo en controlar la lengua, sino en cultivar un corazón lleno de bondad.
-
   
-
 ----------
-
-  
-
+ 
 ### Para reflexionar
 
 Hoy te invito a preguntarte:
@@ -67,5 +63,5 @@ Pidámosle al Señor que llene nuestro corazón de su bondad, porque cuando el c
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxMDQxNTE4LC04MzkxMDYzOTFdfQ==
+eyJoaXN0b3J5IjpbMjA3MzE0ODc1NCwtODM5MTA2MzkxXX0=
 -->
