@@ -9,7 +9,7 @@ tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![](/assets/img/jeremias.png)
+![](/assets/img/jeremias.png){: .mx-auto.d-block :}
 
 > __Hay pasajes en la Biblia que nos sacuden el corazón porque parecen hablarnos de manera personal, como si hubieran sido escritos pensando en nosotros. Jeremías 1:5-7 es uno de esos textos.__
 
@@ -88,6 +88,6 @@ Por eso hoy te invito a hacer algo sencillo pero poderoso: **cree lo que Dios di
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0ODcxNTk1LC0xNzExNzIwNTMzLC0xMj
+eyJoaXN0b3J5IjpbMTE3MTgzOTA2LC0xNzExNzIwNTMzLC0xMj
 E2OTg1ODM0XX0=
 -->
