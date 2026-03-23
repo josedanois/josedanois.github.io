@@ -1,7 +1,7 @@
 ---
 layout: post
-title: El Deseo de Dios de Ser Conocido
-subtitle: Desentrañando a Dios, La Esencia de su Ser y su Carácter Revelado
+title: El más alto llamado
+subtitle: 
 cover-img: 
 thumbnail-img: /assets/img/atributos1.png
 share-img: /assets/img/atributos1.png
@@ -12,7 +12,7 @@ published: true
 ![](/assets/img/atributos1.png)
 
 
-> __Hay pasajes de la Biblia que nos sacuden el corazón porque parecen hablarnos de manera personal, como si hubieran sido escritos pensando en nosotros. Jeremías 1:5-7 es uno de esos textos.__
+> __Hay pasajes en la Biblia que nos sacuden el corazón porque parecen hablarnos de manera personal, como si hubieran sido escritos pensando en nosotros. Jeremías 1:5-7 es uno de esos textos.__
 
 Aquí encontramos el relato de cómo Dios llama al profeta Jeremías. Un joven inseguro, consciente de sus limitaciones, pero escogido desde antes de nacer para una misión que lo superaba por completo. Y lo más sorprendente es que lo que Dios le dijo a Jeremías también tiene mucho que decirnos hoy.
 
@@ -89,5 +89,6 @@ Por eso hoy te invito a hacer algo sencillo pero poderoso: ****cree lo que Dios 
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY5ODU4MzRdfQ==
+eyJoaXN0b3J5IjpbLTE3MTE3MjA1MzMsLTEyMTY5ODU4MzRdfQ
+==
 -->
