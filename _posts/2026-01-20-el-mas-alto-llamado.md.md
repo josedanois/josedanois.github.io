@@ -3,31 +3,30 @@ layout: post
 title: El más alto llamado
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/atributos1.png
-share-img: /assets/img/atributos1.png
-tags: [Reflexión Bíblica, Enseñanza]
+thumbnail-img: /assets/img/jeremias.png
+share-img: /assets/img/jeremias.png
+tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![](/assets/img/atributos1.png)
-
+![](/assets/img/jeremias.png)
 
 > __Hay pasajes en la Biblia que nos sacuden el corazón porque parecen hablarnos de manera personal, como si hubieran sido escritos pensando en nosotros. Jeremías 1:5-7 es uno de esos textos.__
 
 Aquí encontramos el relato de cómo Dios llama al profeta Jeremías. Un joven inseguro, consciente de sus limitaciones, pero escogido desde antes de nacer para una misión que lo superaba por completo. Y lo más sorprendente es que lo que Dios le dijo a Jeremías también tiene mucho que decirnos hoy.
 
-****1. Dios nos conoce antes de que existamos El Señor le dice a Jeremías:****
+**1. Dios nos conoce antes de que existamos El Señor le dice a Jeremías:**
 
 > __“Antes que te formase en el vientre te conocí, y antes que nacieses te santifiqué; te di por profeta a las naciones” (Jeremías 1:5).__
 
 ¡Qué declaración más impresionante! Dios no empieza a conocernos cuando venimos al mundo; ya nos conocía desde antes. Eso significa que nuestra vida no es un accidente ni un error, sino parte de un plan eterno.
 
--   Dios ****es personal****: no somos un número para Él, somos personas con nombre y rostro.
--   Dios ****anticipa el futuro****: trabaja desde el “antes” y nada lo sorprende.
--   Dios ****tiene propósito****: nada queda al azar, todo tiene un “para qué”.
--   Dios ****encomienda****: Jeremías fue llamado a ser profeta, pero tú y yo también tenemos una misión en este mundo.
+-   Dios **es personal**: no somos un número para Él, somos personas con nombre y rostro.
+-   Dios **anticipa el futuro**: trabaja desde el “antes” y nada lo sorprende.
+-   Dios **tiene propósito**: nada queda al azar, todo tiene un “para qué”.
+-   Dios **encomienda**: Jeremías fue llamado a ser profeta, pero tú y yo también tenemos una misión en este mundo.
 
-****2. Nuestra primera reacción: “No puedo” Jeremías responde:****
+**2. Nuestra primera reacción: “No puedo” Jeremías responde:**
 
 > __“¡Ah, Señor Jehová! He aquí, no sé hablar, porque soy niño” (Jeremías 1:6).__
 
@@ -37,7 +36,7 @@ No sé si te ha pasado, pero cuando sentimos que Dios nos llama a algo más gran
 -   Gedeón dijo: “Soy el menor de mi casa”.
 -   Jeremías dijo: “Soy un niño”.
 
-Todos compartían algo en común: ****se veían demasiado pequeños para los planes de Dios.****
+Todos compartían algo en común: **se veían demasiado pequeños para los planes de Dios.**
 
 Y quizá tú también lo has pensado. “Señor, no tengo los recursos, no tengo la preparación, no tengo lo suficiente”. Pero la verdad es que Dios no está buscando tu capacidad, sino tu disposición.
 
@@ -45,21 +44,21 @@ Como dice 2 Corintios 8:12:
 
 > __“Si primero hay la voluntad dispuesta, será acepta según lo que uno tiene, no según lo que no tiene”.__
 
-****3. Dios nos corrige y nos afirma Dios responde a Jeremías:****
+**3. Dios nos corrige y nos afirma Dios responde a Jeremías:**
 
 > __“No digas: Soy un niño; porque a todo lo que te envíe irás tú, y dirás todo lo que te mande” (Jeremías 1:7).__
 
 En otras palabras: “Jeremías, no hables en contra de lo que Yo ya he dicho de ti”.
 
-Y aquí hay una lección enorme para nosotros: ****muchas veces anulamos el poder de la Palabra de Dios con nuestras propias palabras****. Decimos: “no puedo, no sirvo, no valgo”, mientras que Dios ya nos ha dicho lo contrario en Cristo.
+Y aquí hay una lección enorme para nosotros: **muchas veces anulamos el poder de la Palabra de Dios con nuestras propias palabras**. Decimos: “no puedo, no sirvo, no valgo”, mientras que Dios ya nos ha dicho lo contrario en Cristo.
 
-El reto es aprender a ****alinear nuestra confesión con su Palabra****. No hablar desde lo que vemos o sentimos, sino desde lo que Dios ha declarado como verdad sobre nosotros.
+El reto es aprender a **alinear nuestra confesión con su Palabra**. No hablar desde lo que vemos o sentimos, sino desde lo que Dios ha declarado como verdad sobre nosotros.
 
-****4. El más alto llamado: ser hijos de Dios****
+**4. El más alto llamado: ser hijos de Dios**
 
 __Quizá pienses: “Bueno, Jeremías fue profeta, Moisés libertador, Gedeón juez… pero yo no tengo un llamado especial”.__
 
-Déjame decirte algo: ****sí lo tienes****. Y es el más alto de todos.
+Déjame decirte algo: **sí lo tienes**. Y es el más alto de todos.
 
 Efesios 1:4–6 dice que fuimos escogidos en Cristo antes de la fundación del mundo, para ser santos, adoptados como hijos y para alabanza de su gracia.
 
@@ -89,6 +88,6 @@ Por eso hoy te invito a hacer algo sencillo pero poderoso: ****cree lo que Dios 
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE3MjA1MzMsLTEyMTY5ODU4MzRdfQ
-==
+eyJoaXN0b3J5IjpbLTEwNDMzNDM1NywtMTcxMTcyMDUzMywtMT
+IxNjk4NTgzNF19
 -->
