@@ -9,7 +9,7 @@ tags: [Comunicación]
 author: José Danois
 published: true
 ---
-![](/assets/img/jeremias.png)
+![](/assets/img/poderdelalengua.png)
 
 
 ## El poder de lo que decimos
@@ -63,5 +63,5 @@ Pidámosle al Señor que llene nuestro corazón de su bondad, porque cuando el c
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzE0ODc1NCwtODM5MTA2MzkxXX0=
+eyJoaXN0b3J5IjpbLTkzNTg5NDczMCwtODM5MTA2MzkxXX0=
 -->
