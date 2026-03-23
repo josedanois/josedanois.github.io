@@ -19,7 +19,7 @@ Ya no se trataría de un monte ni de un templo físico. La hora había llegado p
 
 ## **¿Qué significa adorar en espíritu y en verdad?**
 
-Jesús no estaba hablando de liturgias, estilos musicales ni rituales externos. Lo que Él revela es que la adoración verdadera es una cuestión de ****vida espiritual**** y de ****sinceridad del corazón****.
+Jesús no estaba hablando de liturgias, estilos musicales ni rituales externos. Lo que Él revela es que la adoración verdadera es una cuestión de **vida espiritual** y de **sinceridad del corazón**.
 
 1.  **Adorar en espíritu** significa que nuestra adoración nace de la obra del Espíritu Santo en nosotros. Sin vida en el Espíritu no hay verdadera adoración. No se trata de un acto ocasional en un culto, sino de un estilo de vida.
 2.  **Adorar en verdad** significa hacerlo de manera genuina, sin apariencias ni hipocresías. Es reconocer quién es Dios y rendirse de corazón delante de Él. Jesús mismo advirtió:
@@ -49,7 +49,7 @@ Podemos compararlo con un vehículo. Por más hermoso que sea, si no tiene motor
 
 ## **Conclusión**
 
-Dios es Espíritu, y la única manera de relacionarnos con Él es en espíritu y en verdad. No se trata de lugares, estilos o formas, ****sino de una relación viva y genuina con Cristo.****
+Dios es Espíritu, y la única manera de relacionarnos con Él es en espíritu y en verdad. No se trata de lugares, estilos o formas, **sino de una relación viva y genuina con Cristo.**
 
 El Padre sigue buscando adoradores que lo adoren de esa manera. Que nuestra adoración no sea solo de labios, sino la expresión sincera de un corazón lleno del Espíritu Santo.
 
@@ -58,5 +58,5 @@ El Padre sigue buscando adoradores que lo adoren de esa manera. Que nuestra ador
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzI4MjQ5NiwxNzc4NzczODkwXX0=
+eyJoaXN0b3J5IjpbNDcyMTY0MTYwLDE3Nzg3NzM4OTBdfQ==
 -->
