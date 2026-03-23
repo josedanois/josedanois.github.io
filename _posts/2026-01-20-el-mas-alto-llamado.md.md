@@ -11,55 +11,83 @@ published: true
 ---
 ![](/assets/img/atributos1.png)
 
-¿Alguna vez te has detenido a pensar en lo que Dios realmente desea de ti? Muchas veces pensamos en lo que nosotros queremos de Dios —su ayuda, su bendición, su dirección— pero pocas veces reflexionamos en lo que **Él** desea de nosotros. Y la respuesta es sorprendente: **Dios quiere que lo conozcamos**.
 
-No se trata de un conocimiento superficial, de saber de Él “de oídas” o simplemente reconocerlo en el momento de la salvación. Se trata de un **caminar continuo**, una relación profunda en la que lo vamos descubriendo cada día como Dios, pero también como Padre.
+> __Hay pasajes de la Biblia que nos sacuden el corazón porque parecen hablarnos de manera personal, como si hubieran sido escritos pensando en nosotros. Jeremías 1:5-7 es uno de esos textos.__
 
-La Biblia lo deja muy claro:
+Aquí encontramos el relato de cómo Dios llama al profeta Jeremías. Un joven inseguro, consciente de sus limitaciones, pero escogido desde antes de nacer para una misión que lo superaba por completo. Y lo más sorprendente es que lo que Dios le dijo a Jeremías también tiene mucho que decirnos hoy.
 
-> __“Mas alábese en esto el que haya de alabarse: en entenderme y conocerme, que yo soy el Señor, que hago misericordia, juicio y justicia en la tierra, porque estas cosas me agradan, dice el Señor.”__ (Jeremías 9:23-24)
+****1. Dios nos conoce antes de que existamos El Señor le dice a Jeremías:****
 
-Y Jesús mismo dijo:
+> __“Antes que te formase en el vientre te conocí, y antes que nacieses te santifiqué; te di por profeta a las naciones” (Jeremías 1:5).__
 
-> __“Y ésta es la vida eterna: que te conozcan a ti, el único Dios verdadero, y a Jesucristo, a quien tú has enviado.”__ (Juan 17:3)
+¡Qué declaración más impresionante! Dios no empieza a conocernos cuando venimos al mundo; ya nos conocía desde antes. Eso significa que nuestra vida no es un accidente ni un error, sino parte de un plan eterno.
 
-Conocer a Dios no es acumular información, es una relación que transforma nuestra manera de vivir.
+-   Dios ****es personal****: no somos un número para Él, somos personas con nombre y rostro.
+-   Dios ****anticipa el futuro****: trabaja desde el “antes” y nada lo sorprende.
+-   Dios ****tiene propósito****: nada queda al azar, todo tiene un “para qué”.
+-   Dios ****encomienda****: Jeremías fue llamado a ser profeta, pero tú y yo también tenemos una misión en este mundo.
 
-## Conociendo a Dios a través de sus atributos
+****2. Nuestra primera reacción: “No puedo” Jeremías responde:****
 
-Una de las formas más hermosas de acercarnos a Dios es **estudiando sus atributos**. Estos nos revelan quién es Él en esencia, cómo actúa en el universo y cómo se relaciona con nosotros.
+> __“¡Ah, Señor Jehová! He aquí, no sé hablar, porque soy niño” (Jeremías 1:6).__
 
-### Dios en su naturaleza
+No sé si te ha pasado, pero cuando sentimos que Dios nos llama a algo más grande que nosotros, lo primero que pensamos es: __“Yo no soy capaz”.__
 
-Él es **Espíritu**, lo que significa que no está limitado por un cuerpo ni por un espacio físico. Por eso podemos adorarlo en cualquier lugar (Juan 4:24). Él es **Infinito y Eterno**, sin principio ni fin; nada puede contenerlo ni limitarlo (1 Reyes 8:27; Salmo 90:1-2). Y algo que nos llena de paz: **Él no cambia**. Lo que prometió ayer sigue siendo válido hoy y lo será mañana (Santiago 1:17).
+-   Moisés dijo: “Soy torpe de lengua”.
+-   Gedeón dijo: “Soy el menor de mi casa”.
+-   Jeremías dijo: “Soy un niño”.
 
-### Dios en acción
+Todos compartían algo en común: ****se veían demasiado pequeños para los planes de Dios.****
 
-Dios es **Todopoderoso** (Lucas 18:27), **está en todas partes** (Salmo 139:7-10) y **lo sabe todo** (Mateo 6:8). Pero no solo tiene poder y conocimiento: también los aplica con perfecta **sabiduría** (Romanos 11:33) y con absoluta **soberanía** sobre toda la creación (Daniel 4:35).
+Y quizá tú también lo has pensado. “Señor, no tengo los recursos, no tengo la preparación, no tengo lo suficiente”. Pero la verdad es que Dios no está buscando tu capacidad, sino tu disposición.
 
-### Dios en su carácter
+Como dice 2 Corintios 8:12:
 
-Aquí encontramos lo más tierno y cercano: su **santidad**, que nos llama a vivir apartados del pecado (1 Pedro 1:15-16); su **justicia**, que siempre obra rectamente (Génesis 18:25); y su **fidelidad**, que nunca falla a sus promesas (Números 23:19).
+> __“Si primero hay la voluntad dispuesta, será acepta según lo que uno tiene, no según lo que no tiene”.__
 
-Pero lo que más toca nuestro corazón es su **amor, misericordia, bondad y gracia**. Todo esto lo vemos reflejado en la cruz, donde Dios entregó a su Hijo por nosotros (Juan 3:16).
+****3. Dios nos corrige y nos afirma Dios responde a Jeremías:****
 
-## Jesucristo: el rostro visible de Dios
+> __“No digas: Soy un niño; porque a todo lo que te envíe irás tú, y dirás todo lo que te mande” (Jeremías 1:7).__
 
-Si quieres conocer realmente cómo es Dios, **mira a Jesús**. Él es la encarnación de todos los atributos divinos. En Él vemos la gracia, la verdad, la justicia, el amor y la compasión de Dios hechas carne (Juan 1:14).
+En otras palabras: “Jeremías, no hables en contra de lo que Yo ya he dicho de ti”.
 
-Cuando leemos los evangelios y contemplamos cómo Jesús vivió, cómo trató a las personas y cómo entregó su vida, estamos viendo con claridad quién es nuestro Dios.
+Y aquí hay una lección enorme para nosotros: ****muchas veces anulamos el poder de la Palabra de Dios con nuestras propias palabras****. Decimos: “no puedo, no sirvo, no valgo”, mientras que Dios ya nos ha dicho lo contrario en Cristo.
 
-## Conclusión: un conocimiento que transforma
+El reto es aprender a ****alinear nuestra confesión con su Palabra****. No hablar desde lo que vemos o sentimos, sino desde lo que Dios ha declarado como verdad sobre nosotros.
 
-Conocer a Dios no es un simple ejercicio intelectual. Es algo que transforma nuestro corazón y nuestra manera de vivir. Cada atributo de Dios nos invita a **confiar más en Él**, a **adorarlo con mayor pasión** y a **reflejar su carácter en nuestro día a día**.
+****4. El más alto llamado: ser hijos de Dios****
 
-La verdadera gloria, como dice Jeremías 9:23-24, no está en nuestras habilidades ni en nuestras riquezas, sino en conocer al Señor y entender que Él actúa con amor, justicia y misericordia.
+__Quizá pienses: “Bueno, Jeremías fue profeta, Moisés libertador, Gedeón juez… pero yo no tengo un llamado especial”.__
 
-Hoy Dios te invita a eso: a conocerlo más y a caminar cada día en una relación más profunda con Él.
+Déjame decirte algo: ****sí lo tienes****. Y es el más alto de todos.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Q1m2xPwooUY?si=NhrNJ8BNDDtetuBV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Efesios 1:4–6 dice que fuimos escogidos en Cristo antes de la fundación del mundo, para ser santos, adoptados como hijos y para alabanza de su gracia.
+
+Ese es el llamado supremo:
+
+-   Ser hijos de Dios.
+-   Ser semejantes a Cristo (Romanos 8:29).
+-   Anunciar sus virtudes y llevar su luz (1 Pedro 2:9).
+
+Nada puede superar eso. El título más grande que puedes llevar no es “profeta”, “pastor” o “líder”, sino ****“hijo de Dios”****.
+
+****Un llamado a responder****
+
+El llamado de Jeremías nos inspira, pero también nos confronta. Nos recuerda que no se trata de lo que creemos que podemos o no podemos hacer, sino de lo que Dios ya determinó en su plan eterno.
+
+Quizá hoy te sientes pequeño, incapaz o insuficiente. Pero Dios ya te conocía antes de que nacieras, y aún así te escogió. Te separó. Te dio un propósito.
+
+El más alto llamado no es una tarea imposible, sino una relación transformadora: ser hijo de Dios en Cristo Jesús. Desde esa identidad nace todo lo demás: el servicio, la misión, el testimonio y la vida abundante.
+
+Por eso hoy te invito a hacer algo sencillo pero poderoso: ****cree lo que Dios dice de ti y empieza a caminar en esa verdad.****
+
+****Una oración para hoy****
+
+“Señor, gracias porque me conociste antes de que existiera y me escogiste en Cristo. Perdóname cuando he dicho lo contrario de tu Palabra y me he menospreciado. Hoy recibo con fe mi más alto llamado: ser tu hijo, ser semejante a Cristo y anunciar tus virtudes. Lléname de tu Espíritu y dame la valentía para ir donde me envíes y decir lo que Tú pongas en mi boca.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/SdoEN8zrXiM?si=5NZG0VBQ9tsLLG_h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDI3MzY1MF19
+eyJoaXN0b3J5IjpbLTEyMTY5ODU4MzRdfQ==
 -->
