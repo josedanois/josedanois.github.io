@@ -53,6 +53,10 @@ Dios es Espíritu, y la única manera de relacionarnos con Él es en espíritu y
 
 El Padre sigue buscando adoradores que lo adoren de esa manera. Que nuestra adoración no sea solo de labios, sino la expresión sincera de un corazón lleno del Espíritu Santo.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gr91MYRPdgk?si=ndEXM4CCtOc5wWGt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODYyNzQyNCwxNzc4NzczODkwXX0=
+eyJoaXN0b3J5IjpbNDk3NDc2MDY3LDE3Nzg3NzM4OTBdfQ==
 -->
