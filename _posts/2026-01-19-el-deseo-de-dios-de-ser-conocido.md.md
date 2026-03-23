@@ -1,13 +1,21 @@
-
-
-
-
+---
+layout: post
+title: En Espíritu y Verdad
+subtitle: 
+cover-img: 
+thumbnail-img: /assets/img/en-espíritu-y-verdad.jpg
+share-img: /assets/img/en-espíritu-y-verdad.jpg
+tags: [Reflexión Bíblica, Enseñanza]
+author: José Danois
+published: true
+---
+![](/assets/img/en-espíritu-y-verdad.jpg)
 
 > Desentrañando a Dios, La Esencia de su Ser y su Carácter Revelado
 
-¿Alguna vez te has detenido a pensar en lo que Dios realmente desea de ti? Muchas veces pensamos en lo que nosotros queremos de Dios —su ayuda, su bendición, su dirección— pero pocas veces reflexionamos en lo que ****Él**** desea de nosotros. Y la respuesta es sorprendente: ****Dios quiere que lo conozcamos****.
+¿Alguna vez te has detenido a pensar en lo que Dios realmente desea de ti? Muchas veces pensamos en lo que nosotros queremos de Dios —su ayuda, su bendición, su dirección— pero pocas veces reflexionamos en lo que **Él** desea de nosotros. Y la respuesta es sorprendente: **Dios quiere que lo conozcamos**.
 
-No se trata de un conocimiento superficial, de saber de Él “de oídas” o simplemente reconocerlo en el momento de la salvación. Se trata de un ****caminar continuo****, una relación profunda en la que lo vamos descubriendo cada día como Dios, pero también como Padre.
+No se trata de un conocimiento superficial, de saber de Él “de oídas” o simplemente reconocerlo en el momento de la salvación. Se trata de un **caminar continuo**, una relación profunda en la que lo vamos descubriendo cada día como Dios, pero también como Padre.
 
 La Biblia lo deja muy claro:
 
@@ -21,11 +29,11 @@ Conocer a Dios no es acumular información, es una relación que transforma nues
 
 ## Conociendo a Dios a través de sus atributos
 
-Una de las formas más hermosas de acercarnos a Dios es ****estudiando sus atributos****. Estos nos revelan quién es Él en esencia, cómo actúa en el universo y cómo se relaciona con nosotros.
+Una de las formas más hermosas de acercarnos a Dios es **estudiando sus atributos**. Estos nos revelan quién es Él en esencia, cómo actúa en el universo y cómo se relaciona con nosotros.
 
 ### Dios en su naturaleza
 
-Él es ****Espíritu***, lo que significa que no está limitado por un cuerpo ni por un espacio físico. Por eso podemos adorarlo en cualquier lugar (Juan 4:24). Él es **Infinito y Eterno**, sin principio ni fin; nada puede contenerlo ni limitarlo (1 Reyes 8:27; Salmo 90:1-2). Y algo que nos llena de paz: **Él no cambia**. Lo que prometió ayer sigue siendo válido hoy y lo será mañana (Santiago 1:17).
+Él es **Espíritu**, lo que significa que no está limitado por un cuerpo ni por un espacio físico. Por eso podemos adorarlo en cualquier lugar (Juan 4:24). Él es **Infinito y Eterno**, sin principio ni fin; nada puede contenerlo ni limitarlo (1 Reyes 8:27; Salmo 90:1-2). Y algo que nos llena de paz: **Él no cambia**. Lo que prometió ayer sigue siendo válido hoy y lo será mañana (Santiago 1:17).
 
 ### Dios en acción
 
@@ -55,5 +63,5 @@ Hoy Dios te invita a eso: a conocerlo más y a caminar cada día en una relació
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyODg3NTEzXX0=
+eyJoaXN0b3J5IjpbLTE2NDQ5NDUyMDFdfQ==
 -->
