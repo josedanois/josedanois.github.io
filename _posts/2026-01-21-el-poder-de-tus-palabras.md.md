@@ -3,20 +3,20 @@ layout: post
 title: El más alto llamado
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/jeremias.png
-share-img: /assets/img/jeremias.png
-tags: [Reflexión Bíblica]
+thumbnail-img: /assets/img/poderdelalengua.png
+share-img: /assets/img/poderdelalengua.png
+tags: [Comunicación]
 author: José Danois
 published: true
 ---
-![](/assets/img/jeremias.png){: .mx-auto.d-block :}
+![](/assets/img/jeremias.png)
 
 
 ## El poder de lo que decimos
 
 En un mundo lleno de comunicación instantánea, es fácil olvidar el inmenso poder que tienen las palabras. Cada mensaje de texto, cada comentario en redes sociales, cada conversación cara a cara, lleva consigo una fuerza capaz de construir o de destruir.
 
-En ****Proverbios 18:21**** encontramos una declaración que, si la pensamos bien, es muy seria:
+En **Proverbios 18:21** encontramos una declaración que, si la pensamos bien, es muy seria:
 
 > “La muerte y la vida están en poder de la lengua, y el que la ama comerá de su fruto.”
 
@@ -67,5 +67,5 @@ Pidámosle al Señor que llene nuestro corazón de su bondad, porque cuando el c
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTEwNjM5MV19
+eyJoaXN0b3J5IjpbOTYxMDQxNTE4LC04MzkxMDYzOTFdfQ==
 -->
