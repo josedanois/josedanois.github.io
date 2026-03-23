@@ -68,9 +68,9 @@ Ese es el llamado supremo:
 -   Ser semejantes a Cristo (Romanos 8:29).
 -   Anunciar sus virtudes y llevar su luz (1 Pedro 2:9).
 
-Nada puede superar eso. El título más grande que puedes llevar no es “profeta”, “pastor” o “líder”, sino ****“hijo de Dios”****.
+Nada puede superar eso. El título más grande que puedes llevar no es “profeta”, “pastor” o “líder”, sino **“hijo de Dios”**.
 
-****Un llamado a responder****
+**Un llamado a responder**
 
 El llamado de Jeremías nos inspira, pero también nos confronta. Nos recuerda que no se trata de lo que creemos que podemos o no podemos hacer, sino de lo que Dios ya determinó en su plan eterno.
 
@@ -78,9 +78,9 @@ Quizá hoy te sientes pequeño, incapaz o insuficiente. Pero Dios ya te conocía
 
 El más alto llamado no es una tarea imposible, sino una relación transformadora: ser hijo de Dios en Cristo Jesús. Desde esa identidad nace todo lo demás: el servicio, la misión, el testimonio y la vida abundante.
 
-Por eso hoy te invito a hacer algo sencillo pero poderoso: ****cree lo que Dios dice de ti y empieza a caminar en esa verdad.****
+Por eso hoy te invito a hacer algo sencillo pero poderoso: **cree lo que Dios dice de ti y empieza a caminar en esa verdad.**
 
-****Una oración para hoy****
+**Una oración para hoy**
 
 “Señor, gracias porque me conociste antes de que existiera y me escogiste en Cristo. Perdóname cuando he dicho lo contrario de tu Palabra y me he menospreciado. Hoy recibo con fe mi más alto llamado: ser tu hijo, ser semejante a Cristo y anunciar tus virtudes. Lléname de tu Espíritu y dame la valentía para ir donde me envíes y decir lo que Tú pongas en mi boca.
 
@@ -88,6 +88,6 @@ Por eso hoy te invito a hacer algo sencillo pero poderoso: ****cree lo que Dios 
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDMzNDM1NywtMTcxMTcyMDUzMywtMT
-IxNjk4NTgzNF19
+eyJoaXN0b3J5IjpbOTg0ODcxNTk1LC0xNzExNzIwNTMzLC0xMj
+E2OTg1ODM0XX0=
 -->
