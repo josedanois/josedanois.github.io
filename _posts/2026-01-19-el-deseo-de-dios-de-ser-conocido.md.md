@@ -1,6 +1,6 @@
 ---
 layout: post
-title: En Espíritu y Verdad
+title: El Deseo de Dios de Ser Conocido
 subtitle: 
 cover-img: 
 thumbnail-img: /assets/img/en-espíritu-y-verdad.jpg
@@ -63,5 +63,5 @@ Hoy Dios te invita a eso: a conocerlo más y a caminar cada día en una relació
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/volviendo-a-la-palabra?leanpub)** y unirte a nuestra **[Comunidad Virtual](https://t.me/+dcvB-pxKEkQyYTVh)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ5NDUyMDFdfQ==
+eyJoaXN0b3J5IjpbMTkwNjY4MjcyNl19
 -->
