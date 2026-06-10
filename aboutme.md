@@ -1,16 +1,26 @@
 ---
 layout: page
 title: Acerca de
-subtitle: Why you'd want to go on a date with me
+subtitle: Caminando en la Fe
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![pic](assets/img/bio-photo.jpg)  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+>_Pastor, maestro y creador de contenido bíblico_
 
-What else do you need?
+<br>
 
-### My story
+**Bienvenidos a mi [Blog](https://josedanois.com/).** 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Este espacio está dedicado a la reflexión bíblica y teológica en diálogo con la experiencia del diario vivir. Me gusta compartir acerca de la fe, la gracia y el evangelio de nuestro Señor Jesucristo.
+
+Si quieres unirte a la conversación te invito a dejar tus comentarios en los artículos.
+
+No olvides [suscribirte](https://follow.it/caminando-en-la-fe?leanpub) para que cada nueva publicacion de este blog en tu bandeja de correo. 
+
+### Contacto
+
+[E-Mail ✉️](mailto:jdan@vivaldi.net)
+
+[Micro Blog](https://hubzilla.monster/channel/josedanois)
+
