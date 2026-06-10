@@ -78,6 +78,71 @@ a2a_config.locale = "es";
 </script>
 <script defer src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
+
+
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+  /* - - - CONFIGURATION VARIABLES - - - */
+
+  var __semio__params = {
+    graphcommentId: "josedanois", // make sure the id is yours
+
+    behaviour: {
+      // HIGHLY RECOMMENDED
+      //  uid: "...", // uniq identifer for the comments thread on your page (ex: your page id)
+    },
+
+    // configure your variables here
+
+  }
+
+  /* - - - DON'T EDIT BELOW THIS LINE - - - */
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+
+
+<div id="graphcomment-widget"></div>
+
+<script src="https://graphcomment.com/js/widget.js"></script>
+
+<script>
+graphcommentWidget(document.getElementById('graphcomment-widget'), {
+  "graphcomment_id": "josedanois",
+  "defaultTab": "last_comments",
+  "tabs": [
+    "last_comments",
+    "top_comments",
+    "top_threads"
+  ],
+  "labels": {
+    "last_comments": "",
+    "top_comments": "",
+    "top_threads": ""
+  },
+  "period": "90 days",
+  "limit": 25,
+  "height": null,
+  "openLinksNewWindow": true,
+  "showVotes": true,
+  "locale": "en"
+});
+</script>
+    
+      
       
       {% endif %}
 
