@@ -8,8 +8,6 @@ subtitle: Caminando en la Fe
 
 >_Pastor, maestro y creador de contenido bíblico_
 
-<br>
-
 **Bienvenidos a mi [Blog](https://josedanois.com/).** 
 
 Este espacio está dedicado a la reflexión bíblica y teológica en diálogo con la experiencia del diario vivir. Me gusta compartir acerca de la fe, la gracia y el evangelio de nuestro Señor Jesucristo.
