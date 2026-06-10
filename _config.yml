@@ -52,7 +52,7 @@ title-img: assets/img/BibliayLuz-modified.png
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "jdanonline@gmail.com.com"
+  email: "jdanonline@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: leondejudahumacao
   # github: daattali
