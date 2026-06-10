@@ -22,10 +22,11 @@ author: José Danois
 navbar-links:
   Blog: "https://josedanois.com/"
   Acerca de: "aboutme"
-  Sigueme:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Sígueme:
+    - Youtube: "https://www.youtube.com/@jdanonline"
+    - Facebook: "https://www.facebook.com/leondejudahumacao"
+  Micro Blog: "https://hubzilla.monster/channel/josedanois"
+  Suscríbete:
 
 ################
 # --- Logo --- #
