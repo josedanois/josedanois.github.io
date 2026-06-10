@@ -6,7 +6,9 @@ subtitle: Caminando en la Fe
 
 ![pic](assets/img/bio-photo.jpg)  
 
->_Pastor, maestro y creador de contenido bíblico_
+José Danois
+
+-_Pastor, maestro y creador de contenido bíblico_
 
 **Bienvenidos a mi [Blog](https://josedanois.com/).** 
 
