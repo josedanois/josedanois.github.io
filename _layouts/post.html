@@ -77,8 +77,29 @@ var a2a_config = a2a_config || {};
 a2a_config.locale = "es";
 </script>
 <script defer src="https://static.addtoany.com/menu/page.js"></script>
-<!-- AddToAny END -->
+<!-- AddToAny END -->     
+      
+      {% endif %}
 
+      <ul class="pagination blog-pager">
+        {% if page.previous.url %}
+        <li class="page-item previous">
+          <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title | strip_html | xml_escape}}">
+            <i class="fas fa-arrow-left" alt="Previous Post"></i>
+            <span class="d-none d-sm-inline-block">Previous Post</span>
+          </a>
+        </li>
+        {% endif %}
+        {% if page.next.url %}
+        <li class="page-item next">
+          <a class="page-link" href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title | strip_html | xml_escape}}">
+            <span class="d-none d-sm-inline-block">Next Post</span>
+            <i class="fas fa-arrow-right" alt="Next Post"></i>
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+      {% include comments.html %}
 
 <div id="graphcomment"></div>
 <script type="text/javascript">
@@ -141,30 +162,7 @@ graphcommentWidget(document.getElementById('graphcomment-widget'), {
   "locale": "en"
 });
 </script>
-    
       
-      
-      {% endif %}
-
-      <ul class="pagination blog-pager">
-        {% if page.previous.url %}
-        <li class="page-item previous">
-          <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title | strip_html | xml_escape}}">
-            <i class="fas fa-arrow-left" alt="Previous Post"></i>
-            <span class="d-none d-sm-inline-block">Previous Post</span>
-          </a>
-        </li>
-        {% endif %}
-        {% if page.next.url %}
-        <li class="page-item next">
-          <a class="page-link" href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title | strip_html | xml_escape}}">
-            <span class="d-none d-sm-inline-block">Next Post</span>
-            <i class="fas fa-arrow-right" alt="Next Post"></i>
-          </a>
-        </li>
-        {% endif %}
-      </ul>
-      {% include comments.html %}
     </div>
   </div>
 </main>
