@@ -1,15 +1,19 @@
 ---
 layout: post
 title: Edificados como Casa Espiritual
-subtitle:
+subtitle: 
 cover-img:
-thumbnail-img: https://jdan.online/assets/img/templo.jpg
-share-img: https://jdan.online/assets/img/templo.jpg
+thumbnail-img: /assets/img/templo.png
+share-img: /assets/img/templo.png
 categories:
-tags: [test]
+tags: [Reflexión Bíblica]
 author: José Danois
-published: false
+published: true
 ---
+> Acercándoos a él, piedra viva, desechada ciertamente por los hombres, mas para Dios escogida y preciosa, vosotros también, como piedras vivas, sed edificados como casa espiritual y sacerdocio santo, para ofrecer sacrificios espirituales aceptables a Dios por medio de Jesucristo. 1 Pedro 2:4–5
+
+![](/assets/img/templo.png){: .mx-auto.d-block :}
+
 Hay una poderosa verdad que encontramos en la Palabra de Dios. Es un llamado, una invitación a acercarnos a Cristo, la **Piedra viva**, y a ser edificados como una **casa espiritual y sacerdocio santo**. Esta es una verdad que no solo nos fortalece en tiempos de prueba, sino que nos da una visión clara de quiénes somos en Cristo y cuál es nuestro propósito en este mundo.
 
 ## Acércate a la Piedra Viva
@@ -49,8 +53,7 @@ El Nuevo Testamento nos muestra claramente cuáles son estos sacrificios:
 
 ## Todo por medio de Cristo
 
-Estos sacrificios no son perfectos en nosotros. Pero Cristo, nuestro mediador, purifica nuestras ofrendas y las presenta como un aroma agradable a Dios.  
-¡Qué misericordia tan grande!
+Es crucial recordar que estos “sacrificios”, aunque espirituales, no son perfectos en nosotros. Todo lo que hacemos es imperfecto, pero gracias a Cristo, quien es nuestro mediador, nuestras ofrendas son purificadas y presentadas ante Dios como un aroma agradable. ¡Qué gran misericordia es esta! Cristo quita nuestras imperfecciones y nos permite ofrecer a Dios sacrificios que son aceptables y agradables a Él.
 
 ## Nuestra identidad en Cristo
 
@@ -65,4 +68,4 @@ Estamos siendo edificados día a día. Somos parte del cuerpo de Cristo, y cada 
 
 Que nuestras vidas, palabras, acciones y servicio sean una ofrenda agradable a Dios, todo por medio de Jesucristo, nuestro Señor y Salvador.
 
-**¿Qué piensas sobre este tema?**Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
