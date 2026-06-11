@@ -5,7 +5,7 @@ subtitle: Un Llamado a Reorientar Nuestros Corazones en la Era Digital
 cover-img: 
 thumbnail-img: /assets/img/medio-fin.png
 share-img: /assets/img/medio-fin.png
-tags: [Era Digital]
+tags: [Era Digital, Desconexión Espiritual]
 author: José Danois
 published: true
 ---
