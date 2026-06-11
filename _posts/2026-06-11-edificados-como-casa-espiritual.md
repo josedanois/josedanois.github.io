@@ -18,7 +18,8 @@ Hay una poderosa verdad que encontramos en la Palabra de Dios. Es un llamado, un
 
 ## Acércate a la Piedra Viva
 
-El apóstol Pedro, en su primera carta, nos exhorta a acercarnos a Cristo, quien es la *Piedra viva*. Esta piedra, aunque rechazada por los hombres, es escogida y preciosa para Dios.  
+El apóstol Pedro, en su primera carta, nos exhorta a acercarnos a Cristo, quien es la *Piedra viva*. Esta piedra, aunque rechazada por los hombres, es escogida y preciosa para Dios.
+
 ¡Qué maravilloso es saber que, aunque el mundo nos rechace, Dios nos considera preciosos y escogidos en Cristo!
 
 Cristo es la roca de nuestra salvación, la fuente de vida eterna, el fundamento sobre el cual se construye nuestra fe.
