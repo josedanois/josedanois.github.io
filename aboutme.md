@@ -4,7 +4,7 @@ title: Acerca de
 subtitle: Caminando en la Fe
 ---
 
-![pic](assets/img/bio-photo.jpg)  
+![pic](assets/img/bio-photo.jpg)
 
 José Danois
 
