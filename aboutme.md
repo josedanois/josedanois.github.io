@@ -6,7 +6,7 @@ subtitle: Caminando en la Fe
 
 ![bio-photo]({{ "assets/img/bio-photo.jpg" | relative_url }})
 
-José Danois
+José Danois.
 
 -_Pastor, maestro y creador de contenido bíblico_
 
