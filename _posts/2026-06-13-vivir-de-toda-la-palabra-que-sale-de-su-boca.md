@@ -2,7 +2,7 @@
 layout: post
 title: Vivir de toda la Palabra que sale de su boca
 subtitle: 
-cover-img: /assets/img/vivir-por-la-palabra.png
+cover-img: 
 thumbnail-img: /assets/img/vivir-por-la-palabra.png
 share-img: /assets/img/vivir-por-la-palabra.png
 tags: [Reflexión Bíblica]
