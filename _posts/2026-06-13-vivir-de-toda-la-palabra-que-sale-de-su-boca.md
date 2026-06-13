@@ -9,11 +9,11 @@ tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
+No se puede negar que el pan —y lo que este representa— es necesario para la subsistencia humana. Sin embargo, no es lo único que necesitamos. Hay cosas que no pueden resolverse solo con comida.
+
 ![bio-photo]({{ "assets/img/vivir-por-la-palabra.png" | relative_url }})
 
 # Vivir de toda la Palabra que sale de su boca
-
-No se puede negar que el pan —y lo que este representa— es necesario para la subsistencia humana. Sin embargo, no es lo único que necesitamos. Hay cosas que no pueden resolverse solo con comida.
 
 Cuando Jesús le contesta al diablo, cita Deuteronomio 8:3, donde Dios le dice a Israel:
 
