@@ -13,7 +13,7 @@ No se puede negar que el pan —y lo que este representa— es necesario para la
 
 ![bio-photo]({{ "assets/img/vivir-por-la-palabra.png" | relative_url }})
 
-Cuando Jesús es tentado por el diablo en Mateo 4:4, le contesta al citando Deuteronomio 8:3. Allí Dios le dice a Israel:
+Cuando Jesús es tentado por el diablo en Mateo 4:4, le contesta citando Deuteronomio 8:3. Allí Dios le dice a Israel:
 
 > “Te humilló y te hizo pasar hambre, pero luego te alimentó con maná, comida que ni tú ni tus antepasados habían conocido, con lo que te enseñó que no solo de pan vive el hombre, sino de todo lo que sale de la boca del Señor.”
 
