@@ -9,8 +9,7 @@ tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-
-![vivir por la palabra](assets/img/vivir-por-la-palabra.png)
+![bio-photo]({{ "assets/img/vivir-por-la-palabra.png" | relative_url }})
 
 # Vivir de toda la Palabra que sale de su boca
 
