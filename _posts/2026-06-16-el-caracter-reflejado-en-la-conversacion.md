@@ -15,7 +15,7 @@ published: true
 
 La manera en que llevamos una conversación dice mucho sobre nuestro carácter. Las palabras que elegimos, el tono de voz que usamos, los gestos que acompañan nuestras expresiones y hasta los silencios son elementos que componen una ventana al interior de nuestra personalidad. En la interacción diaria, cada conversación es una oportunidad para reflejar quiénes somos, cómo pensamos y cómo nos relacionamos con el mundo. Así, analizar los estilos de comunicación puede ser de gran utilidad para comprender mejor a las personas que nos rodean y, al mismo tiempo, mejorar nuestras interacciones sociales.
 
-![comunicación](/assets/img/comunicacion.jpg)
+![comunicación](/assets/img/comunicacion.jpg){: .mx-auto.d-block :}
 
 Como nos recuerda Proverbios 18:21: “La muerte y la vida están en poder de la lengua, y el que la ama comerá de sus frutos”. Esta poderosa advertencia nos recuerda que nuestras palabras pueden edificar o destruir, dependiendo de cómo las usemos.
 
