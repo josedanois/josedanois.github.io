@@ -11,7 +11,7 @@ published: true
 ---
 Vivimos en una época en la que las herramientas tecnológicas han alcanzado un lugar central en nuestra vida diaria.  Usamos aplicaciones para comunicarnos, informarnos, entretenernos e incluso para relacionarnos con Dios. Pero hay una realidad que muchas veces pasamos por alto: estas herramientas, que en un principio fueron creadas para facilitarnos la vida, corren el riesgo de convertirse en nuestros amos, desplazando el propósito por el cual fueron creadas.
 
-![medio-fin](/assets/img/medio-fin.png)
+![medio](/assets/img/medio-fin.png)
 
 **El medio que se vuelve el fin**
 
