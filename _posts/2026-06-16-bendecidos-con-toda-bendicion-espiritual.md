@@ -13,7 +13,7 @@ published: true
 
 El capítulo 1 de la epístola a los Efesios comienza con una poderosa declaración: Dios nos bendijo con toda bendición espiritual en los lugares celestiales en Cristo. Cuando se entiende y se recibe esta verdad, no podemos hacer otra cosa que alabar al Dios y Padre de nuestro Señor Jesucristo.
 
-![](/assets/img/bendicion.png)
+![bendicion](/assets/img/bendicion.png)
 
 Para la iglesia de Éfeso esta era una poderosa noticia y una verdad liberadora.
 
