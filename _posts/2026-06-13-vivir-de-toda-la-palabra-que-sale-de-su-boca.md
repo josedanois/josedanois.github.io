@@ -11,7 +11,7 @@ published: true
 ---
 No se puede negar que el pan —y lo que este representa— es necesario para la subsistencia humana. Sin embargo, no es lo único que necesitamos. Hay cosas que no pueden resolverse solo con comida.
 
-![bio-photo]({{ "assets/img/vivir-por-la-palabra.png" | relative_url }})
+![palabra]({{ "assets/img/vivir-por-la-palabra.png" | relative_url }})
 
 Cuando Jesús es tentado por el diablo en Mateo 4:4, le contesta citando Deuteronomio 8:3. Allí Dios le dice a Israel:
 
