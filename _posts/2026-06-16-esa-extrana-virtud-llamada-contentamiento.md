@@ -13,7 +13,7 @@ published: true
 
 Vivimos en un mundo de descontento e insatisfacción. En gran parte, esto se debe a la no satisfacción de las necesidades y a las situaciones que nos resultan incomodas. Los creyentes no somos inmunes al descontento; lo encontramos en la Iglesia y en nosotros mismos. Hay una cultura de descontento que se caracteriza por la queja y la crítica.
 
-![](/assets/img/contentamiento.jpg){: .mx-auto.d-block :}
+![contentamiento](/assets/img/contentamiento.jpg){: .mx-auto.d-block :}
 
 El apóstol Pablo, más que cualquiera, tenía razones para estar descontento cuando les escribió a los filipenses. Él estaba en la cárcel, no por un crimen o un delito, sino por la causa de Cristo.
 
