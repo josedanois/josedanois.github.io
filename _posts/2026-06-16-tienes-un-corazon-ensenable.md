@@ -21,8 +21,7 @@ El punto no es que Apolos estuviera lejos de Dios, sino que necesitaba crecer. Y
 
 Muchas veces podemos parecer maduros por fuera: conocemos versículos, servimos en la iglesia, hablamos con seguridad. Pero, como Apolos, puede haber áreas donde nuestra comprensión todavía necesita ser ajustada. Y lo que creemos moldea profundamente lo que somos.
 
-La Escritura afirma:  
-“Porque cual es su pensamiento en su corazón, tal es él.” (Proverbios 23:7)
+La Escritura afirma: “Porque cual es su pensamiento en su corazón, tal es él.” (Proverbios 23:7)
 
 Nuestra manera de pensar define nuestras decisiones, nuestras actitudes y nuestra forma de vivir la fe. Si nuestro entendimiento es parcial o está mezclado con tradiciones, experiencias personales o ideas no examinadas, eso impactará nuestro caminar con Dios.
 
