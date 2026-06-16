@@ -9,7 +9,7 @@ tags: [Biblia]
 author: José Danois
 published: true
 ---
-![](/assets/img/Juan316.jpg)
+![Juan316](/assets/img/Juan316.jpg)
 > Ustedes estudian las Escrituras a fondo porque piensan que ellas les dan vida eterna. ¡Pero las Escrituras me señalan a mí! Sin embargo, ustedes se niegan a venir a mí para recibir esa vida. Juan 5:39–40 NTV
 
 **¿Qué es la Biblia?**
