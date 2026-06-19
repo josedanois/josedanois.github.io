@@ -1218,3 +1218,27 @@ pre {
   }
 }
 
+
+/* Limita el ancho del texto del artículo para una lectura óptima */
+.post-container, .container-md, .container {
+    max-width: 740px !important; /* Ancho ideal tipo editorial/blog limpio */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 100%;
+}
+
+/* Opcional: Ajustar el tamaño y espaciado de fuente para mejorar la experiencia de lectura */
+.post-container p {
+    font-size: 1.15rem;
+    line-height: 1.75;
+    color: #292929; /* Un tono oscuro pero suave para que no canse la vista */
+    margin-bottom: 1.5rem;
+}
+
+/* Asegura que las imágenes dentro del texto no se desborden y se adapten al contenedor */
+.post-container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 2rem auto;
+}
