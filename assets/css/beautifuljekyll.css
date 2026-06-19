@@ -1205,7 +1205,7 @@ pre {
   .page-content,
   .wrapper,
   .container {
-    max-width: 740px !important; /* o el valor que quieras */
+    max-width: 850px !important; /* o el valor que quieras */
     margin-left: auto !important;
     margin-right: auto !important;
     padding-left: 0 !important;
