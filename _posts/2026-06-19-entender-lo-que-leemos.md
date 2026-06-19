@@ -35,6 +35,6 @@ Tiene que haber un conocimiento de las cosas divinas, tal y como son reveladas, 
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
 
-
+---
 
 [^1]: Spurgeon, C. H. (2009). Cómo leer la Biblia (J. M. Berrocal, Trad.; Tercera edición, pp. 7-10). Editorial Peregrino.
