@@ -1219,21 +1219,22 @@ pre {
 }
 
 
-/* Limita el ancho del texto del artículo para una lectura óptima */
-.post-container, .container-md, .container {
-    max-width: 1300px !important; /* Ancho ideal tipo editorial/blog limpio */
-    margin-left: auto !important;
-    margin-right: auto !important;
-    width: 100%;
+/* Este código solo se activará en pantallas medianas y grandes (Desktop/Tablets horizontales) */
+@media (min-width: 992px) {
+    .post-container, .container-md, .container {
+        max-width: 1300px !important; /* Ancho limpio estilo artículo */
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .post-container p {
+        font-size: 1.15rem;
+        line-height: 1.75;
+        color: #292929;
+        margin-bottom: 1.5rem;
+    }
 }
 
-/* Opcional: Ajustar el tamaño y espaciado de fuente para mejorar la experiencia de lectura */
-.post-container p {
-    font-size: 1.15rem;
-    line-height: 1.75;
-    color: #292929; /* Un tono oscuro pero suave para que no canse la vista */
-    margin-bottom: 1.5rem;
-}
 
 /* Asegura que las imágenes dentro del texto no se desborden y se adapten al contenedor */
 .post-container img {
