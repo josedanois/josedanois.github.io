@@ -1194,7 +1194,7 @@ pre {
   .page-content,
   .wrapper,
   .container {
-    max-width: 700px !important;   /* Igual que Vivaldi */
+    max-width: 800px !important;   /* Igual que Vivaldi */
     margin-left: auto !important;
     margin-right: auto !important;
     padding-left: 0 !important;
