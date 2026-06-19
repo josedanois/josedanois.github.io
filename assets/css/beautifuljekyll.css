@@ -1190,16 +1190,28 @@ pre {
   /* ============================
      ANCHO DE LECTURA Y MÁRGENES
      ============================ */
-  .post-content,
-  .page-content,
-  .wrapper,
-  .container {
-    max-width: 900px !important;   /* Igual que Vivaldi */
+  /* Anular el grid que fija el ancho */
+  .col-lg-8.col-lg-offset-2 {
+    width: 100% !important;
+    max-width: none !important;
     margin-left: auto !important;
     margin-right: auto !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
+
+  /* Ahora sí: aplicar tu ancho real */
+  .post-content,
+  .page-content,
+  .wrapper,
+  .container {
+    max-width: 740px !important; /* o el valor que quieras */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
 
   /* ============================
      ESPACIADO VERTICAL
