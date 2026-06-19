@@ -1242,3 +1242,29 @@ pre {
     letter-spacing: -0.2px;
   }
 }
+
+@media screen and (min-width: 768px) {
+
+  /* 1. Anular el ancho impuesto por el tema */
+  .container {
+    max-width: none !important;
+    width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  /* 2. Asegurar que wrapper no bloquee */
+  .wrapper {
+    max-width: none !important;
+    width: 100% !important;
+  }
+
+  /* 3. Aplicar el ancho REAL del contenido */
+  .post-content {
+    max-width: 760px !important; /* Ajusta aquí */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
