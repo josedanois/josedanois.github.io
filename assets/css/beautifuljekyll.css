@@ -1221,7 +1221,7 @@ pre {
 
 /* Limita el ancho del texto del artículo para una lectura óptima */
 .post-container, .container-md, .container {
-    max-width: 740px !important; /* Ancho ideal tipo editorial/blog limpio */
+    max-width: 900px !important; /* Ancho ideal tipo editorial/blog limpio */
     margin-left: auto !important;
     margin-right: auto !important;
     width: 100%;
