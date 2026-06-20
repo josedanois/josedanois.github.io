@@ -16,7 +16,7 @@ Este espacio está dedicado a la reflexión bíblica y teológica en diálogo co
 
 Si quieres unirte a la conversación te invito a dejar tus comentarios en los artículos.
 
-No olvides [suscribirte](https://follow.it/caminando-en-la-fe?leanpub) para que cada nueva publicacion de este blog en tu bandeja de correo. 
+No olvides [suscribirte](https://follow.it/caminando-en-la-fe?leanpub) para que recibas cada nueva publicacion de este blog en tu bandeja de correo. 
 
 ### Contacto
 
