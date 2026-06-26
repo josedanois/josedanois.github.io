@@ -20,7 +20,7 @@ No olvides [suscribirte](https://follow.it/caminando-en-la-fe?leanpub) para que 
 
 ### Contacto
 
-[E-Mail ✉️](mailto:jdanonline@gmail.com)
+- [E-Mail ✉️](mailto:jdanonline@gmail.com)
 
 ### Otros Enlaces
 - [YouTube](https://www.youtube.com/@jdanois)
