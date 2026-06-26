@@ -20,7 +20,12 @@ No olvides [suscribirte](https://follow.it/caminando-en-la-fe?leanpub) para que 
 
 ### Contacto
 
-[E-Mail ✉️](mailto:jdan@vivaldi.net)
+[E-Mail ✉️](mailto:jdanonline@gmail.com)
 
-[Micro Blog](https://hubzilla.monster/channel/josedanois)
+### Otros Enlaces
+- [YouTube](https://www.youtube.com/@jdanois)
+- [Facebook](https://www.facebook.com/leondejudahumacao)
+- [Predicaciones](https://www.youtube.com/@leondejudahumacao)
+- [Grupo de Estudio Bíblico](https://www.facebook.com/share/g/18qP5cfuXp/)
+- [Micro Blog](https://hubzilla.monster/channel/josedanois)
 
