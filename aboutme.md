@@ -2,6 +2,7 @@
 layout: page
 title: Acerca de
 subtitle: Caminando en la Fe
+cover-img: /assets/img/walking.jpg
 ---
 
 ![bio-photo]({{ "assets/img/biophoto3.png" | relative_url }})
