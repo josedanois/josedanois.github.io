@@ -9,7 +9,7 @@ tags: [Adoración,Enseñanza,Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![adoración](/assets/img/adoracion.png){: .mx-auto.d-block :}
+![adoracion](/assets/img/adoracion.png){: .mx-auto.d-block :}
 
 ## **Una conversación que lo cambia todo**
 
