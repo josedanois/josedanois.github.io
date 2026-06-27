@@ -3,13 +3,13 @@ layout: post
 title: En Espíritu y Verdad
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/adoración.png
-share-img: /assets/img/adoración.png
+thumbnail-img: /assets/img/adoracion.png
+share-img: /assets/img/adoracion.png
 tags: [Adoración,Enseñanza,Reflexión Bíblica] 
 author: José Danois
 published: true
 ---
-![adoración](/assets/img/adoración.png)
+![adoración](/assets/img/adoracion.png){: .mx-auto.d-block :}
 
 ## **Una conversación que lo cambia todo**
 
