@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: /assets/img/adoración.png
 share-img: /assets/img/adoración.png
-tags: [Enseñanza,Reflexión Bíblica] 
+tags: [Adoración,Enseñanza,Reflexión Bíblica] 
 author: José Danois
 published: true
 ---
