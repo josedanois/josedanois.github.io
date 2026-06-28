@@ -34,9 +34,7 @@ Gran parte de sus parábolas —el sembrador, el trigo y la cizaña, la red, el 
 Si el Reino es el marco, el amor es su esencia. Jesús lo coloca en el centro de la vida espiritual:
 
 -   **Amar a Dios** con todo el ser.
-    
--   **Amar al prójimo** como a uno mismo.
-    
+-   **Amar al prójimo** como a uno mismo.    
 -   **Amar a los enemigos**, un mandato que rompe la lógica humana y revela la lógica divina.
   
 El amor, para Jesús, no es sentimiento sino entrega, misericordia y compasión activa. No es un ideal abstracto. Es un camino. Una forma de mirar. Una manera de existir. Es la luz que revela el rostro del Padre y la huella que distingue a los hijos del Reino.
@@ -49,10 +47,8 @@ Nos enseña a orar en secreto, a confiar sin ansiedad, a vivir desde la certeza 
 
 Jesús confronta la religiosidad vacía y llama a una espiritualidad sincera:
 
--   **La oración**: íntima, honesta, confiada. El Padre Nuestro resume esta visión.
-    
--   **El ayuno y la limosna**: prácticas que deben nacer del corazón, no de la apariencia.
-    
+-   **La oración**: íntima, honesta, confiada. El Padre Nuestro resume esta visión.    
+-   **El ayuno y la limosna**: prácticas que deben nacer del corazón, no de la apariencia.    
 -   **La confianza en la providencia**: “No se afanen por el mañana”.
    
 La vida espiritual, según Jesús, es relación antes que ritual.
@@ -65,15 +61,11 @@ Las Bienaventuranzas dibujan el retrato del discípulo: humilde, misericordioso,
 
 En el Sermón del Monte, Jesús profundiza en la Ley de Moisés y revela su intención original. No busca solo obediencia externa, sino transformación interna.
 
--   **Bienaventuranzas**: un retrato del carácter del ciudadano del Reino.
-    
--   **Pureza de corazón**: la verdadera pureza nace del interior.
-    
--   **Perdón y reconciliación**: indispensables para vivir en comunión.
-    
+-   **Bienaventuranzas**: un retrato del carácter del ciudadano del Reino.    
+-   **Pureza de corazón**: la verdadera pureza nace del interior.    
+-   **Perdón y reconciliación**: indispensables para vivir en comunión.    
 -   **Justicia superior**: no la de los fariseos, sino la que brota del corazón renovado.
     
-
 ## ⚖️ **5. La Ley y su cumplimiento**
 
 Jesús no vino a abolir la Ley, sino a llevarla a su plenitud. Nos muestra que la letra sin amor se vuelve pesada, pero la Ley iluminada por el Espíritu se convierte en guía hacia la libertad.
@@ -84,15 +76,11 @@ Jesús no vino a abolir la Ley, sino a llevarla a su plenitud. Nos muestra que l
 
 Jesús habla en parábolas porque el Reino no se impone: se revela. Cada historia es una ventana abierta hacia el corazón de Dios.
 
--   El buen samaritano nos enseña a detenernos.
-    
--   El hijo pródigo nos recuerda que siempre hay un camino de regreso.
-    
--   El sembrador nos invita a examinar la tierra del alma.
-    
+-   El buen samaritano nos enseña a detenernos.    
+-   El hijo pródigo nos recuerda que siempre hay un camino de regreso.    
+-   El sembrador nos invita a examinar la tierra del alma.    
 -   Las parábolas de vigilancia nos llaman a vivir despiertos.
     
-
 Las parábolas no se agotan: se meditan, se rumian, se guardan como tesoros.
 
 ## 🌊 **7. Fe y sanidad**
@@ -103,10 +91,8 @@ Sus milagros no son exhibiciones de poder, sino señales del Reino que ya está 
 
 La fe, para Jesús, es confianza radical en Dios. Sus milagros no solo mostraban poder, sino que señalaban la llegada del Reino.
 
--   “Tu fe te ha salvado”.
-    
--   “No temas; cree solamente”.
-    
+-   “Tu fe te ha salvado”.    
+-   “No temas; cree solamente”.    
 -   “Si tuvieran fe como un grano de mostaza…”
     
 La fe abre espacio para la acción de Dios.
@@ -129,12 +115,9 @@ Anuncia su muerte y resurrección como el centro del plan divino y promete al Es
 
 Jesús habló del dinero más de lo que solemos admitir:
 
--   El peligro de servir a las riquezas.
-    
--   La necesidad de generosidad.
-    
--   Tesoros en el cielo.
-    
+-   El peligro de servir a las riquezas.    
+-   La necesidad de generosidad.    
+-   Tesoros en el cielo.    
 -   Parábolas sobre administración fiel.
     
 Para Jesús, el uso del dinero revela el estado del corazón.
@@ -151,10 +134,8 @@ Jesús nos llama a reconciliarnos antes de adorar, porque el amor al prójimo es
 
 El perdón es indispensable en la vida del Reino:
 
--   Perdonar “setenta veces siete”.
-    
--   La parábola del siervo sin misericordia.
-    
+-   Perdonar “setenta veces siete”.    
+-   La parábola del siervo sin misericordia.    
 -   Reconciliarse antes de adorar.
     
 Quien ha sido perdonado, perdona.
@@ -167,10 +148,8 @@ Sus parábolas escatológicas nos recuerdan que la historia tiene un final y que
 
 Jesús habló con claridad del juicio final y de la esperanza eterna:
 
--   Parábolas escatológicas: diez vírgenes, talentos, ovejas y cabritos.
-    
--   Su segunda venida.
-    
+-   Parábolas escatológicas: diez vírgenes, talentos, ovejas y cabritos.    
+-   Su segunda venida.    
 -   La vida eterna como conocimiento de Dios.
     
 El futuro ilumina el presente.
@@ -183,10 +162,8 @@ Y la promesa permanece: _“Yo estaré con ustedes todos los días.”_
 
 Jesús envió a sus discípulos a anunciar el Reino:
 
--   A todas las naciones.
-    
--   Con autoridad espiritual.
-    
+-   A todas las naciones.    
+-   Con autoridad espiritual.    
 -   Con la promesa de su presencia.
     
 La misión continúa hoy.
@@ -195,10 +172,8 @@ La misión continúa hoy.
 
 Si escuchamos atentamente, descubrimos que toda la enseñanza de Jesús se puede resumir en tres movimientos:
 
-1.  **El Reino que llega.**
-    
-2.  **La vida nueva que ese Reino produce.**
-    
+1.  **El Reino que llega.**    
+2.  **La vida nueva que ese Reino produce.**    
 3.  **La respuesta del corazón: fe, arrepentimiento y seguimiento.**
     
 Jesús no vino solo a enseñar, sino a transformar. No vino a informar, sino a invitar. No vino a imponer, sino a llamar por el nombre.
