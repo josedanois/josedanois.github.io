@@ -15,7 +15,7 @@ Incluso, existen libros y cursos sobre Adoración. Todo esto responde al context
 
 ![adoracionmasalla](/assets/img/Adoracionmasalla.png)
 
-No cabe duda que esto ha estimulado la excelencia musical, la integridad de las canciones y una adoración Cristo céntrica. Todo esto está muy bien. De hecho, de alguna manera estamos emulando al salmista David, quien muchos siglos antes llevó la adoración a nuevos niveles en la experiencia cultica. La llevó del ritual a la expresión del corazón por medio de salmos, cánticos y alabanzas. Una expresión de gozo e incluso profética. Él estableció y organizó la adoración como ministerio en lo que se conoció como el Tabernáculo de David, que posteriormente sería el modelo a seguir en el templo de Salomón. David fue un adorador que se preocupó por llevar la adoración a otro nivel.  
+No cabe duda de que esto ha estimulado la excelencia musical, la integridad de las canciones y una adoración Cristo céntrica. Todo esto está muy bien. De hecho, de alguna manera estamos emulando al salmista David, quien muchos siglos antes llevó la adoración a nuevos niveles en la experiencia cultica. La llevó del ritual a la expresión del corazón por medio de salmos, cánticos y alabanzas. Una expresión de gozo e incluso profética. Él estableció y organizó la adoración como ministerio en lo que se conoció como el Tabernáculo de David, que posteriormente sería el modelo a seguir en el templo de Salomón. David fue un adorador que se preocupó por llevar la adoración a otro nivel.  
   
 No obstante, debemos hacernos una pregunta ¿Qué estamos alcanzando hoy en día? Parece que hemos alcanzado el nivel de “profesionales” de la adoración. Nuestros templos parecen salas de conciertos con luces y todo tipo de efecto. Hay todo una “parafernalia” relacionada con la adoración para que nos sintamos bien y estimulados a adorar. ¿Habrá algo malo en eso? Todo depende. Depende de la actitud del que adora, de la actitud del corazón. Porque no es tanto lo externo como lo interno, lo importante. Depende de si nuestra dependencia está en un que (todo lo que es accesorio para la adoración) o un quién (esto es, en nuestro Señor Jesucristo) quien debe ser el centro de nuestra adoración. Si recuerdan a la mujer Samaritana, ella discutía con Jesús por el aspecto externo de la adoración. ¿Dónde se tenía que adorar? Le preocupaba el andamiaje de la adoración. Jesús le dejo muy claro que el asunto fundamental no tenía que ver con lo externo, sino con el corazón.  
   
@@ -65,5 +65,5 @@ Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús, el cual,
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxNTExMTI1XX0=
+eyJoaXN0b3J5IjpbODI1NTUwMDcyLDM4MTUxMTEyNV19
 -->
