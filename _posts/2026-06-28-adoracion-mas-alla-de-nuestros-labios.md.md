@@ -12,7 +12,9 @@ published: true
 Hoy en día nos hemos especializado en la adoración. Nos preocupa como ser mejores adoradores o como llevar una “buena” adoración en el servicio de la Iglesia.  
   
 Incluso, existen libros y cursos sobre Adoración. Todo esto responde al contexto de la experiencia cúltica o congregacional. Es decir, cuando los creyentes se reúnen en sus congregaciones locales o en algún evento para adorar. De ahí el surgimiento de tantos ministerios de adoración en nuestras iglesias con sus respectivas liturgias.  
-  
+
+![adoracionmasalla](/assets/img/Adoracionmasalla.png)
+
 No cabe duda que esto ha estimulado la excelencia musical, la integridad de las canciones y una adoración Cristo céntrica. Todo esto está muy bien. De hecho, de alguna manera estamos emulando al salmista David, quien muchos siglos antes llevó la adoración a nuevos niveles en la experiencia cultica. La llevó del ritual a la expresión del corazón por medio de salmos, cánticos y alabanzas. Una expresión de gozo e incluso profética. Él estableció y organizó la adoración como ministerio en lo que se conoció como el Tabernáculo de David, que posteriormente sería el modelo a seguir en el templo de Salomón. David fue un adorador que se preocupó por llevar la adoración a otro nivel.  
   
 No obstante, debemos hacernos una pregunta ¿Qué estamos alcanzando hoy en día? Parece que hemos alcanzado el nivel de “profesionales” de la adoración. Nuestros templos parecen salas de conciertos con luces y todo tipo de efecto. Hay todo una “parafernalia” relacionada con la adoración para que nos sintamos bien y estimulados a adorar. ¿Habrá algo malo en eso? Todo depende. Depende de la actitud del que adora, de la actitud del corazón. Porque no es tanto lo externo como lo interno, lo importante. Depende de si nuestra dependencia está en un que (todo lo que es accesorio para la adoración) o un quién (esto es, en nuestro Señor Jesucristo) quien debe ser el centro de nuestra adoración. Si recuerdan a la mujer Samaritana, ella discutía con Jesús por el aspecto externo de la adoración. ¿Dónde se tenía que adorar? Le preocupaba el andamiaje de la adoración. Jesús le dejo muy claro que el asunto fundamental no tenía que ver con lo externo, sino con el corazón.  
@@ -60,6 +62,8 @@ Vivir en obediencia significa responder a la vida de Cristo en nosotros. Es una 
 Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús, el cual, siendo en forma de Dios, no estimó el ser igual a Dios como cosa a que aferrarse, sino que se despojó a sí mismo, tomando forma de siervo, hecho semejante a los hombres; y estando en la condición de hombre, se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de cruz. Filipenses 2:5-8
 
 > Pero con Cristo estoy juntamente crucificado, y ya no vivo yo, sino que Cristo vive en mí; y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí. Gálatas 2:2.
+
+**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQwMDE2MDNdfQ==
+eyJoaXN0b3J5IjpbMzgxNTExMTI1XX0=
 -->
