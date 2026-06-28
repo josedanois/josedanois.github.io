@@ -9,11 +9,11 @@ tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![pan-de-vida](/assets/img/pan-de-vida.png)     
-
 El hambre es una de esas realidades que es imposible ignorar. Cuando cuerpo la siente nos inquieta y nos obliga a buscar alimento. Y cuando finalmente comemos, llega la satisfacción… pero solo por un tiempo. Horas después, vuelve.
 
 Así funciona el hambre física.
+
+![pan-de-vida](/assets/img/pan-de-vida.png)     
 
 Sin embargó existe otro tipo de hambre que no se siente en el estómago, sino en el alma. Un vacío interior. Una insatisfacción que no la quita el éxito, el dinero, los logros, ni las relaciones. Podemos estar rodeados de cosas… y aun así sentirnos vacíos.
 
