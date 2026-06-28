@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Olvida las vanidades 
-subtitle: _¡Eres una Nueva Creación!_
+subtitle:  ¡Eres una Nueva Creación!
 cover-img: 
 thumbnail-img: /assets/img/cruz.png
 share-img: /assets/img/cruz.png
@@ -49,5 +49,5 @@ Al aferrarnos a esta verdad, somos liberados de la necesidad de probarnos a noso
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzYyODA0Nl19
+eyJoaXN0b3J5IjpbMTk5NDQ1ODYwNl19
 -->
