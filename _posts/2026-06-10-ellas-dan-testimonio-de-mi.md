@@ -20,13 +20,10 @@ Para nosotros los creyentes, la Biblia es la Palabra autorizada de Dios, inspira
 
 En esta historia hay varios protagonistas.
 
-• Dios, el creador del hombre y de todas las cosas.
-
-• El hombre (el representante de la humanidad) creado por Dios a su imagen y semejanza.
-
-• Satanás, el enemigo de Dios, el que se opone a todo lo que es Dios, a todo lo que es de Dios.
-
-• Jesucristo, el redentor prometido, libertador del hombre, el hijo de Dios.
+- Dios, el creador del hombre y de todas las cosas.
+- El hombre (el representante de la humanidad) creado por Dios a su imagen y semejanza.
+- Satanás, el enemigo de Dios, el que se opone a todo lo que es Dios, a todo lo que es de Dios.
+- Jesucristo, el redentor prometido, libertador del hombre, el hijo de Dios.
 
 La historia comienza cuando Dios crea al mundo y al ser humano. ¿Por qué Dios crea al hombre y a la mujer? La epístola de Efesios nos dice que Dios hace todo conforme al buen propósito de su voluntad, que él hace todas las cosas porque quiere y le da gusto hacerlo.
 
