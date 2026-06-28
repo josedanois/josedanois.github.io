@@ -9,8 +9,6 @@ tags: [Biblia, Extracto]
 author: José Danois
 published: true
 ---
-**Un Dios que habla**
-
 Imagine un mundo en el que Dios guarda silencio y las grandes preguntas de la vida quedan sin respuesta…[^1]
 
 ¿Por qué estamos aquí? ¿Hay algún diseño o significado para este mundo? ¿Tiene mi vida un propósito? ¿Cómo puedo entender un mundo lleno de tanta belleza y al mismo tiempo de tanto horror? ¿Cómo puedo empezar a lidiar con la culpa y la vergüenza de mis fracasos y relaciones rotas? ¿Cómo navego por fuerzas espirituales invisibles para que la vida me vaya bien? Cuando me pasa algo bueno ¿a quién le doy las gracias? Cuando realmente necesito un cambio de fortuna o la liberación de mis problemas, ¿a quién rezo? ¿Qué pasará cuando muera? ¿Hay alguna esperanza para mí después de que mi vida no sea más que un recuerdo lejano?
