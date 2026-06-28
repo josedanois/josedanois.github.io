@@ -1,11 +1,11 @@
 ---
 layout: post
-title: ¿Qué enseñó Jesús? 
-subtitle: El corazón de su mensaje en los evangelios
+title: Olvida las vanidades 
+subtitle: _¡Eres una Nueva Creación!_
 cover-img: 
-thumbnail-img: /assets/img/mensajesdejesus.png
-share-img: /assets/img/mensajesdejesus.png
-tags: [Enseñanza]
+thumbnail-img: /assets/img/cruz.png
+share-img: /assets/img/cruz.png
+tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
@@ -45,5 +45,5 @@ Al aferrarnos a esta verdad, somos liberados de la necesidad de probarnos a noso
 
 Porque nosotros somos la circuncisión, los que en espíritu servimos a Dios y nos gloriamos en Cristo Jesús, no teniendo confianza en la carne. Filipenses 3:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Mzc4MDM4Nl19
+eyJoaXN0b3J5IjpbNzI3MzUwMDk2XX0=
 -->
