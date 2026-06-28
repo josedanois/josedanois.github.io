@@ -9,11 +9,11 @@ tags: [Biblia, Extracto]
 author: José Danois
 published: true
 ---
-![](/assets/img/bibliaycafe.png)
+La Biblia es, ante todo, una historia en la que Dios muestra su gloria a través de la creación y la redención de la humanidad. Tiene sentido, pues, que la Biblia esté concebida para responder a preguntas relacionadas con este tema central.
+
+![bibliaycafe](/assets/img/bibliaycafe.png)
 
 **¿Qué tipo de preguntas pretende responder la Biblia?**[^1]
-
-La Biblia es, ante todo, una historia en la que Dios muestra su gloria a través de la creación y la redención de la humanidad. Tiene sentido, pues, que la Biblia esté concebida para responder a preguntas relacionadas con este tema central.
 
 Jesús confirma este doble enfoque sobre Dios y la humanidad. Cuando le preguntan cuál es el mandamiento más importante, responde: “Amarás al Señor tu Dios con todo tu corazón, con toda tu alma y con toda tu mente” (Mt. 22:37). Pero Jesús no ha terminado. Continúa: “Y la segunda es semejante: Amarás a tu prójimo como a ti mismo” (Mt. 22:39). Ama a Dios. Amar a los demás. Este es el corazón de lo que Dios quiere de su pueblo.
 
