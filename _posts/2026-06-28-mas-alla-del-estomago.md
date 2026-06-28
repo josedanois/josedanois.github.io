@@ -9,7 +9,7 @@ tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-[pan-de-vida](/assets/img/pan-de-vida.png)     
+![pan-de-vida](/assets/img/pan-de-vida.png)     
 
 El hambre es una de esas realidades que es imposible ignorar. Cuando cuerpo la siente nos inquieta y nos obliga a buscar alimento. Y cuando finalmente comemos, llega la satisfacción… pero solo por un tiempo. Horas después, vuelve.
 
