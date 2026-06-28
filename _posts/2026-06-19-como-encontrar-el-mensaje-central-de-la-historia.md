@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cómo encontrar el mensaje central de la historia
-subtitle: Necesitamos las Teología Bíblica
+subtitle: Necesitamos la Teología Bíblica
 cover-img: 
 thumbnail-img: 
 share-img: 
