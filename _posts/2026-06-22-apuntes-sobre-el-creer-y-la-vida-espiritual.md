@@ -9,11 +9,11 @@ tags: [Reflexiónes Espirituales]
 author: José Danois
 published: true
 ---
+Con el paso del tiempo he entendido que el corazón del mensaje no es el esfuerzo humano, sino la gracia divina. Todo lo recibimos. Nada lo compramos. Nada lo merecemos.
+
 ![](/assets/img/vidaespiritual.png)
 
 El evangelio no descansa sobre lo que hacemos, sino sobre en quién creemos.
-
-Con el paso del tiempo he entendido que el corazón del mensaje no es el esfuerzo humano, sino la gracia divina. Todo lo recibimos. Nada lo compramos. Nada lo merecemos.
 
 **Creer es apoyarse en una Persona.**  Es descansar el peso del alma en Aquel que ha hablado. Por eso la Escritura afirma que «sin fe es imposible agradar a Dios» (Hebreos 11:6). No dice “sin obras”, ni “sin disciplinas”, ni “sin sacrificios”.  **Dice sin fe.**
 
