@@ -9,13 +9,12 @@ tags: [Adoración,Enseñanza,Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![adoracion](/assets/img/adoracion.png){: .mx-auto.d-block :}
-
-## **Una conversación que lo cambia todo**
-
 El capítulo 4 de Juan nos relata el conocido encuentro entre Jesús y la mujer samaritana. En medio de ese diálogo surge un tema crucial: la adoración. La mujer le habla a Jesús sobre el lugar correcto para adorar, pero Él le responde con una verdad que marcaría un antes y un después:
 
 Ya no se trataría de un monte ni de un templo físico. La hora había llegado para una adoración más profunda: __“en espíritu y en verdad”__.
+
+![adoracion](/assets/img/adoracion.png){: .mx-auto.d-block :}
+
 
 ## **¿Qué significa adorar en espíritu y en verdad?**
 
