@@ -9,12 +9,9 @@ tags: [Comunicación]
 author: José Danois
 published: true
 ---
-![poderdelalengua](/assets/img/poderdelalengua.png)
-
-
-## El poder de lo que decimos
-
 En un mundo lleno de comunicación instantánea, es fácil olvidar el inmenso poder que tienen las palabras. Cada mensaje de texto, cada comentario en redes sociales, cada conversación cara a cara, lleva consigo una fuerza capaz de construir o de destruir.
+
+![poderdelalengua](/assets/img/poderdelalengua.png)
 
 En **Proverbios 18:21** encontramos una declaración que, si la pensamos bien, es muy seria:
 
