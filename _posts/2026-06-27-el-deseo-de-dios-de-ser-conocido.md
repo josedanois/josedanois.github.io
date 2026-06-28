@@ -9,9 +9,9 @@ tags: [Enseñanza, Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![](/assets/img/atributos1.png)
-
 ¿Alguna vez te has detenido a pensar en lo que Dios realmente desea de ti? Muchas veces pensamos en lo que nosotros queremos de Dios —su ayuda, su bendición, su dirección— pero pocas veces reflexionamos en lo que **Él** desea de nosotros. Y la respuesta es sorprendente: **Dios quiere que lo conozcamos**.
+
+![](/assets/img/atributos1.png)
 
 No se trata de un conocimiento superficial, de saber de Él “de oídas” o simplemente reconocerlo en el momento de la salvación. Se trata de un **caminar continuo**, una relación profunda en la que lo vamos descubriendo cada día como Dios, pero también como Padre.
 
