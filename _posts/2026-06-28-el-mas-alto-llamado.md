@@ -9,9 +9,9 @@ tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-![jeremias](/assets/img/jeremias.png)
-
 > __Hay pasajes en la Biblia que nos sacuden el corazón porque parecen hablarnos de manera personal, como si hubieran sido escritos pensando en nosotros. Jeremías 1:5-7 es uno de esos textos.__
+
+![jeremias](/assets/img/jeremias.png)
 
 Aquí encontramos el relato de cómo Dios llama al profeta Jeremías. Un joven inseguro, consciente de sus limitaciones, pero escogido desde antes de nacer para una misión que lo superaba por completo. Y lo más sorprendente es que lo que Dios le dijo a Jeremías también tiene mucho que decirnos hoy.
 
