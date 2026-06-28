@@ -3,8 +3,8 @@ layout: post
 title: Adoración más allá de nuestros labios 
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/
-share-img: /assets/img/
+thumbnail-img: /assets/img/Adoracionmasalla.png
+share-img: /assets/img/Adoracionmasalla.png
 tags: [Reflexión Bíblica]
 author: José Danois
 published: true
@@ -61,5 +61,5 @@ Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús, el cual,
 
 > Pero con Cristo estoy juntamente crucificado, y ya no vivo yo, sino que Cristo vive en mí; y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí. Gálatas 2:2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc2MDA2N119
+eyJoaXN0b3J5IjpbLTE5MDQwMDE2MDNdfQ==
 -->
