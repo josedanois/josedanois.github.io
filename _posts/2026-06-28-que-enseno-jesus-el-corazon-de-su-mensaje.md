@@ -172,9 +172,9 @@ La misión continúa hoy.
 
 Si escuchamos atentamente, descubrimos que toda la enseñanza de Jesús se puede resumir en tres movimientos:
 
-1.  **El Reino que llega.**    
-2.  **La vida nueva que ese Reino produce.**    
-3.  **La respuesta del corazón: fe, arrepentimiento y seguimiento.**
+1.  El Reino que llega.    
+2.  La vida nueva que ese Reino produce.    
+3.  La respuesta del corazón: fe, arrepentimiento y seguimiento.
     
 Jesús no vino solo a enseñar, sino a transformar. No vino a informar, sino a invitar. No vino a imponer, sino a llamar por el nombre.
 
