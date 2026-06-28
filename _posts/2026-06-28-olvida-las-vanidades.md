@@ -13,6 +13,8 @@ _¡Eres una Nueva Creación!_
 
 > _En cuanto a mí, jamás se me ocurra jactarme de otra cosa, si no de la cruz de nuestro Señor Jesucristo, por quien el mundo ha sido crucificado para mí, y yo para el mundo. Para nada cuenta estar o no estar circuncidados; lo que importa es ser parte de una nueva creación. Gálatas 6:14-15_
 
+![cruz](/assets/img/cruz.png)
+
 ¿Te has sentido alguna vez como si no fueras suficiente? ¿Como si tuvieras que hacer más, ser más, para alcanzar la aceptación de Dios? Es una trampa en la que muchos caemos, incluso aquellos que ya conocemos a Cristo.
 
 El apóstol Pablo se enfrentó a este mismo problema en la iglesia de Galacia. Los creyentes estaban siendo confundidos por falsas enseñanzas que decían que debían seguir la ley judía para ser verdaderamente salvos.
@@ -45,5 +47,5 @@ Al aferrarnos a esta verdad, somos liberados de la necesidad de probarnos a noso
 
 Porque nosotros somos la circuncisión, los que en espíritu servimos a Dios y nos gloriamos en Cristo Jesús, no teniendo confianza en la carne. Filipenses 3:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MzUwMDk2XX0=
+eyJoaXN0b3J5IjpbMTUzMzMxODM4Ml19
 -->
