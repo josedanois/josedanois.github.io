@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Más allá de la imposibilidad
+title:  Conocidos por Dios
 subtitle: 
 cover-img: 
 thumbnail-img: /assets/img/conocido.png
@@ -35,5 +35,5 @@ En las palabras de John Piper: “Más profundo que conocer a Dios es ser conoci
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzcyNzkyNl19
+eyJoaXN0b3J5IjpbLTE2NjIyMjMzMDQsMjEzMzcyNzkyNl19
 -->
