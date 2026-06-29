@@ -9,31 +9,29 @@ tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-> Y he aquí tu parienta Elisabet, ella también ha concebido hijo en su vejez; y este es el sexto mes para ella, la que llamaban estéril; porque nada hay imposible para Dios. Entonces María dijo: He aquí la sierva del Señor; hágase conmigo conforme a tu palabra. Y el ángel se fue de su presencia. Lucas 1:38-38
+> Ahora conozco en parte; pero entonces conoceré como fui conocido. 1 Corintios 13:12
 
-![nohaynadaimposible](/assets/img/nohaynadaimposible.png)
+Es natural que el ser humano anhele ser conocido, comprendido y amado de una manera profunda e incondicional. Sin embargo, a menudo buscamos esta seguridad en lugares equivocados: en las opiniones de los demás, en nuestros logros o posesiones, incluso en la imagen idealizada que proyectamos al mundo. Pero la verdadera paz y seguridad provienen de un lugar mucho más profundo y duradero: ser conocidos por Dios.  
 
-En la vida, nos topamos con situaciones que parecen imposibles, obstáculos que nos hacen dudar y nos llenan de desánimo. En esos momentos de oscuridad, nos preguntamos si nuestras oraciones llegan a algún lugar, si nuestros sueños se desvanecen en el aire, si la luz al final del túnel es solo una ilusión. No obstante, en lo más profundo de nuestro ser, reside la certeza de que Dios tiene un plan para cada uno de nosotros. Un plan perfecto y preciso que se despliega en el momento justo.
+Las Escrituras nos revelan una verdad asombrosa: Dios nos conoce íntimamente, incluso más de lo que nos conocemos a nosotros mismos. En Jeremías 1:5, Dios declara: “Antes que te formase en el vientre te conocí, y antes que nacieses te santifiqué, te di por profeta a las naciones.” Este conocimiento previo a nuestra existencia nos muestra que Su amor no es una reacción a nuestras acciones o nuestro valor percibido, sino una decisión eterna y soberana.
 
-La historia de Zacarías e Elisabet registrada en el capitulo 1 de el evangelio de Lucas es un faro que ilumina esta verdad: para Dios no hay imposibles. Zacarías, un hombre de profunda fe, y su esposa Elisabet, anhelaban con todas sus fuerzas tener un hijo. Sin embargo, la esterilidad de Elisabet convertía este sueño en algo aparentemente inalcanzable. Pero Dios, con su amor infinito, escuchó sus oraciones y el ángel Gabriel anunció a Zacarías que Elisabet concebiría y daría a luz a un hijo, Juan el Bautista.
+Esta verdad se profundiza aún más en el Salmo 139, donde el salmista describe la omnisciencia de Dios con asombro y reverencia. “Señor, tú me has examinado y conocido… Has escudriñado mi andar y mi reposo, y todos mis caminos te son conocidos” (Salmo 139:1, 3). Dios conoce nuestros pensamientos más íntimos, nuestras motivaciones ocultas y nuestras emociones más profundas. Nada de nuestra experiencia humana le es ajena.
 
-Ante esta noticia asombrosa, Zacarías, a pesar de su devoción, dudó. La incredulidad, incluso en aquellos que se consideran cercanos a Dios, puede nublar nuestra percepción y hacernos olvidar el poder ilimitado del Señor. El ángel Gabriel, ante la vacilación de Zacarías, le recordó que Dios no tiene límites. Zacarías, por su falta de fe, quedo mudo hasta el nacimiento de Juan. Esta historia nos recuerda que la fe, incluso en medio de la tormenta, es la brújula que nos guía hacia el cumplimiento de las promesas divinas.
+Lejos de ser una idea intimidante, este conocimiento perfecto es la fuente de un consuelo y una seguridad inigualables. Como un padre amoroso que se deleita en conocer a su hijo en cada etapa de su desarrollo, Dios se regocija porque nos conoce completamente. Él atesora cada detalle de nuestra existencia, desde los cabellos de nuestra cabeza hasta los anhelos más profundos de nuestro corazón.
 
-En contraste, la historia de María nos muestra la belleza de la humildad y la obediencia. La virgen María, una joven humilde, fue elegida por Dios para ser la madre de Jesús, un acontecimiento que transformaría la historia de la humanidad. Ante esta noticia que cambiaría su vida para siempre, María no cuestionó la voluntad de Dios. Aceptó su papel con fe y sumisión, declarando: “He aquí la sierva del Señor; hágase conmigo conforme a tu palabra”.
+En un mundo donde a menudo nos sentimos incomprendidos, juzgados o incluso ignorados, la mirada amorosa de Dios nos ofrece un refugio seguro. En Su presencia, no tenemos que fingir, escondernos o luchar por ser aceptados. Él nos ve en nuestra totalidad, con nuestras virtudes y defectos, y nos ama incondicionalmente.
 
-María, a diferencia de Zacarías, demostró una fe inquebrantable y una disposición absoluta a someterse a la voluntad divina. Dios, en su infinita gracia, la escogió no por sus méritos o capacidades, sino por su corazón puro y dispuesto. La historia de María nos enseña que, cuando nos alineamos con la voluntad de Dios y le entregamos las riendas de nuestras vidas, Él puede obrar maravillas a través de nosotros, incluso en las circunstancias más desafiantes.
+Este amor incondicional es la base de la confianza inquebrantable que podemos tener en Él. Sabiendo que Dios conoce nuestras debilidades y fracasos pasados, presentes y futuros, podemos acercarnos a Él sin temor al rechazo o la condena. Su gracia es suficiente para cubrir todas nuestras faltas, y Su misericordia se renueva cada mañana.
 
-Dios tiene el poder de transformar lo imposible en posible. Sus acciones no se limitan a nuestras expectativas o a nuestra lógica humana. Él puede crear vida donde solo hay aridez, abrir caminos en medio del desierto y sembrar esperanza donde reina la desesperación.
+Más aún, el conocimiento perfecto de Dios se extiende a nuestro futuro. Él no solo conoce cada día de nuestra vida antes de que amanezca, sino que también tiene un plan perfecto para nosotros, un plan que se desarrolla a través de todas nuestras circunstancias, incluso las más difíciles. Como dice el apóstol Pablo: “Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados” (Romanos 8:28).
 
-Existe un “tiempo de cumplimiento” para cada promesa de Dios. Él no se rige por nuestro reloj, sino que se mueve en su plan perfecto. La espera puede ser larga y llena de incertidumbre, pero nunca debemos olvidar que Dios es fiel a su palabra y que su tiempo es siempre el adecuado.
+En un mundo lleno de incertidumbre y cambio constante, la certeza del amor y el plan de Dios nos proporciona una paz que sobrepasa todo entendimiento. Podemos descansar en Su sabiduría y bondad, confiando en que Él obrará todas las cosas para nuestro bien, incluso cuando no podamos ver el panorama completo.
 
-Debemos mantener la fe y la esperanza, incluso cuando las circunstancias parezcan contradecir las promesas de Dios. Recordemos que Él está obrando en nuestras vidas, aunque a veces no podamos percibirlo con nuestros sentidos.
+Vivir bajo la mirada amorosa de Dios es una invitación a la libertad y la autenticidad. No tenemos que esforzarnos por ser alguien que no somos o vivir con el temor constante al juicio. Podemos despojarnos de nuestras máscaras y acercarnos a Él con confianza, sabiendo que somos aceptados, amados y valorados tal como somos.
 
-Al igual que María, debemos aprender a decir “sí” a la voluntad de Dios, confiando en que Él tiene un plan perfecto para cada uno de nosotros. Aunque el camino sea difícil, recordemos que la visión se materializará en el momento preciso. Habacuc 2:3
-
-No importa cuán imposibles parezcan nuestras circunstancias, Dios tiene el poder de hacer milagros en nuestras vidas. Solo necesitamos alimentar la llama de la fe, confiar en su tiempo perfecto y permitir que su voluntad se cumpla en nosotros.
+En las palabras de John Piper: “Más profundo que conocer a Dios es ser conocido por Dios. Lo que nos define como cristianos no es que tan profundamente lo hayamos conocido, sino que él nos haya tomado en cuenta a nosotros y nos haya hecho suyos.” Que esta verdad transforme nuestra manera de vivir, permitiéndonos descansar en la paz y la seguridad de ser conocidos y amados por un Dios que nos conoce mejor que nosotros mismos.
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDU0MTY0Ml19
+eyJoaXN0b3J5IjpbLTEwMDAxMjkyNl19
 -->
