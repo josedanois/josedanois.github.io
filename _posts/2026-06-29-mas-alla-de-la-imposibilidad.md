@@ -33,8 +33,10 @@ Al igual que María, debemos aprender a decir “sí” a la voluntad de Dios, c
 
 No importa cuán imposibles parezcan nuestras circunstancias, Dios tiene el poder de hacer milagros en nuestras vidas. Solo necesitamos alimentar la llama de la fe, confiar en su tiempo perfecto y permitir que su voluntad se cumpla en nosotros.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Dj8gGf7-FVI?si=3krCs2_p8Ng5j-Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTM4MTQ5Nl19
+eyJoaXN0b3J5IjpbNjA0MDI5MzYsMjA1MTM4MTQ5Nl19
 -->
