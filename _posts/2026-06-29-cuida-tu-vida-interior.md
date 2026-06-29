@@ -3,15 +3,19 @@ layout: post
 title:  
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/
-share-img: /assets/img/
+thumbnail-img: /assets/img/vidainterior.png
+share-img: /assets/img/vidainterior.png
 tags: []
 author: José Danois
 published: true
 ---
+En un mundo que constantemente nos bombardea con la necesidad de una imagen perfecta, es fácil caer en la trampa de enfocarnos exclusivamente en lo externo. Nos preocupamos por tener la ropa adecuada, el coche más moderno y las fotos más envidiables en las redes sociales. Pero, ¿qué pasa con nuestro interior? ¿Estamos dedicando el mismo esfuerzo a cultivar nuestra vida interior?
+
+![vidainterior](/assets/img/vidainterior.png)
+
 > “Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida” Proverbios 4:23
 
-En un mundo que constantemente nos bombardea con la necesidad de una imagen perfecta, es fácil caer en la trampa de enfocarnos exclusivamente en lo externo. Nos preocupamos por tener la ropa adecuada, el coche más moderno y las fotos más envidiables en las redes sociales. Pero, ¿qué pasa con nuestro interior? ¿Estamos dedicando el mismo esfuerzo a cultivar nuestra vida interior?
+
 
 La realidad es que **la apariencia puede ser superficial**. Podemos aparentar ser felices, exitosos y tranquilos por fuera, pero por dentro podríamos estar sufriendo, sintiéndonos vacíos o perdidos. Es como una casa recién pintada, con una fachada impecable, pero con las tuberías rotas y los cimientos débiles.
 
@@ -91,5 +95,6 @@ No olvides que la verdadera vida, la vida abundante que Dios tiene para ti, comi
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTgwNTM4MTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMTMxNjg3NzgsLTE2OTgwNTM4MTJdfQ
+==
 -->
