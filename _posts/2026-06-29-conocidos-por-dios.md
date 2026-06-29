@@ -3,8 +3,8 @@ layout: post
 title:  Conocidos por Dios
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/vidainterior.png
-share-img: /assets/img/vidainterior.png
+thumbnail-img: /assets/img/conocido.png
+share-img: /assets/img/conocido.png
 tags: [Reflexión Bíblica]
 author: José Danois
 published: true
@@ -35,6 +35,6 @@ En las palabras de John Piper: “Más profundo que conocer a Dios es ser conoci
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1ODE1MTYwLC0xNjYyMjIzMzA0LDIxMz
-M3Mjc5MjZdfQ==
+eyJoaXN0b3J5IjpbLTE2NjIyMjMzMDQsLTE2NjIyMjMzMDQsMj
+EzMzcyNzkyNl19
 -->
