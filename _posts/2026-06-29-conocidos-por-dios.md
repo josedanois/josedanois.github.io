@@ -9,9 +9,12 @@ tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-> Ahora conozco en parte; pero entonces conoceré como fui conocido. 1 Corintios 13:12
+
 
 Es natural que el ser humano anhele ser conocido, comprendido y amado de una manera profunda e incondicional. Sin embargo, a menudo buscamos esta seguridad en lugares equivocados: en las opiniones de los demás, en nuestros logros o posesiones, incluso en la imagen idealizada que proyectamos al mundo. Pero la verdadera paz y seguridad provienen de un lugar mucho más profundo y duradero: ser conocidos por Dios.  
+
+
+> Ahora conozco en parte; pero entonces conoceré como fui conocido. 1 Corintios 13:12
 
 Las Escrituras nos revelan una verdad asombrosa: Dios nos conoce íntimamente, incluso más de lo que nos conocemos a nosotros mismos. En Jeremías 1:5, Dios declara: “Antes que te formase en el vientre te conocí, y antes que nacieses te santifiqué, te di por profeta a las naciones.” Este conocimiento previo a nuestra existencia nos muestra que Su amor no es una reacción a nuestras acciones o nuestro valor percibido, sino una decisión eterna y soberana.
 
@@ -33,5 +36,5 @@ En las palabras de John Piper: “Más profundo que conocer a Dios es ser conoci
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDAxMjkyNl19
+eyJoaXN0b3J5IjpbOTgwNjA3MzE0XX0=
 -->
