@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  
+title:  Cuida tu Vida Interior
 subtitle: 
 cover-img: 
 thumbnail-img: /assets/img/vidainterior.png
@@ -14,8 +14,6 @@ En un mundo que constantemente nos bombardea con la necesidad de una imagen perf
 ![vidainterior](/assets/img/vidainterior.png)
 
 > “Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida” Proverbios 4:23
-
-
 
 La realidad es que **la apariencia puede ser superficial**. Podemos aparentar ser felices, exitosos y tranquilos por fuera, pero por dentro podríamos estar sufriendo, sintiéndonos vacíos o perdidos. Es como una casa recién pintada, con una fachada impecable, pero con las tuberías rotas y los cimientos débiles.
 
@@ -95,6 +93,5 @@ No olvides que la verdadera vida, la vida abundante que Dios tiene para ti, comi
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTMxNjg3NzgsLTE2OTgwNTM4MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTE5NTY2Mzg0MSwtMTY5ODA1MzgxMl19
 -->
