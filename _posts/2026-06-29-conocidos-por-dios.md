@@ -9,7 +9,7 @@ tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
-Es natural que el ser humano anhele ser conocido, comprendido y amado de una manera profunda e incondicional. Sin embargo, a menudo buscamos esta seguridad en lugares equivocados: en las opiniones de los demás, en nuestros logros o posesiones, incluso en la imagen idealizada que proyectamos al mundo. Pero la verdadera paz y seguridad provienen de un lugar mucho más profundo y duradero: ser conocidos por Dios.  
+Es natural que el ser humano anhele ser conocido, comprendido y amado de una manera profunda e incondicional. Sin embargo, a menudo buscamos esta seguridad en lugares equivocados: en las opiniones de los demás, en nuestros logros o posesiones, incluso en la imagen idealizada que proyectamos al mundo. Pero la verdadera paz y seguridad provienen de un lugar mucho más profundo y duradero: **ser conocidos por Dios.**  
 
 ![conocido](/assets/img/conocido.png)
 
@@ -35,5 +35,5 @@ En las palabras de John Piper: “Más profundo que conocer a Dios es ser conoci
 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTMzNTExMTRdfQ==
+eyJoaXN0b3J5IjpbLTEzMjc2ODczMDZdfQ==
 -->
