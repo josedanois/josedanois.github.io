@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  ### Más allá de la imposibilidad
+title:  Más allá de la imposibilidad
 subtitle: 
 cover-img: 
 thumbnail-img: /assets/img/
 share-img: /assets/img/
-tags: []
+tags: [Reflexión Bíblica]
 author: José Danois
 published: true
 ---
 > Y he aquí tu parienta Elisabet, ella también ha concebido hijo en su vejez; y este es el sexto mes para ella, la que llamaban estéril; porque nada hay imposible para Dios. Entonces María dijo: He aquí la sierva del Señor; hágase conmigo conforme a tu palabra. Y el ángel se fue de su presencia. Lucas 1:38-38
+
+
 
 En la vida, nos topamos con situaciones que parecen imposibles, obstáculos que nos hacen dudar y nos llenan de desánimo. En esos momentos de oscuridad, nos preguntamos si nuestras oraciones llegan a algún lugar, si nuestros sueños se desvanecen en el aire, si la luz al final del túnel es solo una ilusión. No obstante, en lo más profundo de nuestro ser, reside la certeza de que Dios tiene un plan para cada uno de nosotros. Un plan perfecto y preciso que se despliega en el momento justo.
 
@@ -31,5 +33,5 @@ Al igual que María, debemos aprender a decir “sí” a la voluntad de Dios, c
 
 No importa cuán imposibles parezcan nuestras circunstancias, Dios tiene el poder de hacer milagros en nuestras vidas. Solo necesitamos alimentar la llama de la fe, confiar en su tiempo perfecto y permitir que su voluntad se cumpla en nosotros.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjAyMzUzXX0=
+eyJoaXN0b3J5IjpbMjk5OTE0NTc4XX0=
 -->
