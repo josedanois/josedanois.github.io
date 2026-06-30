@@ -1243,3 +1243,10 @@ pre {
     display: block;
     margin: 2rem auto;
 }
+
+body, 
+h1, h2, h3, h4, h5, h6,
+p, li, blockquote,
+.navbar, .footer {
+    font-family: Verdana, Geneva, sans-serif !important;
+}
