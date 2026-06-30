@@ -3,9 +3,9 @@ layout: post
 title:  Gracia que nos levanta
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/
-share-img: /assets/img/
-tags: []
+thumbnail-img: /assets/img/gracia.png
+share-img: /assets/img/gracia.png
+tags: [Gracia]
 author: José Danois
 published: true
 ---
@@ -14,6 +14,8 @@ published: true
 En 2 Samuel 9:1-11 se nos presenta un hermoso relato acerca de la misericordia y la gracia.
 
 El rey David, al asumir el trono, quiso honrar una promesa hecha a su amigo Jonatán, quien ya había fallecido. Años atrás, Saúl, padre de Jonatán, persiguió implacablemente a David con la intención de matarlo. Dios había quitado el reinado a Saúl y escogido a David como su sucesor, lo que significaba que ningún hijo de Saúl ocuparía el trono.
+
+![enter image description here](/assets/img/gracia.png)
 
 A pesar de esta situación, David y Jonatán mantenían una amistad verdadera. Jonatán comprendió que David era el ungido de Dios para reinar, no él. Aunque Jonatán tenía el derecho por linaje, David lo tenía por la gracia divina.
 
@@ -59,5 +61,5 @@ La gracia divina superó nuestro pecado, nos hizo hijos y nos sentó a la mesa. 
 **¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1NTAxNDc1XX0=
+eyJoaXN0b3J5IjpbMTU5NzAyOTMwNl19
 -->
