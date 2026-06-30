@@ -1152,3 +1152,35 @@ p, li, blockquote,
     line-height: 1.65;     /* respiración editorial */
 }
 
+.post-content p {
+    margin-bottom: 1.3em;  /* igual que Silvrback */
+}
+
+.post-content > * {
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+}
+
+.post-content h1 {
+    font-size: 30px;
+    line-height: 1.25;
+    font-weight: 600;
+    margin-top: 1.4em;
+    margin-bottom: 0.6em;
+}
+
+.post-content h2 {
+    font-size: 26px;
+    line-height: 1.3;
+    font-weight: 600;
+    margin-top: 1.4em;
+    margin-bottom: 0.5em;
+}
+
+.post-content h3 {
+    font-size: 22px;
+    line-height: 1.35;
+    font-weight: 600;
+    margin-top: 1.3em;
+    margin-bottom: 0.4em;
+}
