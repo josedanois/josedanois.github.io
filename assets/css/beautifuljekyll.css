@@ -1136,19 +1136,10 @@ pre {
     margin: 2rem auto;
 }
 
-.page__content blockquote {
-    background: #f9f9f9;
-    border-left: 10px solid #ccc;
-    margin: 1.5em 0;
-    padding: 0.5em 15px;
-    quotes: "“" "”";
-}
 
-.page__content blockquote:before {
-    content: open-quote;
+.page__content .blog-post blockquote {
+    background: #f9f9f9 !important;
+    border-left: 10px solid #ccc !important;
+    margin: 1.5em 0 !important;
+    padding: 0.5em 15px !important;
 }
-
-.page__content blockquote:after {
-    content: close-quote;
-}
-
