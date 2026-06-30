@@ -1211,7 +1211,8 @@ pre {
   .navbar-nav > li > a,
   .navbar-brand,
   .navbar .nav > li > a {
-    font-family: verdana;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+                 Roboto, Helvetica, Arial, sans-serif !important;
     font-weight: 600 !important; /* Cambiado de 800 a 600 */
     letter-spacing: -0.2px;
   }
