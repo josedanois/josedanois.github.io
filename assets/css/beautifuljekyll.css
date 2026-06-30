@@ -1141,4 +1141,14 @@ h1, h2, h3, h4, h5, h6,
 p, li, blockquote,
 .navbar, .footer {
     font-family: Verdana, Geneva, sans-serif !important;
+    background: #fff;
+    color: #111;
 }
+
+.post-content {
+    max-width: 680px;      /* igual que Silvrback */
+    margin: 0 auto;        /* centrado */
+    font-size: 17px;       /* calibrado para Verdana */
+    line-height: 1.65;     /* respiración editorial */
+}
+
