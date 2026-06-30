@@ -1136,10 +1136,23 @@ pre {
     margin: 2rem auto;
 }
 
-
-.page__content .blog-post blockquote {
+.page__content blockquote {
     background: #f9f9f9 !important;
     border-left: 10px solid #ccc !important;
     margin: 1.5em 0 !important;
     padding: 0.5em 15px !important;
+    font-style: normal !important; /* elimina el italic del tema */
+    color: #333 !important; /* opcional */
+}
+
+.page__content blockquote {
+    quotes: "“" "”";
+}
+
+.page__content blockquote:before {
+    content: open-quote;
+}
+
+.page__content blockquote:after {
+    content: close-quote;
 }
