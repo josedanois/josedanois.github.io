@@ -13,7 +13,9 @@ José Danois
 
 **Bienvenidos a mi [Blog](https://josedanois.com/).** 
 
-Este espacio está dedicado a la reflexión bíblica y teológica en diálogo con la experiencia del diario vivir. Aquí comparto acerca de la fe, la gracia y el evangelio de nuestro Señor Jesucristo.
+Este espacio está dedicado a la reflexión bíblica y teológica en diálogo con la experiencia del diario vivir. Aquí hablo acerca de la fe, la gracia y el evangelio de nuestro Señor Jesucristo.
+
+Tambien comparto enseñanzas bíblicas, reflexiones pastorales, estudios temáticos, devocionales y recursos espirituales que ayuden a los lectores a crecer en su fe, comprender mejor la Escritura y vivir una vida cristiana más profunda y consciente.
 
 Si quieres unirte a la conversación te invito a dejar tus comentarios en los artículos.
 
