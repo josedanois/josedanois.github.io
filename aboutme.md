@@ -30,5 +30,5 @@ No olvides [suscribirte](https://follow.it/caminando-en-la-fe?leanpub) para que 
 - [Facebook](https://www.facebook.com/leondejudahumacao)
 - [Predicaciones](https://www.youtube.com/@leondejudahumacao)
 - [Grupo de Estudio Bíblico](https://www.facebook.com/share/g/18qP5cfuXp/)
-- [Micro Blog](https://hubzilla.monster/channel/josedanois)
+- [Micro Blog](https://josedanois.online/)
 
