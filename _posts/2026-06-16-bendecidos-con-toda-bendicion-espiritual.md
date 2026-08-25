@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/bendicion.png
 share-img: /assets/img/bendicion.png
 tags: [Reflexión Bíblica]
 author: José Danois
-published: true
+published: false
 ---
 > Bendito sea Dios, Padre de nuestro Señor Jesucristo, que nos ha bendecido en las regiones celestiales con toda bendición espiritual en Cristo. Efesios 1.3
 
