@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/atributos1.png
 share-img: /assets/img/atributos1.png
 tags: [Enseñanza, Reflexión Bíblica]
 author: José Danois
-published: true
+published: false
 ---
 ¿Alguna vez te has detenido a pensar en lo que Dios realmente desea de ti? Muchas veces pensamos en lo que nosotros queremos de Dios —su ayuda, su bendición, su dirección— pero pocas veces reflexionamos en lo que **Él** desea de nosotros. Y la respuesta es sorprendente: **Dios quiere que lo conozcamos**.
 
