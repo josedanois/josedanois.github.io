@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/edificando.png
 share-img: /assets/img/edificando.png
 tags: [Reflexión Bíblica]
 author: José Danois
-published: true
+published: false
 ---
 > __“En él todo el edificio, bien armado, se va levantando para llegar a ser un templo santo en el Señor. En él también ustedes son edificados juntamente para ser morada de Dios por su Espíritu.” Efesios 2:21-22__
 
