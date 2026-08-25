@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/comunicacion.jpg
 share-img: /assets/img/comunicacion.jpg
 tags: [Crecimiento Personal, Comunicación]
 author: José Danois
-published: true
+published: false
 ---
 > “Todo hombre sea pronto para oír, tardo para hablar, tardo para airarse.” Santiago 1:19
 
