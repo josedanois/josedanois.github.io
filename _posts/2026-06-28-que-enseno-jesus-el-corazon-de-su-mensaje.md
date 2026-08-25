@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/mensajesdejesus.png
 share-img: /assets/img/mensajesdejesus.png
 tags: [Enseñanza]
 author: José Danois
-published: true
+published: false
 ---
 Cuando abrimos los evangelios y escuchamos la voz de Jesús, descubrimos algo más que un conjunto de doctrinas o normas morales. Nos encontramos con el Maestro que habla desde la autoridad del cielo, que revela el corazón del Padre y que nos invita a una transformación radical de vida. Sus palabras no son meras ideas: son semillas de Reino, capaces de renovar la mente, sanar el corazón y reorientar la existencia.
 
