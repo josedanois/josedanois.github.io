@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/gracia.png
 share-img: /assets/img/gracia.png
 tags: [Gracia]
 author: José Danois
-published: true
+published: false
 ---
 > **_A partir de ese día Mefiboset se sentó a la mesa de David como uno más de los hijos del rey. 2 Samuel 9:6-11_**
 
