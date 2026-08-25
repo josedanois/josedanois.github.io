@@ -1136,16 +1136,14 @@ pre {
     margin: 2rem auto;
 }
 
-/* Blockquote dentro de posts */
 .blog-post blockquote {
     padding: 0.625rem 1.25rem;
     margin: 0 0 1.25rem;
     font-size: 1.1rem;
-    border-left: 0.3125rem solid #6a6a6a;
+    border-left: 0.3125rem solid #6a6a6a !important;
 }
 
-/* Estilo general de blockquote */
 blockquote {
-    color: #343a40;
+    color: #343a40 !important;
     font-style: italic;
 }
