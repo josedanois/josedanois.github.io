@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/contentamiento.jpg
 share-img: /assets/img/contentamiento.jpg
 tags: [Reflexión Bíblica]
 author: José Danois
-published: true
+published: false
 ---
 > No lo digo porque tenga escasez, pues he aprendido a contentarme, cualquiera que sea mi situación. Filipenses 4:11
 
