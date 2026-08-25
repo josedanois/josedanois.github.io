@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/vidaespiritual.png
 share-img: /assets/img/vidaespiritual.png
 tags: [Reflexiónes Espirituales]
 author: José Danois
-published: true
+published: false
 ---
 Con el paso del tiempo he entendido que el corazón del mensaje no es el esfuerzo humano, sino la gracia divina. Todo lo recibimos. Nada lo compramos. Nada lo merecemos.
 
