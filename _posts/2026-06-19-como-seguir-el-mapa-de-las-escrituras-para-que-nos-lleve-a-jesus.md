@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/mapa.jpg
 share-img: /assets/img/mapa.jpg
 tags: [Biblia, Extracto]
 author: José Danois
-published: true
+published: false
 ---
 Hemos visto que si pasamos por alto el mensaje central de la historia de la Biblia produciremos evangelios e iglesias falsas. La segunda cosa que necesitamos, es un marco de referencia para comprender toda la Biblia. La teología bíblica provee dicho marco porque guía nuestra lectura de la Biblia protegiéndonos de interpretarla erróneamente.[^1]
 
