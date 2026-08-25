@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/laverdad.png
 share-img: /assets/img/laverdad.png
 tags: [Ensayo]
 author: José Danois
-published: true
+published: false
 ---
 Hay una tensión antigua que atraviesa la historia de la fe cristiana: la relación entre **verdad** y **amor**. Ambas son esenciales, ambas provienen de Dios, ambas son necesarias para la vida de la iglesia. Sin embargo, cuando se separan, la verdad puede convertirse en un arma y el amor en un sentimentalismo vacío. El apóstol Pablo lo vio con claridad y lo expresó de la siguiente manera: “El conocimiento envanece, pero el amor edifica” (1 Corintios 8:1).
 
