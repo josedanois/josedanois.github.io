@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/bibliaycafe.png
 share-img: /assets/img/bibliaycafe.png
 tags: [Biblia, Extracto]
 author: José Danois
-published: true
+published: false
 ---
 La Biblia es, ante todo, una historia en la que Dios muestra su gloria a través de la creación y la redención de la humanidad. Tiene sentido, pues, que la Biblia esté concebida para responder a preguntas relacionadas con este tema central.
 
