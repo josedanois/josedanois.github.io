@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/nohaynadaimposible.png
 share-img: /assets/img/nohaynadaimposible.png
 tags: [Reflexión Bíblica]
 author: José Danois
-published: true
+published: false
 ---
 > Y he aquí tu parienta Elisabet, ella también ha concebido hijo en su vejez; y este es el sexto mes para ella, la que llamaban estéril; porque nada hay imposible para Dios. Entonces María dijo: He aquí la sierva del Señor; hágase conmigo conforme a tu palabra. Y el ángel se fue de su presencia. Lucas 1:38-38
 
