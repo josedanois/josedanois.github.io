@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/adoracion.png
 share-img: /assets/img/adoracion.png
 tags: [Adoración,Enseñanza,Reflexión Bíblica] 
 author: José Danois
-published: true
+published: false
 ---
 El capítulo 4 de Juan nos relata el conocido encuentro entre Jesús y la mujer samaritana. En medio de ese diálogo surge un tema crucial: la adoración. La mujer le habla a Jesús sobre el lugar correcto para adorar, pero Él le responde con una verdad que marcaría un antes y un después:
 
