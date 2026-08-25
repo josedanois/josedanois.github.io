@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/entender.png
 share-img: /assets/img/entender.png
 tags: [Extracto, Leer]
 author: José Danois
-published: true
+published: false
 ---
 Creo que no necesito señalar la necesidad de leer las Escrituras. Ya sabemos cuán necesario es alimentarnos de la Palabra de Dios. ¿Necesito preguntarte si lees la Biblia o no? Nos encontramos en una época en la cual se leen muchas revistas y periódicos, pero no la Biblia, como debiera ser. Antiguamente en Inglaterra se tenían pocos libros, pero la gente tenía una biblioteca en un solo libro: la Biblia. ¡Y hay que ver cómo lo leían!
 
