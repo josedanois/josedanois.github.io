@@ -7,7 +7,7 @@ thumbnail-img:
 share-img: 
 tags: [Biblia, Extracto]
 author: José Danois
-published: true
+published: false
 ---
 Imagine un mundo en el que Dios guarda silencio y las grandes preguntas de la vida quedan sin respuesta…
 
