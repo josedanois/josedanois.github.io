@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/jeremias.png
 share-img: /assets/img/jeremias.png
 tags: [Reflexión Bíblica]
 author: José Danois
-published: true
+published: false
 ---
 > __Hay pasajes en la Biblia que nos sacuden el corazón porque parecen hablarnos de manera personal, como si hubieran sido escritos pensando en nosotros. Jeremías 1:5-7 es uno de esos textos.__
 
