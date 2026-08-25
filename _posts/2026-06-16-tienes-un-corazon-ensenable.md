@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/ensenable.jpg
 share-img: /assets/img/ensenable.jpg
 tags: [Reflexión Bíblica]
 author: José Danois
-published: true
+published: false
 ---
 > “Llegó entonces a Éfeso un judío llamado Apolos, natural de Alejandría, varón elocuente y poderoso en las Escrituras…” (Hechos 18:24–26)
 
