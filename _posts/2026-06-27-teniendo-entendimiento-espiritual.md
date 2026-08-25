@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/teniendo-entendimiento.png
 share-img: /assets/img/teniendo-entendimiento.png
 tags: [Entendimiento,Reflexión Bíblica]
 author: José Danois
-published: true
+published: false
 ---
 El entendimiento espiritual es un tema crucial en la vida cristiana, como se destaca en las Escrituras. A menudo, nos encontramos actuando sin un entendimiento completo de la voluntad de Dios, dejándonos llevar por nuestras emociones en lugar de la guía del Espíritu Santo. Esta falta de entendimiento espiritual puede llevarnos por caminos equivocados y obstaculizar nuestro crecimiento en la fe.
 
