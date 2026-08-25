@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/vivir-por-la-palabra.png
 share-img: /assets/img/vivir-por-la-palabra.png
 tags: [Reflexión Bíblica]
 author: José Danois
-published: true
+published: false
 ---
 No se puede negar que el pan —y lo que este representa— es necesario para la subsistencia humana. Sin embargo, no es lo único que necesitamos. Hay cosas que no pueden resolverse solo con comida.
 
