@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/vidainterior.png
 share-img: /assets/img/vidainterior.png
 tags: []
 author: José Danois
-published: true
+published: false
 ---
 En un mundo que constantemente nos bombardea con la necesidad de una imagen perfecta, es fácil caer en la trampa de enfocarnos exclusivamente en lo externo. Nos preocupamos por tener la ropa adecuada, el coche más moderno y las fotos más envidiables en las redes sociales. Pero, ¿qué pasa con nuestro interior? ¿Estamos dedicando el mismo esfuerzo a cultivar nuestra vida interior?
 
