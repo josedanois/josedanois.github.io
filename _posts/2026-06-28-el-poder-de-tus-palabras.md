@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/poderdelalengua.png
 share-img: /assets/img/poderdelalengua.png
 tags: [Comunicación]
 author: José Danois
-published: true
+published: false
 ---
 En un mundo lleno de comunicación instantánea, es fácil olvidar el inmenso poder que tienen las palabras. Cada mensaje de texto, cada comentario en redes sociales, cada conversación cara a cara, lleva consigo una fuerza capaz de construir o de destruir.
 
