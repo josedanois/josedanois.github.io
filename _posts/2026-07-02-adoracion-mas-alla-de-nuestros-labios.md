@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/Adoracionmasalla.png
 share-img: /assets/img/Adoracionmasalla.png
 tags: [Reflexión Bíblica]
 author: José Danois
-published: true
+published: false
 ---
 ![adoracionmasalla](/assets/img/Adoracionmasalla.png){: .mx-auto.d-block :}
 
