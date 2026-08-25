@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/conocido.png
 share-img: /assets/img/conocido.png
 tags: [Reflexión Bíblica]
 author: José Danois
-published: true
+published: false
 ---
 Es natural que el ser humano anhele ser conocido, comprendido y amado de una manera profunda e incondicional. Sin embargo, a menudo buscamos esta seguridad en lugares equivocados: en las opiniones de los demás, en nuestros logros o posesiones, incluso en la imagen idealizada que proyectamos al mundo. Pero la verdadera paz y seguridad provienen de un lugar mucho más profundo y duradero: **ser conocidos por Dios.**  
 
