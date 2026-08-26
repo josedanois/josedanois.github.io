@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "No tengas miedo"
 published: true
-published_at: 2026-02-13T11:11:00-04:00
 tags: ["reflexión-bíblica"]
 ---
 
