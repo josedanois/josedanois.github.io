@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Enséñanos a Contar Nuestros Días"
+published: true
+published_at: 2025-12-28T10:20:00-04:00
 tags: ["reflexión-bíblica"]
 published: true
 ---
@@ -74,3 +76,6 @@ Si te está gustando lo que lees, por favor considera recomendarlo a otros y no 
 ¿Tienes comentarios? Mándame una nota en&nbsp;[jdanois@hotmail.com](mailto:jdanois@hotmail.com)&nbsp;o deja un comentario 💬 abajo.
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTczOTUwMzk4M119
+-->
