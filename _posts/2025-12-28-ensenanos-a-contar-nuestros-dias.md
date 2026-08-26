@@ -3,7 +3,7 @@ layout: post
 title: "Enséñanos a Contar Nuestros Días"
 published: true
 published_at: 2025-12-28T10:20:00-04:00
-tags: ["reflexión-bíblica"]
+tags: ["reflexión bíblica"]
 published: true
 ---
 
