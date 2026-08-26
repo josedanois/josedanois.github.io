@@ -5,8 +5,6 @@ published: true
 tags: ["reflexión-bíblica"]
 ---
 
-# No tengas miedo
-
 En el libro de Isaías, capítulo 37, encontramos una historia poderosa que nos recuerda que, incluso en los momentos más oscuros, Dios está con nosotros y nos da la victoria.
 
 La historia se centra en un rey y su pueblo, quienes se enfrentan a una situación aterradora: el asedio de un ejército enemigo (Asiria). Imagínate el terror que sentían al verse rodeados por un enemigo implacable, sin saber cuándo llegaría el ataque final. Cada día, el general enemigo se dedicaba a sembrar la duda y el miedo en los corazones del pueblo. Era una verdadera batalla psicológica, diseñada para desmoralizarlos y llevarlos a la rendición.
