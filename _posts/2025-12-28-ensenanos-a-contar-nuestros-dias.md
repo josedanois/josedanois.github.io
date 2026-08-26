@@ -7,8 +7,6 @@ tags: ["reflexión bíblica"]
 published: true
 ---
 
-# Enséñanos a Contar Nuestros Días
-
 El año ha llegado a su fin. El calendario marca los últimos días del 2025, y una vez más la tierra ha completado su viaje alrededor del sol. Mientras miramos hacia atrás, descubrimos que estos meses han estado llenos de historias: momentos de alegría que iluminaron el camino, lágrimas que solo Dios vio, victorias celebradas y batallas silenciosas que desgastaron el alma.
 
 Sin embargo hay algo especial en el cierre de un año. No es solo un cambio de número; es como si el tiempo mismo nos invitara a detenernos. A respirar. A mirar con honestidad lo vivido y a mirar con esperanza lo que viene. En medio de resoluciones, metas y nuevos comienzos, la Escritura nos lleva más profundo. Nos conduce a una oración que atraviesa los siglos:
