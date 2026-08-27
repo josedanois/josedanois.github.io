@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: 
 share-img: 
-tags: ["devocional","reflexión-bíblica"]
+tags: ["devocional","reflexión bíblica"]
 author: José Danois
 published: true
 ---
