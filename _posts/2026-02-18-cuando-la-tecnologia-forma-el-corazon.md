@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cuando la tecnología forma el corazón"
+title: Cuando la tecnología forma el corazón
 published: true
 tags: [cultura,era-digital,tecnología,teología-práctica]
 ---
