@@ -1,13 +1,13 @@
 ---
+layout: post
 title: "Cuando la gracia te abraza"
 published: true
-published_at: 2026-02-16T18:23:00-04:00
 tags: ["extracto", "gracia"]
 ---
 
 # Cuando la gracia te abraza
 
-![El Hijo Pródigo](images/cuando-la-gracia-te-abraza/Gemini_Generated_Image_869bq3869bq3869b.jpg)
+![El Hijo Pródigo](/assets/img/Gemini_Generated_Image_869bq3869bq3869b.jpg)
 _El Hijo Pródigo_
 
 “Cuando el hijo pródigo llegó a casa, la gracia lo recibió y lo abrazó. La ley dijo: “¡Atrápenlo!”. La gracia dijo: “¡Abrácenlo!”. La ley dijo: “¡Golpéenlo!”. La gracia dijo: “¡Bésenlo!”. La ley fue tras él y lo ató. La gracia dijo: “¡Suéltalo y déjalo ir!” La ley me dice lo torcido que estoy; la gracia viene y me hace recto”.
