@@ -1,13 +1,10 @@
 ---
+layout: post
 title: "Cuando la tecnología forma el corazón"
 published: true
-published_at: 2026-02-18T15:52:00-04:00
 tags: ["cultura", "era-digital", "tecnología", "teología-práctica"]
 ---
-
-# Cuando la tecnología forma el corazón
-
-![Uploaded image](images/cuando-la-tecnologia-forma-el-corazon/t_cnolog_a.png)
+![Uploaded image](/assets/img/tecnologia.png)
 
 ### La batalla por la atención
 
