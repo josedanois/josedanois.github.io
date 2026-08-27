@@ -2,7 +2,7 @@
 layout: post
 title: Cuando la tecnología forma el corazón
 published: true
-tags: [cultura,era-digital,tecnología,teología práctica]
+tags: [cultura,era digital,tecnología,teología práctica]
 ---
 ![Uploaded image](/assets/img/tecnologia.png)
 
