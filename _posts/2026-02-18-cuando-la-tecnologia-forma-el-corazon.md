@@ -2,7 +2,7 @@
 layout: post
 title: "Cuando la tecnología forma el corazón"
 published: true
-tags: ["cultura","era-digital","tecnología","teología-práctica"]
+tags: [cultura,era-digital,tecnología,teología-práctica]
 ---
 ![Uploaded image](/assets/img/tecnologia.png)
 
@@ -63,6 +63,6 @@ Gracias por leer.
 
 Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte.
 
-¿Tienes comentarios? Mándame una nota en&nbsp;[jdanois@hotmail.com](mailto:jdanois@hotmail.com) o deja un comentario 💬 abajo.
+¿Tienes comentarios? Mándame una nota [jdanois@hotmail.com](mailto:jdanois@hotmail.com) o deja un comentario 💬 abajo.
 
 
