@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Estar en Cristo"
 published: true
-published_at: 2026-02-17T09:09:00-04:00
 tags: ["reflexión-bíblica"]
 ---
 
