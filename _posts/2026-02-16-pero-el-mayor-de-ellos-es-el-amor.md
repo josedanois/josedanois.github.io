@@ -2,7 +2,7 @@
 layout: post
 title: "Pero el mayor de ellos es el amor"
 published: true
-tags: ["devocional", "reflexión-bíblica"]
+tags: ["devocional", "reflexión bíblica"]
 ---
 > _Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor._
 
