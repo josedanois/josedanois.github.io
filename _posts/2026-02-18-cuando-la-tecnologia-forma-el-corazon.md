@@ -2,13 +2,13 @@
 layout: post
 title: Cuando la tecnología forma el corazón
 published: true
-tags: [cultura,era-digital,tecnología,teología-práctica]
+tags: [cultura,era-digital,tecnología,teología práctica]
 ---
 ![Uploaded image](/assets/img/tecnologia.png)
 
 ### La batalla por la atención
 
-[Un juicio en California](https://f24.my/BjJr);ha puesto a Meta y Google, grandes tecnológicas, en el centro de una conversación que ya no se puede evitar. Se les acusa de diseñar aplicaciones que fomentan la adicción en los niños. Más allá del lenguaje jurídico, este caso revela algo que nuestra generación necesita mirar con honestidad: la tecnología no solo informa o entretiene; también forma.
+[Un juicio en California](https://f24.my/BjJr) ha puesto a Meta y Google, grandes tecnológicas, en el centro de una conversación que ya no se puede evitar. Se les acusa de diseñar aplicaciones que fomentan la adicción en los niños. Más allá del lenguaje jurídico, este caso revela algo que nuestra generación necesita mirar con honestidad: la tecnología no solo informa o entretiene; también forma.
 
 Y cuando la formación ocurre sin discernimiento, sin límites y sin conciencia, el corazón —especialmente el de los más pequeños— queda expuesto.
 
