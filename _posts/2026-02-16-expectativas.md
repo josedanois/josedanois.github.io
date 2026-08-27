@@ -1,12 +1,14 @@
 ---
+layout: post
 title: "Expectativas"
+subtitle: 
+cover-img: 
+thumbnail-img: 
+share-img: 
+tags: ["devocional","reflexión-bíblica"]
+author: José Danois
 published: true
-published_at: 2026-02-16T18:13:00-04:00
-tags: ["devocional", "reflexión-bíblica"]
 ---
-
-# Expectativas
-
 Cada vez que comienza un año nos llenamos de expectativas sobre cómo debería ser. Incluso, construimos ideas acerca de lo que pensamos que Dios debería hacer, según nuestra propia manera de entender las cosas. Sin embargo, cuando esas expectativas no se cumplen, nos desilusionamos, nos desanimamos y, en ocasiones, perdemos el deseo de seguir hacia adelante.
 
 Esto me recuerda al profeta Elías. La Biblia, en **Santiago 5:17** , lo describe como un hombre sujeto a pasiones semejantes a las nuestras. No era un superhéroe espiritual; era un ser humano con luchas reales. Fue el profeta que en el monte Carmelo hizo descender fuego del cielo, como relata **1 Reyes 18** , y el sacrificio fue consumido delante de todo el pueblo. Allí se produjo una gran victoria espiritual y el nombre del Dios de Israel fue reivindicado.
