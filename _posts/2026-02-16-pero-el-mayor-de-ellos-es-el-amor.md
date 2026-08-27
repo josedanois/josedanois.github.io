@@ -1,12 +1,9 @@
 ---
+layout: post
 title: "Pero el mayor de ellos es el amor"
 published: true
-published_at: 2026-02-16T18:21:00-04:00
 tags: ["devocional", "reflexión-bíblica"]
 ---
-
-# Pero el mayor de ellos es el amor
-
 > _Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor._
 
 La escritura nos dice que el amor de Dios ha sido derramado en nuestros corazones por medio del Espíritu Santo que nos ha sido dado. Eso significa que quien ha recibido a Cristo en su corazón y profesa ser cristiano, imita realmente el amor y la conducta de Cristo.
