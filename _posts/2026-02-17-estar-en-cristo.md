@@ -4,9 +4,6 @@ title: "Estar en Cristo"
 published: true
 tags: ["reflexión-bíblica"]
 ---
-
-# Estar en Cristo
-
 Estar en Cristo no es solo una posición; es la unión perfecta entre el creyente y su Señor. Es un estado en el que experimentamos, por decirlo así, una fusión sagrada. Como diría Pablo: «Ya no vivo yo, mas vive Cristo en mí» (Gálatas 2:20).
 
 Es en esta unión donde lo divino fluye y da vida a lo humano. Nuestra humanidad se convierte en un canal de producción espiritual, porque somos partícipes de la naturaleza divina.
