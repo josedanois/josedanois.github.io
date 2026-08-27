@@ -2,7 +2,7 @@
 layout: post
 title: "No tengas miedo"
 published: true
-tags: ["reflexión-bíblica"]
+tags: ["reflexión bíblica"]
 ---
 
 En el libro de Isaías, capítulo 37, encontramos una historia poderosa que nos recuerda que, incluso en los momentos más oscuros, Dios está con nosotros y nos da la victoria.
