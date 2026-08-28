@@ -1,12 +1,8 @@
 ---
 title: "Olvida las Vanidades"
 published: true
-published_at: 2026-08-21T14:05:52-04:00
 tags: ["reflexión-bíblica"]
 ---
-
-# Olvida las Vanidades
-
 > En cuanto a mí, jamás se me ocurra jactarme de otra cosa, si no de la cruz de nuestro Señor Jesucristo, por quien el mundo ha sido crucificado para mí, y yo para el mundo. Para nada cuenta estar o no estar circuncidados; lo que importa es ser parte de una nueva creación. Gálatas 6:14-15
 
 ¿Te has sentido alguna vez como si no fueras suficiente? ¿Como si tuvieras que hacer más, ser más, para alcanzar la aceptación de Dios? Es una trampa en la que muchos caemos, incluso aquellos que ya conocemos a Cristo.
