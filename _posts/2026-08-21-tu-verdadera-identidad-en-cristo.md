@@ -1,13 +1,9 @@
 ---
 title: "Tu verdadera identidad en Cristo"
 published: true
-published_at: 2026-08-21T12:01:12-04:00
 tags: ["identidad"]
 ---
-
-# Tu verdadera identidad en Cristo
-
-![Uploaded image](images/tu-verdadera-identidad-en-cristo/identidad.webp)
+![Uploaded image](/assets/img/identidad.webp)
 
 > Mas a cuantos lo recibieron, a los que creen en su nombre, les dio el derecho de ser hechos hijos de Dios. Juan 1:12
 
