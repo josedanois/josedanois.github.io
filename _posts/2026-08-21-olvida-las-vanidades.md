@@ -1,5 +1,6 @@
 ---
 title: "Olvida las Vanidades"
+subtitle:  ¡Eres una Nueva Creación!
 published: true
 tags: ["reflexión-bíblica"]
 ---
