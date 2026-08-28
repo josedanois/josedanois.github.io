@@ -2,7 +2,7 @@
 title: "Olvida las Vanidades"
 subtitle:  ¡Eres una Nueva Creación!
 published: true
-tags: ["reflexión-bíblica"]
+tags: ["reflexión bíblica"]
 ---
 > En cuanto a mí, jamás se me ocurra jactarme de otra cosa, si no de la cruz de nuestro Señor Jesucristo, por quien el mundo ha sido crucificado para mí, y yo para el mundo. Para nada cuenta estar o no estar circuncidados; lo que importa es ser parte de una nueva creación. Gálatas 6:14-15
 
