@@ -34,6 +34,7 @@ Si eres un hijo de Dios, deberías meditar en lo siguiente:
 - Colosenses 2:11 Somos libres de nuestros malos deseos.
 - 2 Timoteo 2:10 Tendremos gloria eterna.
 
+
 * * *
 
 Gracias por leer.
