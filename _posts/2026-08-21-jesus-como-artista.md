@@ -1,13 +1,9 @@
 ---
 title: "Jesús como artista"
 published: true
-published_at: 2026-08-21T14:11:00-04:00
-tags: ["extracto", "fe-y-arte", "vincent-van-gogh"]
+tags: ["extracto", "fe y arte", "vincent van gogh"]
 ---
-
-# Jesús como artista
-
-![Uploaded image](images/jesus-como-artista/vangogh.webp)
+![Uploaded image](/assets/img/vangogh.webp){: .mx-auto.d-block :}
 
 El siguiente extracto es de una carta[^1] de Vincent Van Gogh[^2] a Emile Bernard, el 26 de junio de 1888. Es interesante cómo Van Gogh, que en algún momento fuera pastor protestante, se expresa en esta carta acerca de Jesús. El escribe:
 
