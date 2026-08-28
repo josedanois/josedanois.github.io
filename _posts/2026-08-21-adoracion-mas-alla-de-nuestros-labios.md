@@ -1,11 +1,9 @@
 ---
 title: "Adoración más allá de nuestros labios"
 published: true
-published_at: 2026-08-21T11:56:00-04:00
 tags: ["reflexión-bíblica"]
 ---
-
-# Adoración más allá de nuestros labios
+![adoracionmasalla](/assets/img/Adoracionmasalla.png){: .mx-auto.d-block :}
 
 Hoy en día en muchas iglesias nos hemos especializado en la adoración. Nos preocupa cómo ser mejores adoradores o cómo llevar una “buena” adoración en el servicio de la Iglesia. Se han escrito libros y cursos sobre Adoración.
 
