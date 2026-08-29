@@ -3,11 +3,9 @@ layout: post
 title:  Más allá de la imposibilidad
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/nohaynadaimposible.png
-share-img: /assets/img/nohaynadaimposible.png
 tags: [Reflexión Bíblica]
 author: José Danois
-published: false
+published: true
 ---
 > Y he aquí tu parienta Elisabet, ella también ha concebido hijo en su vejez; y este es el sexto mes para ella, la que llamaban estéril; porque nada hay imposible para Dios. Entonces María dijo: He aquí la sierva del Señor; hágase conmigo conforme a tu palabra. Y el ángel se fue de su presencia. Lucas 1:38-38
 
@@ -15,7 +13,7 @@ published: false
 
 En la vida, nos topamos con situaciones que parecen imposibles, obstáculos que nos hacen dudar y nos llenan de desánimo. En esos momentos de oscuridad, nos preguntamos si nuestras oraciones llegan a algún lugar, si nuestros sueños se desvanecen en el aire, si la luz al final del túnel es solo una ilusión. No obstante, en lo más profundo de nuestro ser, reside la certeza de que Dios tiene un plan para cada uno de nosotros. Un plan perfecto y preciso que se despliega en el momento justo.
 
-La historia de Zacarías e Elisabet registrada en el capitulo 1 de el evangelio de Lucas es un faro que ilumina esta verdad: para Dios no hay imposibles. Zacarías, un hombre de profunda fe, y su esposa Elisabet, anhelaban con todas sus fuerzas tener un hijo. Sin embargo, la esterilidad de Elisabet convertía este sueño en algo aparentemente inalcanzable. Pero Dios, con su amor infinito, escuchó sus oraciones y el ángel Gabriel anunció a Zacarías que Elisabet concebiría y daría a luz a un hijo, Juan el Bautista.
+La historia de Zacarías y Elisabet registrada en el capítulo 1 del evangelio de Lucas es un faro que ilumina esta verdad: para Dios no hay imposibles. Zacarías, un hombre de profunda fe, y su esposa Elisabet, anhelaban con todas sus fuerzas tener un hijo. Sin embargo, la esterilidad de Elisabet convertía este sueño en algo aparentemente inalcanzable. Pero Dios, con su amor infinito, escuchó sus oraciones y el ángel Gabriel anunció a Zacarías que Elisabet concebiría y daría a luz a un hijo, Juan el Bautista.
 
 Ante esta noticia asombrosa, Zacarías, a pesar de su devoción, dudó. La incredulidad, incluso en aquellos que se consideran cercanos a Dios, puede nublar nuestra percepción y hacernos olvidar el poder ilimitado del Señor. El ángel Gabriel, ante la vacilación de Zacarías, le recordó que Dios no tiene límites. Zacarías, por su falta de fe, quedo mudo hasta el nacimiento de Juan. Esta historia nos recuerda que la fe, incluso en medio de la tormenta, es la brújula que nos guía hacia el cumplimiento de las promesas divinas.
 
@@ -35,8 +33,10 @@ No importa cuán imposibles parezcan nuestras circunstancias, Dios tiene el pode
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Dj8gGf7-FVI?si=3krCs2_p8Ng5j-Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**¿Qué piensas sobre este tema?** Deja tu **Comentario** abajo ⬇️ y no olvides **[Suscribirte](https://follow.it/caminando-en-la-fe?leanpub).**
+---
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0MDI5MzYsMjA1MTM4MTQ5Nl19
--->
+Gracias por leer.
+
+Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte. 
+
+¿Tienes comentarios? Mándame una nota en jdanois@hotmail.com o deja un comentario 💬 abajo.
