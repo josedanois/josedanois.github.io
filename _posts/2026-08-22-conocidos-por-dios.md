@@ -1,13 +1,11 @@
 ---
 title: "Conocidos por Dios"
 published: true
-published_at: 2026-08-22T10:53:15-04:00
-tags: ["reflexión-bíblica"]
+tags: ["reflexión bíblica"]
 ---
-
-# Conocidos por Dios
-
 Es natural que el ser humano anhele ser conocido, comprendido y amado de una manera profunda e incondicional. Sin embargo, a menudo buscamos esta seguridad en lugares equivocados: en las opiniones de los demás, en nuestros logros o posesiones, incluso en la imagen idealizada que proyectamos al mundo. Pero la verdadera paz y seguridad provienen de un lugar mucho más profundo y duradero:&nbsp; **ser conocidos por Dios.**
+
+![conocido](/assets/img/conocido.png)
 
 > Ahora conozco en parte; pero entonces conoceré como fui conocido. 1 Corintios 13:12
 
