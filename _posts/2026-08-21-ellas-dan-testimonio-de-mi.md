@@ -1,7 +1,7 @@
 ---
 title: "Ellas dan testimonio de mí"
 published: true
-tags: ["biblia", "reflexión-bíblica"]
+tags: ["biblia", "reflexión bíblica"]
 ---
 > “Ustedes estudian las Escrituras a fondo porque piensan que ellas les dan vida eterna. ¡Pero las Escrituras me señalan a mí! Sin embargo, ustedes se niegan a venir a mí para recibir esa vida”.  
 > —Juan 5:39–40, NTV
