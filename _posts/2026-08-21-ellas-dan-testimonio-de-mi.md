@@ -1,12 +1,8 @@
 ---
 title: "Ellas dan testimonio de mí"
 published: true
-published_at: 2026-08-21T17:52:18-04:00
 tags: ["biblia", "reflexión-bíblica"]
 ---
-
-# Ellas dan testimonio de mí
-
 > “Ustedes estudian las Escrituras a fondo porque piensan que ellas les dan vida eterna. ¡Pero las Escrituras me señalan a mí! Sin embargo, ustedes se niegan a venir a mí para recibir esa vida”.  
 > —Juan 5:39–40, NTV
 
