@@ -1,7 +1,7 @@
 ---
 title: "Cuando el Medio se Convierte en el Fin"
 published: true
-tags: ["desconexión-espiritual", "era-digital"]
+tags: ["desconexión espiritual", "era digital"]
 ---
 ![Uploaded image](/assets/img/medio-fin.webp){: .mx-auto.d-block :}
 
