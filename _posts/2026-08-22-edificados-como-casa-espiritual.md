@@ -2,12 +2,11 @@
 title: "Edificados como Casa Espiritual"
 published: true
 published_at: 2026-08-22T11:26:46-04:00
-tags: ["reflexión-bíblica"]
+tags: ["reflexión bíblica"]
 ---
-
-# Edificados como Casa Espiritual
-
 > Acercándoos a él, piedra viva, desechada ciertamente por los hombres, mas para Dios escogida y preciosa, vosotros también, como piedras vivas, sed edificados como casa espiritual y sacerdocio santo, para ofrecer sacrificios espirituales aceptables a Dios por medio de Jesucristo. 1 Pedro 2:4–5
+
+![templo](/assets/img/templo.png){: .mx-auto.d-block :}
 
 Hay una poderosa verdad que encontramos en la Palabra de Dios. Es un llamado, una invitación a acercarnos a Cristo, la&nbsp; **Piedra viva** , y a ser edificados como una&nbsp; **casa espiritual y sacerdocio santo.** &nbsp;Esta es una verdad que no solo nos fortalece en tiempos de prueba, sino que nos da una visión clara de quiénes somos en Cristo y cuál es nuestro propósito en este mundo.
 
