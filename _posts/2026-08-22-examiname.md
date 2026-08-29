@@ -1,12 +1,8 @@
 ---
 title: "Examíname"
 published: true
-published_at: 2026-08-22T11:24:03-04:00
-tags: ["reflexión-bíblica"]
+tags: ["reflexión bíblica"]
 ---
-
-# Examíname
-
 > Examíname, oh Dios, y conoce mi corazón; pruébame y conoce los pensamientos que me inquietan. Salmo 139.23
 
 Hoy mientras caminaba me vino a la mente esta porción escritural y comencé a reflexionar en la misma. Comencé a pensar en el acto de dejarnos examinar por otra persona.
