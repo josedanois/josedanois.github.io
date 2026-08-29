@@ -1,13 +1,9 @@
 ---
 title: "Comienza a caminar"
 published: true
-published_at: 2026-08-21T14:20:00-04:00
 tags: ["personal"]
 ---
-
-# Comienza a caminar
-
-![Uploaded image](images/comienza-a-caminar/caminar.webp)
+![Uploaded image](/assets/img/caminar.webp){: .mx-auto.d-block :}
 
 Hace unos años, mi hijo me instaba a acompañarlo al gimnasio. Lo pensé mucho antes de decidirme. Anteriormente, había estado en uno y lo había dejado. No obstante, ante la insistencia de mi hijo regresé nuevamente al gimnasio donde estuvimos unos 6 meses, luego el gimnasio cerró. A pesar de eso, el tiempo que estuvimos allí sirvió para crear en nosotros una disciplina y una rutina. Aunque pudimos haber buscado otro gimnasio, optamos por caminar (idea de mi hijo) y hacer ejercicios en el hogar.
 
@@ -29,14 +25,14 @@ Las acciones que tomes hoy definirán tu futuro. El salmo 126:5-6 lo dice de est
 
 Este es el tiempo de sembrar. Siembra en tu salud, siembra en tu vida, en tu familia, siembra en tu vida espiritual. Al principio no es fácil, pero luego te alegrarás viendo la cosecha, es decir, viendo los resultados positivos.
 
-**P.D.** &nbsp;Por cierto, ahora no solo camino, he regresado al gimnasio.
+**P.D.** Por cierto, ahora no solo camino, he regresado al gimnasio.
 
 * * *
 
 Gracias por leer.
 
-Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte.&nbsp;
+Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte.
 
-¿Tienes comentarios? Mándame una nota en&nbsp;[jdanois@hotmail.com](mailto:jdanois@hotmail.com)&nbsp;o deja un comentario 💬 abajo.
+¿Tienes comentarios? Mándame una nota [jdanois@hotmail.com](mailto:jdanois@hotmail.com) o deja un comentario 💬 abajo.
 
 
