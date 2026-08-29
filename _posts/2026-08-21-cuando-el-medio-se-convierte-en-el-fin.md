@@ -1,13 +1,9 @@
 ---
 title: "Cuando el Medio se Convierte en el Fin"
 published: true
-published_at: 2026-08-21T17:39:54-04:00
 tags: ["desconexión-espiritual", "era-digital"]
 ---
-
-# Cuando el Medio se Convierte en el Fin
-
-![Uploaded image](images/cuando-el-medio-se-convierte-en-el-fin/medio-fin.webp)
+![Uploaded image](/assets/img/medio-fin.webp){: .mx-auto.d-block :}
 
 ## El medio que se vuelve el fin
 
