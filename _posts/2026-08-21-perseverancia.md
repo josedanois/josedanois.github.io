@@ -1,19 +1,15 @@
 ---
 title: "Perseverancia"
 published: true
-published_at: 2026-08-21T17:36:10-04:00
 tags: ["devocional", "personal"]
 ---
-
-# Perseverancia
-
 Cada mañana, cuando salgo a caminar, me encuentro con pequeñas curiosidades que solo un ojo observador puede ver.
 
 Hace algún tiempo me encontré con este pequeño caracol cruzando la carretera. Un tramo corto para los humanos, pero extenso para él. No sé a dónde iba o cuál era su meta, pero me llamó la atención su determinación.
 
 Le tomé una foto y lo dejé seguir su camino.
 
-![Uploaded image](images/perseverancia/perseverancia.jpg)
+![Uploaded image](/assets/img/perseverancia.jpg)
 
 Cuando regresé de mi caminata, unos 50 minutos después, lo encontré nuevamente. Apenas había llegado a la mitad de su ruta, pero seguía caminando.
 
