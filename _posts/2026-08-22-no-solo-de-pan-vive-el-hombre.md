@@ -1,12 +1,8 @@
 ---
 title: "No solo de pan vive el hombre..."
 published: true
-published_at: 2026-08-22T11:40:34-04:00
-tags: ["biblia", "devocional", "reflexión-bíblica"]
+tags: ["biblia", "devocional", "reflexión bíblica"]
 ---
-
-# No solo de pan vive el hombre...
-
 No se puede negar que el pan —y lo que este representa— es necesario para la subsistencia humana. Sin embargo, no es lo único que necesitamos. Hay cosas que no pueden resolverse solo con comida.
 
 Cuando Jesús es tentado por el diablo en Mateo 4:4, le contesta citando Deuteronomio 8:3. Allí Dios le dice a Israel:
