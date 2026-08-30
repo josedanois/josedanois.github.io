@@ -1,13 +1,11 @@
 ---
 title: "Cuida tu Vida Interior"
 published: true
-published_at: 2026-08-22T11:43:43-04:00
-tags: ["reflexión-bíblica", "vida-interior"]
+tags: ["reflexión bíblica", "vida interior"]
 ---
-
-# Cuida tu Vida Interior
-
 En un mundo que constantemente nos bombardea con la necesidad de una imagen perfecta, es fácil caer en la trampa de enfocarnos exclusivamente en lo externo. Nos preocupamos por tener la ropa adecuada, el coche más moderno y las fotos más envidiables en las redes sociales. Pero, ¿qué pasa con nuestro interior? ¿Estamos dedicando el mismo esfuerzo a cultivar nuestra vida interior?
+
+![vidainterior](/assets/img/vidainterior.png)
 
 > Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida. Proverbios 4:23
 
