@@ -1,17 +1,16 @@
 ---
 title: "Gracia que nos levanta"
 published: true
-published_at: 2026-08-22T12:37:27-04:00
-tags: ["gracia", "reflexión-bíblica"]
+tags: ["gracia", "reflexión bíblica"]
 ---
-
-# Gracia que nos levanta
 
 > A partir de ese día Mefiboset se sentó a la mesa de David como uno más de los hijos del rey. 2 Samuel 9:6-11
 
 En 2 Samuel 9:1-11 se nos presenta un hermoso relato acerca de la misericordia y la gracia.
 
 El rey David, al asumir el trono, quiso honrar una promesa hecha a su amigo Jonatán, quien ya había fallecido. Años atrás, Saúl, padre de Jonatán, persiguió implacablemente a David con la intención de matarlo. Dios había quitado el reinado a Saúl y escogido a David como su sucesor, lo que significaba que ningún hijo de Saúl ocuparía el trono.
+
+![gracia](/assets/img/gracia.png)
 
 A pesar de esta situación, David y Jonatán mantenían una amistad verdadera. Jonatán comprendió que David era el ungido de Dios para reinar, no él. Aunque Jonatán tenía el derecho por linaje, David lo tenía por la gracia divina.
 
