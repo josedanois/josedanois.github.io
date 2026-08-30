@@ -1,15 +1,11 @@
 ---
 title: "Sin el Evangelio"
 published: true
-published_at: 2026-08-22T12:39:00-04:00
 tags: ["evangelio", "extracto"]
 ---
-
-# Sin el Evangelio
-
 Sin el evangelio, todo es inútil y vano; Sin el evangelio, no somos cristianos; Sin el evangelio, toda riqueza es pobreza, toda sabiduría locura ante Dios; la fuerza es debilidad, y toda la justicia del hombre está bajo la condenación de Dios.
 
-![Uploaded image](images/sin-el-evangelio/elevangelio.webp)
+![Uploaded image](/assets/img/elevangelio.webp){: .mx-auto.d-block :}
 
 Pero por el conocimiento del evangelio somos hechos hijos de Dios, hermanos de Jesucristo, conciudadanos de los santos, ciudadanos del Reino de los Cielos, herederos de Dios con Jesucristo.
 
