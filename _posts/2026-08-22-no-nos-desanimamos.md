@@ -2,11 +2,8 @@
 title: "No nos desanimamos"
 published: true
 published_at: 2026-08-22T12:42:28-04:00
-tags: ["reflexión-bíblica"]
+tags: ["reflexión bíblica"]
 ---
-
-# No nos desanimamos
-
 > Por tanto, no desmayamos; más bien, aunque se va desgastando nuestro hombre exterior, el interior, sin embargo, se va renovando de día en día. Porque nuestra momentánea y leve tribulación produce para nosotros un eterno peso de gloria más que incomparable; no fijando nosotros la vista en las cosas que se ven sino en las que no se ven; porque las que se ven son temporales, mientras que las que no se ven son eternas.
 
 En medio de los desafíos y tribulaciones de la vida, es fácil sentirse desanimado y descorazonado. 2 Corintios 4:16-18, nos ofrece un mensaje poderoso de esperanza y resiliencia, recordándonos que a pesar de las pruebas que enfrentamos, podemos encontrar fortaleza y renovación en Cristo.
