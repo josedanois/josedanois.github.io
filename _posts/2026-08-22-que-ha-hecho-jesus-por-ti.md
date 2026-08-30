@@ -1,12 +1,8 @@
 ---
 title: "Que ha hecho Jesús por ti"
 published: true
-published_at: 2026-08-22T12:44:12-04:00
 tags: ["devocional"]
 ---
-
-# Que ha hecho Jesús por ti
-
 En Lucas 8:26-39 se nos cuenta la historia de un hombre endemoniado. Su condición era tal que andaba desnudo y no vivía en una casa, sino en los sepulcros. Cada vez que los demonios se apoderaban de él, intentaban sujetar sus pies y manos con cadenas, pero él las rompía y el demonio lo arrastraba a lugares solitarios.
 
 Su condición era triste y lamentable, vivía controlado por el enemigo.
