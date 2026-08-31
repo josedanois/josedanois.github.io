@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de
-subtitle: Caminando en la Fe
+subtitle: Creciendo en la Fe
 cover-img: /assets/img/walking.jpg
 ---
 
