@@ -25,7 +25,7 @@ navbar-links:
   Sígueme:
     - Youtube: "https://www.youtube.com/@jdanois"
     - Facebook: "https://www.facebook.com/leondejudahumacao"
-  Suscríbete: "https://follow.it/caminando-en-la-fe?leanpub"
+  Comuidad: "comunidad"
   Donar: "https://www.paypal.com/donate?hosted_button_id=58Z46JV9G6MQL"
   Tags: "https://josedanois.com/tags/"
 
@@ -89,7 +89,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Caminando en la Fe - Porque por fe andamos, no por vista. 2 Corintios 5:7
+rss-description: Creciendo en la Fe - Porque todo lo que es nacido de Dios vence al mundo; y esta es la victoria que ha vencido al mundo, nuestra fe. 1 Juan 5:4
 
 ###########################
 # --- General options --- #
