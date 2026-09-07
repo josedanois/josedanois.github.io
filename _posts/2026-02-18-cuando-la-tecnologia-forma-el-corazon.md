@@ -61,8 +61,8 @@ Y necesitamos, sobre todo, volver a la gracia que ilumina, corrige y restaura. P
 
 Gracias por leer.
 
-Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte.
+Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides suscribirte.
 
-¿Tienes comentarios? Mándame una nota [jdanois@hotmail.com](mailto:jdanois@hotmail.com) o deja un comentario 💬 abajo.
+¿Tienes comentarios? Mándame una nota en&nbsp;[jdanonline.com](mailto:jdanonline.com)&nbsp;o deja un comentario 💬 abajo.
 
 
