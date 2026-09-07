@@ -4,10 +4,7 @@ published: true
 published_at: 2026-08-22T12:54:16-04:00
 tags: ["comunicación", "crecimento"]
 ---
-
-# El Carácter Reflejado en la Conversación
-
-![Uploaded image](images/el-caracter-reflejado-en-la-conversacion/comunicacion.webp)
+![comunicación](/assets/img/comunicacion.jpg){: .mx-auto.d-block :}
 
 > “Todo hombre mar pronto para oír, tardo para hablar, tardo para airear.” Santiago 1:19
 
@@ -58,6 +55,6 @@ Gracias por leer.
 
 Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte.&nbsp;
 
-¿Tienes comentarios? Mándame una nota en&nbsp;[jdanois@hotmail.com](mailto:jdanois@hotmail.com)&nbsp;o deja un comentario 💬 abajo.
+¿Tienes comentarios? Mándame una nota en&nbsp;[jdanonline.com](mailto:jdanonline.com)&nbsp;o deja un comentario 💬 abajo.
 
 
