@@ -1,15 +1,12 @@
 ---
 title: "El susurro del monte"
 published: true
-published_at: 2026-08-22T14:48:00-04:00
 tags: ["música", "personal", "video"]
 ---
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/6V6ctu8aPKU?si=8kfcKOgBj2L55ITW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# El susurro del monte
 
-[https://youtu.be/6V6ctu8aPKU?si=VIHKHAVbuQudFQWg](https://youtu.be/6V6ctu8aPKU?si=VIHKHAVbuQudFQWg)
-
-> El&nbsp;Señor&nbsp;le dijo:
+> El Señor le dijo:
 > 
 > —Sal y ponte de pie delante de mí, en la montaña.
 > 
@@ -27,6 +24,6 @@ Gracias por leer.
 
 Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte.&nbsp;
 
-¿Tienes comentarios? Mándame una nota en&nbsp;[jdanois@hotmail.com](mailto:jdanois@hotmail.com)&nbsp;o deja un comentario 💬 abajo.
+¿Tienes comentarios? Mándame una nota en&nbsp;[jdanonline.com](mailto:jdanonline.com)&nbsp;o deja un comentario 💬 abajo.
 
 
