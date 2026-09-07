@@ -1,12 +1,8 @@
 ---
 title: "Debilidades con potencial"
 published: true
-published_at: 2026-08-22T14:39:47-04:00
 tags: ["devocional", "extracto"]
 ---
-
-# Debilidades con potencial
-
 Existe una tendencia universal en el ser humano a esconder sus debilidades. Estamos tristes, pero ponemos cara de alegría. Deseamos llorar, pero contenemos nuestras lágrimas. Nos sentimos abrumados, pero aparentamos estar en control. Luchamos con la depresión, pero buscamos convencer a los demás de nuestro buen ánimo.
 
 Todo esto no hace más que revelar con gran claridad la inmensa importancia que le damos, como seres humanos, a la imagen que otros tienen de nosotros. Deseamos que nos vean como triunfadores, como personas que caminan con paso firme hacia objetivos claramente definidos en sus vidas. Por esta razón nos resistimos, a toda costa, a revelar esas cosas que muestran nuestra verdadera condición de seres frágiles y débiles.
@@ -29,6 +25,6 @@ Gracias por leer.
 
 Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte.&nbsp;
 
-¿Tienes comentarios? Mándame una nota en&nbsp;[jdanois@hotmail.com](mailto:jdanois@hotmail.com)&nbsp;o deja un comentario 💬 abajo.
+¿Tienes comentarios? Mándame una nota en&nbsp;[jdanonline.com](mailto:jdanonline.com)&nbsp;o deja un comentario 💬 abajo.
 
 
