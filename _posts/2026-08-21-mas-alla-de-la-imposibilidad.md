@@ -3,7 +3,7 @@ layout: post
 title:  Más allá de la imposibilidad
 subtitle: 
 cover-img: 
-tags: [Reflexión Bíblica]
+tags: [reflexión bíblica]
 author: José Danois
 published: true
 ---
