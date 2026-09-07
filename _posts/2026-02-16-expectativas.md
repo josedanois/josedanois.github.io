@@ -35,8 +35,8 @@ Hoy no es día de rendirse. Es día de levantarse en el nombre del Señor, ajust
 
 Gracias por leer.
 
-Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte.
+Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides suscribirte.
 
-¿Tienes comentarios? Mándame una nota en [jdanois@hotmail.com](mailto:jdanois@hotmail.com) o deja un comentario 💬 abajo.
+¿Tienes comentarios? Mándame una nota en&nbsp;[jdanonline.com](mailto:jdanonline.com)&nbsp;o deja un comentario 💬 abajo.
 
 
