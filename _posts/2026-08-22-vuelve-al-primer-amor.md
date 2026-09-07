@@ -1,12 +1,8 @@
 ---
 title: "Vuelve al Primer Amor"
 published: true
-published_at: 2026-08-22T12:47:28-04:00
-tags: ["devocional", "reflexión-bíblica"]
+tags: ["devocional", "reflexión bíblica"]
 ---
-
-# Vuelve al Primer Amor
-
 Es fácil perder el primer amor. Vivimos en un mundo lleno de distracciones y sustitutos artificiales que pueden alejarnos de nuestra relación con Cristo. A veces, nos sentimos complacidos con nuestra vida cristiana y pensamos que estamos bien. Sin embargo, debemos ser cautelosos cuando nos sentimos demasiado cómodos.
 
 La iglesia de Éfeso también enfrentó este desafío. Aunque tenían buena doctrina, enseñanza y discernimiento, habían dejado de amar a Cristo como al principio. Jesús les señaló este problema: habían perdido la fuente que da propósito a todo, el porqué de todas las cosas: el amor por Cristo.
@@ -25,7 +21,7 @@ Jesús decía el que me ama mi palabra guardará. Lo que nos motiva, lo que nos 
 
 ¿Cómo podemos recuperar ese primer amor? Jesús nos da una prescripción sencilla pero radical:
 
-_ **Recuerda, por tanto, de dónde has caído, y arrepiéntete, y haz las primeras obras.** _
+**Recuerda, por tanto, de dónde has caído, y arrepiéntete, y haz las primeras obras.**
 
 1. **Recuerda:** &nbsp;Reflexiona sobre dónde has caído. Reconoce si has dejado de amar a Cristo como antes.
 2. **Arrepiéntete:&nbsp;** Cambia de dirección. Reconoce tus errores y vuelve a enfocarte en Cristo.
@@ -55,6 +51,6 @@ Gracias por leer.
 
 Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte.&nbsp;
 
-¿Tienes comentarios? Mándame una nota en&nbsp;[jdanois@hotmail.com](mailto:jdanois@hotmail.com)&nbsp;o deja un comentario 💬 abajo.
+¿Tienes comentarios? Mándame una nota en&nbsp;[jdanonline.com](mailto:jdanonline.com)&nbsp;o deja un comentario 💬 abajo.
 
 
