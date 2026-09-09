@@ -8,22 +8,13 @@ cover-img: /assets/img/cruzenelcafe.jpg
 
 La página que estás leyendo — _josedanois.com_ — es mi espacio público: aquí comparto reflexiones, artículos bíblicos, estudios, notas pastorales y contenido que edifica a todo lector que llega a este lugar.
 
-Pero también existe un círculo más cercano, más personal: **[mi boletín privado en Substack](https://josedanois.substack.com)**, donde cada semana comparto contenido exclusivo para quienes desean caminar más de cerca conmigo en este ministerio digital.
+Pero también existe un círculo más cercano, más personal: **[Nuestra Comunidad Virtual](https://chat.google.com/room/AAQAZWtXTAk?cls=7)**, donde comparto contenido exclusivo para quienes desean caminar más de cerca conmigo en este ministerio digital.
 
 ## **¿Qué es la Comunidad Privada?**
 
-Es un espacio diseñado para:
+Es Una comunidad donde podemos crecer juntos en la fe, con diálogo, cercanía y edificación mutua.
 
--   Personas que desean recibir mis escritos directamente en su correo.
-    
--   Hermanos y hermanas que buscan reflexiones más íntimas, más pastorales y más profundas.
-    
--   Lectores que quieren participar en conversaciones, notas privadas y contenido que no publico en la página pública.
-    
--   Una comunidad donde podemos crecer juntos en la fe, con diálogo, cercanía y edificación mutua.
-    
-
-En Substack encontrarás:
+Es este espacio encontrarás:
 
 -   **Artículos exclusivos** que no aparecen en la página pública.
     
@@ -33,46 +24,6 @@ En Substack encontrarás:
         
 -   **Un espacio seguro y edificante** para crecer en la Palabra y en la vida cristiana.
     
-
-## **¿Por qué suscribirte?**
-
-Porque la suscripción te permite:
-
--   Recibir cada publicación directamente en tu bandeja de entrada.
-    
--   Acceder a contenido que solo comparto con la comunidad privada.
-    
--   Ser parte de un grupo más íntimo donde puedo acompañarte con mayor cercanía.
-    
--   Apoyar este ministerio digital que busca enseñar, edificar y proclamar la Palabra con fidelidad.
-    
-
-Mi página pública es la ventana. **La comunidad privada es la sala donde conversamos, crecemos y nos acompañamos.**
-
-## **¿Qué recibirás al suscribirte?**
-
--   Reflexiones bíblicas y teológicas exclusivas.
-    
--   Devocionales pastorales.
-    
--   Estudios y notas de investigación.
-    
--   Borradores de sermones y procesos de preparación.
-    
--   Conversaciones privadas y contenido detrás de cámaras.
-    
--   Invitaciones a proyectos especiales.
-    
-
-Todo en un ambiente respetuoso, pastoral y centrado en Cristo.
-
-## **Únete hoy**
-
-Si deseas formar parte de esta comunidad, puedes suscribirte aquí:
-
-👉 **[https://josedanois.substack.com](https://josedanois.substack.com)**
-
-Tu suscripción es gratuita, y te permitirá entrar a un espacio diseñado para acompañarte, edificarte y caminar juntos en la fe.
 
 ## **Gracias por estar aquí**
 
