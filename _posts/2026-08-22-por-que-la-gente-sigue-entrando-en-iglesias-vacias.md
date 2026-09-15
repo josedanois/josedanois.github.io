@@ -1,13 +1,9 @@
 ---
 title: "¿Por qué la gente sigue entrando en iglesias vacías?"
 published: true
-published_at: 2026-08-22T15:13:03-04:00
 tags: ["extracto", "libros"]
 ---
-
-# ¿Por qué la gente sigue entrando en iglesias vacías?
-
-![Uploaded image](images/por-que-la-gente-sigue-entrando-en-iglesias-vacias/templo.webp)
+![Uploaded image](/assets/img/nf80hi95gg1k5f0mxl918zop30ly.webp){: .mx-auto.d-block :}
 
 Algo extraño sigue ocurriendo en el mundo moderno. Las personas que ya no creen en Dios siguen entrando en las iglesias.
 
@@ -109,6 +105,6 @@ Gracias por leer.
 
 Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte.&nbsp;
 
-¿Tienes comentarios? Mándame una nota en&nbsp;[jdanois@hotmail.com](mailto:jdanois@hotmail.com)&nbsp;o deja un comentario 💬 abajo.
+¿Tienes comentarios? Mándame una nota en&nbsp;[jdanonline.com](mailto:jdanonline.com)&nbsp;o deja un comentario 💬 abajo.
 
 
