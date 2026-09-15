@@ -15,7 +15,7 @@ José Danois
 
 En este espacio puedes encontrar mayormente reflexiones bíblicas y teológicas en diálogo con la experiencia del diario vivir. También comparto cosas de la vida cotidiana y de mi interés personal.
 
-Si quieres unirte a la conversación te invito a dejar tus comentarios en los artículos o enviame un [E-Mail ✉️](mailto:jdanois@hotmail.com).  
+Si quieres unirte a la conversación te invito a dejar tus comentarios en los artículos o enviame un [E-Mail ✉️](mailto:jdanonline@gmail.com).  
 
 No olvides [suscribirte](https://follow.it/caminando-en-la-fe?leanpub) para que recibas cada nueva publicación de este blog en tu bandeja de correo. 
 
