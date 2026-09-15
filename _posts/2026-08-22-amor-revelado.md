@@ -1,12 +1,8 @@
 ---
 title: "Amor revelado"
 published: true
-published_at: 2026-08-22T15:17:31-04:00
 tags: ["devocional"]
 ---
-
-# Amor revelado
-
 > Revelación es desvelar, quitar el velo para ver lo que de otra manera no se puede ver. Es revelar para ver algo claramente.
 
 El creyente tiene acceso a la revelación de Dios por medio del Espíritu Santo que mora en su vida y este nos permite conocer a Dios personalmente. No obstante, aunque cada día somos llamados a crecer más y más en el conocimiento de Dios, a menudo hay «velos» que nublan nuestro entendimiento y no nos permiten ver con claridad las profundas verdades y riquezas de la fe, la gracia y el amor de Dios. En consecuencia, estos velos limitan nuestra libertad en Cristo y nuestra relación con Dios.&nbsp;
@@ -29,6 +25,6 @@ Gracias por leer.
 
 Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte.&nbsp;
 
-¿Tienes comentarios? Mándame una nota en&nbsp;[jdanois@hotmail.com](mailto:jdanois@hotmail.com)&nbsp;o deja un comentario 💬 abajo.
+¿Tienes comentarios? Mándame una nota en&nbsp;[jdanonline.com](mailto:jdanonline.com)&nbsp;o deja un comentario 💬 abajo.
 
 
