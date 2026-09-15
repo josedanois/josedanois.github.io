@@ -1,12 +1,8 @@
 ---
 title: "Un Oasis en la Sequía"
 published: true
-published_at: 2026-08-22T15:10:03-04:00
 tags: ["reflexión"]
 ---
-
-# Un Oasis en la Sequía
-
 Sabemos que el camino del ministerio no siempre está bañado por el sol de la victoria, ni adornado con los laureles del éxito terrenal. A veces, la aridez del desierto se apodera del panorama ministerial, dejándonos con un corazón sediento de resultados, y un espíritu cansado por la aparente falta de fruto.
 
 Si hoy te encuentras atravesando este valle de sombra, quiero recordarte que no estás solo. Muchos siervos fieles a lo largo de la historia bíblica, y en la actualidad, han caminado esta misma senda. Incluso nuestro Señor Jesús, experimentó la frustración de ver a algunos de sus discípulos alejarse (Juan 6:66), y la agonía de sentirse abandonado por su Padre en la cruz (Mateo 27:46).
@@ -36,6 +32,6 @@ Gracias por leer.
 
 Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte.&nbsp;
 
-¿Tienes comentarios? Mándame una nota en&nbsp;[jdanois@hotmail.com](mailto:jdanois@hotmail.com)&nbsp;o deja un comentario 💬 abajo.
+¿Tienes comentarios? Mándame una nota en&nbsp;[jdanonline.com](mailto:jdanonline.com)&nbsp;o deja un comentario 💬 abajo.
 
 
