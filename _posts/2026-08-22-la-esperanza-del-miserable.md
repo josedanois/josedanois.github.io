@@ -1,17 +1,13 @@
 ---
 title: "La esperanza del miserable"
 published: true
-published_at: 2026-08-22T15:15:40-04:00
 tags: ["devocional", "extracto"]
 ---
-
-# La esperanza del miserable
-
 ¡Miserable de mí! ¿Quién me librará de este cuerpo de muerte? ¡Gracias doy a Dios, por Jesucristo Señor nuestro! Romanos 7.24–25
 
 «Lo que hago, no lo entiendo; pues no hago lo que quiero, sino lo que detesto, eso hago… no hago el bien que quiero, sino el mal que no quiero, eso hago» (Ro 7.15, 20). ¿Quién de nosotros no se ha sentido identificado con la descripción tan acertada que hace Pablo de la lucha que tenemos con el pecado? Leemos este pasaje y no podemos evitar exclamar: ¡ese soy yo! Este es el calvario diario de nuestra existencia. Nuestro espíritu anhela todo aquello que es bueno y puro; pero nuestro cuerpo está gobernado por una ley que, en ocasiones, parece indomable. A cada rato sentimos las insinuaciones seductoras del pecado, invitándonos a caminar por el camino que aborrecemos. ¡Miserable de nosotros!
 
-![Uploaded image](images/la-esperanza-del-miserable/solocristo.webp)
+![Uploaded image](/assets/img/hqnuq1p2tjgipcyxw67fvwdkb3gc.webp){: .mx-auto.d-block :}
 
 La pregunta del apóstol, ¿quién nos librará de este cuerpo de muerte?, no es tanto una pregunta teológica como la frustrada exclamación de quien se siente agobiado por la constante lucha con la carne. Esta pregunta refleja su agonía personal.
 
@@ -33,6 +29,6 @@ Gracias por leer.
 
 Si te está gustando lo que lees, por favor considera recomendarlo a otros y no olvides subscribirte.&nbsp;
 
-¿Tienes comentarios? Mándame una nota en&nbsp;[jdanois@hotmail.com](mailto:jdanois@hotmail.com)&nbsp;o deja un comentario 💬 abajo.
+¿Tienes comentarios? Mándame una nota en&nbsp;[jdanonline.com](mailto:jdanonline.com)&nbsp;o deja un comentario 💬 abajo.
 
 
