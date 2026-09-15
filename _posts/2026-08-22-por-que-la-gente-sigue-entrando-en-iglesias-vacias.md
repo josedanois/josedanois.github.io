@@ -83,17 +83,9 @@ Quizá por eso la gente sigue entrando en iglesias abandonadas. No pueden dejar 
 
 [_Un mundo sin Dios: La búsqueda de sentido en una sociedad abrumada por la desesperación_](https://faithgateway.com/products/a-world-without-god-the-search-for-meaning-in-a-society-overwhelmed-by-despair?variant=44471994318984&utm_source=bg&utm_medium=bglearn&utm_campaign=empty-churches)&nbsp;es una exploración filosófica que desafía a los lectores a considerar las implicaciones de una sociedad hipotética sin influencia divina.
 
-[![](images/por-que-la-gente-sigue-entrando-en-iglesias-vacias/world-without-god.jpg_resize_183_280_ssl_1) 
-_Un mundo sin Dios de Chris Palmer_
- ](https://faithgateway.com/products/a-world-without-god-the-search-for-meaning-in-a-society-overwhelmed-by-despair?variant=44471994318984&utm_source=bg&utm_medium=bglearn&utm_campaign=empty-churches)
-
 Al igual que los enigmáticos personajes de Dostoyevski y las brutales representaciones de la realidad en el libro de los Jueces, este libro considera las consecuencias de abandonar la fe en Dios. Adentrándose en la niebla nihilista de la sobresaturación tecnológica y el declive moral, Chris Palmer, PhD, se enfrenta a las preguntas más persistentes de hoy sobre el sentido, el propósito y la existencia en un mundo a la deriva.
 
 Ya seas cristiano, escéptico o simplemente tengas curiosidad por las implicaciones de un mundo sin Dios, este libro despertará la imaginación y una profunda reflexión.
-
-[![](images/por-que-la-gente-sigue-entrando-en-iglesias-vacias/Chris-Palmer-150x150.jpg_resize_150_150_ssl_1) 
-_Chris Palmer_
- ](https://www.biblegateway.com/learn/author/chris-palmer/)
 
 ##### [Chris Palmer](https://www.biblegateway.com/learn/author/chris-palmer/)
 
