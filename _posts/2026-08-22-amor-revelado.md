@@ -9,7 +9,7 @@ El creyente tiene acceso a la revelación de Dios por medio del Espíritu Santo 
 
 Los velos son creencias, ideas o argumentos que hemos aceptado como ciertos, pero que no reflejan la verdad de la Palabra, ni el carácter de Dios. Afectan y distorsionan nuestra visión de Dios y su carácter.&nbsp;
 
-Eso me lleva a la declaración del apóstol Juan, hemos "_ **hemos llegado a saber y creer que Dios nos ama"** _.&nbsp;
+Eso me lleva a la declaración del apóstol Juan, hemos **hemos llegado a saber y creer que Dios nos ama**.
 
 Es solo&nbsp; **cuando llegamos a saber y a creer la verdad de Dios** &nbsp;que recibimos esa revelación plena de su verdad. Es decir, no solo tengo el conocimiento de la verdad, sino que también comienzo a creerla. El problema que muchas veces tenemos es que contamos con el conocimiento, (de hecho, tenemos la revelación de su Palabra en la Biblia) pero no creemos.&nbsp;
 
